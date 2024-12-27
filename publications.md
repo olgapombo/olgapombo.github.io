@@ -1,10 +1,10 @@
 # Projects
 
-## Coordination of research projects
+## Coordination of research projects ( PI )
 
-•	Coordinator (PI) of the FCT Research Project “From Encyclopedia to Hypertext>, POCTI/FIL/36357/2000 (1999-2002). Budget: 30.925.47€ 
+•	 “From Encyclopedia to Hypertext>, POCTI/FIL/36357/2000 (1999-2002).  
 <https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/>
-•	Coordinator (PI) of the FCT Research Project “Scientific Culture. Conceptual Migrations and Social Contaminations”  POCTI/FIL/48133/2002 (2003-2006). Budget: 27.550.00€. 
+•	Coordinator (PI) of the FCT Research Project “Scientific Culture. Conceptual Migrations and Social Contaminations”  POCTI/FIL/48133/2002 (2003-2006). 
 <https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/>
 •	Coordinator (PI) of the CFCUL Research Project “Bachelard. Science and Poetics” (2006-2009).
 •	Coordinator (PI) of the FCT International Research Project “Image in Science and Art”, PTDC/EAT/64201/2006, (2007-2012), Budget 180.705.000€
