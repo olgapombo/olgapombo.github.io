@@ -37,11 +37,9 @@ https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transv
 
 •	Founder of the research project Jean-Jacques Rousseau, Portuguese Society for Philosophy (1977 - 1979).  
 •	Co-founder of the research project Mathesis, financed by Calouste Gulbenkian Foundation / FCUL (1989-1995).
-
 •	Member of the International Research Project "Leibniz the Polemicist", Institute for Advanced Studies, Hebrew University of Jerusalem, Israel (head by Marcelo Dascal) (1994-1998).
-
 •	Member of the research project O Ensino na Faculdade de Ciencias, (head by Maria Odete Valente) financed by CIE-FCUL (1995-1998). 
-•	Member of the integrated research project, A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais, financed by the Rectory of the University of Lisbon (head Maria Odete Valente) (1997-1999). 
+•	Member of the integrated research project, A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais, financed by the Rectory of the University of Lisbon (head Maria Odete Valente) (1997-1999).
 •	Associated Researcher of the International Project « La Science dans ses Contextes», Maison de Sciences Humaines du Nord-Pas de Calais, Université de Lille III, France (head by Shahid Rahman) (2004-2006).
 •	Associated Researcher of the international project «Le Rôle de la Micro-Histoire», Université de Lille III, France (head by Shahid Rahman) (2006-2008). 
 •	Associated Researcher of the international project «La Contextualization des Catégories de la Pensée Scientifique» Université de Lille III, France (head by Shahid Rahman), (2006-2008). 
