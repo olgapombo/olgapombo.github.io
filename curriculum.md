@@ -24,7 +24,7 @@ She founded and was chief-editor of the journal “Kairos. Journal of Philosophy
 •	1970 – Bachelor in Pedagogical Sciences, Faculty of Letters, University of Lisbon.
 
 
-Research fields 
+## Research fields 
 
 •	Philosophy of Science (Unity of Science, Interdisciplinarity, Epistemology, Scientific Image, Science and Art, Poincaré, Neurath, Bachelard)
 •	Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
@@ -32,7 +32,7 @@ Research fields
 •	Philosophy of School and Philosophy of Teaching
 
 
-Academic career
+## Academic career
 
 •	2016 - ongoing - Professor (retired with collaboration agreement) of the “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 •	2014 – 2016 - Founder and Program-Director of the international “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS) sponsored by Portuguese Foundation for Science and Technology (FCT).
@@ -55,15 +55,15 @@ Academic career
 •	1973 - 1979 – Aggregated Teacher of Philosophy of D. Pedro V High School, Lisbon.
 •	1970 - 1972 – Assistant Teacher of Philosophy and History at M. Amália Vaz de Carvalho High School, Lisbon.
 
-Publications
-Dissertations  
+## Publications
+### Dissertations  
 • Pombo, Olga (1986) - Leibniz e o Problema de uma Língua Universal (Master dissertation in “Modern Philosophy” Faculty of Social and Human Sciences, New University of Lisbon)
 < http://webpages.fc.ul.pt/~ommartins/leibniz/leibnizcont.htm>   
 • Pombo, Olga (1998) - Unidade da Ciência e Configuração Disciplinar dos Saberes. Contributos para uma Filosofia do Ensino (PhD dissertation in “History and Philosophy of Education”, University of Lisbon)
 < http://webpages.fc.ul.pt/~ommartins/investigacao/tese.htm> 
 
 
-Books (as Author)
+### Books (as Author)
 
 1.	Pombo, Olga (1987) Leibniz and the Problem of a Universal Language, Münster: Nodus Publikationen, 321 pp.  
 ISBN 3-89323-303-2.
@@ -91,7 +91,7 @@ https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites
 16.	Pombo, Olga (2024), Deriva a partir de Rousseau (Derives Drifts from Rousseau), Lisboa: Mariposa Azul (forthcoming)
 
 
-Books (as Editor)
+### Books (as Editor)
   
 1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1990) Antologia I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências, Lisboa: Mathesis / DEFCUL, 177 pp. DL: 44162/90.
 2.	Olga Pombo; Teresa Levy; Henrique Guimarães; José Manuel Conceição (eds.) (1992) Antologia II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências,  Lisboa: Mathesis / DEFCUL, 214 pp. DL: 56340/92.
@@ -137,8 +137,7 @@ ISBN - Hb: 978 90 272 0754 8; E-book: 978 90 272 6075 8
 30.	Olga Pombo, Klaus Gaertner, Jorge Jesuíno (eds.) (2023), Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century, Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, 309 pp. ISBN: 978-3-031-20404-3 
 DOI: https://doi.org/10.1007/978-3-031-20405-0
 
-Chapters 
-Chapters 
+#### Chapters 
 
 1.	Pombo, Olga (1979), “Biobibliografia de Jean-Jacques Rousseau" (« Bibliography of Jean Jacques Rousseau »), in Jean-Jacques Rousseau. Uma Exposição, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44.
 2.	Pombo, Olga, (1988), “Notas sobre as Instituições da Filosofia”, in A Filosofia face à Cultura Tecnológica, edited by Adelino Cardoso, Coimbra: Associação de Professores de Filosofia, pp. 71-89. 
@@ -263,19 +262,19 @@ ISBN: 978-3-031-20404-3
 98.	Pombo, Olga, “For a cartography of the concept of creation”, in Nuno Proença (ed.), Invention and Imagination, Proceedings of the conference organized by CHAM, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (em preparação).
 
 
-Encyclopaedia Entries
+#### Encyclopaedia Entries
 Pombo, Olga (2013), “Encyclopedia”, in Encyclopedia of Philosophy and the Social Sciences, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257.
 DOI: http://dx.doi.org/10.4135/9781452276052
 
 
-Journal’s guest editor
+#### Journal’s guest editor
  
 •	Pombo, Olga (2015), Axiomathes, Special Issue I, “Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference, vol. 25 (1), March, pp.1-143. 
 DOI: 10.1007/s10516-014-9264-5
 •	Pombo, Olga (2012), “Dossier: Leibniz – Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum”, Kairos. Journal of Philosophy & Science, 4, May, pp. 119-151. ISSN (print): 2182-2824
 
 
-Articles 
+#### Articles 
  
 1.	Pombo, Olga (2024), « Science et École chez Bachelard.  Discontinuité et Nouveauté », Bachelard Studies, nº 8, 1, pp. ?????? (forthcoming)
 2.	Pombo, Olga et alii (2024), “Editorial Introduction”, Aion. Journal of Philosophy and Science, nº1, pp. 1-5.
@@ -345,7 +344,7 @@ ISSN: 0870-7642.
 49.	Pombo, Olga (1984), “Pedagogia por Objectivos / Pedagogia com Objectivos”, Logos, n.º 1, Lisboa: Filosofia Aberta, pp. 43-72. 
 
 
-Book reviews
+#### Book reviews
 
 1.	Pombo, Olga (2010), “A propósito de "Relatividade e Física Clássica: Continuidade e Ruptura" - apresentação de um livro de António Brotas, in Gazeta de Física, Vol. 33, nº 2, pp. 9-12.
 2.	Pombo, Olga (2008), Todos os Homens por Natureza Desejam Conhecer”, in Barros Veloso, António, Medicina e outras Coisas, Lisboa: Gradiva, pp. 7-11. 
@@ -354,7 +353,7 @@ Book reviews
 5.	Pombo, Olga (1984), “Herbert H. Knecht. ‘La Logique chez Leibniz’”, Análise, nº 1, Lisboa, Gec, pp. 231-239.
 
 
-Publications at exhibitions
+#### Publications at exhibitions
 1.	Pombo, Olga (2019), “A Bioarte de Isa Duarte Ribeiro, “(per)cursos” exhibition by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
 2.	Pombo, Olga (2004), "From Thomas More to Rousseau", «Islands of Utopia» exhibition, Lisboa: Livraria Ler Devagar. 
 3.	Pombo, Olga (2004), "Utopia at XIX century. Utopian Socialism. The Hope in the Future City", «Islands of Utopia» exhibition, Lisboa: Livraria Ler Devagar. 
@@ -362,7 +361,7 @@ Publications at exhibitions
 5.	Pombo, Olga (2003), “Enciclopédia, Hipertexto e Condição Humana”, “A Condição Humana” exhibition by Rodrigo Vilhena, Lisboa.
 6.	Pombo, Olga (1996), “Nenhum Vento”, “Olhares Soltos” exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
-Scholar brochures 
+#### Scholar brochures 
  
 1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.), (1990) Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
 2.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1991) , Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
