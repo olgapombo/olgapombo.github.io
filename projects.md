@@ -4,11 +4,9 @@
 ## Coordination (PI) of research projects
 
 * [From Encyclopedia to Hypertext](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/), FCT Research Project, POCTI/FIL/36357/2000 (1999-2002). 
-*  “Scientific Culture. Conceptual Migrations and Social Contaminations”  FCT Research Project, POCTI/FIL/48133/2002 (2003-2006). 
-<https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/>
-* CFCUL Research Project “Bachelard. Science and Poetics” (2006-2009).
-* FCT International Research Project “Image in Science and Art”, PTDC/EAT/64201/2006, (2007-2012).
-<https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/>
+*  “[Scientific Culture. Conceptual Migrations and Social Contaminations](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/)”  FCT Research Project, POCTI/FIL/48133/2002 (2003-2006). 
+* “Bachelard. Science and Poetics”, CFCUL Research Project  (2006-2009).
+*  [“Image in Science and Art”](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/), FCT International Research Project, PTDC/EAT/64201/2006, (2007-2012).
 * Coordinator (PI) of the International Research Project “Universal Logics and Unity of Science” (CFCUL/University of Sevilla), financed by CRUP-Acções integradas, (2008-2010).
 <https://cfcul.ciencias.ulisboa.pt/projectos/logica-universal-e-unidade-da-ciencia/>
 * Coordinator (PI) of the International Research Project “Abduction and Scientific Discovery” (CFCUL/Madrid Complutense University), financed by CRUP-Acções integradas, (2010-2012).  
