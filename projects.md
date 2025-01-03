@@ -4,7 +4,7 @@
 ## Coordination (PI) of research projects
 
 * [From Encyclopedia to Hypertext](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/), FCT Research Project, POCTI/FIL/36357/2000 (1999-2002). 
-*  FCT Research Project “Scientific Culture. Conceptual Migrations and Social Contaminations”  POCTI/FIL/48133/2002 (2003-2006). 
+*  “Scientific Culture. Conceptual Migrations and Social Contaminations”  FCT Research Project, POCTI/FIL/48133/2002 (2003-2006). 
 <https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/>
 * CFCUL Research Project “Bachelard. Science and Poetics” (2006-2009).
 * FCT International Research Project “Image in Science and Art”, PTDC/EAT/64201/2006, (2007-2012).
