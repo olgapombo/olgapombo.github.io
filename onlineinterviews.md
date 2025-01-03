@@ -7,8 +7,7 @@
      3.	[Sociology of Science. Science and Society](https://www.youtube.com/watch?v=Ua2vMtqdgW8)
      4.	[The Encyclopaedic Thinking and the Internet](https://www.youtube.com/watch?v=bLyV4bwh8sM)
 *	[Contemporary Philosophy - Global Conversations](https://www.youtube.com/watch?v=oOZaGbF3aLs&feature=youtu.be), online interview with John Symos, Mana Platform, 7 July 2020.
-<https://www.youtube.com/watch?v=oOZaGbF3aLs&featur	e=youtu.be>
-* Interdisciplinaridade, online interview with Helena Esser, Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (PPGIDH), Universidade Federal de Goias, Brazil, 14 August, 2020. < https://www.youtube.com/watch?v=HJdyKZbsZes>
-* Philosophers Share their Advice and Hopes with Philosophy Students (Contemporary Philosophy - Global Conversations), online series of interview selection with John Symons, Mana Platform, 2020.< https://www.youtube.com/watch?v=GKzPtLdQMBM>
+* [Interdisciplinaridade](https://www.youtube.com/watch?v=HJdyKZbsZes), online interview with Helena Esser, Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (PPGIDH), Universidade Federal de Goias, Brazil, 14 August, 2020. 
+* [Philosophers Share their Advice and Hopes with Philosophy Students - Contemporary Philosophy - Global Conversations](https://www.youtube.com/watch?v=GKzPtLdQMBM), online series of interview selection with John Symons, Mana Platform, 2020.< https://www.youtube.com/watch?v=GKzPtLdQMBM>
 * La Interdisciplinariedad o la Red Actual del Conocimiento, Web Chanel of the Association of Philosophy Professors, “Filósofas en la Historia. Escuela de Filósofas” (FeH) directed by Paz Pérez Encinas, Departament of Philosophy of the IES Aramo, Oviedo, Spain
 <https://www.youtube.com/watch?v=zWHHvijaJ1I>
