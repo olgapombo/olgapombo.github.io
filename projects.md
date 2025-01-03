@@ -10,23 +10,23 @@
 * CFCUL Research Project “Bachelard. Science and Poetics” (2006-2009).
 * FCT International Research Project “Image in Science and Art”, PTDC/EAT/64201/2006, (2007-2012).
 <https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/>
-* Coordinator (PI) of the International Research Project “Universal Logics and Unity of Science” (CFCUL/University of Sevilla), financed by CRUP-Acções integradas, (2008-2010), Budget: 5.000€ ).
+* Coordinator (PI) of the International Research Project “Universal Logics and Unity of Science” (CFCUL/University of Sevilla), financed by CRUP-Acções integradas, (2008-2010).
 <https://cfcul.ciencias.ulisboa.pt/projectos/logica-universal-e-unidade-da-ciencia/>
-* Coordinator (PI) of the International Research Project “Abduction and Scientific Discovery” (CFCUL/Madrid Complutense University), financed by CRUP-Acções integradas, (2010-2012), Budget: 6.000€.  
-* Coordinator (PI) of the International Research Project “Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention”, CFCUL / University of Sevilla, financed by CRUP-Acções integradas, (2012-2013), Budget: 6.000€. 
+* Coordinator (PI) of the International Research Project “Abduction and Scientific Discovery” (CFCUL/Madrid Complutense University), financed by CRUP-Acções integradas, (2010-2012).  
+* Coordinator (PI) of the International Research Project “Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention”, CFCUL / University of Sevilla, financed by CRUP-Acções integradas, (2012-2013), 
 <https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/>
 * Coordinator of the CFCUL project “Plato’s Protagoras” (2012-2014) <http://cfcul.fc.ul.pt/projectos/protagoras>
 * Coordinator of the CFCUL project “Rousseau and the Sciences” (2012) <http://cfcul.fc.ul.pt/projectos/rousseau>
-•	Co-coordinator of the International Research Project “Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain”, financed by the John Templeton Foundation, budget: 200.000 € (2012).
+•	Co-coordinator of the International Research Project “Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain”, financed by the John Templeton Foundation.
 <https://cfcul.ciencias.ulisboa.pt/projectos/appeel/>
 * Coordinator of the CFCUL project “Abduction and Scientific Discovery” (2013).
    < http://cfcul.fc.ul.pt/projectos/abducao/abducao.htm>
-* Coordinator (PI) of the Project “Afinal o que é a Ciência? / After all, what is Science?”, financed by Ciência Viva (National Agency for the Defense of the Scientific and Technological Culture), budget: 7.000 € (2013-2014) 
+* Coordinator (PI) of the Project “Afinal o que é a Ciência? / After all, what is Science?”, financed by Ciência Viva (National Agency for the Defense of the Scientific and Technological Culture).
 < http://Ciência13-14.fc.ul.pt>
 <https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/>
-* Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2011, (2011-2013), budget: 213.358 € 
-* Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2014, (2013-2015), budget: 71.340 € 
-* Coordinator (PI) of the CFCUL Strategic Project, UID/FIL/00678/2013, (2015-2017), budget: 426.519 € 
+* Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2011, (2011-2013).
+* Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2014, (2013-2015).
+* Coordinator (PI) of the CFCUL Strategic Project, UID/FIL/00678/2013, (2015-2017).
 * Head of the CFCUL Research Group (RG) “Unity of Science”, (2013-2015)
 * Head of the CFCUL Research Group (RG) “Epistemology and Methodology” (2015-3/2016).
 * Head of the CFCUL Thematic Line (TL) “Unity of Science and Interdisciplinarity” (2015-2016) < http://uci.fc.ul.pt>
