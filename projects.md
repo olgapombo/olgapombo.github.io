@@ -8,9 +8,8 @@
 * **Bachelard. Science and Poetics**, CFCUL Research Project  (2006-2009).
 *  [Image in Science and Art](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/), FCT International Research Project, PTDC/EAT/64201/2006, (2007-2012).
 *  [Universal Logics and Unity of Science](<https://cfcul.ciencias.ulisboa.pt/projectos/logica-universal-e-unidade-da-ciencia/>),  International Research Project (CFCUL/University of Sevilla), CRUP-Acções integradas (2008-2010)
-* Coordinator (PI) of the International Research Project “Abduction and Scientific Discovery” (CFCUL/Madrid Complutense University), financed by CRUP-Acções integradas, (2010-2012).  
-* Coordinator (PI) of the International Research Project “Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention”, CFCUL / University of Sevilla, financed by CRUP-Acções integradas, (2012-2013), 
-<https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/>
+* **Abduction and Scientific Discovery**,  International Research Project  (CFCUL/Madrid Complutense University), CRUP-Acções integradas, (2010-2012).  
+*  [Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention](https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/], International Research Project (CFCUL / University of Sevilla), CRUP-Acções integradas, (2012-2013). 
 * Coordinator of the CFCUL project “Plato’s Protagoras” (2012-2014) <http://cfcul.fc.ul.pt/projectos/protagoras>
 * Coordinator of the CFCUL project “Rousseau and the Sciences” (2012) <http://cfcul.fc.ul.pt/projectos/rousseau>
 •	Co-coordinator of the International Research Project “Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain”, financed by the John Templeton Foundation.
