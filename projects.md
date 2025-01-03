@@ -15,8 +15,7 @@
 •	**Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain**<https://cfcul.ciencias.ulisboa.pt/projectos/appeel/>, Co-coordinator,   International Research Project, John Templeton Foundation.
 * **Abduction and Scientific Discovery**, CFCUL research project  (2013).
    <http://cfcul.fc.ul.pt/projectos/abducao/abducao.htm>
-* [Afinal o que é a Ciência? / After all, what is Science?](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), financed by National Agency for the Defense of Scientific and Technological Culture Ciência Viva,]
-<https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/>
+* [Afinal o que é a Ciência? / After all, what is Science?](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), financed by National Agency for the Defense of Scientific and Technological Culture Ciência Viva.
 * Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2011, (2011-2013).
 * Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2014, (2013-2015).
 * Coordinator (PI) of the CFCUL Strategic Project, UID/FIL/00678/2013, (2015-2017).
