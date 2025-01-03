@@ -9,12 +9,11 @@
 *  [Image in Science and Art](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/), FCT International Research Project, PTDC/EAT/64201/2006, (2007-2012).
 *  [Universal Logics and Unity of Science](<https://cfcul.ciencias.ulisboa.pt/projectos/logica-universal-e-unidade-da-ciencia/>),  International Research Project (CFCUL/University of Sevilla), CRUP-Acções integradas (2008-2010)
 * **Abduction and Scientific Discovery**,  International Research Project  (CFCUL/Madrid Complutense University), CRUP-Acções integradas, (2010-2012).  
-*  [Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention (https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/], International Research Project (CFCUL / University of Sevilla), CRUP-Acções integradas, (2012-2013). 
-* Coordinator of the CFCUL project “Plato’s Protagoras” (2012-2014) <http://cfcul.fc.ul.pt/projectos/protagoras>
-* Coordinator of the CFCUL project “Rousseau and the Sciences” (2012) <http://cfcul.fc.ul.pt/projectos/rousseau>
-•	Co-coordinator of the International Research Project “Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain”, financed by the John Templeton Foundation.
-<https://cfcul.ciencias.ulisboa.pt/projectos/appeel/>
-* Coordinator of the CFCUL project “Abduction and Scientific Discovery” (2013).
+*  [Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention] (https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/], International Research Project (CFCUL / University of Sevilla), CRUP-Acções integradas, (2012-2013). 
+*  “Plato’s Protagoras”  <http://cfcul.fc.ul.pt/projectos/protagoras>, CFCUL research project, (2012-2014)
+* “Rousseau and the Sciences” <http://cfcul.fc.ul.pt/projectos/rousseau>, CFCUL research project (2012)
+•	[Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain](https://cfcul.ciencias.ulisboa.pt/projectos/appeel/), Co-coordinator,   International Research Project, John Templeton Foundation.
+* “Abduction and Scientific Discovery”, CFCUL research project  (2013).
    < http://cfcul.fc.ul.pt/projectos/abducao/abducao.htm>
 * Coordinator (PI) of the Project “Afinal o que é a Ciência? / After all, what is Science?”, financed by Ciência Viva (National Agency for the Defense of the Scientific and Technological Culture).
 < http://Ciência13-14.fc.ul.pt>
