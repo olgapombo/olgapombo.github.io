@@ -1,6 +1,6 @@
 # Online interviews
 
-* Pombo, Olga (2022), “Pensare vuol dire allargare i confini”, Avvenire, 29 Maggio 2022, p. A 22 (presented by Giovanni Scarafile). <https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini>
+* Pombo, Olga (2022),  [“Pensare vuol dire allargare i confini”](https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini), Avvenire, 29 Maggio 2022, p. A 22 (presented by Giovanni Scarafile). <https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini>
 *	O Pensamento vivo da informação, interview with Robson Ashtoffen, a series coordinated by Prof. Marcos Mucheroni, Núcleo de Pesquisa em Produção Científica da ECA-USP, São Paulo, Brazil, (2012).  The interview is divided in 4 parts: 
      1.	Information and complexity      <https://www.youtube.com/watch?v=hpncNUeEVYE&feature=plcp>
      2.	Specialization and interdisciplinarity      < https://www.youtube.com/watch?v=ExyaET0GuVg>
