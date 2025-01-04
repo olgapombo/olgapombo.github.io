@@ -10,4 +10,5 @@
      2.	[Specialization and interdisciplinarity](https://www.youtube.com/watch?v=ExyaET0GuVg)
      3.	[Sociology of Science. Science and Society](https://www.youtube.com/watch?v=Ua2vMtqdgW8)
      4.	[The Encyclopaedic Thinking and the Internet](https://www.youtube.com/watch?v=bLyV4bwh8sM)
+     5.	
 * [La Interdisciplinariedad o la Red Actual del Conocimiento](https://www.youtube.com/watch?v=zWHHvijaJ1I), online series  “Filósofas en la Historia. Escuela de Filósofas” (FeH) directed by Paz Pérez Encinas, Departament of Philosophy of the IES Aramo, Oviedo, Spain.
