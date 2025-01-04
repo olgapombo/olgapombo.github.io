@@ -15,14 +15,11 @@
 *	[Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain](https://ciencias.ulisboa.pt/pt/noticia/07-02-2013/appeel-applied-evolutionary-epistemology-lab), Co-coordinator,   International Research Project (Appeel), John Templeton Foundation (2012).  
 * **Abduction and Scientific Discovery**, <http://cfcul.fc.ul.pt/projectos/abducao/abducao.htm>, CFCUL research project  (2013). 
 * [Afinal o que é a Ciência? / After all, what is Science?](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva (2013-2014).
-* Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2011, (2011-2013).
-* Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2014, (2013-2015).
-* Coordinator (PI) of the CFCUL Strategic Project, UID/FIL/00678/2013, (2015-2017).
-* Head of the CFCUL Research Group (RG) “Unity of Science”, (2013-2015)
-* Head of the CFCUL Research Group (RG) “Epistemology and Methodology” (2015-3/2016).
-* Head of the CFCUL Thematic Line (TL) “Unity of Science and Interdisciplinarity” (2015-2016) < http://uci.fc.ul.pt>
-* Head of the CFCUL Transversal Interdisciplinary Pole (PIT) “Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities” (2017- 2022).
-https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transversal/
+* Head of the CFCUL Research Group (RG) **Unity of Science**, (2013-2015)
+* Head of the CFCUL Research Group (RG) **Epistemology and Methodology** (2015-3/2016).
+* Head of the CFCUL Thematic Line (TL) **Unity of Science and Interdisciplinarity** <http://uci.fc.ul.pt> (2015-2016)
+* Head of the CFCUL Transversal Interdisciplinary Pole (PIT) **Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities** 
+https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transversal/, (2017- 2022).
 
 
 ## Member and associate researcher of research projects 
