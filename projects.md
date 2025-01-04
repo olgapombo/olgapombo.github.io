@@ -13,7 +13,7 @@
 *  **Plato’s Protagoras** <http://cfcul.fc.ul.pt/projectos/protagoras>, CFCUL research project, (2012-2014)
 * **Rousseau and the Sciences** <http://cfcul.fc.ul.pt/projectos/rousseau>, CFCUL research project (2012)
 *	[Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain](https://ciencias.ulisboa.pt/pt/noticia/07-02-2013/appeel-applied-evolutionary-epistemology-lab), Co-coordinator,   International Research Project (Appeel), John Templeton Foundation (2012).  
-* **Abduction and Scientific Discovery**, CFCUL research project  (2013). <http://cfcul.fc.ul.pt/projectos/abducao/abducao.htm>
+* **Abduction and Scientific Discovery**, <http://cfcul.fc.ul.pt/projectos/abducao/abducao.htm>, CFCUL research project  (2013). 
 * [Afinal o que é a Ciência? / After all, what is Science?](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva (2013-2014).
 * Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2011, (2011-2013).
 * Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2014, (2013-2015).
