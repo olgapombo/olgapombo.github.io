@@ -12,7 +12,7 @@
 *  [Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention](https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/) , International Research Project (CFCUL / University of Sevilla), CRUP-Acções integradas, (2012-2013). 
 *  **Plato’s Protagoras** <http://cfcul.fc.ul.pt/projectos/protagoras>, CFCUL research project, (2012-2014)
 * **Rousseau and the Sciences** <http://cfcul.fc.ul.pt/projectos/rousseau>, CFCUL research project (2012)
-*	**Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain**, Co-coordinator,   International Research Project John Templeton Foundation (2012) <https://cfcul.ciencias.ulisboa.pt/projectos/appeel/>, 
+*	[Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain](https://ciencias.ulisboa.pt/pt/noticia/07-02-2013/appeel-applied-evolutionary-epistemology-lab), Co-coordinator,   International Research Project (Appeel), John Templeton Foundation (2012).  
 * **Abduction and Scientific Discovery**, CFCUL research project  (2013). <http://cfcul.fc.ul.pt/projectos/abducao/abducao.htm>
 * [Afinal o que é a Ciência? / After all, what is Science?](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva (2013-2014).
 * Coordinator (PI) of the CFCUL Strategic Project, PEst-OE/FIL/UI0678/2011, (2011-2013).
