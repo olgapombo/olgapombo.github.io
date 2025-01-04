@@ -17,7 +17,7 @@
 * [Afinal o que é a Ciência? / After all, what is Science?](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva (2013-2014).
 * Head of the CFCUL Research Group (RG) **Unity of Science**, (2013-2015)
 * Head of the CFCUL Research Group (RG) **Epistemology and Methodology** (2015-3/2016).
-* Head of the CFCUL Thematic Line (TL) **Unity of Science and Interdisciplinarity** <http://uci.fc.ul.pt> (2015-2016)
+*[Unity of Science and Interdisciplinarity](http://uci.fc.ul.pt), CFCUL Thematic Line,(2015-2016)
 * Head of the CFCUL Transversal Interdisciplinary Pole (PIT) **Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities** 
 https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transversal/, (2017- 2022).
 
