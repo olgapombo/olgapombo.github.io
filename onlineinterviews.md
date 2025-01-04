@@ -1,8 +1,7 @@
 # Online interviews
 
-* Pombo, Olga (2022),  [“Pensare vuol dire allargare i confini”](https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini), Avvenire, 29 Maggio 2022, p. A 22 (presented by Giovanni Scarafile). 
+* Pombo, Olga (2022),  [“Pensare vuol dire allargare i confini”](https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini), Avvenire, 29 Maggio 2022, p.A 22 (presented by Giovanni Scarafile). 
 * [Interdisciplinaridade e Filosofia da Ciência](https://youtu.be/JThAgUMkH0Y), RTP2 TV program "Vamos beber um café e falar sobre isso" (with journalist José Navarro), 24 January 2022
-<https://youtu.be/JThAgUMkH0Y>
 <https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites> 
 *	[Contemporary Philosophy - Global Conversations](https://www.youtube.com/watch?v=oOZaGbF3aLs&feature=youtu.be), online interview with John Symos, Mana Platform, 7 July 2020.
 * [Interdisciplinaridade](https://www.youtube.com/watch?v=HJdyKZbsZes), online interview with Helena Esser, Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (PPGIDH), Universidade Federal de Goias, Brazil, 14 August, 2020. 
@@ -13,7 +12,3 @@
      3.	[Sociology of Science. Science and Society](https://www.youtube.com/watch?v=Ua2vMtqdgW8)
      4.	[The Encyclopaedic Thinking and the Internet](https://www.youtube.com/watch?v=bLyV4bwh8sM)
 * [La Interdisciplinariedad o la Red Actual del Conocimiento](https://www.youtube.com/watch?v=zWHHvijaJ1I), online series  “Filósofas en la Historia. Escuela de Filósofas” (FeH) directed by Paz Pérez Encinas, Departament of Philosophy of the IES Aramo, Oviedo, Spain.
-* Televison Interview, 'Imagem na Ciência e na Arte' desvenda corpo humano”, RTP program “TV Ciência”, with the journalist Lucia Alves, 14 February 2011 
-<http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18022011.pdf>
-* Television interview, RTP program "Com Ciência" (with journalist Vasco Trigo), 23 February 2011.
-
