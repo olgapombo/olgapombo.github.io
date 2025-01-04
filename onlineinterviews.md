@@ -4,10 +4,9 @@
 *	[Contemporary Philosophy - Global Conversations](https://www.youtube.com/watch?v=oOZaGbF3aLs&feature=youtu.be), online interview with John Symos, Mana Platform, 7 July 2020.
 * [Interdisciplinaridade](https://www.youtube.com/watch?v=HJdyKZbsZes), online interview with Helena Esser, Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (PPGIDH), Universidade Federal de Goias, Brazil, 14 August, 2020. 
 * [Philosophers Share their Advice and Hopes with Philosophy Students - Contemporary Philosophy - Global Conversations](https://www.youtube.com/watch?v=GKzPtLdQMBM), online series of interview with John Symons, Mana Platform, 2020.
-* [La Interdisciplinariedad o la Red Actual del Conocimiento](https://www.youtube.com/watch?v=zWHHvijaJ1I), online series  “Filósofas en la Historia. Escuela de Filósofas” (FeH) directed by Paz Pérez Encinas, Departament of Philosophy of the IES Aramo, Oviedo, Spain.
 *	"O Pensamento Vivo da Informação" ("The Alive Thought of Information"), interview with Robson Ashtoffen, a series coordinated by Prof. Marcos Mucheroni, Núcleo de Pesquisa em Produção Científica da ECA-USP, São Paulo, Brazil, (2012).  The interview is divided in 4 parts: 
      1.	[Information and complexity](https://www.youtube.com/watch?v=hpncNUeEVYE&feature=plcp)
      2.	[Specialization and interdisciplinarity](https://www.youtube.com/watch?v=ExyaET0GuVg)
      3.	[Sociology of Science. Science and Society](https://www.youtube.com/watch?v=Ua2vMtqdgW8)
      4.	[The Encyclopaedic Thinking and the Internet](https://www.youtube.com/watch?v=bLyV4bwh8sM)
-
+* [La Interdisciplinariedad o la Red Actual del Conocimiento](https://www.youtube.com/watch?v=zWHHvijaJ1I), online series  “Filósofas en la Historia. Escuela de Filósofas” (FeH) directed by Paz Pérez Encinas, Departament of Philosophy of the IES Aramo, Oviedo, Spain.
