@@ -5,7 +5,7 @@ Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Mast
 
 Professor of Philosophy of Science at the Department of History and Philosophy of Science, Faculty of Sciences of the University of Lisbon (now retired with collaboration agreement), she was president of the Department since its foundation in 2007 up to 2012. She created the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL) which she directed since its foundation in 2003 until 2017. She coordinated several research projects - "Encyclopedia and Hypertext" (1999-02), "Scientific Culture. Conceptual Migrations and Social Contaminations" (2003-6), “Image in Science and Art” (2007-12), “Universal Logics and Unity of Science” (2008-10), “Abduction and Scientific Discovery” (2010-12), “Knowledge Dynamics in the field of Social Sciences (2012-13), and has participated as associated researcher in several other international projects.  She created in 2013 the FCT Doctoral Program "Philosophy of Science, Technology, Art and Society" of which she was program director (PI) until 2016 and where she continued to lecture until 2024 and where she still supervises several doctoral dissertations.
 
-She is the author and the editor, nationally and internationally, of numerous publications dedicated to her various research interests, namely, Philosophy of Science (Unity of Science, Interdisciplinarity, Epistemology, Scientific Image, Poincaré, Neurath, Bachelard), Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel), Encyclopedism, Hypertex, Philosophy of School and, more recently, Science and Art whose teaching she has initiated in Portugal. 
+She is the author and the editor, nationally and internationally, of numerous publications dedicated to her various research interests, namely, Epistemology and Philosophy of Science (Unity of Science, Interdisciplinarity, Scientific Image and Models), Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel), Encyclopedia and Hypertex, Philosophy of School and, more recently, Science and Art whose teaching she has initiated in Portugal. 
 
 She has been invited as visiting professor and keynote speaker at institutions such as University of Hannover (Germany), Zentrum für Literaturforshung Berlin (Germany), Institute for Advanced Studies of the Hebrew University of Jerusalem (Israel), Institut Universitaire Kurt Bösch (Switzerland), Vienna University (Austria), Oxford University (UK), Poznań University (Poland), University of Athens (Greece), São Paulo University (Brazil), Federal University of Latino-American Integration (Brazil), Federal University of Goias (Brazil), Pará University (Brazil), École des Mînes of Paris (France), Pisa University (Italy), University of Florence (Italy), Accademia Vivarium Novum Roma (Italy), Sevilla University (Spain), Universidad de Burgos (Spain), SPSN (Angola), Azores University (PT), University of Oporto (PT), University of Coimbra (PT). She is founding member of the “Société de Philosophie des Sciences” (Paris) and of the “Portuguese Society of Logics” (Lisbon) and member of several other scientific societies. 
 
@@ -27,10 +27,10 @@ She is currently chief-editor of the journal [Aion. Journal of Philosophy and Sc
 
 ## Research fields 
 
-* Philosophy of Science (Unity of Science, Interdisciplinarity, Epistemology, Scientific Image, Science and Art, Poincaré, Neurath, Bachelard)
+* Philosophy of Science (Unity of Science, Interdisciplinarity, General Epistemology, Scientific Image, Scientific Models, Science and Art, Poincaré, Neurath, Bachelard)
 * Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
-* History and Philosophy of Encyclopaedism, Encycopaedia and Hypertext
-•	Philosophy of School and Philosophy of Teaching
+* History and Philosophy of Encyclopaedism, Encyclopaedia and Hypertext
+* Philosophy of School and Philosophy of Teaching
 
 
 ## Academic career
