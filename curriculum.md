@@ -20,7 +20,7 @@ She is currently chief-editor of the journal [Aion. Journal of Philosophy and Sc
 * 1986 - Master in "Modern Philosophy”, Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language).
 * 1982 - Post-Graduation in "Modern Philosophy", Faculty of Human and Social Sciences, New University of Lisbon.
 * 1973 - National Certified as Philosophy Teacher (State Examination at Camões Scholl, Lisbon).
-* 1972 - 1973 – Classical National Stage for the Teaching of Philosophy (D. Pedro V School, Lisbon).
+* 1972 - 1973 – National Classical Stage for the Teaching of Philosophy (D. Pedro V School, Lisbon).
 * 1971 – Licence in "Philosophy", Faculty of Letters, University of Lisbon.
 * 1970 – Bachelor in Pedagogical Sciences, Faculty of Letters, University of Lisbon.
 
