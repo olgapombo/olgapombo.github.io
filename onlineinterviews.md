@@ -1,4 +1,4 @@
-# Online interviews
+# Online interviews 
 
 * Pombo, Olga (2022),  [Pensare vuol dire allargare i confini](https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini), Avvenire, 29 Maggio 2022, p.A 22 (presented by Giovanni Scarafile). 
 * [Interdisciplinaridade e Filosofia da Ciência](https://youtu.be/JThAgUMkH0Y), RTP2 TV program "Vamos beber um café e falar sobre isso" (with journalist José Navarro), 24 January 2022 (on the publication of the second edition of the book ["Interdisciplinarity. Ambitions and Limits"](https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites))
