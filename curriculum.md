@@ -2,6 +2,7 @@
 
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” and an Aggregation degree in “History and Philosophy of Science” by the University of Lisbon. 
+
 Professor of Philosophy of Science at the Department of History and Philosophy of Science, Faculty of Sciences of the University of Lisbon (now retired with collaboration agreement), she was president of the Department since its foundation in 2007 up to 2012. She created the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL) which she directed since its foundation in 2003 until 2017. She coordinated several research projects - "Encyclopedia and Hypertext" (1999-02), "Scientific Culture. Conceptual Migrations and Social Contaminations" (2003-6), “Image in Science and Art” (2007-12), “Universal Logics and Unity of Science” (2008-10), “Abduction and Scientific Discovery” (2010-12), “Knowledge Dynamics in the field of Social Sciences (2012-13), and has participated as associated researcher in several other international projects.  She created in 2013 the FCT Doctoral Program "Philosophy of Science, Technology, Art and Society" of which she was program director (PI) until 2016 and where she continued to lecture until 2024 and where she still supervises several doctoral dissertations.
 
 She is the author and the editor, nationally and internationally, of numerous publications dedicated to her various research interests, namely, Philosophy of Science (Unity of Science, Interdisciplinarity, Epistemology, Scientific Image, Poincaré, Neurath, Bachelard), Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel), Encyclopedism, Hypertex, Philosophy of School and, more recently, Science and Art whose teaching she has initiated in Portugal. 
@@ -26,34 +27,34 @@ She is currently chief-editor of the journal [Aion. Journal of Philosophy and Sc
 
 ## Research fields 
 
-•	Philosophy of Science (Unity of Science, Interdisciplinarity, Epistemology, Scientific Image, Science and Art, Poincaré, Neurath, Bachelard)
-•	Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
-•	Encyclopaedia, Hypertext
+* Philosophy of Science (Unity of Science, Interdisciplinarity, Epistemology, Scientific Image, Science and Art, Poincaré, Neurath, Bachelard)
+* Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
+* History and Philosophy of Encyclopaedism, Encycopaedia and Hypertext
 •	Philosophy of School and Philosophy of Teaching
 
 
 ## Academic career
 
-•	2016 - ongoing - Professor (retired with collaboration agreement) of the “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
-•	2014 – 2016 - Founder and Program-Director of the international “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS) sponsored by Portuguese Foundation for Science and Technology (FCT).
-•	2009 – 2016 - Professor with Aggregation of the “Department of History and Philosophy of Sciences”, FCUL, since the 9th June 2009 up until retirement, the 1st January 2016. 
-•	2007 - 2012 - President of the “Department of History and Philosophy of Sciences”, FCUL (elected 27 September 2007 until 3 July 2009, re-elected the 3rd July 2009 until 3 July 2012).
-•	2007- 2012 - Member of the Scientific Council of FCUL.  
-•	2007 – 2012 - Member of the Coordination Council of FCUL.
-•	2007 - 2009 – Professor (with definitive nomination) of the “Department of History and Philosophy of Sciences”, FCUL, since its creation 1st August 2007.
-•	2002 - 2007 - Professor (with definitive nomination) of the “Department of Education”, FCUL, since the 26th March 2003. 
-•	1998 - 2007 - Member of the Scientific Commission of the “Department of Education”, FCUL. 
-•	1998 - 2002 - Professor of the “Department of Education”, FCUL.
-•	1996 -1998 - Member of the Pedagogical Council of the “Department of Education”, FCUL.
-•	1988 - 1998 – Professor (invited) of the “Department of Education”, FCUL.
-•	1987 - 1996 - Member of the Scientific Council of the “Department of Education”, FCUL.  
-•	1986 – 1988 - Member of the Assembly of Representatives of FCUL.
-•	1984 - 1988 – Professor (assistant) of the “Department of Education” (selected by public contest), FCUL.
-•	1980 - 1984 – National Counsellor for the Teaching of Philosophy (selected by national public contest).
-•	1979 - 1980 - Stage Supervisor for the Teaching of Philosophy at D. Pedro V High School, Lisbon (by nomination).
-•	1979 - 1980 – Full Teacher of Philosophy of D. Pedro V High School, Lisbon.  
-•	1973 - 1979 – Aggregated Teacher of Philosophy of D. Pedro V High School, Lisbon.
-•	1970 - 1972 – Assistant Teacher of Philosophy and History at M. Amália Vaz de Carvalho High School, Lisbon.
+* 2016 - ongoing - Professor (retired with collaboration agreement) of the “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
+* 2014 – 2016 - Founder and Program-Director of the international “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS) sponsored by Portuguese Foundation for Science and Technology (FCT).
+* 2009 – 2016 - Professor with Aggregation of the “Department of History and Philosophy of Sciences”, FCUL, since the 9th June 2009 up until retirement, the 1st January 2016. 
+* 2007 - 2012 - President of the “Department of History and Philosophy of Sciences”, FCUL (elected 27 September 2007 until 3 July 2009, re-elected the 3rd July 2009 until 3 July 2012).
+* 2007- 2012 - Member of the Scientific Council of FCUL.  
+* 2007 – 2012 - Member of the Coordination Council of FCUL.
+* 2007 - 2009 – Professor (with definitive nomination) of the “Department of History and Philosophy of Sciences”, FCUL, since its creation 1st August 2007.
+* 2002 - 2007 - Professor (with definitive nomination) of the “Department of Education”, FCUL, since the 26th March 2003. 
+* 1998 - 2007 - Member of the Scientific Commission of the “Department of Education”, FCUL. 
+* 1998 - 2002 - Professor of the “Department of Education”, FCUL.
+* 1996 -1998 - Member of the Pedagogical Council of the “Department of Education”, FCUL.
+* 1988 - 1998 – Professor (invited) of the “Department of Education”, FCUL.
+* 1987 - 1996 - Member of the Scientific Council of the “Department of Education”, FCUL.  
+* 1986 – 1988 - Member of the Assembly of Representatives of FCUL.
+* 1984 - 1988 – Professor (assistant) of the “Department of Education” (selected by public contest), FCUL.
+* 1980 - 1984 – National Counsellor for the Teaching of Philosophy (selected by national public contest).
+* 1979 - 1980 - Stage Supervisor for the Teaching of Philosophy at D. Pedro V High School, Lisbon (by nomination).
+* 1979 - 1980 – Full Teacher of Philosophy of D. Pedro V High School, Lisbon.  
+* 1973 - 1979 – Aggregated Teacher of Philosophy of D. Pedro V High School, Lisbon.
+* 1970 - 1972 – Assistant Teacher of Philosophy and History at M. Amália Vaz de Carvalho High School, Lisbon.
 
 ## Publications
 ### Dissertations  
