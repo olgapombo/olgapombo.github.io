@@ -5,9 +5,7 @@ Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Mast
 
 She is the author and the editor, nationally and internationally, of numerous publications dedicated to her various research interests, namely, Philosophy of Science (Unity of Science, Interdisciplinarity, Epistemology, Scientific Image, Poincaré, Neurath, Bachelard), Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel), Encyclopedism, Hypertex, Philosophy of School and, more recently, Science and Art whose teaching she has initiated in Portugal. 
 
-She has been invited as visiting professor and keynote speaker at institutions such as University of Hannover (Germany), Zentrum für Literaturforshung Berlin (Germany), Institute for Advanced Studies of the Hebrew University of Jerusalem (Israel), Institut Universitaire Kurt Bösch (Switzerland), Vienna University (Austria), Oxford University (UK), Poznań University (Poland), University of Athens (Greece), São Paulo University (Brazil), Federal University of Latino-American Integration (Brazil), Federal University of Goias (Brazil), Pará University (Brazil), École des Mînes of Paris (France), Pisa University (Italy), University of Florence (Italy), Accademia Vivarium Novum Roma (Italy), Sevilla University (Spain), Universidad de Burgos (Spain), SPSN (Angola), Azores University (PT), University of Oporto (PT), University of Coimbra (PT). 
-
-She is founding member of the “Société de Philosophie des Sciences” (Paris) and of the “Portuguese Society of Logics” (Lisbon) and member of several other scientific societies. 
+She has been invited as visiting professor and keynote speaker at institutions such as University of Hannover (Germany), Zentrum für Literaturforshung Berlin (Germany), Institute for Advanced Studies of the Hebrew University of Jerusalem (Israel), Institut Universitaire Kurt Bösch (Switzerland), Vienna University (Austria), Oxford University (UK), Poznań University (Poland), University of Athens (Greece), São Paulo University (Brazil), Federal University of Latino-American Integration (Brazil), Federal University of Goias (Brazil), Pará University (Brazil), École des Mînes of Paris (France), Pisa University (Italy), University of Florence (Italy), Accademia Vivarium Novum Roma (Italy), Sevilla University (Spain), Universidad de Burgos (Spain), SPSN (Angola), Azores University (PT), University of Oporto (PT), University of Coimbra (PT). She is founding member of the “Société de Philosophie des Sciences” (Paris) and of the “Portuguese Society of Logics” (Lisbon) and member of several other scientific societies. 
 
 She was honoured as the [Founder of the "Cátedra Leopoldo Zea of Philosophy and Epistemology"](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/), of the Mercosul Advanced Studies Institut of the Federal University of Latin-American Integration (UNILA), Brazil (2011), selected as [one of the 100 women](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295&ano=2016&id_area=524) to be part of the [1st edition of the book "Women in Science"](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/) edited by Ciencia Viva, the National Agency for the Scientific and Technological Culture (2016), invited as member of the honour commission of the Portuguese “Reading National Plan” (PNL 2017) and as member of the scientific council of the “Réseau National des Maisons des Sciences de l'Homme” (Paris, 2015-2022). She was awarded the “Honorary membersip of the “International Association for the Study of Controversies” (AISC). 
 
@@ -15,14 +13,14 @@ She is currently chief-editor of the journal [Aion. Journal of Philosophy and Sc
 
 ## Education and degrees
  
-•	2009 – Aggregation in History and Philosophy of Science, University of Lisbon with the lesson “Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century).
-•	1998 - PhD in Philosophy of Education, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge).  
-•	1986 - Master in Modern Philosophy”, Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language).
-•	1982 - Post-Graduation in Modern Philosophy, Faculty of Human and Social Sciences, New University of Lisbon.
-•	1973 - National Certified Philosophy Teacher, State Examination at Camões High Scholl, Lisbon.
-•	1972 - 1973 – Classical Stage for the Teaching of Philosophy, D. Pedro V High School, Lisbon.
-•	1971 – Licence in Philosophy, Faculty of Letters, University of Lisbon.
-•	1970 – Bachelor in Pedagogical Sciences, Faculty of Letters, University of Lisbon.
+* 2009 – Aggregation in History and Philosophy of Science, University of Lisbon with the lesson “Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century).
+* 1998 - PhD in Philosophy of Education, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge).  
+* 1986 - Master in Modern Philosophy”, Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language).
+* 1982 - Post-Graduation in Modern Philosophy, Faculty of Human and Social Sciences, New University of Lisbon.
+* 1973 - National Certified Philosophy Teacher, State Examination at Camões High Scholl, Lisbon.
+* 1972 - 1973 – Classical Stage for the Teaching of Philosophy, D. Pedro V High School, Lisbon.
+* 1971 – Licence in Philosophy, Faculty of Letters, University of Lisbon.
+* 1970 – Bachelor in Pedagogical Sciences, Faculty of Letters, University of Lisbon.
 
 
 ## Research fields 
