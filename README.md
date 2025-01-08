@@ -13,7 +13,7 @@ Presentation
 
 [Preprints](preprints.md)
 
-[Research / Projects](research.md)
+[Research / Projects](/research/projects.md)
 
 Teaching / Doctoral Program
 
