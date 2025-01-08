@@ -12,7 +12,7 @@ Online Publications
 
 [Preprints](preprints.md)
 
-Research / Projects
+[Research / Projects](research.md)
 
 Teaching / Doctoral Program
 
