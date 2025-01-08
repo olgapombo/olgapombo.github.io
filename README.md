@@ -1,5 +1,4 @@
-
-
+![Olga Pombo](./images/OPombo_Nancy.jpg)
 
 Presentation
 [Curriculum](curriculum.md)
@@ -10,5 +9,4 @@ Presentation
 [Research / Projects](/research/projects.md)
 Teaching / Doctoral Program
 Media Mentions
-![Olga Pombo](./images/OPombo_Nancy.jpg)
 
