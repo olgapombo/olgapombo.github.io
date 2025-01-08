@@ -4,7 +4,7 @@ Presentation
 
 [Curriculum](curriculum.md)
 
-Online Publications
+[Online Publications](online_publications.md)
 
 [Online Interviews](onlineinterviews.md)
 
