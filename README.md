@@ -16,5 +16,5 @@ Presentation
 
 Teaching / Doctoral Program
 
-Media Mentions
+[Media Mentions](media_mentions.md)
 
