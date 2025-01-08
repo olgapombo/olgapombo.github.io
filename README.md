@@ -14,7 +14,7 @@ Presentation
 
 [Research / Projects](/research/projects.md)
 
-Teaching / Doctoral Program
+[Teaching / Doctoral Program](teaching_doctoral_program.md)
 
 [Media Mentions](media_mentions.md)
 
