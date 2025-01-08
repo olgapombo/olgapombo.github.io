@@ -4,14 +4,18 @@ Presentation
 
 [Curriculum](curriculum.md)
 
-Publications
+Online Publications
 
 [Online Interviews](onlineinterviews.md)
 
-Media Mentions
+Online Talks
+
+Preprints
 
 Research / Projects
 
 Teaching / Doctoral Program
+
+Media Mentions
 
 
