@@ -1,4 +1,18 @@
 # olgapombo.github.io
 personal webpage
 
-# *Presentaion*
+*Presentation*
+
+Curriculum
+
+Publications
+
+Interviews
+
+Media Mentions
+
+Research / Projects
+
+Teaching / Doctoral Program
+
+
