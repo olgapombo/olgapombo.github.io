@@ -1,5 +1,5 @@
 
-!(images/OPombo_Nancy.jpg)
+![Olga Pombo](./images/OPombo_Nancy.jpg)
 
 Presentation
 
