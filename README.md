@@ -3,7 +3,7 @@ personal webpage
 
 Presentation
 
-Curriculum
+[Curriculum](curriculum.md)
 
 Publications
 
