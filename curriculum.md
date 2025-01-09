@@ -73,11 +73,11 @@ She was invited to be member of the honour commission of the Portuguese “Readi
 
 1.	Pombo, Olga (1987) *Leibniz and the Problem of a Universal Language*, Münster: Nodus Publikationen, 321 pp.  
 ISBN 3-89323-303-2.
-2.	Pombo, Olga (1993) with Teresa Levy and Henrique Guimarães, A Interdisciplinaridade: Reflexão e Experiência (Interdisciplinarity: Reflection and Experience), Lisboa: Texto, 96 pp. ISBN 972-47-0462-9. (2nd revised and extended edition, 1994, 102 pp. ISBN 978-9724704623).
-3.	Pombo, Olga (1997) Leibniz e o Problema de uma Língua Universal (portuguese revised translation of “Leibniz and the Problem of a Universal Language”), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 320 pp. 
+2.	Pombo, Olga (1993) with Teresa Levy and Henrique Guimarães, *A Interdisciplinaridade: Reflexão e Experiência (Interdisciplinarity: Reflection and Experience*), Lisboa: Texto, 96 pp. ISBN 972-47-0462-9. (2nd revised and extended edition, 1994, 102 pp. ISBN 978-9724704623).
+3.	Pombo, Olga (1997) *Leibniz e o Problema de uma Língua Universal* (portuguese revised translation of “Leibniz and the Problem of a Universal Language”), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 320 pp. 
 ISBN: 972-9493-29-4.
-4.	Pombo, Olga (2000) Quatro Textos Excêntricos. Hannah Arendt, Eric Weil, Bertrand Russell e Ortega Y Gasset,  Lisboa: Relógio d'Água, 105 pp. ISBN: 9789727085699.
-5.	Pombo, Olga (2002) A Escola, a Recta e o Círculo (The School, the Straignt Line and the Circle),  Lisboa: Relógio d'Água, 316 pp. ISBN: 9789727086788.
+4.	Pombo, Olga (2000) *Quatro Textos Excêntricos. Hannah Arendt, Eric Weil, Bertrand Russell e Ortega Y Gasset*,  Lisboa: Relógio d'Água, 105 pp. ISBN: 9789727085699.
+5.	Pombo, Olga (2002) *A Escola, a Recta e o Círculo* (*The School, the Straignt Line and the Circle*),  Lisboa: Relógio d'Água, 316 pp. ISBN: 9789727086788.
 6.	Pombo, Olga (2004) Interdisciplinaridade: Ambições e Limites (Interdisciplinarity: Ambitions and Limits), Lisboa: Relógio d'Água, 203 pp. ISBN: 9789727088140.
 7.	Pombo, Olga (2006) Unidade da Ciência. Programas, Figuras e Metáforas (Unity of Science. Programs, Figures and Metaphors), Lisboa: Duarte Reis, 324 pp. ISBN: 972-8745-27-3, 2nd edition, Lisboa: CFCUL/Gradiva, 2011, 343 pp). ISBN: 978-989-8247-41-4.
 8.	Pombo, Olga (2010) Palavra e Esplendor do Mundo. Estudos sobre Leibniz (Word and Splendor of the World. Studies on Leibniz), Lisboa: Fim de Século, 300 pp. 
