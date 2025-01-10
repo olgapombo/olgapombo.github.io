@@ -1,1 +1,1 @@
-
+La Interdisciplinariedad o la Red Actual del Conocimiento, online series “Filósofas en la Historia. Escuela de Filósofas” (FeH) directed by Paz Pérez Encinas, Departament of Philosophy of the IES Aramo, Oviedo, Spain.
