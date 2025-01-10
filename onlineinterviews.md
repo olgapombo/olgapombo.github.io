@@ -11,4 +11,3 @@
      3.	[Sociologia da Ciencia. Ciencia e Sociedade (Sociology of Science. Science and Society)](https://www.youtube.com/watch?v=Ua2vMtqdgW8)
      4.	[A Enciclopedia e a Internet (The Encyclopaedia and the Internet)](https://www.youtube.com/watch?v=bLyV4bwh8sM)
      	
-* [La Interdisciplinariedad o la Red Actual del Conocimiento](https://www.youtube.com/watch?v=zWHHvijaJ1I), online series  “Filósofas en la Historia. Escuela de Filósofas” (FeH) directed by Paz Pérez Encinas, Departament of Philosophy of the IES Aramo, Oviedo, Spain.
