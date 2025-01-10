@@ -32,11 +32,11 @@ She was invited to be member of the honour commission of the Portuguese “Readi
 
 ## Research fields 
 
-* Philosophy of Science (Unity of Science, Interdisciplinarity, General Epistemology, Scientific Image, Scientific Models, Science and Art, Poincaré, Neurath, Bachelard)
-* Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
-* History and Philosophy of Encyclopaedism, Encyclopaedia and Hypertext
-* Philosophy of School and Philosophy of Teaching
-
+* Epistemology and Philosophy of Science - Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Model, Discovery, Invention and creation, Science and Art (Plato, Peirce, Poincaré, Neurath, Bachelard)
+* Philosophy of Sign and Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
+* History and Philosophy of Encyclopaedism, Encyclopaedia, Hypertext and Internet
+* History and Philosophy of School, Philosophy of Teaching, Museum, Library, Book, Reading
+  
 
 ## Academic career
 
