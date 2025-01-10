@@ -8,7 +8,7 @@
 *	"O Pensamento Vivo da Informação" ("The Alive Thought of Information"), interview with Robson Ashtoffen, a series coordinated by Prof. Marcos Mucheroni, Núcleo de Pesquisa em Produção Científica da ECA-USP, São Paulo, Brazil, (2012).  The interview is divided in 4 parts: 
      1.	[Informação e complexidade (Information and complexity)](https://www.youtube.com/watch?v=hpncNUeEVYE&feature=plcp)
      2.	[Especialização e interdisciplinaridade (Specialization and interdisciplinarity)](https://www.youtube.com/watch?v=ExyaET0GuVg)
-     3.	[(Sociologia da Ciencia. Ciencia e Sociedade (Sociology of Science. Science and Society)](https://www.youtube.com/watch?v=Ua2vMtqdgW8)
+     3.	[Sociologia da Ciencia. Ciencia e Sociedade (Sociology of Science. Science and Society)](https://www.youtube.com/watch?v=Ua2vMtqdgW8)
      4.	[A Enciclopedia e a Internet (The Encyclopaedia and the Internet)](https://www.youtube.com/watch?v=bLyV4bwh8sM)
      	
 * [La Interdisciplinariedad o la Red Actual del Conocimiento](https://www.youtube.com/watch?v=zWHHvijaJ1I), online series  “Filósofas en la Historia. Escuela de Filósofas” (FeH) directed by Paz Pérez Encinas, Departament of Philosophy of the IES Aramo, Oviedo, Spain.
