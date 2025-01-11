@@ -137,10 +137,12 @@ DOI: https://doi.org/10.1007/978-3-031-20405-0
 2.	Pombo, Olga, (1988), “Notas sobre as Instituições da Filosofia”, in *A Filosofia face à Cultura Tecnológica*, edited by Adelino Cardoso, Coimbra: Associação de Professores de Filosofia, pp. 71-89. 
 3.	Pombo, Olga (1988), “Leibnizian Strategies for the Semantical Foundation of the Universal Language”, in *Leibniz, Tradition und Aktualitat*. V. Internationaler Leibniz-Kongress, vol. 1, edited by Ernest Albrecht, Hannover: Gottfried-Wilhelm Leibniz-Gesellschaft, pp. 753-760. ISBN: 3-9800978-2-X esta no livro do dutz
 4.	Pombo, Olga (1990), “Dilema do Ensino da Filosofia”, in *Didáctica da Filosofia*, vol. 2, edited by Isabel Marnoto, Lisboa: Universidade Aberta, pp. 7-30. ISBN: 9726740282
-5.	Pombo, Olga (1990), “The Leibnizian Theory of Representativity of the Sign”, in *History and Historiography of Linguistics*, vol. II, edited by Hans-Joseph Niederehe; Konrad Koerner, Amsterdam/Philadelphia: John Benjamins Publishing Company, pp. 447-59, “Studies in the History of the Language Sciences”. DOI: https://doi.org/10.1075/sihols.51.2.06pom
+5.	Pombo, Olga (1990), “The Leibnizian Theory of Representativity of the Sign”, in *History and Historiography of Linguistics*, vol. II, edited by Hans-Joseph Niederehe; Konrad Koerner, Amsterdam/Philadelphia: John Benjamins Publishing Company, pp. 447-59, “Studies in the History of the Language Sciences”. 
+DOI: https://doi.org/10.1075/sihols.51.2.06pom
 6.	Pombo, Olga (1991), “Hegel e a Linguagem: Estudo em forma de Prefácio ou de Introdução”, in *Dinâmica do Pensar: Homenagem a Oswaldo Market*, Lisboa: Departmento de Filosodia, Faculty of Letters, Universidade de Lisboa, pp. 189-215. DL: 43.602/91.
 7.	Pombo, Olga (1991), “Epistemologia, Linguagem (da Química) e Ensino. Algumas Observações Interdisciplinares”, in *Química, Encruzilhada de Disciplinas*, Actas do Colóquio "Ensino superior da Química em línguas internacionais de origem latina", edited by Maria Elisa Pestana and Mariana Pereira, Lisboa: Sociedade Portuguesa de Química, pp. 144-156. 
-8.	Pombo, Olga (1994), “Contribuição para um Vocabulário sobre Interdisciplinaridade”, in *Interdisciplinaridade: Reflexão e Experiência*, edited by O. Pombo; T. Levy; H. Guimarães, Lisboa: Texto Editora, pp. 92-97. ISBN 978-9724704623
+8.	Pombo, Olga (1994), “Contribuição para um Vocabulário sobre Interdisciplinaridade”, in *Interdisciplinaridade: Reflexão e Experiência*, edited by O. Pombo; T. Levy; H. Guimarães, Lisboa: Texto Editora, pp. 92-97. 
+ISBN 978-9724704623
 9.	Pombo, Olga (1994), “Apresentação de um Projecto”, in *McLuhan. A Escola e os Media*, 1º Caderno de História e Filosofia da Educação, edited by Olga Pombo, Lisboa: DEFCUL, pp. 1-8.
 10.	 Pombo, Olga (1994), “O Meio é a Mensagem”, in *McLuhan. A Escola e os Media*, 1º Caderno de História e Filosofia da Educação, edited by Olga Pombo, Lisboa: DEFCUL, pp. 40-50.
 11.	 Pombo, Olga (1994), “A Matemática e o Trabalho de 'Dar a Ver'”, in *PROFMAT/92*, Actas do Encontro Nacional de Professores de Matemática de 1992, Viseu: APF, pp. 35-39.
@@ -154,10 +156,10 @@ DOI: https://doi.org/10.1007/978-3-031-20405-0
 19.	 Pombo, Olga (2000), “Universidade. Regresso ao Futuro de uma Ideia”, in *Itinerários. Investigar em Educação*, edited by Odete Valente, Lisboa: CIE, pp. 903-912.
 20.	 Pombo, Olga (2001), “A Escola como Memória do Futuro”, in *Itinerários. Investigar em Educação*, edited by Odete Valente, Lisboa: CIE, pp. 151-156 (reprint).
 21.	Pombo, Olga (2001), “Nota de Abertura”, in *Educar / Ensinar. Materiais de Estudo* (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), 6º Caderno de História e Filosofia da Educação, edited by Olga Pombo, Lisboa: DEFCUL, pp. 1-3.
-22.	 Pombo, Olga (2002), “Leibniz and the Encyclopaedic Project”, in *La Actualidad de Leibniz*. Actas del Congresso Internacional Ciência, Tecnologia Y Bien Comum, Valência, 21-23 Marzo de 2001, edited by Agustín Andreu Rodrigo, Javier Echeverría Ezponda, Concha Roldán Panadero,  Valencia: Editorial de la Universidad Politecnica de Valencia, pp. 267-278. 
-ISBN: 84-9705-205-6
+22.	 Pombo, Olga (2002), “Leibniz and the Encyclopaedic Project”, in *La Actualidad de Leibniz*. Actas del Congresso Internacional Ciência, Tecnologia Y Bien Comum, Valência, 21-23 Marzo de 2001, edited by Agustín Andreu Rodrigo, Javier Echeverría Ezponda, Concha Roldán Panadero,  Valencia: Editorial de la Universidad Politecnica de Valencia, pp. 267-278. ISBN: 84-9705-205-6
 23.	 Pombo, Olga (2002), "Leibniz and the Encyclopaedic Project", in *Itinerários. Investigar em Educação*, edited by Odete Valente, Lisboa: CIE, pp. 155-163 (reprint).
-24.	 Pombo, Olga (2002), “Biblioteca. A Alma da Escola”, in *Bibliotecas e Novas Tecnologias*, Actas do Colóquio realizado no Forum Lisboa, 11-13 de outubro 2000, Lisboa: Câmara Municipal de Lisboa, pp. 117-128.  ISBN: 972-8695-06-3.
+24.	 Pombo, Olga (2002), “Biblioteca. A Alma da Escola”, in *Bibliotecas e Novas Tecnologias*, Actas do Colóquio realizado no Forum Lisboa, 11-13 de outubro 2000, Lisboa: Câmara Municipal de Lisboa, pp. 117-128.  
+ISBN: 972-8695-06-3.
 25.	 Pombo, Olga (2003), “O Insuportável Brilho da Escola”, in *Direitos e Responsabilidades na Sociedade Educativa*, edited by Alain Renaut et allii, Lisboa: Fundação Calouste Gulbenkian, pp. 31-59. ISBN 972-31-1081-4
 26.	 Pombo, Olga (2004), “Epistemologia da Interdisciplinaridade”, in *Interdisciplinaridade, Humanismo Universidade*, edited by Carlos Pimenta, Porto: Campo das Letras, pp. 93-124. ISBN: 972-610-867-5
 27.	 Pombo, Olga (2005), “Clássicos: Inevitáveis!”, in *Bloco de Nautas*. XVI Encontro de Literatura para Crianças, edited by Ana Gaiaz, Lisboa: Fundação Calouste Gulbenkian, pp. 149-185. DL: 255 384/05.
@@ -169,39 +171,39 @@ ISBN: 84-9705-205-6
 33.	 Pombo, Olga (2006), “As 'Cartas de Problemática' de António Sérgio e os Estudantes da Faculdade de Ciências da Universiade de Lisboa”, in *As Cartas de Problemática de António Sérgio*, edited by Olga Pombo; M. Beirão; J. Cordovil, series “Cadernos de Filosofia das Ciências”, vol. 3, Lisboa: CFCUL, pp. 5-26. ISBN: 972-99794.2.1.
 34.	 Pombo, Olga (2006), “A Ciência e as Ciências”, in *Encontro de Saberes*, coordenated by Ana Tostões et alii, Lisboa: Fundação Calouste Gulbenkian, pp. 515-532. ISBN: 972-31-1159-4
 35.	 Pombo, Olga (2006), “Agostinho da Silva. Um Arquétipo Vivo do Professor”, in *In Memoriam de Agostinho da Silva. 100 Anos, 150 Nomes*, edited by Renato Epifânio; Romana V. Pinho; Amon Pinho Davi, Lisboa: Zéfiro / AAS, pp. 354-359. ISBN: 972-8958-24-2
-36.	Pombo, Olga; Gerner, Alexander (2007), "Preface", in *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo; Alexander Gerner, Lisboa: CFCUL/Publidisa, pp. 7-10.  ISBN: 264501/07~
+36.	Pombo, Olga; Gerner, Alexander (2007), "Preface", in *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo; Alexander Gerner, Lisboa: CFCUL/Publidisa, pp. 7-10.  ISBN: 264501/07.
 37.	Pombo, Olga (2008), “Unidade da Ciência. O Regresso de uma Ideia”, in *A Unicidade do Conhecimento*, edited by Vítor Manuel Trindade; Maria de N. Trindade; Adelinda A. Candeias, Coimbra: Papel Munde, pp. 49-65. ISBN: 978-989-558-106-1.
-38.	Pombo, Olga (2008), "Imigrantes, Estrangeiros e Cidadãos. A partir de H. Arendt e B. Russell", in *Actas da Conferencia Ibérica Educação para a Cidadania*, edited by Florbela Sousa and Carolina Carvalho, Lisboa: DEFCUL/CIE, pp. 36-42 (CD Rom). 
-ISBN: 978-989-95062-4-4.
+38.	Pombo, Olga (2008), "Imigrantes, Estrangeiros e Cidadãos. A partir de H. Arendt e B. Russell", in *Actas da Conferencia Ibérica Educação para a Cidadania*, edited by Florbela Sousa and Carolina Carvalho, Lisboa: DEFCUL/CIE, pp. 36-42 (CD Rom). ISBN: 978-989-95062-4-4.
 39.	Pombo, Olga (2009), ”Characteristica Universalis e Transcendental Impuro. Apontamentos sob a Forma de um Testemunho”, in *Paisagens dos Confins*, edited by Filomena Mölder, Lisboa: Vendaval, pp. 91-100. ISBN:  978-972-8984-08-3
 40.	Pombo, Olga (2009), “A Educação das Crianças dos 0 aos 12 anos. Implicações do Estudo”, in *A Educação das Crianças dos 0 aos 12 anos. Relatório do Estudo*, Actas do seminário realizado a 20 de maio de 2008 no Conselho Nacional de Educação, edited by I. Alarcão; M. Miguéns, Lisboa: Editorial do Ministério da Educação, pp. 363-378. ISBN: 978-972-8360-57-3.
 41.	Pombo, Olga (2009), “Palavras de Abertura”, in *Lei, Segurança e Disciplina, Trinta anos depois de Vigiar e Punir de Michel Foucault*,  edited by A. F. Cascais; J. L. Câmara Leme; N. Nabais, Lisboa: CFCUL, pp. 11-13. ISBN: 978-989-8247-02-5
 42.	Pombo, Olga (2010), “As Imagens com que a Ciência se faz”, in *As Imagens com que Ciência se Faz*, edited by Olga Pombo; Silvia di Marco, Lisboa: Fim de Século, pp. 9-20.  ISBN: 978-972-754-279-6
-43.	Pombo, Olga (2010), “Operativity and Representativity of the Sign in Leibniz”, in *Studies in Diagrammatology and Diagram Praxis*, edited by Olga Pombo; Alexander Gerner, London: College Publications, pp. 1-11. DOI: 10.1007/978-3-319-15368-1_24 
+43.	Pombo, Olga (2010), “Operativity and Representativity of the Sign in Leibniz”, in *Studies in Diagrammatology and Diagram Praxis*, edited by Olga Pombo; Alexander Gerner, London: College Publications, pp. 1-11. 
+DOI: 10.1007/978-3-319-15368-1_24 
 44.	Pombo, Olga; Gerner, Alexander (2010), “Preface”, in *Studies in Diagrammatology and Diagram Praxis*, edited by Olga Pombo; Alexander Gerner, London: College Publications, pp. I-V.     ISBN: 978-184-8900073
 45.	Pombo, Olga (2010), ”The Great Discovery of Hobbes' Philosophy of Language”, in *Estudios de Lógica, Lenguaje y Epistemología*, edited by David Fernández Duque; Emilio F. Gómez Caminero; Ignacion Hernández Antón, Sevilla: Fénix, pp. 99-105. ISBN: 978-84-614-4291-1
 46.	Pombo, Olga; di Marco, Silvia; Pina, Marco (2010), “Introduction”, in »Neuroaesthetics. Can Science explain Art?*,  edited by Olga Pombo; Silvia di Marco; Marco Pina, Lisboa: Fim de Século, pp. 9-20. ISBN: 9789727542765.
-47.	Pombo, Olga (2010), “Dispersão e Unidade: para uma Poética da Simpatia”, in *Temas de Pesquisa em Ciência da Informação no Brasil*, edited by M. L. G. Lara; J. W. Smit, São Paulo: Escola de Comunicações e Artes,  Brazil, pp. 31-46.
+47.	Pombo, Olga (2010), “Dispersão e Unidade: para uma Poética da Simpatia”, in *Temas de Pesquisa em Ciência da Informação no Brasil*, edited by M. L. G. Lara; J. W. Smit, São Paulo: Escola de Comunicações e Artes,  Brazil, pp. 31-46. 
 ISBN – 978-85-7205-081-4. 
-48.	Pombo, Olga (2010), “Otto Neurath. Uma Comovente Figura de Filósofo do século XX”, in *Liber Amicorum Angel Nepomuceno*, edited by Fernando Soler; Hans van Ditmarsch; Francisco Salguero, Sevilla: Fénix Editora, pp. 109-116. ISBN: 978-84-614-5116-6.  
+48.	Pombo, Olga (2010), “Otto Neurath. Uma Comovente Figura de Filósofo do século XX”, in *Liber Amicorum Angel Nepomuceno*, edited by Fernando Soler; Hans van Ditmarsch; Francisco Salguero, Sevilla: Fénix Editora, pp. 109-116. 
+ISBN: 978-84-614-5116-6.  
 49.	Pombo, Olga (2010), “Three Roots for Leibniz's Contribution to the Computational Conception of Reason", in *Programs, Proofs, Processes*, edited by Fernando Ferreira; B. Löwe; E. Mayordomo; L. M. Gomes, Berlin: Springer, pp. 352-361. ISBN: 978-3-642-13961-1 DOI: https://doi.org/10.2178/bsl/1309952324
-50.	Pombo, Olga (2011), “Neurath and the Encyclopaedic Project of Unity of Science”, in *Otto Neurath and the Unity of Science*, edited by Olga Pombo; John Symons; Juan Manuel Torres, Dordrecht/Heidelberg/London/New York: Springer, pp. 59-70. 
-DOI: 10.1007/978-94-007-0143-4_5.
+50.	Pombo, Olga (2011), “Neurath and the Encyclopaedic Project of Unity of Science”, in *Otto Neurath and the Unity of Science*, edited by Olga Pombo; John Symons; Juan Manuel Torres, Dordrecht/Heidelberg/London/New York: Springer, pp. 59-70. DOI: 10.1007/978-94-007-0143-4_5.
 51.	Pombo, Olga; Symons, John; Torres, Juan Manuel (2011), “Neurath and the Unity of Science: Introduction”, in *Otto Neurath and the Unity of Science*, edited by Olga Pombo; John Symons; Juan Manuel Torres, Dordrecht/ Heidelberg/ London/ New York: Springer, pp. 1-11.  DOI:10.1007/978-94-007-0143-4
 52.	Pombo, Olga (2011), “Para um Modelo Reflexivo da Formação de Professores”, in Utopia em Busca de Possibilidade - Abordagens Interdisciplinares no Ensino das Ciências da Natureza, edited by Carlos A. dos Santos; Aline F. de Quadros, Foz do Iguaçu, Brazil: UNILA, pp. 13-26. ISBN: 978-85-7727-315-7
 53.	Pombo, Olga (2011), “Epistemologia e Ensino das Ciências”, in *Utopia em Busca de Possibilidade - Abordagens Interdisciplinares no Ensino das Ciências da Natureza*, edited by Carlos A. dos Santos; Aline F. de Quadros (Orgs.), Foz do Iguaçu, Brazil: UNILA, pp. 27-49. ISBN: 978-85-7727-315-7
-54.	Pombo, Olga (2011), “Three Roots for Leibniz's Contribution to the Computational Conception of Reason”, in *Lógica Universal e Unidade da Ciência*, edited by Olga Pombo, Lisboa: CFCUL, pp.183-196. ISBN: 978-989-8247-50-6 (reprint in acores)
+54.	Pombo, Olga (2011), “Three Roots for Leibniz's Contribution to the Computational Conception of Reason”, in *Lógica Universal e Unidade da Ciência*, edited by Olga Pombo, Lisboa: CFCUL, pp.183-196. ISBN: 978-989-8247-50-6 (reprint)
 55.	Pombo, Olga (2011), “Prefácio”, in *Lógica Universal e Unidade da Ciência*, edited by Olga Pombo, Series “Documenta”, vol. 6.  Lisboa: CFCUL, pp. 9-10. ISBN: 978-989-8247-50-6
 56.	Pombo, Olga (2012), “Leibniz: Intuição e Simbolismo”, in *Ensayos sobre Lógica, Lenguage, Mente y Ciência*, edited by L. F. Moreno; Francisco Salguero; Cristina Barés, Sevilla: Alfar, pp. 233-242. DOI: 10.1400/198992.
-57.	Pombo, Olga; Nabais, Catarina; Pina, Marco; Di Marco, Silvia (2012), “Body-Image: Crossing Science and Art”, in *Electronic Visualisation and the Arts*, EVA London 2012, edited by Stuart Dunn; Jonathan P. Bowen; Kia Ng, London: BCS, pp. 282-283. 
-DOI 10.1007/978-1-4471-5406-8_1
+57.	Pombo, Olga; Nabais, Catarina; Pina, Marco; Di Marco, Silvia (2012), “Body-Image: Crossing Science and Art”, in *Electronic Visualisation and the Arts*, EVA London 2012, edited by Stuart Dunn; Jonathan P. Bowen; Kia Ng, London: BCS, pp. 282-283. DOI 10.1007/978-1-4471-5406-8_1
 58.	Pombo, Olga (2012), “Quatro Notas sobre Ciência, Filosofia e Filosofia da Ciência”, in *Gravitações Bioéticas*, edited by António Barbosa; Fernando Martins Vale; Paulo Costa, Lisboa: Centro de Bioética da Faculdade de Medicina da University of Lisbon, pp. 241-256. ISBN: 978-972-9349-27-0
 59.	Pombo, Olga; Reis dos Santos, Ricardo (2012), “Darwin e a Ilustração Científica”, in *Em Torno de Darwin*, edited by Olga Pombo; Marco Pina, Lisboa: Fim de Século, pp. 79-100. ISBN: 978.972-754-291-8
 60.	Pombo, Olga; Pina, Marco (2012), “Introdução”, in *Em Torno de Darwin*, edited by Olga Pombo; Marco Pina, Lisboa: Fim de Século, pp. 9-23. ISBN: 978.972-754-291-8
 61.	Pombo, Olga; Guerreiro, António (2012), "Introdução", in *Da Civilização da Palavra à Civilização da Imagem*, edited by Olga Pombo; António Guerreiro, Lisboa: Fim de Século, pp. 9-15. ISBN: 978-972-754-293-2
 62.	Pombo, Olga (2013), “Rousseau, la Science et la Paix avec le Monde”, in *Rousseau e as Ciências*, edited by Olga Pombo; Nuno Melim, Lisboa: CFCUL, pp. 7-26. ISBN: 978-989-8247-63-6
 63.	Pombo, Olga (2013), “O Livro como Extravagância”, in *O Livr-o-men*, edited by C. Castelo; A. Silveiro Gomes, Lisboa: Barbara says..., pp. 121-139. ISBN: 978-989-96245-2-8
-64.	Pombo, Olga (2013), "Diderot, D'Alembert e o Movimento Enciclopedista", in *Dez Luzes num Século Ilustrado*, edited by Ana Isabel Santos; Ana Paula Jardim, Câmara Municipal de Oeiras, Lisboa: Editora Caminho, pp. 145-170. ISBN: 978-972-21-2620-5
+64.	Pombo, Olga (2013), "Diderot, D'Alembert e o Movimento Enciclopedista", in *Dez Luzes num Século Ilustrado*, edited by Ana Isabel Santos; Ana Paula Jardim, Câmara Municipal de Oeiras, Lisboa: Editora Caminho, pp. 145-170. 
+ISBN: 978-972-21-2620-5
 65.	Pombo, Olga (2014), “Prefácio”, in *Pre-textos Bioéticos*, edited by António Barbosa, Lisboa: Faculdade de Medicina da Universidade de Lisboa, pp. IX-XI. 
 66.	Pombo, Olga (2014), “A Estátua de Glauco ou afinal o que é a Escola?”, in *Descobrir a face da Escola com a Inspiração de Alain e de Olga Pombo*, edited by João Barbosa, Lisboa: CFCUL, pp. 75-108. ISBN: 978-989-8247-67-4 (reprint)
 67.	Pombo, Olga (2014), “Unity of Science and Encyclopaedia: from the Idea to the Configurations”, in *Perspectives on Theory of Controversies and The Ethics of Communication. Explorations of Marcelo Dascal's Contributions to Philosophy*, edited by Dana Riesenfeld; Giovanni Scarafile, Dordrecht/ Heidelberg/ London/ New York: Springer, Series “Logic, Argumentation & Reasoning”, pp. 157-172. DOI: 10.1007/978-94-007-7131-4
@@ -227,8 +229,7 @@ DOI: https://doi.org/10.21814/uminho.ed.5
 85.	Pombo, Olga (2019), “CorpoIMAGEM. Uma exposição”, in CorpoIMAGEM. Representações do Corpo na Ciência e na Arte, edited by Olga Pombo; Catarina Nabais; Sara Fuentes, Lisboa: Fim de Século, pp. 9-17. ISBN: 978-972-754-285-7
 86.	Pombo, Olga (2020), “Science and Democracy. A complex relationship”, in Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a new Knowledge Model, edited by Jens Allwood; Olga Pombo; Clara Renna; Giovanni Scarafile, Amsterdam / Philadelphia: John Benjamin’s Publishing Company, pp. 255-268.
 DOI: https://doi.org/10.1075/cvs.16.13pom
-87.	Allwood, Jens; Pombo, Olga; Scarafile, Giovanni (2020), “Crossing borderlines. Beyond the structure of parallel world views”, in Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a new Knowledge Model, edited by Jens Allwood; Olga Pombo; Clara Renna; Giovanni Scarafile, Amsterdam / Philadelphia: John Benjamin’s Publishing Company, pp. 1-4. 
-DOI: https://doi.org/10.1075/cvs.16
+87.	Allwood, Jens; Pombo, Olga; Scarafile, Giovanni (2020), “Crossing borderlines. Beyond the structure of parallel world views”, in Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a new Knowledge Model, edited by Jens Allwood; Olga Pombo; Clara Renna; Giovanni Scarafile, Amsterdam / Philadelphia: John Benjamin’s Publishing Company, pp. 1-4. DOI: https://doi.org/10.1075/cvs.16
 88.	Pombo, Olga (2020), “Apresentação”, in Ciência, Racionalidade e Política. Ensaios (in)Atuais, edited by Olga Pombo, Lisboa: Aletheia, pp. 7-9. ISBN: 978-989-8906
 89.	Pombo, Olga (2021), “Natural Language and Philosophical Language. Nationalism and Universalism in Leibniz's position on the German language”, in Lógica, Conocimiento y Abducción. Homenaje Ángel Nepomuceno, edited by Cristina Barés; Fernando Soler; Francisco Salguero, London: College Publications, pp. 205-218. ISBN: 978-1-84890-358-6
 90.	Pombo, Olga (2021), “Razões para regressar ao Protágoras, de Platão. Em jeito de Introdução”, in Regresso ao Protágoras de Platão, edited by O. Pombo, Lisboa: Mariposa Azul, pp. 9-57.  ISBN: 978-972-8481-70-4 
@@ -247,14 +248,7 @@ Pombo, Olga (2013), “Encyclopedia”, in *Encyclopedia of Philosophy and the S
 DOI: http://dx.doi.org/10.4135/9781452276052
 
 
-#### Journal’s guest editor
- 
-•	Pombo, Olga (2015), *Axiomathes, Special Issue I, “Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-•	Pombo, Olga (2012), “Dossier: Leibniz – Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum”, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824
-
-
 #### Articles 
- 
 1.	Pombo, Olga (2024), « Science et École chez Bachelard.  Discontinuité et Nouveauté », *Bachelard Studies*, nº 8, 1, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, DOI: 10.7413/2724-5470100
 2.	Pombo, Olga et alii (2024), “On the Concept of Resistance.Editorial Introduction”, *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. https://journals.ku.edu/aion/article/view/23014/20807
 3.	Pombo, Olga et alii (2024), “A fotografia entre a Ciência, a Arte e a Filosofia”, *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16, https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891
@@ -275,17 +269,16 @@ DOI: http://dx.doi.org/10.14201/art201871175190.
 15.	Pombo, Olga (2012), “Conceptions of Intuition in Poincaré’s Philosophy of Mathematics”, *Philosophy Study*, EUA, vol. 2, nº 6, July-August, pp 384-397. ISSN: 2159-5313. 
 16.	Pombo, Olga (2012), “Brevíssima Apresentação da ‘Brevis Designatio’ de Leibniz", *Kairos. Journal of Philosophy & Science*, nº 4, pp. 121-126. ISSN: (print): 2182-2824.
 17.	Pombo, Olga (2011), “Espinoza e a Linguagem”, *InCID - Revista de Ciência da Informação e Documentação*, Ribeirão Preto, Brazil, vol. 2, nº 1, pp. 16-30. DOI:http://dx.doi.org/10.11606/; ISSN.2178-2075.v2i1p16-30
-18.	Pombo, Olga (2010), “A Estátua de Glauco e a Escola”, *Pensar a Escola*, nº 7, Lisboa: Escola Vitorino Nemésio, pp. 3-11.
-https://esad.edu.pt/ficheiros/revista/revista7.pdf
+18.	Pombo, Olga (2010), “A Estátua de Glauco e a Escola”, *Pensar a Escola*, nº 7, Lisboa: Escola Vitorino Nemésio, pp. 3-11. <https://esad.edu.pt/ficheiros/revista/revista7.pdf>
 19.	Pombo, Olga (2009), “Interdisciplinaridade e Transformações Epistemológicas Contemporâneas”, *Olhares*, nº 1, NPPD- UNIJORGE, Brazil, pp. 7-10. ISSN: 2176-3291.
 20.	Pombo, Olga (2009), “Linguagem e Conhecimento em Leibniz”, *O que nos faz Pensar. Cadernos do Departamento de Filosofia da PUC*, Rio de Janeiro, Brazil, nº 26, pp. 9-29. ISSN: 0104-6675 
 21.	Pombo, Olga (2008), “Epistemologia da Interdisciplinaridade, *Ideação, Revista do Centro de Educação e Letras*, vol. 10, nº 1, Foz do Iguaçu: Edunioeste, Brazil, pp. 09-40. DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 22.	Pombo, Olga (2008), “Elogio da Transmissão”, *Pensar a Escola*, nº 6, Lisboa: Escola Vitorino Nemésio, pp. 29-36. 
-23.	Pombo, Olga (2007), “A Escola como Memória do Futuro”, *Revista Convergência Lusíada*, 23, Número Especial. Centenário de Agostinho da Silva (1906-2006), Real Gabinete Português de Leitura do Rio de Janeiro, Brazil, pp. 281-291. ISNN: 1414-0381 
+23.	Pombo, Olga (2007), “A Escola como Memória do Futuro”, *Revista Convergência Lusíada*, 23, Número Especial. Centenário de Agostinho da Silva (1906-2006), Real Gabinete Português de Leitura do Rio de Janeiro, Brazil, pp. 281-291. 
+ISNN: 1414-0381 
 24.	Pombo, Olga (2006), “Práticas Interdisciplinares”, *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249. ISSN: 1517-4522
 25.	Pombo, Olga (2006), “Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”, *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. ISSN: 1665-3319.
-26.	Pombo, Olga (2005), “Interdisciplinaridade e Integração dos Saberes”, *LIINC em Revista*, Brazil, vol. 1, nº 1 , pp. 3 -15.
-DOI: https://doi.org/10.18617/liinc.v1i1.186
+26.	Pombo, Olga (2005), “Interdisciplinaridade e Integração dos Saberes”, *LIINC em Revista*, Brazil, v. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186
 27.	Pombo, Olga (2005), “A Escola como Memória”, *Pensar a Escola*, nº 1, Lisboa: Escola Vitorino Nemésio, pp. 33-43. 
 28.	Pombo, Olga (2002), “Vid klasyfikaciji buttia do klasyfikaciji znattia” (From the Classification of Beings to the Classification of Knowledge), Ucranian translation by Serghii Wakulenko, *Zbirnyk Xarkivs'koho istoryko-filolohičnoho tovarystva*, Karkiv, Ucrain, vol. IX: pp. 33-52.  ISBN: 966-95465-8-3
 29.	Pombo, Olga (2001), “Notas de Leitura à Margem de uma Antologia”, *Philosophica* nº 16, DF-FLUL, Lisboa, pp. 135-140. 
@@ -311,6 +304,11 @@ ISSN: 0872-4784
 48.	Pombo, Olga (1985), “Mudar a Escola, Mudar a Educação”, *Animador* n.º 1, Lisboa: MAD, pp. 12-16. DL: 2859 13/4/84
 49.	Pombo, Olga (1984), “Pedagogia por Objectivos / Pedagogia com Objectivos”, *Logos*, n.º 1, Lisboa: Filosofia Aberta, pp. 43-7 
 
+
+#### Journal’s guest editor
+ 
+•	Pombo, Olga (2015), *Axiomathes, Special Issue I, “Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+•	Pombo, Olga (2012), “Dossier: Leibniz – Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum”, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824
 
 #### Book reviews
 
