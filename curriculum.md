@@ -1,11 +1,10 @@
 # Curriculum
 
-
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Aggregation degree in “History and Philosophy of Science” also by the University of Lisbon. 
 
 Professor of Philosophy of Science at the Department of History and Philosophy of Science, Faculty of Sciences of the University of Lisbon (retired since 2017, with collaboration agreement since then), she was president of the Department since its foundation in 2007 up to 2012. She created the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL) of which she was the [Director](https://cfcul.ciencias.ulisboa.pt/equipa/olga-pombo/) since its foundation in 2003 until 2017. She coordinated several research projects - "Encyclopedia and Hypertext" (1999-02), "Scientific Culture. Conceptual Migrations and Social Contaminations" (2003-6), “Image in Science and Art” (2007-12), “Universal Logics and Unity of Science” (2008-10), “Abduction and Scientific Discovery” (2010-12), “Knowledge Dynamics in the field of Social Sciences (2012-13), and has participated as associated researcher in several other international projects.  In 2013, she created the FCT Doctoral Program "Philosophy of Science, Technology, Art and Society" of which she was program director (PI) until 2016 and where she continued to lecture until 2024 and where she still supervises several doctoral dissertations.
 
-She is the author and the editor, nationally and internationally, of numerous publications dedicated to her various research interests - namely, Leibniz, Epistemology and Philosophy of Science, Unity of Science, Interdisciplinarity, Scientific Image, Scientific Models, History and Philosophy of Sign and Language, History and Philosophy of Encyclopedism, Encyclopedia and Hypertex, Philosophy of School and, more recently, Science and Art whose teaching she has initiated in Portugal - as well as to several authors, namelly Leibniz, but also Hobbes, Spinoza, Rousseau, Hegel, Peirce, Poincaré, Neurath, Bachelard.
+She is the author and the editor, nationally and internationally, of numerous publications dedicated to several authors, namelly Leibniz, but also Hobbes, Spinoza, Rousseau, Hegel, Peirce, Poincaré, Neurath, Bachelard) and to her various research fields - namely, Epistemology and Philosophy of Science, Unity of Science, Interdisciplinarity, Scientific Image, Scientific Models, History and Philosophy of Language, History and Philosophy of Encyclopedia, Philosophy of School and, more recently, Science and Art whose teaching she has initiated in Portugal.
 
 She has been invited as visiting professor and keynote speaker at several institutions in Portugal and abroad such as University of Hannover (Germany), Zentrum für Literaturforshung Berlin (Germany), Institute for Advanced Studies of the Hebrew University of Jerusalem (Israel), Institut Universitaire Kurt Bösch (Switzerland), Vienna University (Austria), Oxford University (UK), Poznań University (Poland), University of Athens (Greece), São Paulo University (Brazil), Federal University of Latino-American Integration (Brazil), Federal University of Goias (Brazil), Pará University (Brazil), École des Mînes of Paris (France), Pisa University (Italy), University of Florence (Italy), Accademia Vivarium Novum Roma (Italy), Sevilla University (Spain), Universidad de Burgos (Spain), SPSN (Angola), Azores University (PT), University of Oporto (PT), University of Coimbra (PT). 
 
@@ -13,15 +12,13 @@ She is founding member of the “Société de Philosophie des Sciences” (Paris
 
 She founded and was chief-editor of the journal “Kairos. Journal of Philosophy & Science”, edited by CFCUL (2010-2014) and by De Gruyter (2015-2022) and is  currently chief-editor of the journal [Aion. Journal of Philosophy and Science](https://journals.ku.edu/aion), edited by the University of Kansas, USA.
 
-She was honoured as the [Founder of the "Cátedra Leopoldo Zea of Philosophy and Epistemology"](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/), of the Mercosul Advanced Studies Institut of the Federal University of Latin-American Integration (UNILA), Brazil (2011) and as [one of the 100 women](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295&ano=2016&id_area=524) selected to be part of the [1st edition of the book "Women in Science"](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/) edited by the National Agency for the Scientific and Technological Culture - Ciencia Viva (2016). 
-She was invited to be member of the honour commission of the Portuguese “Reading National Plan” (PNL 2017), member of the Scientific Council of the “Réseau National des Maisons des Sciences de l'Homme” (Paris, 2015-2022),  member of the International Scientific Advisory Board of the [CEIS20- Center for Interdisciplinary Studies](https://www.uc.pt/en/ceis20/centre-for-interdisciplinary-studies-ceis20/) at the University of Coimbra (2018-2024), and President of the General Assembly Board of the [Portuguese Logic Society](https://spl.tecnico.ulisboa.pt/en/spl-english/) (2022). 
+She was honoured as the [Founder of the "Cátedra Leopoldo Zea of Philosophy and Epistemology"](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/), of the Mercosul Advanced Studies Institut of the Federal University of Latin-American Integration (UNILA), Brazil (2011). She was selected [one of the 100 women](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295&ano=2016&id_area=524) to be part of the [1st edition of the book "Women in Science"](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/) edited by the National Agency for the Scientific and Technological Culture - Ciencia Viva (2016). 
+She was invited to be member of the honour commission of the Portuguese “Reading National Plan” (PNL 2017), member of the Scientific Council of the “Réseau National des Maisons des Sciences de l'Homme” (Paris, 2015-2022), and President of the General Assembly Board of the [Portuguese Logic Society](https://spl.tecnico.ulisboa.pt/en/spl-english/) (2022). 
 She was the object of a tribute event untitled [What if virtue is not possible to be taught? Socrates and Protagoras in tribute to Prof. Dr. Olga Pombo](https://www.facebook.com/ITPSNIB/videos/704392381189858), put forward at January 2022, by Prof. Inacio Valemtim (ITSNI, Angola), together with  Profs Aldo Dinucci (UFS, Brazil), Bruno Drumond (USP, Brazil) and Sérgio Sardi (PUCRS, Brazil). 
 Recently,  she was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). 
 
 
-
 ## Education and degrees
- 
 * 2009 – Aggregation in "History and Philosophy of Science", University of Lisbon with the lesson “Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century).
 * 1998 - PhD in Philosophy of Education, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge).  
 * 1986 - Master in "Modern Philosophy”, Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language).
@@ -33,17 +30,17 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 
 
 ## Research interests 
-
-* Epistemology and Philosophy of Science - Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Model, Discovery, Invention and creation, Science and Art (Plato, Peirce, Poincaré, Neurath, Bachelard)
-* Philosophy of Sign and Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
-* History and Philosophy of Encyclopaedism, Encyclopaedia, Hypertext and Internet
+* Epistemology and Philosophy of Science - Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Model, Science and Art (Plato, Peirce, Poincaré, Neurath, Bachelard)
+* Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
+* History and Philosophy of Encyclopaedia, Hypertext and Internet
 * History and Philosophy of School, Philosophy of Teaching, Museum, Library, Book, Reading.
-* Authors, namelly Leibniz but also 
+* 
   
 
 ## Academic career and responsabilities 
 
 * 2016 - ongoing - Professor (retired with collaboration agreement) of the “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
+* 2018 - 2024 - member of the International Scientific Advisory Board of the [CEIS20- Center for Interdisciplinary Studies](https://www.uc.pt/en/ceis20/centre-for-interdisciplinary-studies-ceis20/) at the University of Coimbra 
 * 2014 – 2017 - Founder and Program-Director of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
 * 2011- Founder and Coordinator (with Ana Simões) of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
 * 2009 – 2016 - Professor with Aggregation of the “Department of History and Philosophy of Sciences”, FCUL, since the 9th June 2009 up until retirement, the 1st January 2016. 
