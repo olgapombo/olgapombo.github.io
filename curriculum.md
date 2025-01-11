@@ -111,8 +111,7 @@ ISBN: 978-972-754-279-6.
 15.	Olga Pombo; Marco Pina (eds.) (2012) *Em torno de Darwin*,  Lisboa: Fim de Século, 187 pp. ISBN: 978-972-754-291-8.
 16.	Olga Pombo; António Guerreiro (eds.) (2012) *Da Civilização da Palavra à Civilização da Imagem*, Lisboa: Fim de Século, 186 pp. ISBN: 978-972-754-293-2.
 17.	Olga Pombo; Nuno Melim (eds.) (2013) *Rousseau e as Ciências*, Lisboa: CFCUL, 222 pp. ISBN: 978-989-8247-63-6.
-18.	Olga Pombo; Nuno Nabais (eds.) (2013) *O Lugar da Filosofia da Ciência na Universidade de Lisboa*, Lisboa: CFCUL, 250 pp. 
-ISBN: 978-989-8247-61-2.
+18.	Olga Pombo; Nuno Nabais (eds.) (2013) *O Lugar da Filosofia da Ciência na Universidade de Lisboa*, Lisboa: CFCUL, 250 pp. ISBN: 978-989-8247-61-2.
 19.	Juan Redmond; Olga Pombo; Ángel Nepomuceno (eds) (2016) *Epistemology, Knowledge and the Impact of Interaction*, series “Logic, Epistemology, and the Unity of Science”, vol. 38, Switzerland: Springer International Publishing, 554 pp.
 ISBN: 978-3-319-26504-9. DOI: 10.1007/978-3-319-26506-3.
 20.	Olga Pombo; Gil Costa (eds.) (2016) *Philosophy of Science in the XXI Century: Challenges and Tasks*, Lisboa: CFCUL, 352 pp. ISBN: 978-989-8247-72-8.
@@ -131,7 +130,7 @@ ISBN - Hb: 978 90 272 0754 8; E-book: 978 90 272 6075 8
 DOI: https://doi.org/10.1007/978-3-031-20405-0
 
 
-#### Chapters 
+### Chapters 
 1.	Pombo, Olga (1979), “Biobibliografia de Jean-Jacques Rousseau" (« Bibliography of Jean Jacques Rousseau »), in *Jean-Jacques Rousseau. Uma Exposição*, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44.
 2.	Pombo, Olga, (1988), “Notas sobre as Instituições da Filosofia”, in *A Filosofia face à Cultura Tecnológica*, edited by Adelino Cardoso, Coimbra: Associação de Professores de Filosofia, pp. 71-89. 
 3.	Pombo, Olga (1988), “Leibnizian Strategies for the Semantical Foundation of the Universal Language”, in *Leibniz, Tradition und Aktualitat*. V. Internationaler Leibniz-Kongress, vol. 1, edited by Ernest Albrecht, Hannover: Gottfried-Wilhelm Leibniz-Gesellschaft, pp. 753-760. ISBN: 3-9800978-2-X esta no livro do dutz
@@ -241,13 +240,11 @@ DOI: https://doi.org/10.1075/cvs.16.13pom
 97.	Pombo, Olga, “Model’ s nearness to the work of art”, in Selene Arfini (ed.), Abductive Reasoning, Scientific Cognition and Computational Philosophy. Essays in honor of Lorenzo Magnani, Springer’s Synthese Book Library series (forthcoming)
 98.	Pombo, Olga, “For a cartography of the concept of creation”, in Nuno Proença (ed.), Invention and Imagination, Proceedings of the conference organized by CHAM, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming).
 
-
-#### Encyclopaedia Entries
+### Encyclopaedia Entries
 Pombo, Olga (2013), “Encyclopedia”, in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257.
 DOI: http://dx.doi.org/10.4135/9781452276052
 
-
-#### Articles 
+### Articles 
 1.	Pombo, Olga (2024), « Science et École chez Bachelard.  Discontinuité et Nouveauté », *Bachelard Studies*, nº 8, 1, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, DOI: 10.7413/2724-5470100
 2.	Pombo, Olga et alii (2024), “On the Concept of Resistance.Editorial Introduction”, *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. https://journals.ku.edu/aion/article/view/23014/20807
 3.	Pombo, Olga et alii (2024), “A fotografia entre a Ciência, a Arte e a Filosofia”, *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16, https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891
@@ -304,12 +301,13 @@ ISSN: 0872-4784
 49.	Pombo, Olga (1984), “Pedagogia por Objectivos / Pedagogia com Objectivos”, *Logos*, n.º 1, Lisboa: Filosofia Aberta, pp. 43-7 
 
 
-#### Journal’s guest editor
+### Journal’s guest editor
  
 •	Pombo, Olga (2015), *Axiomathes, Special Issue I, “Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 •	Pombo, Olga (2012), “Dossier: Leibniz – Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum”, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824
 
-#### Book reviews
+
+### Book reviews
 
 1.	Pombo, Olga (2010), “A propósito de 'Relatividade e Física Clássica: Continuidade e Ruptura', apresentação de um livro de António Brotas", *Gazeta de Física*, Vol. 33, nº 2, pp. 9-12.
 2.	Pombo, Olga (2008), Todos os Homens por Natureza Desejam Conhecer”, in Barros Veloso, António, *Medicina e outras Coisas*, Lisboa: Gradiva, pp. 7-11. 
@@ -318,7 +316,7 @@ ISSN: 0872-4784
 5.	Pombo, Olga (1984), “Herbert H. Knecht. ‘La Logique chez Leibniz’”, *Análise*, nº 1, Lisboa, Gec, pp. 231-239.
 
 
-#### Scholar brochures 
+### Scholar brochures 
  1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.), (1990) *Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências*,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
 2.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1991) , *Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências*,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
 3.	Olga Pombo (ed.) (1994), *McLuhan. A Escola e os Media* (anthology of texts by M. McLuhan, translated and prefaced), 1º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 73 pp. 
@@ -333,10 +331,50 @@ ISSN: 0872-4784
 9.	Olg a Pombo (ed.) (2005), *Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset* (anthology with introduction and revised translation), 7º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 40 pp.  <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno7>  
 
 
-#### Publications at exhibitions
+### Publications at exhibitions
 1.	Pombo, Olga (2019), “A Bioarte de Isa Duarte Ribeiro, *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
 2.	Pombo, Olga (2004), "From Thomas More to Rousseau", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
 3.	Pombo, Olga (2004), "Utopia at XIX century. Utopian Socialism. The Hope in the Future City", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
 4.	Pombo, Olga (2004), "Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia ", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
 5.	Pombo, Olga (2003), “Enciclopédia, Hipertexto e Condição Humana”, *A Condição Humana* exhibition by Rodrigo Vilhena, Lisboa.
 6.	Pombo, Olga (1996), “Nenhum Vento”, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
+
+	
+### Journal editor
+
+•	Founder and editor in chief of [Aion. Journal of Philosophy & Science](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
+•	Founder and editor in chief of [Kairos. Journal of Philosophy & Science](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
+•	Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
+
+
+### Book series editor 
+
+* Director of the book series **A Imagem na Ciência e na Arte**, Lisboa: Fim de Século (12 volumes published).  
+* Director of the book series **Cadernos de Filosofia da Ciência**, Lisboa: CFCUL (13 volumes published).
+* Director of the book series **Documenta**, Lisboa: CFCUL (11 published volumes). 
+* Director of the book series **Theses**, Lisboa: CFCUL (7 published volumes).  
+* Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes). 
+* Member of the editorial board of the book series “Interdisciplinarité, Sciences et Humanités”, ISTE Science Publishing, UK (since 2017).<https://www.istegroup.com/fr/collection/interdisciplinarite-sciences-et-humanites/>
+* Member of the editorial board of the book series “Processos Formativos”, Editora FI, Porto Alegre, Brazil (since 2017) <http://www.editorafi.org/serieprocessosformativos>
+* Member of the scientific committee of the editorial series "Applied Ethics and Philosophical Anthropologies", Milella Publishing House, Lecce, Italy (since 2024).
+
+
+### Journal boards 
+
+•	Member of the editorial board of the journal [Latin American Human Rights Studies (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021) 
+•	Member of the international editorial board of the journal **Currículo, Cultura e Identidade**, Unesp. Sao Paulo, Brazil (since 2020)
+•	Member of the scientific board of the journal [Interdisciplinaridade, GEPI - Grupo Estudos e Pesquisa em Interdisciplinaridade](https://revistas.pucsp.br/index.php/interdisciplinaridade/about/editorialTeam) (ISSN 2179-0094), PUC-SP, Brazil (since 2017).
+•	Member of the scientific board of the journal [Omnia. Revista Interdisciplinar de Ciências e Artes](https://grei.pt/revista-omnia/) (ISSN 2183-8720), GREI, Faro (since 2015)
+•	Member of the scientific board of the journal **Sol Nascente**, ISPSN, Angola (since 2013)
+•	Member of the scientific board of the journal Revista do Centro de Investigação sobre Ética Aplicada (CISEA), Angola (since 2012)  
+•	Member of the advisory board of the journal [Logos and Episteme. An International Journal of Epistemology](https://www.pdcnet.org/logos-episteme/Editorial-Team) (ISSN 2069-0533), Romania Academy (since 2010)
+•	Member of the scientific board of the journal [RHV. An International Journal of Philosophy](https://revistas.uv.cl/index.php/RHV/about/editorialTeam), Instituto de Filosofia, Faculdade de Humanidades, Valparaiso, Chile
+•	Member of the scientific board of the journal [Cuadernos de Lógica, Epistemologia y Lenguaje](https://www.collegepublications.co.uk/cuadernos/), College Publication, UK (since 2007)   
+•	Member of the editorial council of the journal [Contexto e Educação](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil (since 2006).  
+•	Member of the consulting board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (since 2000).  
+•	Member of the editorial board of the journal **Argumento. Revista Quadrimestral de Filosofia**, edited by Cosmos, Lisboa (1990-1993).  
+•	Member of the editorial board of the journal **Revista de EducaçãoPP, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
+•	Member of the editorial board of the journal **Filosofia**, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
+
+
+
