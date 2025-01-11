@@ -35,7 +35,6 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
 * History and Philosophy of Encyclopaedia, Hypertext and Internet
 * History and Philosophy of School, Philosophy of Teaching, Museum, Library, Book, Reading.
-* 
   
 
 ## Academic career and responsabilities 
