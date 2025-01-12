@@ -10,17 +10,15 @@
      2.	[Especialização e interdisciplinaridade (Specialization and Interdisciplinarity)](https://www.youtube.com/watch?v=ExyaET0GuVg)
      3.	[Sociologia da Ciencia. Ciencia e Sociedade (Sociology of Science. Science and Society)](https://www.youtube.com/watch?v=Ua2vMtqdgW8)
      4.	[A Enciclopedia e a Internet (The Encyclopaedia and the Internet)](https://www.youtube.com/watch?v=bLyV4bwh8sM)
- 
+ *  [Língua é Poder (Language is Power)](https://arquivos.rtp.pt/conteudos/olga-pombo-e-guilherme-doliveira-martins/),  debate with the journalist Paula Moura Pinheiro (other participant: Guilherme d'Oliveira Martins), televison program  "Câmara Clara", RTP2, 15 July 2007. 
 
 
 ## Televison and Radio interviews
 
-* **O bosão de Higgs**, television program "Prós e Contras",  moderated by the journalist Fatima Campos Ferreira, RTP1, 9 July 2012.  
+* **O bosão de Higgs**, participation on the television program "Prós e Contras",  moderated by the journalist Fatima Campos Ferreira, RTP1, 9 July 2012.  
 * **Imagem na Ciência e na Arte' desvenda corpo humano (Image in Science and Art unveils the human body**, televison interview  by the journalist Lucia Alves, at the program “TV Ciência”, RTP1,  14 February 2011 
-<http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18022011.pdf>
 * **Sobre a Ciência (On Science)**, television interview by the journalist Vasco Trigo, at the program “Com Ciência”, RTP 1, 23 February 2011.
 *  **Sobre a ideia de enciclopédia**, television interview by the journalist Paula Moura Pinheiro, at the program "Câmara Clara",  RTP 2, 19 January 2010.
-*  [Língua é Poder (Language is Power)](https://arquivos.rtp.pt/conteudos/olga-pombo-e-guilherme-doliveira-martins/), televison program  "Câmara Clara", with the journalist Paula Moura Pinheiro (other participant: Guilherme d'Oliveira Martins), RTP2, 15 July 2007. 
 * **Agostinho da Silva**, Radio interview, TSF, 13 February 2006
 * **A politica da Educação (Politics of Education)**, radio interview, Rádio Paris-Lisboa, 25 October 2005.
 * **On the book "A Escola, A Recta e o Circulo"** radio interview by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002.
