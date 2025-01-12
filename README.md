@@ -23,4 +23,3 @@
 
   [Media Mentions](media_mentions.md)
 
-</div>
