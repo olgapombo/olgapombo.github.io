@@ -17,7 +17,8 @@
 ## Radio interviews
 
 * **Jean-Jacques Rousseau**, Rádio Comercial, program directed by Luísa Costa Gomes, Lisboa, 6th May 1985.  
-* **O projecto leibniziano de uma Mathesis Universalis**, at the cycle “Leibniz, Filósofo, Matemático e Historiador. Leibniz nasceu há 350 anos”, Rádio Difusão Portuguesa, Lisboa, 6th July 1996.  
-* **Current Portuguese Education**, Rádio Paris - Lisboa, 20 June 2001. 
-* **Politics of education**, Rádio Paris- Lisboa, Lisboa, 25 October 2005.
+* **O projecto Leibniziano de uma Mathesis Universalis (The Leibnizian project of a Mathesis Universalis)**, at the cycle “Leibniz, Filósofo, Matemático e Historiador. Leibniz nasceu há 350 anos”, Rádio Difusão Portuguesa, Lisboa, 6th July 1996.  
+* **(A situação da Educação em Portugal (Current Portuguese Education)**, Rádio Paris - Lisboa, 20 June 2001. 
+* **On the book "A Escola, A Recta e o Circulo"** with the journalist Paula Moura Pinheiro, Rádio Paris- Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002. 
+* **A politica da Educação (Politics of Education)**, Rádio Paris- Lisboa, Lisboa, 25 October 2005.
 * **Agostinho da Silva**, TSF, 13th February 2006 
