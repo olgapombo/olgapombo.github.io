@@ -10,4 +10,14 @@
      2.	[Especialização e interdisciplinaridade (Specialization and Interdisciplinarity)](https://www.youtube.com/watch?v=ExyaET0GuVg)
      3.	[Sociologia da Ciencia. Ciencia e Sociedade (Sociology of Science. Science and Society)](https://www.youtube.com/watch?v=Ua2vMtqdgW8)
      4.	[A Enciclopedia e a Internet (The Encyclopaedia and the Internet)](https://www.youtube.com/watch?v=bLyV4bwh8sM)
-     	
+* [Língua é Poder](https://arquivos.rtp.pt/conteudos/olga-pombo-e-guilherme-doliveira-martins/), Televison program (RTP2) "Câmara Clara", with the journalist Paula Moura Pinheiro, 15 July 2007  
+
+
+
+## Radio interviews
+
+* **Jean-Jacques Rousseau**, Rádio Comercial, program directed by Luísa Costa Gomes, Lisboa, 6th May 1985.  
+* **O projecto leibniziano de uma Mathesis Universalis**, at the cycle “Leibniz, Filósofo, Matemático e Historiador. Leibniz nasceu há 350 anos”, Rádio Difusão Portuguesa, Lisboa, 6th July 1996.  
+* **Current Portuguese Education**, Rádio Paris - Lisboa, 20 June 2001. 
+* **Politics of education**, Rádio Paris- Lisboa, Lisboa, 25 October 2005.
+* **Agostinho da Silva**, TSF, 13th February 2006 
