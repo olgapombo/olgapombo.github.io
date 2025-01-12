@@ -59,3 +59,45 @@
 15.	Diogo Miguel Silva da Cunha, **Processo e Realidade Social. Reconstrução do núcleo teórico da Sociologia Processual de Norberto Elias**, Master in “History and Philosophy of Science”, FCUL, 5th April 2021 (very good, unanimity).
 
 
+## Professors on sabbaticals 
+ 
+1.	Juan Manuel Torres, National University of Cuyo, Argentina, Fundação Gulbenkian grant, research stay at the CFCUL (October 2003-February 2004). 
+2.	Marcelo Dascal, Tel-Aviv University, Israel, Fundação Gulbenkian grant, research stay at the CFCUL (March 2004 – June 2004). 
+3.	Francisco J. Salguero Lamillar, University of Sevilla – Group on Logic, Language and Information, Spain, research stay at the CFCUL (October 2007 - December 2007). 
+4.	Angel Nepomuceno, University of Sevilla – Group on Logic, Language and Information, Spain, research stay at the CFCUL (January 2007- April 2008). 
+5.	Paula Ramos, UNESP - S. Paulo, Brazil, Capes grant, research stay at the CFCUL (September 2008- December 2008). 
+6.	Rasmus Tore Slaattelid, University of Bergen, Centre for the Study of the Sciences and the Humanities, Norway, research stay at the CFCUL (2008-2009). 
+7.	Rosana Monteiro, Federal University of Goiás, Brazil, Capes Grant, research stay at the CFCUL (September 2009-September 2010).  
+8.	Fernando Soler, University of Sevilla, Group on Logic, language and information, Spain, research stay at the CFCUL (June - September 2010).  
+9.	Jose Ernesto Calderón, National University of Cuyo, Argentina, research stay at the CFCUL (September - November 2010). 
+10.	Emilio Gomez Caminero, University of Sevilla, Group on Logic, language and information, Spain, research stay at the CFCUL (June - October 2012).
+11.	Giovanni Scarafile, University of Salento, Italy, Erasmus Mundus Grant, research stay at the CFCUL (September 2013).
+12.	Sergio Hugo Menna, Federal University of Sergipe, Brazil, CAPES Grant, research stay at the CFCUL (November 2014 – November 2015).
+13.	Wagner de Campos Sanz, Goiás University, Brazil, CAPES Grant, research stay at the CFCUL (December 2014 – March 2015).
+14.	Lorenzo Baravalle, Federal University S. Paulo, Brazil, CAPES Grant, research stay at the CFCUL (May 11 – 7 July 2015).
+15.	María Antonia González Valerio, Universidad Nacional Autónoma de México (UNAM), research stay at the CFCUL (April  - June 2016).
+16.	Fernando Contreras Medina, Universidad de Sevilla, research stay at the CFCUL (April - September 2016).
+17.	Fernando Contreras Medina, Universidad de Sevilla, research stay at the CFCUL (May - Setember 2017).
+18.	Kelin Valeirão, Universidade Federal de Pelotas, Brazil, CAPES Grant, research stay at the CFCUL (November - December 2017).
+19.	Sonia Schio, Universidade Federal de Pelotas, Brazil, CAPES Grant, research stay at the CFCUL (January 2018).
+
+
+## Research stages of doctoral students
+
+1.	Remi Schorn, Pontific University Catolic South Rio Grande (PUC-RS), Brazil (March - July 2007). 
+2.	Roseli Hickmann, Federal University South Rio Grande (UFRGS), Brazil (May - August 2007).
+3.	Silvia Meireles, Federal University South Rio Grande (UFRGS), Brazil (September 2007 - January 2008).  
+4.	Michael Cortês Gomes, State University of S. Paulo (UESP), Brazil (November 2009 - October 2010). 
+5.	Cristina Barés Gómez, Instituto de Estudios Islámicos y del Oriente Próximo (IEIOP), Spain (January - June 2011). 
+6.	Sara Fuentes Cid, Faculdade of Fine Arts, Pontevedra, Spain (September 2010 - September 2011). 
+7.	Érik Luca de Mello, IMESSM-SP/FIEL/UFSCAR, Brazil (January - June 2012). 
+8.	José Pedro Henriques Gonçalves, Federal University of Santa Catarina, UFSC, Brazil (June - October 2012). 
+9.	Eliana Carvalho, State University of Bahia, Brazil (June - December 2013). 
+10.	Ludmila Freire, Federal University of Ceará, Brazil (September 2013 - September 2014).
+11.	Luiz Henrique Abrahão, Federal University of Minas Gerais (UFMG), Brazil (9 October 2013 – 27 January 2014).
+12.	Jorge Mendes Soares, Federal University of Rio de January (UFRJ), Brazil (October - December 2014).
+13.	Luisa Olivia Lacerda Ramos, Federal University of Bahia (UFBA), Brazil (June 2015 - January 2016).
+14.	Diego Jiménez Palmero, Faculdad de Filologia, Universidad de Sevilla, Espanha (1 May - 31 July 2017).
+15.	Fausto Rogerio Gentile, Senac, São Paulo, Brazil (1 April - 30 July 2017).
+16.	Rosangela Alemida Chaves, Faculdade de Filosofia, Federal University of Goias, Brazil (1 July- 31 July 2017).
+
