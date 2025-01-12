@@ -1,13 +1,11 @@
 
 | Coluna 1 | Coluna 2 |
 |----------|----------|
-| Linha 1  | Dado 1   |
-| Linha 2  | Dado 2   |
+| Linha 1  | <img src="./images/OPombo_Nancy.jpg" alt="Olga Pombo" width="250" height="250">  |
 
 
-<div style="text-align: right;">
-  <img src="./images/OPombo_Nancy.jpg" alt="Olga Pombo" width="250" height="250">
 
+  
   Presentation
 
   [Curriculum](curriculum.md)
