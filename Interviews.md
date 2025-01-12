@@ -10,7 +10,7 @@
      2.	[Especialização e interdisciplinaridade (Specialization and Interdisciplinarity)](https://www.youtube.com/watch?v=ExyaET0GuVg)
      3.	[Sociologia da Ciencia. Ciencia e Sociedade (Sociology of Science. Science and Society)](https://www.youtube.com/watch?v=Ua2vMtqdgW8)
      4.	[A Enciclopedia e a Internet (The Encyclopaedia and the Internet)](https://www.youtube.com/watch?v=bLyV4bwh8sM)
-* [Língua é Poder](https://arquivos.rtp.pt/conteudos/olga-pombo-e-guilherme-doliveira-martins/), Televison program (RTP2) "Câmara Clara", with the journalist Paula Moura Pinheiro, 15 July 2007  
+* [Língua é Poder (Language is Power)](https://arquivos.rtp.pt/conteudos/olga-pombo-e-guilherme-doliveira-martins/), Televison program (RTP2) "Câmara Clara", with the journalist Paula Moura Pinheiro, 15 July 2007  
 
 
 
