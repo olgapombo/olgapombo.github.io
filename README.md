@@ -21,7 +21,6 @@
 
   [Teaching / Doctor Program FCTAS](teaching_doctoral_program.md)
 
-  [Media Mentions](media_mentions.md)
-
   [Supervision](supervision.md)
 
+  [Media Mentions](media_mentions.md)
