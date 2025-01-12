@@ -1,4 +1,4 @@
-<div style="text-align: right;"> <img src="./images/OPombo_Nancy.jpg" alt="Alt text"> </div>
+<img src="./images/OPombo_Nancy.jpg" alt="Olga Pombo" width="250" height="250">
 
 Presentation
 
