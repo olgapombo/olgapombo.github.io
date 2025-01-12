@@ -15,7 +15,7 @@
 
   [Research / Projects](/research/projects.md)
 
-  [Teaching / Doctoral Program](teaching_doctoral_program.md)
+  [Teaching / Doctor Program FCTAS](teaching_doctoral_program.md)
 
   [Media Mentions](media_mentions.md)
 
