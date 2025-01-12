@@ -1,1 +1,1 @@
-# Supervision of PhD dissertations
+# Supervision of PhD Dissertations
