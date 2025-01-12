@@ -90,7 +90,7 @@
 4.	Michael Cortês Gomes, State University of S. Paulo (UESP), Brazil (November 2009 - October 2010). 
 5.	Cristina Barés Gómez, Instituto de Estudios Islámicos y del Oriente Próximo (IEIOP), Spain (January - June 2011). 
 6.	Sara Fuentes Cid, Faculdade of Fine Arts, Pontevedra, Spain (September 2010 - September 2011). 
-7.	Érik Luca de Mello, IMESSM-SP/FIEL/UFSCAR, Brazil (January - June 2012). 
+7.	Érik Luca de Mello, Federeal University of S. Carlos ((UFSCar), Brazil (January - June 2012). 
 8.	José Pedro Henriques Gonçalves, Federal University of Santa Catarina, UFSC, Brazil (June - October 2012). 
 9.	Eliana Carvalho, State University of Bahia, Brazil (June - December 2013). 
 10.	Ludmila Freire, Federal University of Ceará, Brazil (September 2013 - September 2014).
