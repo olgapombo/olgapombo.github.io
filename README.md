@@ -1,5 +1,4 @@
 
-| Coluna 1 | Coluna 2 |
 |----------|----------|
 | Linha 1  | <img src="./images/OPombo_Nancy.jpg" alt="Olga Pombo" width="250" height="250">  |
 
