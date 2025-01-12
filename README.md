@@ -1,4 +1,4 @@
-![Olga Pombo](./images/OPombo_Nancy.jpg)
+<div style="text-align: right;"> <img src="./images/OPombo_Nancy.jpg" alt="Alt text"> </div>
 
 Presentation
 
