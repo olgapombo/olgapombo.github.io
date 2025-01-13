@@ -22,7 +22,7 @@
 *  **Sobre a ideia de enciclopédia**, television interview by the journalist Paula Moura Pinheiro, at the program "Câmara Clara",  RTP 2, 19 January 2010.
 * **Agostinho da Silva**, Radio interview, TSF, 13 February 2006
 * **A politica da Educação (Politics of Education)**, radio interview, Rádio Paris-Lisboa, 25 October 2005.
-* **On the book "A Escola, A Recta e o Circulo"** radio interview by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002.
+* **A Escola, A Recta e o Circulo** radio interview about the publication of the book, by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002.
 * **Livres e Iguais**, television program moderated by the journalist Paula Moura Pinheiro (other participants: Augusto Santos Silva (Minister of Education), Roberto Carneiro, José Pacheco and João Soeiro), RTP 2 channel, 20th and 22 June 2001.
 * **A situação da Educação em Portugal (Current Portuguese Education)**, radio interview by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa, 20 June 2001.
 * **O projecto Leibniziano de uma Mathesis Universalis (The Leibnizian project of a Mathesis Universalis)**, radio interview by Luísa Costa Gomes, at the cycle “Leibniz, Filósofo, Matemático e Historiador. Leibniz nasceu há 350 anos”, Rádio Difusão Portuguesa, Lisboa, 6th July 1996.  
