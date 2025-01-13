@@ -35,13 +35,12 @@
 * **Persistência da Memória**, interview with journalist Daniel Branco, newspapper *Jornal de Letras*. Educação, 8 January 2003. 
 * **About the publishing of the book "Interdisciplinaridade: Ambições e Limites”**, interview newsletter *Infociências* nº 142, 1 February 2005, pp. 12-14 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op122005.pdf> 
 * **O que é e não é ciencia(What Science is and What is not**, interview by the *Pós-graduation program in Teching methodology*, Universidade Federal de São Carlos, 2006 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op2006.pdf>
-* **Fernando Gil, filósofo do conhecimento (Fernando Gil, Philosopher of knowledge)**, newspapper *Expresso*, supplement *Actual*, p. 23, 25 March 2006
-<http://webpages.fc.ul.pt/~ommartins/publicacoes%20opombo/fernandogil.htm>
+* [Fernando Gil, filósofo do conhecimento (Fernando Gil, Philosopher of knowledge)](http://webpages.fc.ul.pt/~ommartins/publicacoes%20opombo/fernandogil.htm), newspapper *Expresso*, supplement *Actual*, p. 23, 25 March 2006
 * **Ciência em Movimento. Os nossos neurónios. Cérebros Portugueses de que temos orgulho (Science in Movement. Our neurons. Portuguese brains we are proud of**, interview by the journalist Helena Mendonça, *Diário de Notícias Magazine*, 18 May 2008
 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18052008.pdf>
 * **Este ensino só precisa de um bom professor, quadro e giz (This teaching only needs a good teacher, board and chalk)**, interview by the journalist Clara Viana, *Newspapper Público*, 24 June 2008. 
 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op24062008.pdf>
-* [A escola é o lugar onde a memória se faz futuro (The school is the place where memory becomes the future)](https://www.apagina.pt/?aba=6&cat=566&doc=15080&mid=1), interview by the journalist Antonio Baldaia, *Magazine Página da Educação*,  Winter 2011, II, n.º 195, pp. 9-20. <http://www.apagina.pt/?aba=7&cat=549&doc=14705&mid=2>
-*  **About the publishing of the book "Círculo dos Saberes"**, interview *Newsletter” of FCUL", 24 October 2012. <https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf>
+* [A escola é o lugar onde a memória se faz futuro (The school is the place where memory becomes the future)](https://www.apagina.pt/?aba=6&cat=566&doc=15080&mid=1), interview by the journalist Antonio Baldaia, *Magazine Página da Educação*,  Winter 2011, II, n.º 195, pp. 9-20. 
+*  **About the publishing of the book "Círculo dos Saberes"**, interview by the *Newsletter” of FCUL*, 24 October 2012. <https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf>
 * **3 perguntas a Olga Pombo àcerca da publicação do seu livro "Da Civilização da Palavra à Civilização da Imagem (3 questions to Olga Pombo, about the publication of her book "From Word Civilization to Image Civilization")**, interview by the *“Newsletter” of the FCUL*, 21 June, 2013. <http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf>
 
