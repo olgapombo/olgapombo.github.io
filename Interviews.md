@@ -1,6 +1,6 @@
 # Online interviews 
 
-* [Olga Pombo. Pensare vuol dire allargare i confini](https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini), Avvenire, 29 Maggio 2022, p.A 22 (presented by Giovanni Scarafile). 
+* [Olga Pombo: Pensare vuol dire allargare i confini](https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini), Avvenire, 29 Maggio 2022, p.A 22 (presented by Giovanni Scarafile). 
 * [Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)](https://youtu.be/JThAgUMkH0Y), RTP2 TV program "Vamos beber um café e falar sobre isso" (with journalist José Navarro de Andrade), 24 January 2022 (on the publication of the second edition of the book ["Interdisciplinarity. Ambitions and Limits"](https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites))
 *	[Philosopher Olga Pombo](https://www.youtube.com/watch?v=oOZaGbF3aLs&feature=youtu.be), "Contemporary Philosophy - Global Conversations", online interview with John Symos, Mana Platform, 7 July 2020.
 * [Interdisciplinaridade (Interdisciplinarity)](https://www.youtube.com/watch?v=HJdyKZbsZes), online interview with Helena Esser, Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (PPGIDH), Universidade Federal de Goias, Brazil, 14 August, 2020. 
