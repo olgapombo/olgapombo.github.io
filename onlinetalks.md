@@ -21,7 +21,7 @@
 19. [As Imagens com que a Ciência se Faz](https://www.youtube.com/watch?v=EOeRNNt48fY), at ”Ciência às Seis”, Centro Ciência Viva da Universidade de Coimbra, 10 November, 2020. 
 20. [Ciencia e Arte. Afinidades Admiráveis e Diferenças Sublimes](https://www.youtube.com/watch?v=Bq12-IleNRM&list=PLBJEkvYhpHiYVdxEBNZ3Xq5dTitATsOcw&index=13&t=229s), at FICA, International Science Festival, Oeiras, 13 October 2021.
 21. [The cognitive nature of interdisciplinarity](https://www.youtube.com/watch?v=GDT6eFVRNVE),  I Simposio Internacional “Integrated Teaching in Specific Didactics: Potentialities and Challenges of Transdisciplinary Integration”, Universidade de Burgos, Spain, 10 November 2021.
-22. ”The cognitive nature of interdisciplinarity”, at the round table of the I simposio Internacional Integrated Teaching in Specific Didactics: Potentialities and Challenges of Transdisciplinarity Integration, Universidad de Burgos, Spain, 12 November 2021, <https://www.youtube.com/watch?v=GDT6eFVRNVE>
+22. [The cognitive nature of interdisciplinarity](https://www.youtube.com/watch?v=GDT6eFVRNVE)”, at the round table of the I simposio Internacional Integrated Teaching in Specific Didactics: Potentialities and Challenges of Transdisciplinarity Integration, Universidad de Burgos, Spain, 12 November 2021, <https://www.youtube.com/watch?v=GDT6eFVRNVE>
 23. [A Escola e os Grandes Desafios da Contemporaneidade](https://www.youtube.com/watch?v=q3TqyHFEMyg), Grupo de Estudos e Pesquisas em Políticas Públicas e Formação, Universidade Federal de Viçosa, Brazil, 10 february 2022. 
 
 
