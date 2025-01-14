@@ -16,7 +16,7 @@
 * [**Utopia Tecnológica**](https://www.youtube.com/watch?v=v0P5CvZ0T8s) (51.20), debate on “European Utopia: the power of imagination and the imperatives of the future”, Fundação Serralves, Porto, 6 February 2019. 
 * [**Alan Turing: Cientista Universal**](https://www.youtube.com/watch?v=3L1G9TR3tCE), (30.25), book launch promoted by Universidade do Minho Editora, Braga, 14th July 2020.  
 * [**Oralidade, escrita e tecnologia**](https://www.facebook.com/watch/live/?ref=watch_permalink&v=992927447849286), at the “V International ISPSN Debates”, Angola, 12 October 2020.
-* [**Que fazer hoje com a nossa escola de ontem?](https://www.youtube.com/watch?v=TPgE23HCRkc), at the Universidade Federal do Pará, Brazil, 13 April 2021.
+* [**Que fazer hoje com a nossa escola de ontem?**](https://www.youtube.com/watch?v=TPgE23HCRkc), at the Universidade Federal do Pará, Brazil, 13 April 2021.
 * **A Leitura no Mundo de Ontem e no Mundo de Amanhã**, at the colloquium “Present-Future: the Omni presence of Reading”, Plano Nacional de Leitura (PNL), 29th October 2020. <https://www.facebook.com/watch/live/?v=4790947360945>.	
 * [**As Imagens com que a Ciência se Faz**](https://www.youtube.com/watch?v=EOeRNNt48fY), at ”Ciência às Seis”, Centro Ciência Viva da Universidade de Coimbra, 10 November, 2020. 
 * [**Ciencia e Arte. Afinidades Admiráveis e Diferenças Sublimes**](https://www.youtube.com/watch?v=Bq12-IleNRM&list=PLBJEkvYhpHiYVdxEBNZ3Xq5dTitATsOcw&index=13&t=229s), at FICA, International Science Festival, Oeiras, 13 October 2021.
