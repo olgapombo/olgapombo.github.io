@@ -13,7 +13,7 @@
 11. [O valor cognitivo da árvore](https://www.facebook.com/watch/live/?v=334326760337147&ref=watch_permalink), at the round table “Valor da Árvore”, organized by Doctoral College F3-UL and the project “Muita Fruta”, 3 July 2017.
 12. [Por que Razão Marcho pela Ciência?](https://www.youtube.com/watch?v=hgTy1DrLLd0), at Marcha pela Ciência, Largo do Carmo,  Lisboa, 22 April 2017.
 13. [A atitude cientifica. O que é a ciência e o que não é](https://www.facebook.com/ffms.pt/videos/801222530297548), (3.01.03), Foundation Francisco Manuel dos Santos, Universidade de Aveiro, 8 October 2019.
-14. [Utopia Tecnológica](https://www.youtube.com/watch?v=v0P5CvZ0T8s), debate on “European Utopia: the power of imagination and the imperatives of the future”, Fundação Serralves, Porto, 6 February 2019. 
+14. [Utopia Tecnológica](https://www.youtube.com/watch?v=v0P5CvZ0T8s) (51.20), debate on “European Utopia: the power of imagination and the imperatives of the future”, Fundação Serralves, Porto, 6 February 2019. 
 15. [Alan Turing: Cientista Universal](https://www.youtube.com/watch?v=3L1G9TR3tCE), (30.25), book launch promoted by Universidade do Minho Editora, Braga, 14th July 2020.  
 16. [Oralidade, escrita e tecnologia](https://www.facebook.com/watch/live/?ref=watch_permalink&v=992927447849286), at the “V International ISPSN Debates”, Angola, 12 October 2020.
 17. [Que fazer hoje com a nossa escola de ontem?](https://www.youtube.com/watch?v=TPgE23HCRkc), at the Universidade Federal do Pará, Brazil, 13 April 2021.
