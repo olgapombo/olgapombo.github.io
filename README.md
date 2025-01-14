@@ -17,7 +17,7 @@ and reordered in every possible way”
 
   [Online Publications](online_publications.md)
 
-  [Online Interviews](onlineinterviews.md)
+  [Interviews](interviews.md)
 
   [Online Talks](onlinetalks.md)
 
