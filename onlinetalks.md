@@ -3,7 +3,7 @@
 1. [Filosofia, Física e a Unidade da Ciência](https://www.youtube.com/watch?v=BYRnpdQxbhU), Conference Cycle “Física sem Fronteiras, Portuguese Physics Society and Physics Department of the Universitdade do Porto, Oporto, 7 May 2005.
 2. Darwin and the Scientific Illustration”, in the context of research project “Image in Science and Art” in collaboration with Ciência Viva, Lisboa, 21-22 April 2009. <http://www.cvtv.pt/imagens/index.asp?id_video=293>
 3. Interdisciplinary Changes for the Study of Emergent Phenomena, at “Encontros da Arrábida” (ISCTE), 7-9 June 2009. < https://vimeo.com/5788444>
-4. Models and Representations of Knowledge Organization, at “ECCS'10 European Conference on Complex Systems”, 2010. <http://vimeo.com/15233007>
+4. Models and Representations of Knowledge Organization, at “ECCS'10 European Conference on Complex Systems”, 2010. <http://vimeo.com/15233007>, https://vimeo.com/15233007
 5. Welcoming words at the “International Conference on Evolutionary Patterns”, organized by AEPEE-Lab, Calouste Gulbenkian Foundation, Lisboa (2013).< https://www.youtube.com/watch?v=EgAsN8Pwqkc>
 6. [Filosofia, Educação e Interdisciplinaridade](https://www.youtube.com/watch?v=2kcCznweujs), Federal University of Goiás (UFG) and Pontifícia Universidade Católica de Goiás (PUC), Goias, 9 October 2012. 
 7. [Epistemology of Interdisciplinarity](https://www.youtube.com/watch?v=jLKlGGCxf_Y), Faculty of Engineering of Innovation, Lecce, Italy, 6 - 9 May 2014. 
