@@ -23,5 +23,3 @@
 21. [The cognitive nature of interdisciplinarity](https://www.youtube.com/watch?v=GDT6eFVRNVE),  I Simposio Internacional “Integrated Teaching in Specific Didactics: Potentialities and Challenges of Transdisciplinary Integration”, Universidade de Burgos, Spain, 10 November 2021
 22. [A Escola e os Grandes Desafios da Contemporaneidade](https://www.youtube.com/watch?v=q3TqyHFEMyg), Grupo de Estudos e Pesquisas em Políticas Públicas e Formação, Universidade Federal de Viçosa, Brazil, 10 february 2022.
 23. [Why to celebrate today Plato's Protagoras](https://www.facebook.com/watch/live/?ref=watch_permalink&v=704392381189858), (51.04) "What if virtue is not possible to be taught? Socrates and Protagoras in tribute to Prof. Dr. Olga Pombo”, Instituto Técnico Privado de Saúde Numa I do Bailundo (ITSNI), Angola, 5th January, 2022. <https://www.facebook.com/ITPSNIB/videos/704392381189858>
-
-Angola, https://www.facebook.com/watch/live/?ref=watch_permalink&v=704392381189858
