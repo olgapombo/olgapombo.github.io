@@ -19,7 +19,7 @@
 * **O Bosão de Higgs**, participation on the television program "Prós e Contras",  moderated by the journalist Fatima Campos Ferreira, RTP1, 9 July 2012.  
 * **Imagem na Ciência e na Arte' Desvenda Corpo Humano (Image in Science and Art Unveils the Human Body**, televison interview  by the journalist Lucia Alves, at the program “TV Ciência”, RTP1,  14 February 2011 
 * **Sobre a Ciência (On Science)**, television interview by the journalist Vasco Trigo, at the program “Com Ciência”, RTP 1, 23 February 2011.
-*  **Sobre a Ideia de Enciclopédia**, television interview by the journalist Paula Moura Pinheiro, at the program "Câmara Clara",  RTP 2, 19 January 2010.
+*  **Sobre a Ideia de Enciclopédia (On the Idea of Encyclopaedia**, television interview by the journalist Paula Moura Pinheiro, at the program "Câmara Clara",  RTP 2, 19 January 2010.
 * **Agostinho da Silva**, Radio interview, TSF, 13 February 2006
 * **A Politica da Educação (Politics of Education)**, radio interview, Rádio Paris-Lisboa, 25 October 2005.
 * **A Escola, A Recta e o Circulo (The School, the Straigt Line and the Circle** radio interview about the publication of the book, by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002.
