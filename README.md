@@ -1,10 +1,12 @@
 
 |          |          |
 |----------|----------|
-| "Cada vida é uma enciclopédia, uma biblioteca, um inventário de objetos, 
-   um catálogo de estilos, onde tudo pode ser constantemente remexido e 
-   reordenado de todas as maneiras possíveis”
-                     Italo Calvino, “Lezioni Americane - Sei Proposte per il Prossimo Millennio”
+|"Each life is an encyclopedia, a library, 
+an inventory of objects, a catalog of styles, 
+where everything can be constantly stirred up
+and reordered in every possible way”
+      Italo Calvino, “Lezioni Americane. Sei 
+      Proposte per il Prossimo Millennio”
  | <img src="./images/OPombo_Nancy.jpg" alt="Olga Pombo" width="250" height="250">  |
 
 
