@@ -241,24 +241,23 @@ DOI: https://doi.org/10.1075/cvs.16.13pom
 98.	Pombo, Olga, “For a cartography of the concept of creation”, in Nuno Proença (ed.), Invention and Imagination, Proceedings of the conference organized by CHAM, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming).
 
 ### Encyclopaedia Entries
-Pombo, Olga (2013), “Encyclopedia”, in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257.
+Pombo, Olga (2013), **Encyclopedia**, in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257.
 DOI: http://dx.doi.org/10.4135/9781452276052
 
 ### Articles 
-1.	Pombo, Olga (2024), « Science et École chez Bachelard.  Discontinuité et Nouveauté », *Bachelard Studies*, nº 8, 1, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, DOI: 10.7413/2724-5470100
-2.	Pombo, Olga et alii (2024), “On the Concept of Resistance.Editorial Introduction”, *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. https://journals.ku.edu/aion/article/view/23014/20807
-3.	Pombo, Olga et alii (2024), “A fotografia entre a Ciência, a Arte e a Filosofia”, *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16, https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891
-4.	Pombo, Olga (2021), “Curiosity and Science /Curiosidade e Ciência”, *Electra* (bilingue), nº 12, pp. 167-180.
+1.	Pombo, Olga (2024), **Science et École chez Bachelard.  Discontinuité et Nouveauté**, *Bachelard Studies*, nº 8, 1, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, DOI: 10.7413/2724-5470100
+2.	Pombo, Olga et alii (2024), **On the Concept of Resistance.Editorial Introduction**, *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. https://journals.ku.edu/aion/article/view/23014/20807
+3.	Pombo, Olga et alii (2024), **A fotografia entre a Ciência, a Arte e a Filosofia**, *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16, https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891
+4.	Pombo, Olga (2021), **Curiosity and Science /Curiosidade e Ciência**, *Electra* (bilingue), nº 12, pp. 167-180.
 ISNN: 2184-2018, ISBN: 978-989-54964-4-0
-5.	Pombo, Olga (2021), “Interdisciplinaridade”, *Latin American Human Rights Studies (LAHRS)*, nº 1.
-ISNN: 2763-8162 <https://www.revistas.ufg.br/lahrs>
-6.	Pombo, Olga (2021), “Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania”, *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162, <https://www.revistas.ufg.br/lahrs/article/view/69398>
-7.	Pombo, Olga (2020), “Arbitrary Claim Difficulties. One example", *Mana Platform*, <https://mana.net/11085>
-8.	Pombo, Olga (2020), “Leibniz and the Idea of Universal Machine”, *Mana Platform*, <https://mana.net/12861> 
-9.	Pombo, Olga (2019), “Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte”, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. DOI https://doi.org/10.17990/RPF/2019_75_4_2155
-10.	Pombo, Olga (2018), “Dilemas de la Ensenhanza de la Filosofia” (Dilemmas of Teaching Philosophy”), *ArteFaCTos. Revista de Estudios sobre la Ciência y la Tecnologia*, Salamanca, Spain, vol. 7, nº 1, April, pp. 175-190. 
+5.	Pombo, Olga (2021), **Interdisciplinaridade**, *Latin American Human Rights Studies (LAHRS)*, nº 1. ISNN: 2763-8162 <https://www.revistas.ufg.br/lahrs>
+6.	Pombo, Olga (2021), **Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania**, *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162, <https://www.revistas.ufg.br/lahrs/article/view/69398>
+7.	Pombo, Olga (2020), **Arbitrary Claim Difficulties. One example**, *Mana Platform*, <https://mana.net/11085>
+8.	Pombo, Olga (2020), **Leibniz and the Idea of Universal Machine**, *Mana Platform*, <https://mana.net/12861> 
+9.	Pombo, Olga (2019), **Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte**, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. DOI https://doi.org/10.17990/RPF/2019_75_4_2155
+10.	Pombo, Olga (2018), **Dilemas de la Ensenhanza de la Filosofia (Dilemmas of Teaching Philosophy)**, *ArteFaCTos. Revista de Estudios sobre la Ciência y la Tecnologia*, Salamanca, Spain, vol. 7, nº 1, April, pp. 175-190. 
 DOI: http://dx.doi.org/10.14201/art201871175190.
-11.	Pombo, Olga (2015), "Introduction to the special issue Metaphysical and Epistemological Challenges", *Axiomathes*, vol. 25, nº 1: 1-3 (March). DOI: 10.1007/s10516-014-9264-5
+11.	Pombo, Olga (2015), **Introduction to the special issue Metaphysical and Epistemological Challenges**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). DOI: 10.1007/s10516-014-9264-5
 12.	Pombo, Olga (2014), "Dispersão e Unidade: Para uma Poética da Simpatia", *Caderno Escolar*, Lisboa:  Escola Vitorino Nemésio, nº 13-14, 1: 30-41 (reprint). 
 13.	Pombo, Olga (2013),”Epistemología de la Interdisciplinariedad. La Construcción de un nuevo Modelo de Comprensión”, *Interdisciplina*, Mexico, vol. 1, nº 1, pp. 21-50.DOI: http://dx.doi.org/10.22201/ceiich.24485705e.2013.1.46512
 14.	Pombo, Olga (2013), “Comentário a 'Filósofos e Matemáticos' de José Sebastião e Silva”, *Internacional Journal Delfim Santos Studies*, vol. 1, nº 1, pp. 256-260. ISSN: 2182-5653.
@@ -303,47 +302,47 @@ ISSN: 0872-4784
 
 ### Journal’s guest editor
  
-* Pombo, Olga (2015), *Axiomathes, Special Issue I, “Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-* Pombo, Olga (2012), “Dossier: Leibniz – Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum”, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824
+* Pombo, Olga (2015), **Axiomathes, Special Issue I**, "Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference", *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), **Dossier: Leibniz**, *Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum*, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824
 
 
 ### Book reviews
 
-1.	Pombo, Olga (2010), “A propósito de 'Relatividade e Física Clássica: Continuidade e Ruptura', apresentação de um livro de António Brotas", *Gazeta de Física*, Vol. 33, nº 2, pp. 9-12.
-2.	Pombo, Olga (2008), Todos os Homens por Natureza Desejam Conhecer”, in Barros Veloso, António, *Medicina e outras Coisas*, Lisboa: Gradiva, pp. 7-11. 
-3.	Pombo, Olga (1992), "Ana Luísa Janeira, 'Sistemas Epistémicos e Ciências: do Noviciado da Cotovia à Faculdade de Ciências de Lisboa” e José Lopes Ribeiro, 'O Edifício da Faculdade de Ciências. Quatro Séculos de Retratos Institucionais'", *Revista de Educação*, vol. II, nº 1, Lisboa: DEFCUL, pp. 119-120.
-4.	Pombo, Olga (1991), “Agostinho da Silva, ‘Educação de Portugal’“, *Revista de Educação*, vol. II, n.º 1, Lisboa: DEFCUL, pp. 110-115. 
-5.	Pombo, Olga (1984), “Herbert H. Knecht. ‘La Logique chez Leibniz’”, *Análise*, nº 1, Lisboa, Gec, pp. 231-239.
+1.	Pombo, Olga (2010), **A propósito de 'Relatividade e Física Clássica: Continuidade e Ruptura', apresentação de um livro de António Brotas**, *Gazeta de Física*, Vol. 33, nº 2, pp. 9-12.
+2.	Pombo, Olga (2008), **Todos os Homens por Natureza Desejam Conhecer**, in Barros Veloso, António, *Medicina e outras Coisas*, Lisboa: Gradiva, pp. 7-11. 
+3.	Pombo, Olga (1992), **Ana Luísa Janeira, 'Sistemas Epistémicos e Ciências: do Noviciado da Cotovia à Faculdade de Ciências de Lisboa” e José Lopes Ribeiro, 'O Edifício da Faculdade de Ciências. Quatro Séculos de Retratos Institucionais'**, *Revista de Educação*, vol. II, nº 1, Lisboa: DEFCUL, pp. 119-120.
+4.	Pombo, Olga (1991), **Agostinho da Silva, ‘Educação de Portugal’**, *Revista de Educação*, vol. II, n.º 1, Lisboa: DEFCUL, pp. 110-115. 
+5.	Pombo, Olga (1984), **Herbert H. Knecht. ‘La Logique chez Leibniz’**, *Análise*, nº 1, Lisboa, Gec, pp. 231-239.
 
 
 ### Scholar brochures 
- 1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.), (1990) *Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências*,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
-2.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1991) , *Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências*,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
-3.	Olga Pombo (ed.) (1994), *McLuhan. A Escola e os Media* (anthology of texts by M. McLuhan, translated and prefaced), 1º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 73 pp. 
+ 1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.), (1990) **Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
+2.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1991) , **Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
+3.	Olga Pombo (ed.) (1994), **McLuhan. A Escola e os Media** (anthology of texts by M. McLuhan, translated and prefaced), 1º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 73 pp. 
 <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno1>
-4.	Olga Pombo (ed.) (1995), *Dois Textos sobre Educação. Hannah Arendt e Eric Weil* (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 2º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 48 pp. <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno2> 
-5.	Olga Pombo (ed.) (1996), *A Invenção da Escola na Grécia. Materiais de Estudo* (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 3º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 81 pp.
+4.	Olga Pombo (ed.) (1995), **Dois Textos sobre Educação. Hannah Arendt e Eric Weil** (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 2º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 48 pp. <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno2> 
+5.	Olga Pombo (ed.) (1996), **A Invenção da Escola na Grécia. Materiais de Estudo** (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 3º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 81 pp.
 <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno3> 
-6.	Olga Pombo (ed) (1997), *Museu de Alexandria*, 4º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 87 pp. 
+6.	Olga Pombo (ed) (1997), **Museu de Alexandria**, 4º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 87 pp. 
 <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno4> 
-7.	Olga Pombo (ed.) (1997), *Utopia e Educação* (anthology of texts translated and commented), 5º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 160 pp.  <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno5> 
-8.	Olga Pombo (ed.) (2001), *Educar / Ensinar. Materiais de estudo* (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), 6º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 84 pp.<http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno6> 
-9.	Olg a Pombo (ed.) (2005), *Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset* (anthology with introduction and revised translation), 7º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 40 pp.  <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno7>  
+7.	Olga Pombo (ed.) (1997), **Utopia e Educação** (anthology of texts translated and commented), 5º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 160 pp.  <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno5> 
+8.	Olga Pombo (ed.) (2001), **Educar / Ensinar. Materiais de estudo** (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), 6º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 84 pp.<http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno6> 
+9.	Olg a Pombo (ed.) (2005), **Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset** (anthology with introduction and revised translation), 7º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 40 pp.  <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno7>  
 
 
 ### Publications at exhibitions
-* Pombo, Olga (2019), “A Bioarte de Isa Duarte Ribeiro, *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
-* Pombo, Olga (2004), "From Thomas More to Rousseau", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-* Pombo, Olga (2004), "Utopia at XIX century. Utopian Socialism. The Hope in the Future City", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-* Pombo, Olga (2004), "Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia ", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-* Pombo, Olga (2003), “Enciclopédia, Hipertexto e Condição Humana”, *A Condição Humana* exhibition by Rodrigo Vilhena, Lisboa.
-* Pombo, Olga (1996), “Nenhum Vento”, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
+* Pombo, Olga (2019), **A Bioarte de Isa Duarte Ribeiro**, *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
+* Pombo, Olga (2004), **From Thomas More to Rousseau**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+* Pombo, Olga (2004), **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+* Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+* Pombo, Olga (2003), **Enciclopédia, Hipertexto e Condição Humana**, *A Condição Humana* exhibition by Rodrigo Vilhena, Lisboa.
+* Pombo, Olga (1996), **Nenhum Vento**, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
 	
 ### Journal editor
 
-* Founder and editor in chief of [Aion. Journal of Philosophy & Science](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
-* *Founder and editor in chief of [Kairos. Journal of Philosophy & Science](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
+* Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
+* *Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
 * Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
 
@@ -364,12 +363,12 @@ ISSN: 0872-4784
 
 * Member of the editorial board of the journal [Latin American Human Rights Studies (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021) 
 * Member of the international editorial board of the journal **Currículo, Cultura e Identidade**, Unesp. Sao Paulo, Brazil (since 2020)
-* Member of the scientific board of the journal [**Interdisciplinaridade, GEPI - Grupo Estudos e Pesquisa em Interdisciplinaridade**](https://revistas.pucsp.br/index.php/interdisciplinaridade/about/editorialTeam) (ISSN 2179-0094), PUC-SP, Brazil (since 2017).
-* Member of the scientific board of the journal [**Omnia. Revista Interdisciplinar de Ciências e Artes**](https://grei.pt/revista-omnia/) (ISSN 2183-8720), GREI, Faro (since 2015)
-* Member of the advisory board of the journal [**Logos and Episteme. An International Journal of Epistemology**](https://www.pdcnet.org/logos-episteme/Editorial-Team) (ISSN 2069-0533), Romania Academy (since 2010)
-* Member of the scientific board of the journal [**RHV. An International Journal of Philosophy**](https://revistas.uv.cl/index.php/RHV/about/editorialTeam), Instituto de Filosofia, Faculdade de Humanidades, Valparaiso, Chile
-* Member of the scientific board of the journal [**Cuadernos de Lógica, Epistemologia y Lenguaje**](https://www.collegepublications.co.uk/cuadernos/), College Publication, UK (since 2007)   
-* Member of the editorial council of the journal [**Contexto e Educação**](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil (since 2006).  
+* Member of the scientific board of the journal [Interdisciplinaridade, GEPI - Grupo Estudos e Pesquisa em Interdisciplinaridade](https://revistas.pucsp.br/index.php/interdisciplinaridade/about/editorialTeam) (ISSN 2179-0094), PUC-SP, Brazil (since 2017).
+* Member of the scientific board of the journal [Omnia. Revista Interdisciplinar de Ciências e Artes](https://grei.pt/revista-omnia/) (ISSN 2183-8720), GREI, Faro (since 2015)
+* Member of the advisory board of the journal [Logos and Episteme. An International Journal of Epistemology](https://www.pdcnet.org/logos-episteme/Editorial-Team) (ISSN 2069-0533), Romania Academy (since 2010)
+* Member of the scientific board of the journal [RHV. An International Journal of Philosophy](https://revistas.uv.cl/index.php/RHV/about/editorialTeam), Instituto de Filosofia, Faculdade de Humanidades, Valparaiso, Chile
+* Member of the scientific board of the journal [Cuadernos de Lógica, Epistemologia y Lenguaje](https://www.collegepublications.co.uk/cuadernos/), College Publication, UK (since 2007)   
+* Member of the editorial council of the journal [Contexto e Educação](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil (since 2006).  
 * Member of the consulting board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (since 2000).  
 * Member of the editorial board of the journal **Argumento. Revista Quadrimestral de Filosofia**, edited by Editora Cosmos, Lisboa (1990-1993).  
 * Member of the editorial board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
