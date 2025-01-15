@@ -303,8 +303,8 @@ ISSN: 0872-4784
 
 ### Journal’s guest editor
  
-•	Pombo, Olga (2015), *Axiomathes, Special Issue I, “Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-•	Pombo, Olga (2012), “Dossier: Leibniz – Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum”, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824
+* Pombo, Olga (2015), *Axiomathes, Special Issue I, “Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), “Dossier: Leibniz – Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum”, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824
 
 
 ### Book reviews
@@ -332,12 +332,12 @@ ISSN: 0872-4784
 
 
 ### Publications at exhibitions
-1.	Pombo, Olga (2019), “A Bioarte de Isa Duarte Ribeiro, *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
-2.	Pombo, Olga (2004), "From Thomas More to Rousseau", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-3.	Pombo, Olga (2004), "Utopia at XIX century. Utopian Socialism. The Hope in the Future City", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-4.	Pombo, Olga (2004), "Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia ", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-5.	Pombo, Olga (2003), “Enciclopédia, Hipertexto e Condição Humana”, *A Condição Humana* exhibition by Rodrigo Vilhena, Lisboa.
-6.	Pombo, Olga (1996), “Nenhum Vento”, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
+* Pombo, Olga (2019), “A Bioarte de Isa Duarte Ribeiro, *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
+* Pombo, Olga (2004), "From Thomas More to Rousseau", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+* Pombo, Olga (2004), "Utopia at XIX century. Utopian Socialism. The Hope in the Future City", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+* Pombo, Olga (2004), "Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia ", *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+* Pombo, Olga (2003), “Enciclopédia, Hipertexto e Condição Humana”, *A Condição Humana* exhibition by Rodrigo Vilhena, Lisboa.
+* Pombo, Olga (1996), “Nenhum Vento”, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
 	
 ### Journal editor
@@ -352,7 +352,7 @@ ISSN: 0872-4784
 * Director of the book series **A Imagem na Ciência e na Arte**, Lisboa: Fim de Século (12 volumes published).  
 * Director of the book series **Cadernos de Filosofia da Ciência**, Lisboa: CFCUL (13 volumes published).
 * Director of the book series **Documenta**, Lisboa: CFCUL (11 published volumes). 
-* Director of the book series **Theses**, Lisboa: CFCUL (7 published volumes).  
+* Director of the book series **[Theses](https://cfcul.blogspot.com/p/publicacoes.html)**, Lisboa: CFCUL (7 published volumes).  https://cfcul.blogspot.com/p/publicacoes.html
 * Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes). 
 * Member of the editorial board of the book series “Interdisciplinarité, Sciences et Humanités”, ISTE Science Publishing, UK (since 2017).<https://www.istegroup.com/fr/collection/interdisciplinarite-sciences-et-humanites/>
 * Member of the editorial board of the book series “Processos Formativos”, Editora FI, Porto Alegre, Brazil (since 2017) <http://www.editorafi.org/serieprocessosformativos>
