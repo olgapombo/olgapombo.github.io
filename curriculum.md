@@ -350,13 +350,14 @@ ISSN: 0872-4784
 ### Book series editor 
 
 * Director of the book series **A Imagem na Ciência e na Arte**, Lisboa: Fim de Século (12 volumes published).  
-* Director of the book series **Cadernos de Filosofia da Ciência**, Lisboa: CFCUL (13 volumes published).
+* Director of the book series **Cadernos de Filosofia da Ciência**, Lisboa: CFCUL (13 volumes published). <https://cfcul.blogspot.com/p/cadernos-de-fc.html>
 * Director of the book series **Documenta**, Lisboa: CFCUL (11 published volumes). 
-* Director of the book series **[Theses](https://cfcul.blogspot.com/p/publicacoes.html)**, Lisboa: CFCUL (7 published volumes).  https://cfcul.blogspot.com/p/publicacoes.html
+<https://cfcul.blogspot.com/p/coleccao-documenta.html>
+* Director of the book series **Theses**, Lisboa: CFCUL (7 published volumes).  <https://cfcul.blogspot.com/p/publicacoes.html>
 * Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes). 
-* Member of the editorial board of the book series “Interdisciplinarité, Sciences et Humanités”, ISTE Science Publishing, UK (since 2017).<https://www.istegroup.com/fr/collection/interdisciplinarite-sciences-et-humanites/>
-* Member of the editorial board of the book series “Processos Formativos”, Editora FI, Porto Alegre, Brazil (since 2017) <http://www.editorafi.org/serieprocessosformativos>
-* Member of the scientific committee of the editorial series "Applied Ethics and Philosophical Anthropologies", Milella Publishing House, Lecce, Italy (since 2024).
+* Member of the editorial board of the book series **Interdisciplinarité, Sciences et Humanités**, ISTE Science Publishing, UK (since 2017).<https://www.istegroup.com/fr/collection/interdisciplinarite-sciences-et-humanites/>
+* Member of the editorial board of the book series **Processos Formativos**, Editora FI, Porto Alegre, Brazil (since 2017) <http://www.editorafi.org/serieprocessosformativos>
+* Member of the scientific committee of the editorial series **Applied Ethics and Philosophical Anthropologies**, Milella Publishing House, Lecce, Italy (since 2024).
 
 
 ### Journal boards 
@@ -371,7 +372,7 @@ ISSN: 0872-4784
 * Member of the editorial council of the journal [Contexto e Educação](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil (since 2006).  
 * Member of the consulting board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (since 2000).  
 * Member of the editorial board of the journal **Argumento. Revista Quadrimestral de Filosofia**, edited by Editora Cosmos, Lisboa (1990-1993).  
-* Member of the editorial board of the journal **Revista de EducaçãoPP, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
+* Member of the editorial board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
 * Member of the editorial board of the journal **Filosofia**, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
 
