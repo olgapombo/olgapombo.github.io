@@ -251,7 +251,7 @@ DOI: http://dx.doi.org/10.4135/9781452276052
 4.	Pombo, Olga (2021), **Curiosity and Science /Curiosidade e Ciência**, *Electra* (bilingue), nº 12, pp. 167-180.
 ISNN: 2184-2018, ISBN: 978-989-54964-4-0
 5.	Pombo, Olga (2021), **Interdisciplinaridade**, *Latin American Human Rights Studies (LAHRS)*, nº 1. ISNN: 2763-8162 <https://www.revistas.ufg.br/lahrs>
-6.	Pombo, Olga (2021), [Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania](https://www.revistas.ufg.br/lahrs/article/view/69398), *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162, (see also [here](https://revistas.ufg.br/lahrs/article/view/69398/36782)
+6.	Pombo, Olga (2021), [Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania](https://www.revistas.ufg.br/lahrs/article/view/69398), *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162, (full article [here](https://revistas.ufg.br/lahrs/article/view/69398/36782)
 7.	Pombo, Olga (2020), **Arbitrary Claim Difficulties. One example**, *Mana Platform*, <https://mana.net/11085>
 8.	Pombo, Olga (2020), **Leibniz and the Idea of Universal Machine**, *Mana Platform*, <https://mana.net/12861> 
 9.	Pombo, Olga (2019), **Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte**, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. DOI https://doi.org/10.17990/RPF/2019_75_4_2155
@@ -273,7 +273,7 @@ DOI: http://dx.doi.org/10.14201/art201871175190.
 ISNN: 1414-0381 
 24.	Pombo, Olga (2006), **Práticas Interdisciplinares**, *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249. ISSN: 1517-4522
 25.	Pombo, Olga (2006), **Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre**, *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. ISSN: 1665-3319.
-26.	Pombo, Olga (2005), **Interdisciplinaridade e Integração dos Saberes**, *LIINC em Revista*, Brazil, v. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186 (see [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf)) 
+26.	Pombo, Olga (2005), [Interdisciplinaridade e Integração dos Saberes](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf), *LIINC em Revista*, Brazil, v. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186 (full article [here]
 27.	Pombo, Olga (2005), **A Escola como Memória**, *Pensar a Escola*, nº 1, Lisboa: Escola Vitorino Nemésio, pp. 33-43. 
 28.	Pombo, Olga (2002), **Vid klasyfikaciji buttia do klasyfikaciji znattia” (From the Classification of Beings to the Classification of Knowledge)**, Ucranian translation by Serghii Wakulenko, *Zbirnyk Xarkivs'koho istoryko-filolohičnoho tovarystva*, Karkiv, Ucrain, vol. IX: pp. 33-52.  ISBN: 966-95465-8-3
 29.	Pombo, Olga (2001), **Notas de Leitura à Margem de uma Antologia**, *Philosophica* nº 16, DF-FLUL, Lisboa, pp. 135-140. 
