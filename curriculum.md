@@ -349,7 +349,7 @@ ISSN: 0872-4784
 ### Book series editor 
 
 * Director of the book series **A Imagem na Ciência e na Arte**, Lisboa: Fim de Século (12 volumes published).  
-* Director of the book series **Cadernos de Filosofia da Ciência**, Lisboa: CFCUL (13 volumes published). <https://cfcul.blogspot.com/p/cadernos-de-fc.html>
+* Director of the book series **Cadernos de Filosofia da Ciência**, Lisboa: CFCUL (13 volumes published). <https://cfcul.blogspot.com/p/cadernos-de-fc.html>, <https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm> 
 * Director of the book series **Documenta**, Lisboa: CFCUL (11 published volumes). 
 <https://cfcul.blogspot.com/p/coleccao-documenta.html>
 * Director of the book series **Theses**, Lisboa: CFCUL (7 published volumes).  <https://cfcul.blogspot.com/p/publicacoes.html>
