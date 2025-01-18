@@ -25,7 +25,7 @@ https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transv
 ## Member and associate researcher of research projects 
 
 * Founding member of the research project **Jean-Jacques Rousseau**, Portuguese Society for Philosophy (1977 - 1979).  
-* Founder (with Teresa Levy and Henrique Guimaraes) of the research project **Mathesis**, Calouste Gulbenkian Foundation  (1989-1995).
+* Founder (with Teresa Levy and Henrique Guimaraes) of the research project **[Mathesis](https://webpages.ciencias.ulisboa.pt/~ommartins/mathesis/index.htm)**, Calouste Gulbenkian Foundation  (1989-1995).
 * Member of the international research project **Leibniz the Polemicist**, Institute for Advanced Studies, Hebrew University of Jerusalem, Israel (head by Marcelo Dascal) (1994-1998).
 * Member of the research project **O Ensino na Faculdade de Ciencias**, CIE-FCUL(head by Maria Odete Valente),(1995-1998). 
 * Member of the research project, **A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais**, Rectory of the University of Lisbon (head by Maria Odete Valente) (1997-1999).
