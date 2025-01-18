@@ -71,7 +71,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 
 
 ### Books (as Author)
-1.	Pombo, Olga (1987) [Leibniz and the Problem of a Universal Language](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf), Münster: Nodus Publikationen, 321 pp.  ISBN 3-89323-303-2.
+1.	Pombo, Olga (1987) [*Leibniz and the Problem of a Universal Language*](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf), Münster: Nodus Publikationen, 321 pp.  ISBN 3-89323-303-2.
 2.	Pombo, Olga (1993) with Teresa Levy and Henrique Guimarães, *A Interdisciplinaridade: Reflexão e Experiência (Interdisciplinarity: Reflection and Experience*), Lisboa: Texto, 96 pp. ISBN 972-47-0462-9. (2nd revised and extended edition, 1994, 102 pp. ISBN 978-9724704623).
 3.	Pombo, Olga (1997) *Leibniz e o Problema de uma Língua Universal* (portuguese revised translation of “Leibniz and the Problem of a Universal Language”), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 320 pp. 
 ISBN: 972-9493-29-4.
@@ -85,7 +85,7 @@ ISBN: 972-9493-29-4.
 11.	Pombo, Olga (2021), *Minha Prosa Antiga como Dantes (My Ancient Prose as It Used to Be*), Lisboa: Aletheia, 31 pp.
 12.	Pombo, Olga (2021) [*Interdisciplinaridade. Ambições e Limites (Interdisciplinarity: Ambitions and Limits*)](https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites), Lisboa: Aletheia, 211 pp (2nd revised edition). ISBN: 978-989-8906-94-6. 
 13.	Pombo, Olga (2022), [*Estudos de Filosofia da Ciência (Studies in Philosophy of Science*)](https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/FilosofiaDaCiencia_OP_2022.pdf), Lisboa: Mariposa Azul, 348 pp. ISBN: 978-972-8481-74-2.
-14.	Pombo, Olga (2022), [*O Insuportável Brilho da Escola. Elementos para uma Filosofia da Escola e do Ensino (The Unbearable Brightness of School. Elements for a Philosophy of School and Teaching*)](https://www.aletheia.pt/products/o-insuportavel-brilho-da-escola), Lisboa: Aletheia, 2022, 285 pp. 
+14.	Pombo, Olga (2022), [*O Insuportável Brilho da Escola. Elementos para uma Filosofia da Escola e do Ensino (The Unbearable Brightness of School. Elements for a Philosophy of School and Teaching*)](https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/10/brilho-escola-opombo-livro.pdf), Lisboa: Aletheia, 2022, 285 pp. 
 ISBN: 978-989-9077-76-8. 
 15.	Pombo, Olga (2024), *Estudos de Ciência e Arte (Studies on Science and Art*), Lisboa: Mariposa Azul (forthcoming) 
 16.	Pombo, Olga (2024), *Deriva a partir de Rousseau (Derives Drifts from Rousseau*), Lisboa: Mariposa Azul (forthcoming)
