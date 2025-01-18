@@ -125,7 +125,7 @@ ISBN: 978-989-8247-75-9.
 27.	Jens Alwood; Olga Pombo; Clara Renna; Giovanni Scarafile (eds.)(2020) *Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a new Knowledge Model*, Amsterdam/Philadelphia: John Benjamin’s Publishing Company, series “Controversies. Ethics and Interdisciplinarity”, vol. 16, 279pp. DOI: https://doi.org/10.1075/cvs.16
 ISBN - Hb: 978 90 272 0754 8; E-book: 978 90 272 6075 8 
 28.	Olga Pombo (ed.) (2021), Ciência, *Racionalidade e Política. Ensaios (in)Atuais*, Lisboa: Aletheia, ISBN: 978-989-8906.
-29.	Olga Pombo (ed.) (2021), *Regresso ao Protágoras, de Platão*,  Lisboa: Mariposa Azul, 227 pp. ISBN:978-972-8481-70-4
+29.	Olga Pombo (ed.) (2021), [*Regresso ao Protágoras, de Platão*](https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/Prota%CC%81goras_OP_2021.pdf),  Lisboa: Mariposa Azul, 227 pp. ISBN:978-972-8481-70-4
 30.	Olga Pombo, Klaus Gaertner, Jorge Jesuíno (eds.) (2023), *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century*, Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, 309 pp. ISBN: 978-3-031-20404-3 
 DOI: https://doi.org/10.1007/978-3-031-20405-0
 
