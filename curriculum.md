@@ -273,7 +273,7 @@ DOI: http://dx.doi.org/10.14201/art201871175190.
 ISNN: 1414-0381 
 24.	Pombo, Olga (2006), **Práticas Interdisciplinares**, *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249. ISSN: 1517-4522
 25.	Pombo, Olga (2006), **Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre**, *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. ISSN: 1665-3319.
-26.	Pombo, Olga (2005), [Interdisciplinaridade e Integração dos Saberes](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf), *LIINC em Revista*, Brazil, v. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186 (full article [here]
+26.	Pombo, Olga (2005), [Interdisciplinaridade e Integração dos Saberes](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf), *LIINC em Revista*, Brazil, v. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186 (full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf)
 27.	Pombo, Olga (2005), **A Escola como Memória**, *Pensar a Escola*, nº 1, Lisboa: Escola Vitorino Nemésio, pp. 33-43. 
 28.	Pombo, Olga (2002), **Vid klasyfikaciji buttia do klasyfikaciji znattia” (From the Classification of Beings to the Classification of Knowledge)**, Ucranian translation by Serghii Wakulenko, *Zbirnyk Xarkivs'koho istoryko-filolohičnoho tovarystva*, Karkiv, Ucrain, vol. IX: pp. 33-52.  ISBN: 966-95465-8-3
 29.	Pombo, Olga (2001), **Notas de Leitura à Margem de uma Antologia**, *Philosophica* nº 16, DF-FLUL, Lisboa, pp. 135-140. 
