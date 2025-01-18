@@ -251,7 +251,7 @@ DOI: http://dx.doi.org/10.4135/9781452276052
 4.	Pombo, Olga (2021), **Curiosity and Science /Curiosidade e Ciência**, *Electra* (bilingue), nº 12, pp. 167-180.
 ISNN: 2184-2018, ISBN: 978-989-54964-4-0
 5.	Pombo, Olga (2021), **Interdisciplinaridade**, *Latin American Human Rights Studies (LAHRS)*, nº 1. ISNN: 2763-8162 <https://www.revistas.ufg.br/lahrs>
-6.	Pombo, Olga (2021), **Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania**, *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162, <https://www.revistas.ufg.br/lahrs/article/view/69398>
+6.	Pombo, Olga (2021), **[Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania**](https://revistas.ufg.br/lahrs/article/view/69398), *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162, 
 7.	Pombo, Olga (2020), **Arbitrary Claim Difficulties. One example**, *Mana Platform*, <https://mana.net/11085>
 8.	Pombo, Olga (2020), **Leibniz and the Idea of Universal Machine**, *Mana Platform*, <https://mana.net/12861> 
 9.	Pombo, Olga (2019), **Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte**, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. DOI https://doi.org/10.17990/RPF/2019_75_4_2155
