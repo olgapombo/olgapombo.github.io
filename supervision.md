@@ -1,27 +1,5 @@
 # Supervision 
 
-## Post-docs
-
-* Juan Manuel Torres, **The Influence of Genetics on Contemporary Thinking**, FCT Grant SFRH/BPD/17625/2004, CFCUL, 2009-2010.  
-* Nathalie Gontier, **An Investigation into the Different Applications of an Evolutionary Epistemological, Universal Symbiogenesis and Universal Punctuated Equilibrium Approach for Studies into the Origin and Evolution of Language and Culture**, FCT Grant SFRH/BPD/43519/2008, CFCUL, 2008-2009.  
-* Hassan Tahiri, **Poincaré's Philosophy of Mathematics**, FCT Grant SFRH/ BPD/ 47950/2008, CFCUL, 2008-2009. 
-* Lidia Queiroz, **To See the Invisible: the Epistemology of Gaston Bachelard and the History of Atomism**, FCT Grant SFRH/BPD/69485/2010, CFCUL, 2010-2015. 
-* Hassan Tahiri, **Logical and Historical Analysis of Scientific Controversies Case Study: Ibn al-Haytham's al-Shukuk**, FCT Grant, SFRH/BPD/47950/2008, CFCUL, 2009-2015. 
-* Alexandra Van Quynh, **Intuition in Mathematics: Epistemology and Experience**, FCT Grant SFRH/BPD/70433/2010, CFCUL, 2011-2015. 
-* Zbigniew Kotowicz, **Gaston Bachelard. A Theory of the Subject and Epistemological Thought. Studies on Atomism**, FCT Grant SFRH/BPD/70880/2010, CFCUL, 2011-016.
-* Juan Redmond, **Models and Abstract Objects in Science: For an Artefactual Approach**, FCT Grant SFRH/BPD/72948/2010, CFCUL, 2012-2013.
-* Nathalie Gontier **Applied Evolutionary Epistemology: How can the Extended Evolutionary Synthesis be implemented into the sociocultural domain?**, FCT Grant SFRH/BPD/89195/2012, CFCUL, since 2013-2016.
-* Ana Freire, **Towards an Ecology of Rhythm, the Seminal Contribution of Rhythmnalysis for the Comparative Study of some Rhythm Based Epistemologies**, FCT Grant SFRH/BPD/80851/2012, CFCUL, 2012-2013.
-* Elena Casetta, **Biodiversity: A Philosophical Challenge**, FCT Grant SFRH/BPD/84683/2012, CFCUL, 2013-2016.
-* Larissa Mendoza Straffon, **Applied Evolutionary Epistemology**, John Templeton Foundation Grant, 2013-2014.
-* Emanuele Serrelli, **Applied Evolutionary Epistemology**, John Templeton Foundation Grant, 2013-2014.
-* Davide Vecchi, **Towards an Heteroplastic View of Biology**, FCT Grant SFRH/BPD/99879/2014, CFCUL, since 2014-2017. (co-supervision)
-* Sara Fuentes Cid, **Science-Art-Philosophy Lab**, CFCUL grant holder (UID/FIL/00678/2013), 2015-2017.
-* Klaus Gaertner, **Unity of Science and Interdisciplinarity**, CFCUL grant holder (UID/FIL/00678/2013), 2015-2017.
-*	Gil Costa Santos, **Philosophy of Natural Science**, CFCUL grant holder (UID/FIL/00678/2013), 2016-2018.
-*	Nuno Carvalho, **Contemporary French Philosophy of Technology**, CFCUL grant holder (UID/FIL/00678/2013), 2016-2017.
-* Matthieu Fontaine, **Existential Conjectures in Abductive Reasoning**, FCT Grant holder (SFRH/BDP/116494/2016), CFCUL, 2017- 2020.
-
 ## PhD dissertations
 
 * Alexander Gerner, **Philosophical Investigation on Attention**, PhD in History and Philosophy of Science, FCUL, May 2012, University of Lisbon (Very Good, unanimity). FCT Grant SFRH/BD/23459/2005.
@@ -59,7 +37,7 @@
 *	Diogo Miguel Silva da Cunha, **Processo e Realidade Social. Reconstrução do Núcleo Teórico da Sociologia Processual de Norberto Elias**, Master in “History and Philosophy of Science”, FCUL, 5th April 2021 (very good, unanimity).
 
 
-## Post-docs
+## Post-docs 
 
 * Juan Manuel Torres, **The Influence of Genetics on Contemporary Thinking**, FCT Grant SFRH/BPD/17625/2004, CFCUL, 2009-2010.  
 * Nathalie Gontier, **An Investigation into the Different Applications of an Evolutionary Epistemological, Universal Symbiogenesis and Universal Punctuated Equilibrium Approach for Studies into the Origin and Evolution of Language and Culture**, FCT Grant SFRH/BPD/43519/2008, CFCUL, 2008-2009.  
