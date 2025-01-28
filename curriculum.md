@@ -116,18 +116,15 @@ ISBN: 978-972-754-279-6.
 ISBN: 978-3-319-26504-9. DOI: 10.1007/978-3-319-26506-3.
 20.	Olga Pombo; Gil Costa (eds.) (2016) *Philosophy of Science in the XXI Century: Challenges and Tasks*, Lisboa: CFCUL, 352 pp. ISBN: 978-989-8247-72-8.
 21.	Olga Pombo; Ricardo Santos (eds.) (2016) *Afinal, o que é a Ciência? Relatório de um Projecto*, Lisboa: Ciência Viva, 122 pp. ISBN: 978-989-8247-70-4.
-22.	Olga Pombo; Paulo Castro (eds.) (2017) *Debates da Filosofia da Ciência Contemporânea*, Lisboa: CFCUL, 392 pp. 
-ISBN: 978-989-8247-75-9.
-23.	Olga Pombo (ed.) (2017) *Image in Science and Art*, Lisboa: Fim de Século, 231 pp. ISBN: 978-972-574-286-4.
-24.	Olga Pombo (ed.) (2018) *Modelos e Imagens*, Lisboa: Fim de Século, 299 pp. ISBN: 978-972-754-287-1.
-25.	Olga Pombo; Ana Pato; Juan Redmond (eds) (2018) *Epistemologia, Lógica e Linguagem*, Lisboa: CFCUL, Series “Documenta”, vol. 11, 189 pp. ISBN: 78-989-8247-78-0.
-26.	Olga Pombo; Catarina Nabais; Sara Fuentes (eds.) (2019), *CorpoIMAGEM. Representações do Corpo na Ciência e na Arte*, Lisboa: Fim de Século, 249 pp. ISBN: 978-972-754-285-7
-27.	Jens Alwood; Olga Pombo; Clara Renna; Giovanni Scarafile (eds.)(2020) *Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a new Knowledge Model*, Amsterdam/Philadelphia: John Benjamin’s Publishing Company, series “Controversies. Ethics and Interdisciplinarity”, vol. 16, 279pp. DOI: https://doi.org/10.1075/cvs.16
-ISBN - Hb: 978 90 272 0754 8; E-book: 978 90 272 6075 8 
-28.	Olga Pombo (ed.) (2021), Ciência, *Racionalidade e Política. Ensaios (in)Atuais*, Lisboa: Aletheia, ISBN: 978-989-8906.
+22.	Olga Pombo; Paulo Castro (eds.) (2017) *Debates da Filosofia da Ciência Contemporânea*, Lisboa: CFCUL, 392 pp. ISBN: 978-989-8247-75-9.
+23.	Olga Pombo (ed.) (2017) [*Image in Science and Art*](https://www.wook.pt/livro/image-in-science-and-art-olga-pombo/23416273?srsltid=AfmBOoo6Vyu70qLnUu6bvJ_hU4Lq9E6Eg3OY5Fn31N-CM0PbuaEUspRX), Lisboa: Fim de Século, 231 pp. ISBN: 978-972-574-286-4. (see also [here](https://www.researchgate.net/publication/338346248_Image_in_Science_and_Art))
+24.	Olga Pombo (ed.) (2018) [*Modelos e Imagens*](https://www.wook.pt/livro/modelos-e-imagens-olga-pombo/21821748?utm_source=paginasautores&utm_campaign=wookacontece&utm_medium=wookacontece), Lisboa: Fim de Século, 299 pp. ISBN: 978-972-754-287-1.
+25.	Olga Pombo; Ana Pato; Juan Redmond (eds) (2018) [*Epistemologia, Lógica e Linguagem*](https://cfcul.ciencias.ulisboa.pt/livros/epistemologia-logica-e-linguagem/), Lisboa: CFCUL, Series “Documenta”, vol. 11, 189 pp. ISBN: 78-989-8247-78-0.
+26.	Olga Pombo; Catarina Nabais; Sara Fuentes (eds.) (2019), [*CorpoIMAGEM. Representações do Corpo na Ciência e na Arte*](https://cfcul.ciencias.ulisboa.pt/livros/corpoimagem-representacoes-do-corpo-na-ciencia-e-na-arte/), Lisboa: Fim de Século, 249 pp. ISBN: 978-972-754-285-7 (see also [here](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?2043074))
+27.	Jens Alwood; Olga Pombo; Clara Renna; Giovanni Scarafile (eds.)(2020) [*Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a new Knowledge Model*](https://cfcul.ciencias.ulisboa.pt/livros/controversies-and-interdisciplinarity/), Amsterdam/Philadelphia: John Benjamin’s Publishing Company, series “Controversies. Ethics and Interdisciplinarity”, vol. 16, 279pp. DOI: https://doi.org/10.1075/cvs.16, ISBN - Hb: 978 90 272 0754 8; E-book: 978 90 272 6075 8 
+28.	Olga Pombo (ed.) (2021), Ciência, [*Racionalidade e Política. Ensaios (in)Atuais*](https://www.aletheia.pt/products/ciencia-racionalidade-e-politica-ensaios-inatuais), Lisboa: Aletheia, ISBN: 978-989-8906.
 29.	Olga Pombo (ed.) (2021), [*Regresso ao Protágoras, de Platão*](https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/Prota%CC%81goras_OP_2021.pdf),  Lisboa: Mariposa Azul, 227 pp. ISBN:978-972-8481-70-4
-30.	Olga Pombo, Klaus Gaertner, Jorge Jesuíno (eds.) (2023), *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century*, Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, 309 pp. ISBN: 978-3-031-20404-3 
-DOI: https://doi.org/10.1007/978-3-031-20405-0
+30.	Olga Pombo, Klaus Gaertner, Jorge Jesuíno (eds.) (2023), [*Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century*](https://www.amazon.com/Interdisciplinary-Production-Reproduction-Scientific-Knowledge/dp/3031204042), Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, 309 pp. ISBN: 978-3-031-20404-3 DOI: https://doi.org/10.1007/978-3-031-20405-0
 
 
 ### Chapters 
@@ -336,7 +333,7 @@ DOI: http://dx.doi.org/10.4135/9781452276052
 
 ### Book series editor 
 
-* Director of the book series **A Imagem na Ciência e na Arte**, Lisboa: Fim de Século (12 volumes published).  
+* Director of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).  
 * Director of the book series **Cadernos de Filosofia da Ciência**, Lisboa: CFCUL (13 volumes published). <https://cfcul.blogspot.com/p/cadernos-de-fc.html>, <https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm> 
 * Director of the book series **Documenta**, Lisboa: CFCUL (11 published volumes). 
 <https://cfcul.blogspot.com/p/coleccao-documenta.html>
