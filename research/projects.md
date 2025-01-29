@@ -1,5 +1,6 @@
 # Research Center
-I was the Founder 
+
+I created the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL) of which I was the Director and Scientific Coordinator since its foundation in 2003 until 2017. 
 
 # Projects
 
