@@ -29,7 +29,7 @@ https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transv
 * Founder (with Teresa Levy and Henrique Guimaraes) of the research project [Mathesis](https://webpages.ciencias.ulisboa.pt/~ommartins/mathesis/index.htm), Calouste Gulbenkian Foundation  (1989-1995).
 * Member of the international research project **Leibniz the Polemicist**, Institute for Advanced Studies, Hebrew University of Jerusalem, Israel (head by Marcelo Dascal) (1994-1998).
 * Member of the research project **O Ensino na Faculdade de Ciencias / Teaching at the Faculty of Sciences)**, CIE-FCUL(head by Maria Odete Valente),(1995-1998). 
-* Member of the research project, **A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais (The University of Lisbon. From the Idea of University to the Institutional Prectices**, Rectory of the University of Lisbon (head by Maria Odete Valente) (1997-1999).
+* Member of the research project, **A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais / The University of Lisbon. From the Idea of University to the Institutional Practices**, Rectory of the University of Lisbon (head by Maria Odete Valente) (1997-1999).
 * Associated Researcher of the international project **La Science dans ses Contextes**, Maison de Sciences Humaines du Nord-Pas de Calais, Université de Lille III, France (head by Shahid Rahman) (2004-2006).
 * Associated Researcher of the international project **Le Rôle de la Micro-Histoire**, Université de Lille III, France (head by Shahid Rahman) (2006-2008). 
 * Associated Researcher of the international project **La Contextualization des Catégories de la Pensée Scientifique**, Université de Lille III, France (head by Shahid Rahman), (2006-2008). 
