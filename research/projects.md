@@ -33,13 +33,13 @@ https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transv
 * Associated Researcher of the international project **Le Rôle de la Micro-Histoire**, Université de Lille III, France (head by Shahid Rahman) (2006-2008). 
 * Associated Researcher of the international project **La Contextualization des Catégories de la Pensée Scientifique**, Université de Lille III, France (head by Shahid Rahman), (2006-2008). 
 * Associated Researcher of the international project **Logiques de la Ficcion**, Université de Lille III, France (head by Shahid Rahman) (2006-2008). 
-* Member of the **Poincaré Filósofo da Ciência**, FCT research project (head by António Franco Oliveira) (2007-2010). 
+* Member of the [**Poincaré Filósofo da Ciência**](https://cfcul.ciencias.ulisboa.pt/projectos/poincare-filosofo-da-ciencia/), FCT research project (head by António Franco Oliveira) (2007-2010). 
 * Member of the  **Problemas Filosóficos da Física Quântica**,  FCT research project (head by José Croca) (2007-2010). 
 * Associated Researcher of the international project **Imag(in)ing the Nano-scale: Interactions between Science and Art**, University of Bergen, Centre for the Studies of the Sciences and Humanities (head by Rasmus Tore Slaattelid), (2009-2011).  
 * Associated Researcher of the international project EU-FP7,  **Observatory Nano** , EU-7th Framework Program (head by Mark Morrison (2009-2011). 
-* Member of the  **The Vienna Papers of Delfim Santos and the Philosophy of Science in Portugal**, CFCUL research project (head by Filipe D. Santos), (2011-2012).
-* Member of the  **Lisbon Applied Evolutionary Epistemology Lab**, CFCUL research project (head by Nathalie Gontier), (2012-2016).
-* Member of the  **Science, Art, Philosophy Lab (Sap-Lab)**, CFCUL research project (head by Catarina Nabais) (2014 – 2022). <https://www.researchgate.net/lab/Catarina-Pombo-Nabais-Lab>,
+* Member of the  [**The Vienna Papers of Delfim Santos and the Philosophy of Science in Portugal**](https://www.delfimsantos.net/2013/04/23/lancamento-da-delfim-santos-studies/), CFCUL research project (head by Filipe D. Santos), (2011-2012).
+* Member of the  [**Lisbon Applied Evolutionary Epistemology Lab**(Lisbon Applied Evolutionary Epistemology Lab), CFCUL research project (head by Nathalie Gontier), (2012-2016).]
+* Member of the  [**Science, Art, Philosophy Lab (Sap-Lab)**](https://www.researchgate.net/lab/Catarina-Pombo-Nabais-Lab), CFCUL research project (head by Catarina Nabais) (2014 – 2022). <https://www.researchgate.net/lab/Catarina-Pombo-Nabais-Lab>,
 <https://www.facebook.com/SciArtPhiloLAB/>,
 <https://www.facebook.com/SciArtPhiloLAB/info/?tab=overview>,<https://inarts.eu/en/lab/collaborations/rd/1/>
 * Member of the management council of the Cost Action **INTREPID - Interdisciplinarity in research programming and funding cycles**,  EU Framework Program Horizon 2020 (2015-2017).
