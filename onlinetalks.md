@@ -25,6 +25,5 @@
 * [**A Escola e os Grandes Desafios da Contemporaneidade**](https://www.youtube.com/watch?v=q3TqyHFEMyg), at "Grupo de Estudos e Pesquisas em Políticas Públicas e Formação", Universidade Federal de Viçosa, Brazil, 10 February 2022.
 * [**Porquê Celebrar Hoje o "Protagoras" de Platão** (Why to Celebrate Today Plato's Protagoras)](https://www.facebook.com/watch/live/?ref=watch_permalink&v=704392381189858), (52.10) at "What if virtue is not possible to be taught? Socrates and Protagoras in tribute to Prof. Dr. Olga Pombo”, Instituto Técnico Privado de Saúde Numa I do Bailundo (ITSNI), Angola, 5 January 2022.
 * [**O Lugar de Leibniz na História da Lógica**](https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos)”, at “Colóquio de Lógica”, Sociedade Portuguesa de Lógica, Instituto Superior Técnico University of Lisbon, Departamento de Matemática, 15 November 2022.
-HTTPS://MATH.TECNICO.ULISBOA.PT/SEMINARS/COLLOG/INDEX.PHP?ACTION=PAST
 
 
