@@ -133,12 +133,12 @@ https://www.youtube.com/watch?v=q_RK0CeQHO0
 
 ## **Dissemination talks** 
 
-•	Ciência e escola. Uma relação constitutiva, invited talk at conference cycle “Knowledges in dialogue. Transdisciplinary crossings”, D. Dinis High School, Lisboa, 8 February 2020.
-•	Ciência e escola, opening conference in the conference cycle “Looking for a better world: Science, Education and Humanism”, D. Dinis High School, Lisboa, 26 January 2019.
-•	Verdade, filosofia e ciência, invited talk at the Philosophy Day put forward by the Department of Philosophy, Cacilhas-Tejo High School, Almada, 17 November 2016.
-•	Ciência e interdisciplinaridade, invited talk at Seminars “Science, Education and Democracy”, D. Dinis High School, Lisboa, 18 May 2016.
-•	A espantosa linguagem da matemática, invited talk at the "Ciclo de Conferencias - Uma Escola Publica de Qualidade", António Damásio High School, Lisboa, 20 Janury 2015.
-•	Afinal, o que é a ciência?, talk presented at the project "Afinal, o que é a ciência?", António Damásio High School, 9 January 2014.
+* Ciência e escola. Uma relação constitutiva, invited talk at conference cycle “Knowledges in dialogue. Transdisciplinary crossings”, D. Dinis High School, Lisboa, 8 February 2020.
+* Ciência e escola, opening conference in the conference cycle “Looking for a better world: Science, Education and Humanism”, D. Dinis High School, Lisboa, 26 January 2019.
+* Verdade, filosofia e ciência, invited talk at the Philosophy Day put forward by the Department of Philosophy, Cacilhas-Tejo High School, Almada, 17 November 2016.
+* Ciência e interdisciplinaridade, invited talk at Seminars “Science, Education and Democracy”, D. Dinis High School, Lisboa, 18 May 2016.
+* A espantosa linguagem da matemática, invited talk at the "Ciclo de Conferencias - Uma Escola Publica de Qualidade", António Damásio High School, Lisboa, 20 Janury 2015.
+* Afinal, o que é a ciência?, talk presented at the project "Afinal, o que é a ciência?", António Damásio High School, 9 January 2014.
 •	Educação, investigação, ciência e desenvolvimento, invited talk at the “Centro de formação de professores da região Oeste“,  Auditorium of Rafael Bordalo Pinheiro High School, Caldas da Rainha, 31 January 2013. 
 •	Importância da filosofia para a compreensão das relações entre Arte e Ciência, invited talk at the Maria Amália Vaz de Carvalho High School, Lisboa, 28 March 2011.
 •	Celebrar McLuhan. Escola e currículo na sociedade de informação, invited talk at the Sebastião e Silva High School, Oeiras, 4 April 2010.
