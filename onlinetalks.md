@@ -29,23 +29,23 @@
 
 #**Scientific conferences**
 
-• **The leibnizian theory of the representativity of the sign**, “IV Internationale Konferenz zur Geschichte der Sprachwissenschaften”, Trier, Germany, 26 August 1987.  
-• **La théorie leibnizienne de la pensée aveugle en tant que perspective sur quelques des apories linguistiques de la modernité**, invited speaker at the “International colloquium Readings of Modernity”, Franco-Portuguese Institut, Lisboa, 27 May 1987.
-• **Epistémologie et formation des enseignants**, « XII Conférence de L'Association pour la Formation des Enseignants en Europe », Berlim University, Germany, 8 September 1987.  
-• **Leibnizian strategies for the semantical foundation of the universal language**, “V Internationaler Leibniz Kongress“, Hannover, Germany, 16 November 1988.  
-• **Cultural history and disciplinary specialization**, invited speaker to the “Fourth International Conference Explorations in Cultural History”, Aberdeen University, UK, 27-30 June 1989.  
-• **Comparative lines between Leibniz's theory of language and Spinoza's reflexion on language themes**, keynote speaker to the “Symposium Leibniz und Spinoza: Konfrontation zweier Philosophien am Beginn der Neuzeit”, Hannover, Germany, 3 -8 September 1989. 
-• **Hobbes's influence on the Leibnizian project of a universal language**, “V International Conference on the History of Linguistics”, Galway, Ireland, 1-6 September 1990.  
-• **Wilkins and Leibniz on knowledge organization**, invited speaker to the international conference “John Wilkins: Language, Religion and Science”, St. Peters College, Oxford, UK, 8-11 Sepember 1990.  
-• **The place of the ‘Dissertatio de Stylo Philosophico Nizolii’ in the leibnizian praise of the German Language**, “International Conference Italy and Europe in Renaissance Linguistics”, Istituto di Studi Rinascimentali, Ferrara, Italy, 20-24 March 1991.  
-• **Leibniz's Preface to Nizolius and the polemics on philosophical style**, keynote speaker to the “Institute for Advanced Studies da Hebrew University of Jerusalem”, Israel, 6 April 1995. 
-• **A unidade da filosofia da linguagem de Leibniz** (The unity of Leibniz’s philosophy of language), keynote speaker to the International colloquium “Descartes, Leibniz e a Modernidade”, held at the Faculty of Letters, University of Lisbon, 28 November 1996.  
-• **La théorie leibnizienne de la pensée aveugle**, invited speaker to the International colloquium « Epistémologie Historique de la Linguistique » put forward by the Société Suisse de Linguistique, Institut Universitaire Kurt Bosch, Sion, Switzerland, 1- 5 September 1997.  
-• **The Program of Unified Science by Neurath and Leibniz**, invited speaker to the “Institut für Philosophie”, Vienna University, Austria, 20 September 1999.  
-• **Knowledge as encyclopaedia. Unity and transversality**, invited speaker to the Institut Wiener Kreis and Vienna University Conference “Concepts of Knowledge and Economic Thought by and on Otto Neurath and Joseph Popper-Lynkeus”, Zentrum für Überfakultäre Forschung, Vienna University, Austria, 3-5 May 2000.  
-• **Hobbes's thesis of the arbitrariness of the sign**, Annual Meeting of the “Henry Sweet Society for the History of Linguistic Ideas”, held at the Edinburgh University, UK, 20-23 September 2000.  
-• **Leibniz and the encyclopaedic project**, invited speaker to the conference “Ciência, Tecnologia y Bien Común: La Actualidad de Leibniz”, Valência Polithechnical University, Spain, 21-23 Mar 2001.  
-• **L'introuvable philosophie des sciences**, invited speaker at the « Séminaire Philosophique Franco-Portugais », Instituto Franco-Português, Lisboa, 26 November 2001. 
+* **The leibnizian theory of the representativity of the sign**, “IV Internationale Konferenz zur Geschichte der Sprachwissenschaften”, Trier, Germany, 26 August 1987.  
+* **La théorie leibnizienne de la pensée aveugle en tant que perspective sur quelques des apories linguistiques de la modernité**, invited speaker at the “International colloquium Readings of Modernity”, Franco-Portuguese Institut, Lisboa, 27 May 1987.
+* **Epistémologie et formation des enseignants**, « XII Conférence de L'Association pour la Formation des Enseignants en Europe », Berlim University, Germany, 8 September 1987.  
+* **Leibnizian strategies for the semantical foundation of the universal language**, “V Internationaler Leibniz Kongress“, Hannover, Germany, 16 November 1988.  
+* **Cultural history and disciplinary specialization**, invited speaker to the “Fourth International Conference Explorations in Cultural History”, Aberdeen University, UK, 27-30 June 1989.  
+* **Comparative lines between Leibniz's theory of language and Spinoza's reflexion on language themes**, keynote speaker to the “Symposium Leibniz und Spinoza: Konfrontation zweier Philosophien am Beginn der Neuzeit”, Hannover, Germany, 3 -8 September 1989. 
+* **Hobbes's influence on the Leibnizian project of a universal language**, “V International Conference on the History of Linguistics”, Galway, Ireland, 1-6 September 1990.  
+* **Wilkins and Leibniz on knowledge organization**, invited speaker to the international conference “John Wilkins: Language, Religion and Science”, St. Peters College, Oxford, UK, 8-11 Sepember 1990.  
+* **The place of the ‘Dissertatio de Stylo Philosophico Nizolii’ in the leibnizian praise of the German Language**, “International Conference Italy and Europe in Renaissance Linguistics”, Istituto di Studi Rinascimentali, Ferrara, Italy, 20-24 March 1991.  
+* **Leibniz's Preface to Nizolius and the polemics on philosophical style**, keynote speaker to the “Institute for Advanced Studies da Hebrew University of Jerusalem”, Israel, 6 April 1995. 
+* **A unidade da filosofia da linguagem de Leibniz** (The unity of Leibniz’s philosophy of language), keynote speaker to the International colloquium “Descartes, Leibniz e a Modernidade”, held at the Faculty of Letters, University of Lisbon, 28 November 1996.  
+* **La théorie leibnizienne de la pensée aveugle**, invited speaker to the International colloquium « Epistémologie Historique de la Linguistique » put forward by the Société Suisse de Linguistique, Institut Universitaire Kurt Bosch, Sion, Switzerland, 1- 5 September 1997.  
+* **The Program of Unified Science by Neurath and Leibniz**, invited speaker to the “Institut für Philosophie”, Vienna University, Austria, 20 September 1999.  
+* **Knowledge as encyclopaedia. Unity and transversality**, invited speaker to the Institut Wiener Kreis and Vienna University Conference “Concepts of Knowledge and Economic Thought by and on Otto Neurath and Joseph Popper-Lynkeus”, Zentrum für Überfakultäre Forschung, Vienna University, Austria, 3-5 May 2000.  
+* **Hobbes's thesis of the arbitrariness of the sign**, Annual Meeting of the “Henry Sweet Society for the History of Linguistic Ideas”, held at the Edinburgh University, UK, 20-23 September 2000.  
+* **Leibniz and the encyclopaedic project**, invited speaker to the conference “Ciência, Tecnologia y Bien Común: La Actualidad de Leibniz”, Valência Polithechnical University, Spain, 21-23 Mar 2001.  
+* **L'introuvable philosophie des sciences**, invited speaker at the « Séminaire Philosophique Franco-Portugais », Instituto Franco-Português, Lisboa, 26 November 2001. 
 • **Interdisciplinaridade e integração dos saberes (Interdisciplinarity and the integration of knowledge)**, key note speaker to the “Congresso Luso Brasileiro sobre Epistemologia e Interdisciplinaridade na Pós-Graduação”, Catholic University of Rio Grande do Sul, Porto Alegre, Brazil, 21 June 2004.  
 • **Interdisciplinaridade e progresso das ciências (Interdisciplinarity and the progress of sciences)**, plenary lecture to the “Congresso Luso Brasileiro sobre Epistemologia e Interdisciplinaridade na Pós-Graduação”, held at Caxias do Sul University, Brazil, 23 June 2004.  
 • **L'évolution de la notion d'encyclopédie : 116 avant J.C (Varro) - XXIème siècle**, invited speaker to the « Maison de Sciences Humaines du Nord-Pas de Calais, Université de Lille 3, France, 17 November 2004.  
