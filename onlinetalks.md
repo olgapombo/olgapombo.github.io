@@ -129,161 +129,160 @@ https://www.youtube.com/watch?v=q_RK0CeQHO0
 
 ## Debates and round tables
 
-* Da filosofia como pedagogia, participation at a round table on the “Teaching Philosophy”, Faculty of Letters, University of Lisbon, 19 April 1985.
-* O estatuto de um programa de filosofia, participation at a round table organized by the Portuguese Philosophy Society, 6 June 1989.
-* Os livros em volta. Conversas à volta de um livro", participation in a discussion moderated by Eduardo Pardo Coelho about books including the book authored by Olga Pombo, A escola, a recta e o círculo, Relógio d'Água, 2002 (Other books presented: J. Lobo Antunes, Inventário de Nova York; João Barrento, Poço de Babel; Julieta Monguinho, Onde está J?; M. Helena Buescu, Chiaro Escuro e J. Bragança de Miranda, Teorias da Cultura). The event was organized by the Portuguese Institute for Book (IPLB) and by Culturgest, 25 Mar 2003.
-* Perplexidades em torno do estatuto do ensino da filosofia no ensino secundário, participation at the public debate: “Philosophy in the Curricular Revision, Department of Philosophy, Faculty of Letters of the University of Lisbon, 22 January 2003.
-* Clássicos: inevitáveis!, participation in the debate chaired by Paula Moura Pinheiro (with Ana Maria Magalhães, Marta Martins, José Pedro Serra, Miguel Che e Ondjaki), by invitation of the “XVI Meeting on Literature for Children,” Calouste Gulbenkian Foundation,  Lisboa, 8 October 2004
-* Ambições e limites da Interdisciplinaridade, participation in the debate “Ambições e limites da Interdisciplinaridade:  a propósito do mais recente livro de Olga Pombo”, put forward by “Seminário Interdisciplinar Teoria Social e Pensamento Contemporâneo” coordinated by José Luis Garcia, Instituto de Ciências Sociais, University of Lisbon (ICS), 5 May 2005.
-* Limites e fronteiras nas ciências, talk by invitation at the cycle of debates “Architecture and Philosophy”, put forward by the Faculdade de Arquitectura, University of Lisbon and the Eterno Retorno Bookshop, Bookshop Eterno Retorno, 16 June 2005.
-* Homenagem a Agostinho da Silva, talk by invitation at a round table with Olga Pombo, Fernando Dacosta, Helena Carvalhão, Natércia Duarte Belo and Paulo Archer, put forward by the Archive Bookshop, 16 February 2006.
-* A verdade na ciência, talk by invitation at the debate "A verdade", put forward by Ler Devagar Bookshop and Eterno Retorno Bookshop, Lisboa, 27 April 2006.
-* Sobre o ensino da filosofia, participation at the debate on “The Teaching of Philosophy”, Ler Devagar Bookshop, Lisboa, 21 March 2007.
-* A filosofia e o amor da escola, talk by invitation at the debate “Olhares sobre a Filosofia. A Filosofia na Escola, na Cidade e na Cultura”, Centro Nacional de Cultura, Lisboa, 23 March 2007.
-* Ser no tempo em que estamos/estar no tempo em que somos, participation in a round table by invitation of the “Project Escola Criativa“, Cascais Cultural Center, 15 November 2007.
-* Questões filosóficas a propósito do evolucionismo, talk presented at the debate “Evolucionismo e o seu Ensino”, organized by CFCUL and the Polytechnic Theater, Lisboa, 13 January 2008.
-* Desafios da escola hoje, participation in the debate “A avaliação das escolas e dos professores”, put forward by the Centro de Formação da Vasco da Gama High School, 16 April 2008.
-* Avaliação de professores. Esta não. Mas qual?, invited talk at a debate put forward by the “Movimento Escola Pública”, Associação 25 de Abril,  Lisboa, 21 June 2008.
-* Ciência Viva faz 10 anos, E para os próximos 10 anos? Digam e nós fazemos, participation in a round table chaired by Alexandre Quintanilha, organised for the celebration of the “10 years of Ciência Viva”, Pavilhão do Conhecimento, 25 July 2009.
-* Ciência sextas às sete, participation at a round table together with Onésimo Teotónio de Almeida and António Coutinho, organized by Almedina Bookshop, Lisboa, Atrium Saldanha, 16 October 2009.
-* Timeline. O tempo do desenho, participation at a round table with Guida Casella, by invitation of the project "Espaços de Desenho", Lisboa, Fabrica Braço de Prata, 27 March 2010.
-* A imagem entre a ciência e a arte, apresentação de um projecto, participation at a round table by invitation of the project "Espaços de Desenho", Lisboa, Fabrica Braço de Prata, 1 April 2010.
-* Dinamizar a bioética na University of Lisbon II: em torno da clonagem humana, moderator of the debate organized by the Biodiversity Center, Center for Integrative and functional Genomics (BioFIG), FCUL, 6 April 2010.
-* Analogia e mediação, transversalidade na investigação em arte, filosofia e ciência", moderation of a round table organized at the Faculdade de Belas Artes, University of Lisbon, 12 December 2012.
-* Hommage to João Lopes Alves, participation in the “Homage session to João Lopes Alves”, put forward by the CFCUL, FCUL, 7 November 2013.
-* Apontamentos sobre o ócio, invited talk at the round table "Time for doing nothing / what is otium for?" in the context of the event " The 24 Hours of Time" organized by Ciência Viva – National agency for Scientific and Technological Culture, Lisboa, Knowledge Pavilion, 21 June 2014.
-* Apontamentos sobre margens, fronteiras e linhas de demarcação, invited talk at a round table on "Religion, Philosophy and Science: View Bridges", Congress of the Portuguese Psychodrama Society, Almada Pousada da Juventude, Almada, 9 November 2014.
-* Notas sobre a ciência em Portugal antes e depois do 25 de Abril, invited talk at a debate on “Science in Portugal”, Festa do Avante, Seixal, 3 September 2016.
-* O futuro da investigação filosófica em Portugal, participation at the round table organized in the context of the 2nd Congresso Português de Filosofia, Universidade de Oporto, 9 September 2016.
-* Pensar as ciências, participation at the fishbowl talk, Faculty of Sciences e Tecnologia, New University of Lisbon, 28 September 2016.
-* Utopias e distopias, invited talk at the“Tertúlia Folio. Festival Literário Internacional de Óbidos”, coordinated by Teresa Calçada, Livraria da Adega, Óbidos, 29 September 2016
-* O valor cognitivo da árvore, invited talk at the round table on “Valor da Árvore”, organized by the Doctoral College F3 of the UL and the project “Muita Fruta”, 3 July 2017.<https://www.facebook.com/watch/live/?v=334326760337147&ref=watch_permalink>
-* Por que razão marcho pela ciência?, invited speech in Marcha pela Ciência /March for Science, Largo do Carmo,  Lisboa, 22th April, 2017 
+* **Da filosofia como pedagogia**, participation at a round table on the “Teaching Philosophy”, Faculty of Letters, University of Lisbon, 19 April 1985.
+* **O estatuto de um programa de filosofia**, participation at a round table organized by the Portuguese Philosophy Society, 6 June 1989.
+* **Os livros em volta. Conversas à volta de um livro**", participation in a discussion moderated by Eduardo Pardo Coelho about books including the book authored by Olga Pombo, A escola, a recta e o círculo, Relógio d'Água, 2002 (Other books presented: J. Lobo Antunes, Inventário de Nova York; João Barrento, Poço de Babel; Julieta Monguinho, Onde está J?; M. Helena Buescu, Chiaro Escuro e J. Bragança de Miranda, Teorias da Cultura). The event was organized by the Portuguese Institute for Book (IPLB) and by Culturgest, 25 Mar 2003.
+* **Perplexidades em torno do estatuto do ensino da filosofia no ensino secundário**, participation at the public debate: “Philosophy in the Curricular Revision, Department of Philosophy, Faculty of Letters of the University of Lisbon, 22 January 2003.
+* **Clássicos: inevitáveis!**, participation in the debate chaired by Paula Moura Pinheiro (with Ana Maria Magalhães, Marta Martins, José Pedro Serra, Miguel Che e Ondjaki), by invitation of the “XVI Meeting on Literature for Children,” Calouste Gulbenkian Foundation,  Lisboa, 8 October 2004
+* **Ambições e limites da Interdisciplinaridade**, participation in the debate “Ambições e limites da Interdisciplinaridade:  a propósito do mais recente livro de Olga Pombo”, put forward by “Seminário Interdisciplinar Teoria Social e Pensamento Contemporâneo” coordinated by José Luis Garcia, Instituto de Ciências Sociais, University of Lisbon (ICS), 5 May 2005.
+* **Limites e fronteiras nas ciências**, talk by invitation at the cycle of debates “Architecture and Philosophy”, put forward by the Faculdade de Arquitectura, University of Lisbon and the Eterno Retorno Bookshop, Bookshop Eterno Retorno, 16 June 2005.
+* **Homenagem a Agostinho da Silva**, talk by invitation at a round table with Olga Pombo, Fernando Dacosta, Helena Carvalhão, Natércia Duarte Belo and Paulo Archer, put forward by the Archive Bookshop, 16 February 2006.
+* **A verdade na ciência**, talk by invitation at the debate "A verdade", put forward by Ler Devagar Bookshop and Eterno Retorno Bookshop, Lisboa, 27 April 2006.
+* **Sobre o ensino da filosofia**, participation at the debate on “The Teaching of Philosophy”, Ler Devagar Bookshop, Lisboa, 21 March 2007.
+* **A filosofia e o amor da escola**, talk by invitation at the debate “Olhares sobre a Filosofia. A Filosofia na Escola, na Cidade e na Cultura”, Centro Nacional de Cultura, Lisboa, 23 March 2007.
+* **Ser no tempo em que estamos/estar no tempo em que somos**, participation in a round table by invitation of the “Project Escola Criativa“, Cascais Cultural Center, 15 November 2007.
+* **Questões filosóficas a propósito do evolucionismo**, talk presented at the debate “Evolucionismo e o seu Ensino”, organized by CFCUL and the Polytechnic Theater, Lisboa, 13 January 2008.
+* **Desafios da escola hoje**, participation in the debate “A avaliação das escolas e dos professores”, put forward by the Centro de Formação da Vasco da Gama High School, 16 April 2008.
+* **Avaliação de professores. Esta não. Mas qual?**, invited talk at a debate put forward by the “Movimento Escola Pública”, Associação 25 de Abril,  Lisboa, 21 June 2008.
+* **Ciência Viva faz 10 anos, E para os próximos 10 anos? Digam e nós fazemos**, participation in a round table chaired by Alexandre Quintanilha, organised for the celebration of the “10 years of Ciência Viva”, Pavilhão do Conhecimento, 25 July 2009.
+* **Ciência sextas às sete**, participation at a round table together with Onésimo Teotónio de Almeida and António Coutinho, organized by Almedina Bookshop, Lisboa, Atrium Saldanha, 16 October 2009.
+* **Timeline. O tempo do desenho**, participation at a round table with Guida Casella, by invitation of the project "Espaços de Desenho", Lisboa, Fabrica Braço de Prata, 27 March 2010.
+* **A imagem entre a ciência e a arte, apresentação de um projecto**, participation at a round table by invitation of the project "Espaços de Desenho", Lisboa, Fabrica Braço de Prata, 1 April 2010.
+* **Dinamizar a bioética na University of Lisbon II: em torno da clonagem humana**, moderator of the debate organized by the Biodiversity Center, Center for Integrative and functional Genomics (BioFIG), FCUL, 6 April 2010.
+* **Analogia e mediação, transversalidade na investigação em arte, filosofia e ciência**, moderation of a round table organized at the Faculdade de Belas Artes, University of Lisbon, 12 December 2012.
+* **Hommage to João Lopes Alves**, participation in the “Homage session to João Lopes Alves”, put forward by the CFCUL, FCUL, 7 November 2013.
+* **Apontamentos sobre o ócio**, invited talk at the round table "Time for doing nothing / what is otium for?" in the context of the event " The 24 Hours of Time" organized by Ciência Viva – National agency for Scientific and Technological Culture, Lisboa, Knowledge Pavilion, 21 June 2014.
+* **Apontamentos sobre margens, fronteiras e linhas de demarcação**, invited talk at a round table on "Religion, Philosophy and Science: View Bridges", Congress of the Portuguese Psychodrama Society, Almada Pousada da Juventude, Almada, 9 November 2014.
+* **Notas sobre a ciência em Portugal antes e depois do 25 de Abril**, invited talk at a debate on “Science in Portugal”, Festa do Avante, Seixal, 3 September 2016.
+* **O futuro da investigação filosófica em Portugal**, participation at the round table organized in the context of the 2nd Congresso Português de Filosofia, Universidade de Oporto, 9 September 2016.
+* **Pensar as ciências**, participation at the fishbowl talk, Faculty of Sciences e Tecnologia, New University of Lisbon, 28 September 2016.
+* **Utopias e distopias**, invited talk at the“Tertúlia Folio. Festival Literário Internacional de Óbidos”, coordinated by Teresa Calçada, Livraria da Adega, Óbidos, 29 September 2016
+* **O valor cognitivo da árvore**, invited talk at the round table on “Valor da Árvore”, organized by the Doctoral College F3 of the UL and the project “Muita Fruta”, 3 July 2017.<https://www.facebook.com/watch/live/
+v=334326760337147&ref=watch_permalink>
+* **Por que razão marcho pela ciência?**, invited speech in Marcha pela Ciência /March for Science, Largo do Carmo,  Lisboa, 22th April, 2017 
 < https://www.youtube.com/watch?v=hgTy1DrLLd0>
-* Ciência, democracia e escola, invited talk at the round table on “Science and Education”, in the context of Ulisses Conferences 2018. European Democracy: an idea whose time has arrived, Cultural Center of Belem, Lisboa, 7 April 2018.
-* O saber n/do século XXI, invited talk at the debate on “O saber n/do século XXI” in the context of the program “My Research 2018” put forward by Universidade Católica de Lisboa, 13th November 2018.
-* Utopia tecnológica, invited talk at a debate on “Utopia Tecnológica – A inovação ao serviço da Humanidade”, in the context of the series “European Utopia: the power of imagination and the imperatives of the future”, held at Fundação Serralves, Porto, 6 February 2019.
+* **Ciência, democracia e escola**, invited talk at the round table on “Science and Education”, in the context of Ulisses Conferences 2018. European Democracy: an idea whose time has arrived, Cultural Center of Belem, Lisboa, 7 April 2018.
+*** O saber n/do século XXI**, invited talk at the debate on “O saber n/do século XXI” in the context of the program “My Research 2018” put forward by Universidade Católica de Lisboa, 13th November 2018.
+* **Utopia tecnológica**, invited talk at a debate on “Utopia Tecnológica – A inovação ao serviço da Humanidade”, in the context of the series “European Utopia: the power of imagination and the imperatives of the future”, held at Fundação Serralves, Porto, 6 February 2019.
 https://www.youtube.com/watch?v=v0P5CvZ0T8s  (51.43)
 https://www.youtube.com/watch?v=v0P5CvZ0T8s&list=PLXKRQSlglfTUbOO9Ob7zmWn_JQX5VpaQZ&index=5&t=4309s
 https://forumdemosnet.wordpress.com/2019/02/13/a-utopia-tecnologica/
-* University and interdisciplinarity, participation at the international round table on “Interdisciplinar Studies at the University - the case of Complex Systems Science,” organized by ISCTE-IUL/FCUL, in the context of the Doctoral Program on Complexity Sciences, ISCTE, 12 June 2019.
-* What was, is and will be technology, participation at the debate of the “Talk a Bit 2020” conference, organized by the master in “Informatics, Engineering and Computation”, of the Faculdade de Engenharia, Universidade do Porto, 11 January 2020.
-* A base científica da medicina e a prática da medicina baseada na evidência, participation, as commentator, at conference organized by the Research Centre for Criminal Law and Criminal Sciences, Faculdade de Direito, University of Lisbon, 16 April, 2021 (video conference)
-* Les liens entre interdisciplinarités et valorisation scientifique par les médias audio-visuels, participation, as animateur, at a round-table of the international colloquium “Interdisciplinarité(s)”, put forward by the Réseau National des Maisons des Sciences de L’Homme, University of Aix en Provence, France, 9-10 September, 2021.
-* Direito: ciência, arte, cultura, invited talk at a round table/debate put forward by the Instituto de Investigação Interdisciplinar do Direito da Faculdade de Direito da Universidade de Lisboa (IURIS/FDUL), Faculdade de Direito da Universidade de Lisboa,16 November 2023.
+* **University and interdisciplinarity**, participation at the international round table on “Interdisciplinar Studies at the University - the case of Complex Systems Science,” organized by ISCTE-IUL/FCUL, in the context of the Doctoral Program on Complexity Sciences, ISCTE, 12 June 2019.
+* **What was, is and will be technology**, participation at the debate of the “Talk a Bit 2020” conference, organized by the master in “Informatics, Engineering and Computation”, of the Faculdade de Engenharia, Universidade do Porto, 11 January 2020.
+* **A base científica da medicina e a prática da medicina baseada na evidência**, participation, as commentator, at conference organized by the Research Centre for Criminal Law and Criminal Sciences, Faculdade de Direito, University of Lisbon, 16 April, 2021 (video conference)
+* **Les liens entre interdisciplinarités et valorisation scientifique par les médias audio-visuels**, participation, as animateur, at a round-table of the international colloquium “Interdisciplinarité(s)”, put forward by the Réseau National des Maisons des Sciences de L’Homme, University of Aix en Provence, France, 9-10 September, 2021.
+* **Direito: ciência, arte, cultura**, invited talk at a round table/debate put forward by the Instituto de Investigação Interdisciplinar do Direito da Faculdade de Direito da Universidade de Lisboa (IURIS/FDUL), Faculdade de Direito da Universidade de Lisboa,16 November 2023.
+
 
 ##  Book presentations 
 
-•	Notas de leitura à margem de uma antologia, presentation of the book edited by Irene Borges Duarte, Maria Fernanda Henriques and Isabel Matos Dias, “Texto, Leitura e Escrita. Antologia” (Porto: Porto Editora, 2000), Lisboa, Bookshop Barata, 28 March 2001. 
-•	Enciclopédia e hipertexto. Continuidade e inovação, presentation of the book edited by José António Cordon Garcia’s "De D'Alembert ao CD-Rom", "I Encontro de Bibliotecas do Ensino Superior. Conhecimento, Qualidade e Inovação", Instituto de Psicologia Aplicada, Lisboa, 18 December 2003.
-•	Há verdade em ciência? Popper, Kuhn e outros, presentation of the portuguese translation of Karl Popper Conjectures and Refutations, Auditorium of the Almedina bookshop, Lisboa, 28 May 2004.
-•	Boas razões para amar a escola. A propósito da "Lettre à tous ceux qui aiment l'école" de Luc Ferry, presentation of the book authored by Luc Ferry, Vitorino Nemésio High School, Lisboa, 6 April 2005.
-•	Interdisciplinaridade, humanismo, universidade, presentation of the book edited by Carlos Pimenta (Lisboa: Campo das Letras) together with António Nóvoa and Carlos Matos Ferreira, Lisboa, Trindade Theater, 11 April 2005.
-•	Interdisciplinaridade: Ambições e Limites, book authored by Olga Pombo (Lisboa: Relógio d’Água). Presentation of the book by António Bracinha Vieira, Nuno Guimarães and António Guerreiro, Lisboa, Bookshop Eterno Retorno,12 May 2005. 
-•	Unidade da ciência. Programas, figuras e metáforas, book authored by Olga Pombo (Lisboa: Editora Duarte Reis). Presentation of the book by Shahid Rahman (Lille University) and Teresa Levy (FCUL), Lisboa, Bookshop Ler Devagar, 26 October 2006.
-•	As 'Cartas de Problemática' de António Sérgio, book edited by Olga Pombo, Manuel Beirão dos Reis and João Luís Cordovil (series “Cadernos de Filosofia das Ciências”.  Lisboa: CFCUL). Presentation and debate by João Luís Andrade e Silva, Maria Helena Andrade e Silva, António Lopes Vieira, Carlos Veiga Pereira, Manuel Pina, Raul David Gomes and José Cyrillo Machado, Lisboa, Bucholz Bookshop , 29 June 2006. 
-•	Enciclopédia e hipertexto, book edited by Olga Pombo, António Guerreiro and António Franco Alexandre (Lisboa: Editora Duarte Reis). Presentation of the book by Olga Pombo, António Guerreiro, Nuno Grande and Manuela Matos Monteiro, Porto, Sem Mais nem Menos Bookshop, 26 May 2006.  
-•	A teoria de Oparin sobre a origem da vida. Uma abordagem no quadro da história e filosofia das ciências, presentation of the book edited by Helena Abreu (Lisboa: CFCUL, series “Cadernos de Filosofia das Ciências”), together with Carlos Almaça and Francisco Carrapiço, Faculty of Sciences, University of Lisbon, 13 November 2007.
-•	Unidade da Ciência. Programas, figuras e metáforas, book authored by Olga Pombo ( Lisboa: Duarte Reis) presentation of the book by José Croca, Mafalda Blanc and Dinis Pestana,  Lisboa, Ler Devagar Bookshop, 28 March 2007. 
-•	Diálogos sobre física quântica. Dos paradoxos à não-linearidade, presentation of the book edited by José R. Croca and Rui N. Moreira (Lisboa: Esfera do Caos), together with Viriato Soromenho-Marques, Rectory of the University of Lisbon, 29 May 2007.
-•	 Lisboa: saúde e inovação. Do renascimento aos dias de hoje, presentation of the book edited by Manuel Valente Alves e Constantino Sakellarides (Lisboa, Gradiva, 2008), Lisboa, Pavilion Portugal Tecnológico, FIL (Parque das Nações), 21 November 2008. 
-•	Marx morto, Darwin posto, presentation of the book authored by Onésimo Teotónio Almeida, Ciência na Almedina. Sextas às Sete, Almedina Bookshop, Lisboa, 16 October 2009.  
-•	Medicina e outras coisas, presentation of the book edited by António Barros Veloso (Lisboa: Gradiva), together with Álvaro de Carvalho, Lisboa, Fábrica Braço de Prata Bookshop, 25 February 2009.
-•	Ciência, psicanálise e poética em torno de Gaston Bachelard, presentation of the book edited by Ana Gaspar (Lisboa: CFCUL), together with Ana Almeida, José Luis Garcia, Joaquim Carlos Araújo, João Araújo e José Luis Pio de Abreu, Lisboa, Fábrica de Braço de Prata Bookshop, 31 May 2009.
-•	Relatividade e física clássica: continuidade e ruptura, presentation of the book authored by António Brotas, Complexo Interdisciplinar do Instituto Superior Técnico, Lisboa, 20 January 2010.
-•	Otto Neurath and the unity of science, presentation of the book edited by Olga Pombo, John Symons and Juan Manuel Torres, Springer, 2010, held at the Faculty of Sciences, University of Lisbon, 17 September 2011.
-•	Neuroaesthetics – Can science explain art?, book edited by Olga Pombo, Silvia Di Marco e Marco Pina (Lisboa: Fim de Século, series “Image in Science and Art). Presentation by José Félix Costa and Nuno Nabais, Lisboa, Fábrica Braço de Prata Bookshop, 16 December 2010.     
-•	Palavra e esplendor do mundo. Estudos sobre Leibniz, book authored by Olga Pombo ( Lisboa: Fim de Século). Presentation of the book by Marcelo Dascal, Faculty of Letters University of Lisbon, Anfitheater III, 25 de November de 2010.
-•	Das sociedades humanas às sociedades artificiais, presentation of the book authored by Porfírio Silva, Colégio Espírito Santo, Universidade de Évora, 6 May 2011. 
-•	Solaris. Sistema Beta Pictoris, presentation of the book edited de Rodrigo Vilhena (Lisboa: Fim de Século, Series “Image in Science and Art) together with José R. Croca and Catarina Nabais, Lisboa, Fábrica Braço de Prata Bookshop, 13 May 2011.
-•	Marie Skłodowska Curie - imagens de outra face, presentation of the book authored by Raquel Gonçalves-Maia”, Colibri Editor, FCUL, 9 November 2011.
-•	As imagens com que a ciência se faz, book edited by Olga Pombo and Silvia Di Marco (Lisboa: Fim de Século, series “Image in Science and Art). Presentation of the book by Palmira Fontes da Costa, Faculty of Sciences, University of Lisbon, 1 June 2011.
-•	Em torno de Darwin, book edited by Olga Pombo and Marco Pina ( Lisboa: Fim de Século), presentation of the book by Olga Pombo, Marco Pina and Ricardo Santos, Lisboa, FNAC Vasco da Gama Bookshop, 19 April 2012. 
-•	Em torno de Darwin, book edited by Olga Pombo and Marco Pina (Lisboa: Fim de Século), presentation of the book by Olga Pombo, Marco Pina, Antonio Bracinha Vieira and Nuno Nabais,  Lisboa, Fabrica Braço de Prata Bookshop, 22 June 2012. 
-•	Economia e interdisciplinaridade(s), presentation of the book authored by Victor Neves, Almedina Bookshop, Atrium Saldanha, Lisboa, 23 November 2012.
-•	Colecção de desenho antigo da faculdade de belas-artes (1830-1935): tradução, formação e gosto, presentation of the book edited by Alberto Faria (Lisboa: Fim de Século, Series “Image in Science and Art”) together with Luísa Arruda and Cristina Azevedo Tavares, Faculdade de Belas Artes,  University of Lisbon, 27 January 2012.
-•	Representações do corpo na ciência e na arte, presentation of the book edited by Cristina Azevedo Tavares (Lisboa: Fim de Século, Series “Image in Science and Art”) together with Isabel Rito and António Barros Veloso, Chappel of the Faculdade de Belas Artes, University of Lisbon, 28 March 2012.  
-•	Special sciences and the unity of science, book edited by Olga Pombo, Juan Manuel Torres, John Symons and Shahid Rahman (Dordrecht / Londres / New York: Springer). Presentation by the editors, FCUL, 14 May 2012. 
-•	O círculo dos saberes, book authored by Olga Pombo (Lisboa: CFCUL/Gradiva). Presentation of the book by Shahid Rahman, International Symposium of Epistemology, Logic and Language (ISELL2012), Lisboa, FCUL, 29 October 2012.
-•	As Cartas de Problemática de António Sérgio, book edited by Olga Pombo and João L. Cordovil (Lisboa: Fim de Século) and Quatro Novos Estudos sobre António Sérgio (“Four new studies on Antonio Sérgio”) edited by João Paulo Príncipe (Lisboa: Caleidoscópio). Presentation of the two books by Hermínio Martins and Rui Moreira, Lisboa, Fábrica Braço de Prata Bookshop, 19 April 2013.
-•	Tarefas da epistemologia e da filosofia da ciência para o século XXI, book authored by Olga Pombo. Presentation of the book by João Maria André (Coimbra University), Lisboa, FCUL, 25 September 2014.
-•	Eurhythmic physics or hyperphysics - the unification of physics, presentation of the book authored by José Croca, Rectory of the University of Lisbon, 23 September 2015.
-•	Materialismo e idealismo na física do final do século XIX e ínicio do século XX a partir de ‘Materialismo e empiriocriticismo’de Lénine, presentation of the book authored by Ana Pato, Lisboa: Pé de Pagina, FCUL, 29th January 2016.
-•	Afinal, o que é a ciência? Relatório de um projecto, book edited by Olga Pombo and Ricardo Santos, CFCUL/Ciência Viva. Presentation by the editors at the António Damásio High School, Lisboa, 31th May 2016.
-•	Dialogos sobre a nova fisica. Complexidade e não-linearidade, presentation of the book authored by José Croca, Esfera do Caos, 2016, Rectory of the University of Lisbon, 14th June 2016.
-•	Gaston Bachelard. A philosophy of the surrreal, presentation of the book authored by Zbigniew Kotowicz, Edinburg: Edinburg University Press, 2016, at the École des Mines, Paris, 22 Mai 2018.
-•	Alan Turing: Cientista universal, participation at the virtual book launch put forward by the Universidade do Minho Editora with the authors of the chapters and moderated by the editor, Prof. Jose Carlos Espírito Santo, in the context of the 2020 Braga Book Fair, 14th July 2020.  
-<https://www.youtube.com/watch?v=3L1G9TR3tCE>
-•	A Imagem na ciencia e na arte. Presentation of the 12 volume series, directed by Olga Pombo, at the International Science Festival (FICA), Palácio do Marques de Pombal, Oeiras, 13 October 2021.
-•	Ciencia, racionalidade e politica. Ensaios (in)actuais, ed by Olga Pombo, presentation of the book with António Guerreiro and Jorge Correia Jesuino at the Faculdade de Direito,  University of Lisbon, 15 October 2021.
-•	Regresso ao Protágoras de Platão, edited by Olga Pombo (2021), presentation of the book with the authors of the chapters (Antonio Bracinha Vieira, Joao Costancio, Jose Gabriel Trindade dos Santos, Jorge Carreira Mais, Manuel Rodrigues e Olga Pombo), moderated by the editor Helena Vieira, Livraria Linha de Sombra, Cinemateca, Lisboa, 25 de Fevereiro 2022. 
-•	An unconventional distinction established by Rousseau, chapter by Olga Pombo, participation on the philosophical online meeting around the publication of L. Boi, U. Curi, L. Maffei, L. Miraglia (edrs), In Difesa dell'Umano. Problemi e Prospettive, Edizioni Accademia Vivarium Novum - Bibliopolis, Frascati-Napoli, 2022, put forward at the Institut Culturel du Mexique, Paris, 17 May 2022.
-•	Estudos de Filosofia da Ciencia, by Olga Pombo (2021), presentation of the book by André Barata, Hugo Vale, Olivier Feron and Rui Nunes, and the author Olga Pombo in a session moderated by the editor Helena Vieira, Livraria Linha de Sombra, Cinemateca, Lisboa, 18 November 2022.
-•	O Insuportável Brilho da Escola. Elementos para uma Filosofia da Escola e do Ensino”, by Olga Pombo (2023), presentation of and debate on the book by António Cruz, Domingos Fernandes and Jesuína Pereira, in a session moderated by Joaquim Melro, ES António Damásio, Lisboa, 23 March 2023.
-•	O Insuportável Brilho da Escola. Elementos para uma Filosofia da Escola e do Ensino”, by Olga Pombo (2023), presentation of and debate on the book by Amílcar Santos and Moisés de Lemos Martins, in a session moderated by Antonio Cruz, ES D. Pedro V, Lisboa, 29 March 2023.
-Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century, edited by Olga Pombo, K. Gaertner, J. Jesuíno (eds.) (2023), Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, presentation of the book by Olga Pombo at the international symposium “Interdisciplining Knowledge: Humanities, Sciences and Culture”, organized by the Centre for Interdisciplinary Studies of the University of Coimbra in partnership with the Municipality of Coimbra, Casa da Cidadania da Língua, Coimbra, 6-7 December 2023.
-
-
+* **Notas de leitura à margem de uma antologia**, presentation of the book edited by Irene Borges Duarte, Maria Fernanda Henriques and Isabel Matos Dias, “Texto, Leitura e Escrita. Antologia” (Porto: Porto Editora, 2000), Lisboa, Bookshop Barata, 28 March 2001.
+* **Enciclopédia e hipertexto. Continuidade e inovação**, presentation of the book edited by José António Cordon Garcia’s "De D'Alembert ao CD-Rom", "I Encontro de Bibliotecas do Ensino Superior. Conhecimento, Qualidade e Inovação", Instituto de Psicologia Aplicada, Lisboa, 18 December 2003.
+* **Há verdade em ciência? Popper, Kuhn e outros**, presentation of the portuguese translation of Karl Popper Conjectures and Refutations, Auditorium of the Almedina bookshop, Lisboa, 28 May 2004.
+* **Boas razões para amar a escola. A propósito da "Lettre à tous ceux qui aiment l'école" de Luc Ferry**, presentation of the book authored by Luc Ferry, Vitorino Nemésio High School, Lisboa, 6 April 2005.
+* **Interdisciplinaridade, humanismo, universidade**, presentation of the book edited by Carlos Pimenta (Lisboa: Campo das Letras) together with António Nóvoa and Carlos Matos Ferreira, Lisboa, Trindade Theater, 11 April 2005.
+* **Interdisciplinaridade: Ambições e Limites**, book authored by Olga Pombo (Lisboa: Relógio d’Água). Presentation of the book by António Bracinha Vieira, Nuno Guimarães and António Guerreiro, Lisboa, Bookshop Eterno Retorno,12 May 2005.
+* **Unidade da ciência. Programas, figuras e metáforas**, book authored by Olga Pombo (Lisboa: Editora Duarte Reis). Presentation of the book by Shahid Rahman (Lille University) and Teresa Levy (FCUL), Lisboa, Bookshop Ler Devagar, 26 October 2006.
+* **As 'Cartas de Problemática' de António Sérgio**, book edited by Olga Pombo, Manuel Beirão dos Reis and João Luís Cordovil (series “Cadernos de Filosofia das Ciências”.  Lisboa: CFCUL). Presentation and debate by João Luís Andrade e Silva, Maria Helena Andrade e Silva, António Lopes Vieira, Carlos Veiga Pereira, Manuel Pina, Raul David Gomes and José Cyrillo Machado, Lisboa, Bucholz Bookshop , 29 June 2006.
+* **Enciclopédia e hipertexto**, book edited by Olga Pombo, António Guerreiro and António Franco Alexandre (Lisboa: Editora Duarte Reis). Presentation of the book by Olga Pombo, António Guerreiro, Nuno Grande and Manuela Matos Monteiro, Porto, Sem Mais nem Menos Bookshop, 26 May 2006.
+* **A teoria de Oparin sobre a origem da vida. Uma abordagem no quadro da história e filosofia das ciências**, presentation of the book edited by Helena Abreu (Lisboa: CFCUL, series “Cadernos de Filosofia das Ciências”), together with Carlos Almaça and Francisco Carrapiço, Faculty of Sciences, University of Lisbon, 13 November 2007.
+* **Unidade da Ciência. Programas, figuras e metáforas**, book authored by Olga Pombo ( Lisboa: Duarte Reis) presentation of the book by José Croca, Mafalda Blanc and Dinis Pestana,  Lisboa, Ler Devagar Bookshop, 28 March 2007.
+* **Diálogos sobre física quântica. Dos paradoxos à não-linearidade**, presentation of the book edited by José R. Croca and Rui N. Moreira (Lisboa: Esfera do Caos), together with Viriato Soromenho-Marques, Rectory of the University of Lisbon, 29 May 2007.
+* **Lisboa: Saúde e Inovação. Do Renascimento aos dias de hoje**, presentation of the book edited by Manuel Valente Alves e Constantino Sakellarides (Lisboa, Gradiva, 2008), Lisboa, Pavilion Portugal Tecnológico, FIL (Parque das Nações), 21 November 2008.
+* **Marx morto, Darwin posto**, presentation of the book authored by Onésimo Teotónio Almeida, Ciência na Almedina. Sextas às Sete, Almedina Bookshop, Lisboa, 16 October 2009.
+* **Medicina e outras coisas**, presentation of the book edited by António Barros Veloso (Lisboa: Gradiva), together with Álvaro de Carvalho, Lisboa, Fábrica Braço de Prata Bookshop, 25 February 2009.
+* **Ciência, psicanálise e poética em torno de Gaston Bachelard**, presentation of the book edited by Ana Gaspar (Lisboa: CFCUL), together with Ana Almeida, José Luis Garcia, Joaquim Carlos Araújo, João Araújo e José Luis Pio de Abreu, Lisboa, Fábrica de Braço de Prata Bookshop, 31 May 2009.
+* **Relatividade e física clássica: continuidade e ruptura**, presentation of the book authored by António Brotas, Complexo Interdisciplinar do Instituto Superior Técnico, Lisboa, 20 January 2010.
+* **Otto Neurath and the unity of science**, presentation of the book edited by Olga Pombo, John Symons and Juan Manuel Torres, Springer, 2010, held at the Faculty of Sciences, University of Lisbon, 17 September 2011.
+* **Neuroaesthetics – Can science explain art?**, book edited by Olga Pombo, Silvia Di Marco e Marco Pina (Lisboa: Fim de Século, series “Image in Science and Art). Presentation by José Félix Costa and Nuno Nabais, Lisboa, Fábrica Braço de Prata Bookshop, 16 December 2010.
+* **Palavra e esplendor do mundo. Estudos sobre Leibniz**, book authored by Olga Pombo ( Lisboa: Fim de Século). Presentation of the book by Marcelo Dascal, Faculty of Letters University of Lisbon, Anfitheater III, 25 de November de 2010.
+* **Das sociedades humanas às sociedades artificiais**, presentation of the book authored by Porfírio Silva, Colégio Espírito Santo, Universidade de Évora, 6 May 2011.
+* **Solaris. Sistema Beta Pictoris**, presentation of the book edited de Rodrigo Vilhena (Lisboa: Fim de Século, Series “Image in Science and Art) together with José R. Croca and Catarina Nabais, Lisboa, Fábrica Braço de Prata Bookshop, 13 May 2011.
+* **Marie Skłodowska Curie - imagens de outra face**, presentation of the book authored by Raquel Gonçalves-Maia”, Colibri Editor, FCUL, 9 November 2011.
+* **As imagens com que a ciência se faz**, book edited by Olga Pombo and Silvia Di Marco (Lisboa: Fim de Século, series “Image in Science and Art). Presentation of the book by Palmira Fontes da Costa, Faculty of Sciences, University of Lisbon, 1 June 2011.
+* **Em torno de Darwin**, book edited by Olga Pombo and Marco Pina ( Lisboa: Fim de Século), presentation of the book by Olga Pombo, Marco Pina and Ricardo Santos, Lisboa, FNAC Vasco da Gama Bookshop, 19 April 2012.
+* **Em torno de Darwin**, book edited by Olga Pombo and Marco Pina (Lisboa: Fim de Século), presentation of the book by Olga Pombo, Marco Pina, Antonio Bracinha Vieira and Nuno Nabais,  Lisboa, Fabrica Braço de Prata Bookshop, 22 June 2012.
+* **Economia e interdisciplinaridade(s)**, presentation of the book authored by Victor Neves, Almedina Bookshop, Atrium Saldanha, Lisboa, 23 November 2012.
+* **Colecção de desenho antigo da faculdade de belas-artes (1830-1935): tradução, formação e gosto**, presentation of the book edited by Alberto Faria (Lisboa: Fim de Século, Series “Image in Science and Art”) together with Luísa Arruda and Cristina Azevedo Tavares, Faculdade de Belas Artes,  University of Lisbon, 27 January 2012.
+* **Representações do corpo na ciência e na arte**, presentation of the book edited by Cristina Azevedo Tavares (Lisboa: Fim de Século, Series “Image in Science and Art”) together with Isabel Rito and António Barros Veloso, Chappel of the Faculdade de Belas Artes, University of Lisbon, 28 March 2012.
+* **Special sciences and the unity of science**, book edited by Olga Pombo, Juan Manuel Torres, John Symons and Shahid Rahman (Dordrecht / Londres / New York: Springer). Presentation by the editors, FCUL, 14 May 2012.
+* **O círculo dos saberes**, book authored by Olga Pombo (Lisboa: CFCUL/Gradiva). Presentation of the book by Shahid Rahman, International Symposium of Epistemology, Logic and Language (ISELL2012), Lisboa, FCUL, 29 October 2012.
+* **As Cartas de Problemática de António Sérgio**, book edited by Olga Pombo and João L. Cordovil (Lisboa: Fim de Século) and Quatro Novos Estudos sobre António Sérgio (“Four new studies on Antonio Sérgio”) edited by João Paulo Príncipe (Lisboa: Caleidoscópio). Presentation of the two books by Hermínio Martins and Rui Moreira, Lisboa, Fábrica Braço de Prata Bookshop, 19 April 2013.
+* **Tarefas da epistemologia e da filosofia da ciência para o século XXI**, book authored by Olga Pombo. Presentation of the book by João Maria André (Coimbra University), Lisboa, FCUL, 25 September 2014.
+* **Eurhythmic physics or hyperphysics - the unification of physics**, presentation of the book authored by José Croca, Rectory of the University of Lisbon, 23 September 2015.
+* **Materialismo e idealismo na física do final do século XIX e ínicio do século XX a partir de ‘Materialismo e empiriocriticismo’de Lénine**, presentation of the book authored by Ana Pato, Lisboa: Pé de Pagina, FCUL, 29th January 2016.
+* **Afinal, o que é a ciência? Relatório de um projecto**, book edited by Olga Pombo and Ricardo Santos, CFCUL/Ciência Viva. Presentation by the editors at the António Damásio High School, Lisboa, 31th May 2016.
+* **Dialogos sobre a nova fisica. Complexidade e não-linearidade**, presentation of the book authored by José Croca, Esfera do Caos, 2016, Rectory of the University of Lisbon, 14th June 2016.
+* **Gaston Bachelard. A philosophy of the surrreal**, presentation of the book authored by Zbigniew Kotowicz, Edinburg: Edinburg University Press, 2016, at the École des Mines, Paris, 22 Mai 2018.
+* **Alan Turing: Cientista universal**, participation at the virtual book launch put forward by the Universidade do Minho Editora with the authors of the chapters and moderated by the editor, Prof. Jose Carlos Espírito Santo, in the context of the 2020 Braga Book Fair, 14th July 2020.  <https://www.youtube.com/watch?v=3L1G9TR3tCE>
+* **A Imagem na ciencia e na arte. Presentation of the 12 volume series**, directed by Olga Pombo, at the International Science Festival (FICA), Palácio do Marques de Pombal, Oeiras, 13 October 2021.
+* **Ciencia, racionalidade e politica. Ensaios (in)actuais**, ed by Olga Pombo, presentation of the book with António Guerreiro and Jorge Correia Jesuino at the Faculdade de Direito,  University of Lisbon, 15 October 2021.
+* **Regresso ao Protágoras de Platão**, edited by Olga Pombo (2021), presentation of the book with the authors of the chapters (Antonio Bracinha Vieira, Joao Costancio, Jose Gabriel Trindade dos Santos, Jorge Carreira Mais, Manuel Rodrigues e Olga Pombo), moderated by the editor Helena Vieira, Livraria Linha de Sombra, Cinemateca, Lisboa, 25 de Fevereiro 2022.
+* **An unconventional distinction established by Rousseau**, chapter by Olga Pombo, participation on the philosophical online meeting around the publication of L. Boi, U. Curi, L. Maffei, L. Miraglia (edrs), In Difesa dell'Umano. Problemi e Prospettive, Edizioni Accademia Vivarium Novum - Bibliopolis, Frascati-Napoli, 2022, put forward at the Institut Culturel du Mexique, Paris, 17 May 2022.
+* **Estudos de Filosofia da Ciencia**, by Olga Pombo (2021), presentation of the book by André Barata, Hugo Vale, Olivier Feron and Rui Nunes, and the author Olga Pombo in a session moderated by the editor Helena Vieira, Livraria Linha de Sombra, Cinemateca, Lisboa, 18 November 2022.
+* **O Insuportável Brilho da Escola. Elementos para uma Filosofia da Escola e do Ensino**, by Olga Pombo (2023), presentation of and debate on the book by António Cruz, Domingos Fernandes and Jesuína Pereira, in a session moderated by Joaquim Melro, ES António Damásio, Lisboa, 23 March 2023.
+* **O Insuportável Brilho da Escola. Elementos para uma Filosofia da Escola e do Ensino**, by Olga Pombo (2023), presentation of and debate on the book by Amílcar Santos and Moisés de Lemos Martins, in a session moderated by Antonio Cruz, ES D. Pedro V, Lisboa, 29 March 2023.
+* **Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century**, edited by Olga Pombo, K. Gaertner, J. Jesuíno (eds.) (2023), Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, presentation of the book by Olga Pombo at the international symposium “Interdisciplining Knowledge: Humanities, Sciences and Culture”, organized by the Centre for Interdisciplinary Studies of the University of Coimbra in partnership with the Municipality of Coimbra, Casa da Cidadania da Língua, Coimbra, 6-7 December 2023.
 
 
 ## **Dissemination talks** 
 
-* Ciência e escola. Uma relação constitutiva, invited talk at conference cycle “Knowledges in dialogue. Transdisciplinary crossings”, D. Dinis High School, Lisboa, 8 February 2020.
-* Ciência e escola, opening conference in the conference cycle “Looking for a better world: Science, Education and Humanism”, D. Dinis High School, Lisboa, 26 January 2019.
-* Verdade, filosofia e ciência, invited talk at the Philosophy Day put forward by the Department of Philosophy, Cacilhas-Tejo High School, Almada, 17 November 2016.
-* Ciência e interdisciplinaridade, invited talk at Seminars “Science, Education and Democracy”, D. Dinis High School, Lisboa, 18 May 2016.
-* A espantosa linguagem da matemática, invited talk at the "Ciclo de Conferencias - Uma Escola Publica de Qualidade", António Damásio High School, Lisboa, 20 Janury 2015.
-* Afinal, o que é a ciência?, talk presented at the project "Afinal, o que é a ciência?", António Damásio High School, 9 January 2014.
-* Educação, investigação, ciência e desenvolvimento, invited talk at the “Centro de formação de professores da região Oeste“,  Auditorium of Rafael Bordalo Pinheiro High School, Caldas da Rainha, 31 January 2013.
-* Importância da filosofia para a compreensão das relações entre Arte e Ciência, invited talk at the Maria Amália Vaz de Carvalho High School, Lisboa, 28 March 2011.
-* Celebrar McLuhan. Escola e currículo na sociedade de informação, invited talk at the Sebastião e Silva High School, Oeiras, 4 April 2010.
-* Lugares da escola, invited talk at the Prof. Herculano de Carvalho High School, 4 May 2010.
-* Afinal o que é a escola?, invited talk at the Vitorino Nemésio High School,  Lisboa, 26 November 2009.
-* [Desafios da escola hoje](<https://becre-esct.blogspot.com/2010/04/escola-o-ensino-instrucao-segundo-olga.html>), invited talk at the Almada High School, Almada, 28 April 2010.
-* A construção do conhecimento científico, invited talk at the "Science Week", Colégio Moderno, Lisboa, 20 April 2007.
-* Elogio da transmissão, invited talk at the Vitorino Nemésio High School, Lisboa, 24 January 2007.
-* A bola de neve da interdisciplinaridade, invited talk at the Miguel Torga High School, Casal de São Brás, 13 April 2005.
-* Que sucesso se pode esperar da escola?, invited talk at the Vitorino Nemésio High School,  Lisboa, 14 January 2004.
-* A escola e a Europa, invited talk at the "Week of Europe. Social Europe expectations", Eça de Queiroz High School, Lisboa, 8 May 2003.
-* A ciência e a escola, invited talk at the "IV Journeys of Educational Training. Science and Education", Oliveira de Frades High School, 8-9 May 2003.
-* Problemas da interdisciplinaridade, invited talk at the Grupo de Estágio de Educação Física, Stuart Carvalhais High School, Massamá, 19 March 2003.
-* A escola, a recta e o círculo, invited talk at the Vitorino Nemésio High School, Lisboa, 27 March 2003.
-* Sentido e crítica da avaliação escolar, invited talk at the Mathematics Stage Nucleon, António Arroio High School, Lisboa, 11 January 2001.
-* A situação da escola e as novas condições de comunicativas, invited talk at the Antero de Quental High School, Ponta Delgada, 26 January 2001.
-* Da área-escola à área de projecto, invited talk at the Aquilino Ribeiro High School, Oeiras, 16 February 2000.
-* Projectar o projecto, invited speaker at the "Jornadas Pedagógicas" of the Alves Martins High Scholl, Viseu, 13 March 2000.
-* Ensino da matemática como arte de "dar a ver", invited talk at Fernão Mendes Pinto High School, Almada, 21 March 2000.
-* Escola, cultura e interdisciplinaridade, invited talk at Cacém High School, Cacém, 16 March 1999.
-* Tempo histórico e tempo geológico, invited talk at Afonso Domingues High School, Lisboa, 30 April 1999.
-* Observação: problemas gnosiológicos e epistemológicos, invited talk at Romeu Correia High Scool, Almada, 22 April 1998.
-* A interdisciplinaridade, invited talk at the Olaias High School, Lisboa, 20 January 1997.
-* Professor: profeta do passado, memória do futuro, invited talk at Lumiar High School, 20 May 1997.
-* A filosofia e a escola, invited talk at the Cidadela High School, Cascais, 25 October 1995.
-* Perspectivas de trabalho interdisciplinar, invited talk at Beja High School, in a session organized by Editora Texto, Beja, 29 November 1995.
-* Interdisciplinaridade e área-escola, invited talk at Paço de Arcos High School, Paço de Arcos, 6 December 1995.
-* Interdisciplinaridade e área-escola. Problemas e perspectivas, invited talk at Trofa High School, Trofa, 24 May 1995.
-* Interdisciplinaridade. Uma atitude e uma exigência curricular, invited talk at Cascais High School, 31 May 1995.
-* Interdisciplinaridade e área escola, invited talk at Pedro Alexandrino High School, Póvoa de St. Adrião, 8 February 1995.
-* Significado da interdisciplinaridade no contexto actual da construção e transmissão dos saberes, talk at Patrício Prazeres High School, put forward by Editora Texto, Lisboa, 11 May 1993.
-* Interdisciplinaridade: dificuldades e perspectivas, talk at Rio de Mouro High School, Cacém, put forward by Editora Texto, 25 May 1993.
-* Integração e interdisciplinaridade: opções terminológicas e categorias de análise, talk at "Segundo Forum de Experiências Interdisciplinares", Marquês de Pombal High School, Lisboa, 3 July 1991.
-* Perspectivas e dificuldades no trabalho interdisciplinar, talk at "Primeiro Forum de Experiências Interdisciplinares", put forward by Project Mathesis, Marquês de Pombal High School, Lisboa, 3 Jan 1991.
-* A metáfora da escola na epistemologia de Bachelard, invited talk at St. André High School, Barreiro, 24 January 1990.
-* Problemas gerais da interdisciplinaridade, invited talk at D. Pedro V High School, Lisboa, 3 December 1990.
-* A condição e as funções do professor, invited talk at Lumiar High School, Lisboa, 13 December1989.
-* Os problemas do ensino da Filosofia, invited talk at Amora High School, Amora, 16 January 1990.
-* Filosofia e texto, filosofia e escola, invited talk at Maria Amália Vaz de Carvalho High School, Lisboa, 2 March 1989.
-* Wittgenstein ou a questão do para quê ensinar filosofia, invited speaker at Montijo High School, "Journey on the Teaching of Philosophy", Câmara Municipal do Montijo, 19 March 1987.
-* Objectivos e modalidades do ensino da filosofia, Vila Franca de Xira High School, Vila Franca de Xira, 22 April 1986.
-* Formação de professores: perspectivas, invited talk to the colloquium "Professores, Quem São, Para Quê, que Formação?", D. Pedro V High School, Lisboa, 16 January 1985.
-* As utopias de Rousseau, invited talk at Josefa de Óbidos High School, Lisboa, 31 January 1985.
-* Trabalho de texto no ensino da filosofia, invited talk at Lumiar High School, Lisboa, 10 April 1985.
-* Mudar a escola, mudar a educação, invited speaker at the colloquium "Mudar a Política, Mudar a Cultura, Mudar a Educação", D. Pedro V High School, Lisboa, 6 June 1984.
-* Problema e problematização na aula de filosofia, talk at "Encontro Regional de Professores de Filosofia", D. Pedro V High School, Lisboa, 8 May 1984.
-* Pedagogia por objectivos: uma análise crítica, invited talk at Alfredo da Silva High School, Barreiro, 17 October 1984.
-* Teoria geral da planificação e pedagogia por objectivos, talk at Pedro Nunes High School, Lisboa, 17 March 1984.
-* Ensino da filosofia: conceito e imagem, invited speaker to Lisboa Pedagogical Center, Lisboa, 1 June 1983.
-* Leitura e comentário: os contributos de Todorov e Ricoeur, talk at "Encontro Regional de Professores de Filosofia", Camões High Scholl, Lisboa, 9 March 1983.
-* Pedagogia por e com objectivos, invited talk at Ferreira Dias High School, Cacém, 27 April 1983.
+* **Ciência e escola. Uma relação constitutiva**, invited talk at conference cycle “Knowledges in dialogue. Transdisciplinary crossings”, D. Dinis High School, Lisboa, 8 February 2020.
+* **Ciência e escola**, opening conference in the conference cycle “Looking for a better world: Science, Education and Humanism”, D. Dinis High School, Lisboa, 26 January 2019.
+* **Verdade, filosofia e ciência**, invited talk at the Philosophy Day put forward by the Department of Philosophy, Cacilhas-Tejo High School, Almada, 17 November 2016.
+* **Ciência e interdisciplinaridade**, invited talk at Seminars “Science, Education and Democracy”, D. Dinis High School, Lisboa, 18 May 2016.
+* **A espantosa linguagem da matemática**, invited talk at the "Ciclo de Conferencias - Uma Escola Publica de Qualidade", António Damásio High School, Lisboa, 20 Janury 2015.
+* **Afinal, o que é a ciência?**, talk presented at the project "Afinal, o que é a ciência?", António Damásio High School, 9 January 2014.
+* **Educação, investigação, ciência e desenvolvimento**, invited talk at the “Centro de formação de professores da região Oeste“,  Auditorium of Rafael Bordalo Pinheiro High School, Caldas da Rainha, 31 January 2013.
+* **Importância da filosofia para a compreensão das relações entre Arte e Ciência**, invited talk at the Maria Amália Vaz de Carvalho High School, Lisboa, 28 March 2011.
+* **Celebrar McLuhan. Escola e currículo na sociedade de informação**, invited talk at the Sebastião e Silva High School, Oeiras, 4 April 2010.
+* **Lugares da escola**, invited talk at the Prof. Herculano de Carvalho High School, 4 May 2010.
+* **Afinal o que é a escola?**, invited talk at the Vitorino Nemésio High School,  Lisboa, 26 November 2009.
+* [**Desafios da escola hoje**](<https://becre-esct.blogspot.com/2010/04/escola-o-ensino-instrucao-segundo-olga.html>), invited talk at the Almada High School, Almada, 28 April 2010.
+* **A construção do conhecimento científico**, invited talk at the "Science Week", Colégio Moderno, Lisboa, 20 April 2007.
+* **Elogio da transmissão**, invited talk at the Vitorino Nemésio High School, Lisboa, 24 January 2007.
+* **A bola de neve da interdisciplinaridade**, invited talk at the Miguel Torga High School, Casal de São Brás, 13 April 2005.
+* **Que sucesso se pode esperar da escola?**, invited talk at the Vitorino Nemésio High School,  Lisboa, 14 January 2004.
+* **A escola e a Europa**, invited talk at the "Week of Europe. Social Europe expectations", Eça de Queiroz High School, Lisboa, 8 May 2003.
+* **A ciência e a escola**, invited talk at the "IV Journeys of Educational Training. Science and Education", Oliveira de Frades High School, 8-9 May 2003.
+* **Problemas da interdisciplinaridade**, invited talk at the Grupo de Estágio de Educação Física, Stuart Carvalhais High School, Massamá, 19 March 2003.
+* **A escola, a recta e o círculo**, invited talk at the Vitorino Nemésio High School, Lisboa, 27 March 2003.
+* **Sentido e crítica da avaliação escolar**, invited talk at the Mathematics Stage Nucleon, António Arroio High School, Lisboa, 11 January 2001.
+* **A situação da escola e as novas condições de comunicativas**, invited talk at the Antero de Quental High School, Ponta Delgada, 26 January 2001.
+* **Da área-escola à área de projecto**, invited talk at the Aquilino Ribeiro High School, Oeiras, 16 February 2000.
+* **Projectar o projecto**, invited speaker at the "Jornadas Pedagógicas" of the Alves Martins High Scholl, Viseu, 13 March 2000.
+* **Ensino da matemática como arte de "dar a ver"**, invited talk at Fernão Mendes Pinto High School, Almada, 21 March 2000.
+* **Escola, cultura e interdisciplinaridade**, invited talk at Cacém High School, Cacém, 16 March 1999.
+* **Tempo histórico e tempo geológico**, invited talk at Afonso Domingues High School, Lisboa, 30 April 1999.
+* **Observação: problemas gnosiológicos e epistemológicos**, invited talk at Romeu Correia High Scool, Almada, 22 April 1998.
+* **A interdisciplinaridade**, invited talk at the Olaias High School, Lisboa, 20 January 1997.
+* **Professor: profeta do passado, memória do futuro**, invited talk at Lumiar High School, 20 May 1997.
+* **A filosofia e a escola**, invited talk at the Cidadela High School, Cascais, 25 October 1995.
+* **Perspectivas de trabalho interdisciplinar**, invited talk at Beja High School, in a session organized by Editora Texto, Beja, 29 November 1995.
+* **Interdisciplinaridade e área-escola**, invited talk at Paço de Arcos High School, Paço de Arcos, 6 December 1995.
+* **Interdisciplinaridade e área-escola. Problemas e perspectivas**, invited talk at Trofa High School, Trofa, 24 May 1995.
+* **Interdisciplinaridade. Uma atitude e uma exigência curricular**, invited talk at Cascais High School, 31 May 1995.
+* **Interdisciplinaridade e área escola**, invited talk at Pedro Alexandrino High School, Póvoa de St. Adrião, 8 February 1995.
+* **Significado da interdisciplinaridade no contexto actual da construção e transmissão dos saberes**, talk at Patrício Prazeres High School, put forward by Editora Texto, Lisboa, 11 May 1993.
+* **Interdisciplinaridade: dificuldades e perspectivas**, talk at Rio de Mouro High School, Cacém, put forward by Editora Texto, 25 May 1993.
+* **Integração e interdisciplinaridade: opções terminológicas e categorias de análise**, talk at "Segundo Forum de Experiências Interdisciplinares", Marquês de Pombal High School, Lisboa, 3 July 1991.
+* **Perspectivas e dificuldades no trabalho interdisciplinar**, talk at "Primeiro Forum de Experiências Interdisciplinares", put forward by Project Mathesis, Marquês de Pombal High School, Lisboa, 3 Jan 1991.
+* **A metáfora da escola na epistemologia de Bachelard**, invited talk at St. André High School, Barreiro, 24 January 1990.
+* **Problemas gerais da interdisciplinaridade**, invited talk at D. Pedro V High School, Lisboa, 3 December 1990.
+* **A condição e as funções do professor**, invited talk at Lumiar High School, Lisboa, 13 December1989.
+* **Os problemas do ensino da Filosofia**, invited talk at Amora High School, Amora, 16 January 1990.
+* **Filosofia e texto, filosofia e escola**, invited talk at Maria Amália Vaz de Carvalho High School, Lisboa, 2 March 1989.
+* **Wittgenstein ou a questão do para quê ensinar filosofia**, invited speaker at Montijo High School, "Journey on the Teaching of Philosophy", Câmara Municipal do Montijo, 19 March 1987.
+* **Objectivos e modalidades do ensino da filosofia**, Vila Franca de Xira High School, Vila Franca de Xira, 22 April 1986.
+* **Formação de professores: perspectivas**, invited talk to the colloquium "Professores, Quem São, Para Quê, que Formação?", D. Pedro V High School, Lisboa, 16 January 1985.
+* **As utopias de Rousseau**, invited talk at Josefa de Óbidos High School, Lisboa, 31 January 1985.
+* **Trabalho de texto no ensino da filosofia**, invited talk at Lumiar High School, Lisboa, 10 April 1985.
+* **Mudar a escola, mudar a educação**, invited speaker at the colloquium "Mudar a Política, Mudar a Cultura, Mudar a Educação", D. Pedro V High School, Lisboa, 6 June 1984.
+* **Problema e problematização na aula de filosofia**, talk at "Encontro Regional de Professores de Filosofia", D. Pedro V High School, Lisboa, 8 May 1984.
+* **Pedagogia por objectivos: uma análise crítica**, invited talk at Alfredo da Silva High School, Barreiro, 17 October 1984.
+* **Teoria geral da planificação e pedagogia por objectivos**, talk at Pedro Nunes High School, Lisboa, 17 March 1984.
+* **Ensino da filosofia: conceito e imagem**, invited speaker to Lisboa Pedagogical Center, Lisboa, 1 June 1983.
+* **Leitura e comentário: os contributos de Todorov e Ricoeur**, talk at "Encontro Regional de Professores de Filosofia", Camões High Scholl, Lisboa, 9 March 1983.
+* **Pedagogia por e com objectivos**, invited talk at Ferreira Dias High School, Cacém, 27 April 1983.
 
 
