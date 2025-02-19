@@ -323,7 +323,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Pombo, Olga (1996), **Nenhum Vento**, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
 	
-### Journal editor
+### Journals editor
 
 * Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
 * *Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
