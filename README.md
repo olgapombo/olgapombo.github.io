@@ -19,7 +19,7 @@ and reordered in every possible way”
 
   [Interviews](interviews.md)
 
-  [Online Talks](onlinetalks.md)
+  [Online Talks/Conferences](onlinetalks.md)
 
   [Preprints](preprints.md)
 
