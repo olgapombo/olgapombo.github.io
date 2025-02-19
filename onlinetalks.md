@@ -129,52 +129,51 @@ https://www.youtube.com/watch?v=q_RK0CeQHO0
 
 ## Debates and round tables
 
-•	Da filosofia como pedagogia, participation at a round table on the “Teaching Philosophy”, Faculty of Letters, University of Lisbon, 19 April 1985.
-•	O estatuto de um programa de filosofia, participation at a round table organized by the Portuguese Philosophy Society, 6 June 1989.
-•	Os livros em volta. Conversas à volta de um livro", participation in a discussion moderated by Eduardo Pardo Coelho about books including the book authored by Olga Pombo, A escola, a recta e o círculo, Relógio d'Água, 2002 (Other books presented: J. Lobo Antunes, Inventário de Nova York; João Barrento, Poço de Babel; Julieta Monguinho, Onde está J?; M. Helena Buescu, Chiaro Escuro e J. Bragança de Miranda, Teorias da Cultura). The event was organized by the Portuguese Institute for Book (IPLB) and by Culturgest, 25 Mar 2003.
-•	Perplexidades em torno do estatuto do ensino da filosofia no ensino secundário, participation at the public debate: “Philosophy in the Curricular Revision, Department of Philosophy, Faculty of Letters of the University of Lisbon, 22 January 2003.
-•	Clássicos: inevitáveis!, participation in the debate chaired by Paula Moura Pinheiro (with Ana Maria Magalhães, Marta Martins, José Pedro Serra, Miguel Che e Ondjaki), by invitation of the “XVI Meeting on Literature for Children,” Calouste Gulbenkian Foundation,  Lisboa, 8 October 2004.
-•	Ambições e limites da Interdisciplinaridade, participation in the debate “Ambições e limites da Interdisciplinaridade:  a propósito do mais recente livro de Olga Pombo”, put forward by “Seminário Interdisciplinar Teoria Social e Pensamento Contemporâneo” coordinated by José Luis Garcia, Instituto de Ciências Sociais, University of Lisbon (ICS), 5 May 2005.
-•	Limites e fronteiras nas ciências, talk by invitation at the cycle of debates “Architecture and Philosophy”, put forward by the Faculdade de Arquitectura, University of Lisbon and the Eterno Retorno Bookshop, Bookshop Eterno Retorno, 16 June 2005.
-•	Homenagem a Agostinho da Silva, talk by invitation at a round table with Olga Pombo, Fernando Dacosta, Helena Carvalhão, Natércia Duarte Belo and Paulo Archer, put forward by the Archive Bookshop, 16 February 2006.
-•	A verdade na ciência, talk by invitation at the debate "A verdade", put forward by Ler Devagar Bookshop and Eterno Retorno Bookshop, Lisboa, 27 April 2006.  
-•	Sobre o ensino da filosofia, participation at the debate on “The Teaching of Philosophy”, Ler Devagar Bookshop, Lisboa, 21 March 2007.
-•	A filosofia e o amor da escola, talk by invitation at the debate “Olhares sobre a Filosofia. A Filosofia na Escola, na Cidade e na Cultura”, Centro Nacional de Cultura, Lisboa, 23 March 2007.
-•	Ser no tempo em que estamos/estar no tempo em que somos, participation in a round table by invitation of the “Project Escola Criativa“, Cascais Cultural Center, 15 November 2007.
-•	Questões filosóficas a propósito do evolucionismo, talk presented at the debate “Evolucionismo e o seu Ensino”, organized by CFCUL and the Polytechnic Theater, Lisboa, 13 January 2008.
-•	Desafios da escola hoje, participation in the debate “A avaliação das escolas e dos professores”, put forward by the Centro de Formação da Vasco da Gama High School, 16 April 2008.
-•	Avaliação de professores. Esta não. Mas qual?, invited talk at a debate put forward by the “Movimento Escola Pública”, Associação 25 de Abril,  Lisboa, 21 June 2008.
-•	Ciência Viva faz 10 anos, E para os próximos 10 anos? Digam e nós fazemos, participation in a round table chaired by Alexandre Quintanilha, organised for the celebration of the “10 years of Ciência Viva”, Pavilhão do Conhecimento, 25 July 2009.
-•	Ciência sextas às sete, participation at a round table together with Onésimo Teotónio de Almeida and António Coutinho, organized by Almedina Bookshop, Lisboa, Atrium Saldanha, 16 October 2009.
-•	Timeline. O tempo do desenho, participation at a round table with Guida Casella, by invitation of the project "Espaços de Desenho", Lisboa, Fabrica Braço de Prata, 27 March 2010.
-•	“A imagem entre a ciência e a arte”, apresentação de um projecto, participation at a round table by invitation of the project "Espaços de Desenho", Lisboa, Fabrica Braço de Prata, 1 April 2010.
-•	Dinamizar a bioética na University of Lisbon II: em torno da clonagem humana, moderator of the debate organized by the Biodiversity Center, Center for Integrative and functional Genomics (BioFIG), FCUL, 6 April 2010.
-•	Analogia e mediação, transversalidade na investigação em arte, filosofia e ciência", moderation of a round table organized at the Faculdade de Belas Artes, University of Lisbon, 12 December 2012.
-•	Hommage to João Lopes Alves, participation in the “Homage session to João Lopes Alves”, put forward by the CFCUL, FCUL, 7 November 2013.
-•	Apontamentos sobre o ócio, invited talk at the round table "Time for doing nothing / what is otium for?" in the context of the event " The 24 Hours of Time" organized by Ciência Viva – National agency for Scientific and Technological Culture, Lisboa, Knowledge Pavilion, 21 June 2014.
-•	Apontamentos sobre margens, fronteiras e linhas de demarcação, invited talk at a round table on "Religion, Philosophy and Science: View Bridges", Congress of the Portuguese Psychodrama Society, Almada Pousada da Juventude, Almada, 9 November 2014.
-•	Notas sobre a ciência em Portugal antes e depois do 25 de Abril, invited talk at a debate on “Science in Portugal”, Festa do Avante, Seixal, 3 September 2016.
-•	O futuro da investigação filosófica em Portugal, participation at the round table organized in the context of the 2nd Congresso Português de Filosofia, Universidade de Oporto, 9 September 2016.
-•	Pensar as ciências, participation at the fishbowl talk, Faculty of Sciences e Tecnologia, New University of Lisbon, 28 September 2016.
-•	Utopias e distopias, invited talk at the“Tertúlia Folio. Festival Literário Internacional de Óbidos”, coordinated by Teresa Calçada, Livraria da Adega, Óbidos, 29 September 2016
-•	O valor cognitivo da árvore, invited talk at the round table on “Valor da Árvore”, organized by the Doctoral College F3 of the UL and the project “Muita Fruta”, 3 July 2017.
-<https://www.facebook.com/watch/live/?v=334326760337147&ref=watch_permalink>
-•	Por que razão marcho pela ciência?, invited speech in Marcha pela Ciência /March for Science, Largo do Carmo,  Lisboa, 22th April, 2017 
+* Da filosofia como pedagogia, participation at a round table on the “Teaching Philosophy”, Faculty of Letters, University of Lisbon, 19 April 1985.
+* O estatuto de um programa de filosofia, participation at a round table organized by the Portuguese Philosophy Society, 6 June 1989.
+* Os livros em volta. Conversas à volta de um livro", participation in a discussion moderated by Eduardo Pardo Coelho about books including the book authored by Olga Pombo, A escola, a recta e o círculo, Relógio d'Água, 2002 (Other books presented: J. Lobo Antunes, Inventário de Nova York; João Barrento, Poço de Babel; Julieta Monguinho, Onde está J?; M. Helena Buescu, Chiaro Escuro e J. Bragança de Miranda, Teorias da Cultura). The event was organized by the Portuguese Institute for Book (IPLB) and by Culturgest, 25 Mar 2003.
+* Perplexidades em torno do estatuto do ensino da filosofia no ensino secundário, participation at the public debate: “Philosophy in the Curricular Revision, Department of Philosophy, Faculty of Letters of the University of Lisbon, 22 January 2003.
+* Clássicos: inevitáveis!, participation in the debate chaired by Paula Moura Pinheiro (with Ana Maria Magalhães, Marta Martins, José Pedro Serra, Miguel Che e Ondjaki), by invitation of the “XVI Meeting on Literature for Children,” Calouste Gulbenkian Foundation,  Lisboa, 8 October 2004
+* Ambições e limites da Interdisciplinaridade, participation in the debate “Ambições e limites da Interdisciplinaridade:  a propósito do mais recente livro de Olga Pombo”, put forward by “Seminário Interdisciplinar Teoria Social e Pensamento Contemporâneo” coordinated by José Luis Garcia, Instituto de Ciências Sociais, University of Lisbon (ICS), 5 May 2005.
+* Limites e fronteiras nas ciências, talk by invitation at the cycle of debates “Architecture and Philosophy”, put forward by the Faculdade de Arquitectura, University of Lisbon and the Eterno Retorno Bookshop, Bookshop Eterno Retorno, 16 June 2005.
+* Homenagem a Agostinho da Silva, talk by invitation at a round table with Olga Pombo, Fernando Dacosta, Helena Carvalhão, Natércia Duarte Belo and Paulo Archer, put forward by the Archive Bookshop, 16 February 2006.
+* A verdade na ciência, talk by invitation at the debate "A verdade", put forward by Ler Devagar Bookshop and Eterno Retorno Bookshop, Lisboa, 27 April 2006.
+* Sobre o ensino da filosofia, participation at the debate on “The Teaching of Philosophy”, Ler Devagar Bookshop, Lisboa, 21 March 2007.
+* A filosofia e o amor da escola, talk by invitation at the debate “Olhares sobre a Filosofia. A Filosofia na Escola, na Cidade e na Cultura”, Centro Nacional de Cultura, Lisboa, 23 March 2007.
+* Ser no tempo em que estamos/estar no tempo em que somos, participation in a round table by invitation of the “Project Escola Criativa“, Cascais Cultural Center, 15 November 2007.
+* Questões filosóficas a propósito do evolucionismo, talk presented at the debate “Evolucionismo e o seu Ensino”, organized by CFCUL and the Polytechnic Theater, Lisboa, 13 January 2008.
+* Desafios da escola hoje, participation in the debate “A avaliação das escolas e dos professores”, put forward by the Centro de Formação da Vasco da Gama High School, 16 April 2008.
+* Avaliação de professores. Esta não. Mas qual?, invited talk at a debate put forward by the “Movimento Escola Pública”, Associação 25 de Abril,  Lisboa, 21 June 2008.
+* Ciência Viva faz 10 anos, E para os próximos 10 anos? Digam e nós fazemos, participation in a round table chaired by Alexandre Quintanilha, organised for the celebration of the “10 years of Ciência Viva”, Pavilhão do Conhecimento, 25 July 2009.
+* Ciência sextas às sete, participation at a round table together with Onésimo Teotónio de Almeida and António Coutinho, organized by Almedina Bookshop, Lisboa, Atrium Saldanha, 16 October 2009.
+* Timeline. O tempo do desenho, participation at a round table with Guida Casella, by invitation of the project "Espaços de Desenho", Lisboa, Fabrica Braço de Prata, 27 March 2010.
+* A imagem entre a ciência e a arte, apresentação de um projecto, participation at a round table by invitation of the project "Espaços de Desenho", Lisboa, Fabrica Braço de Prata, 1 April 2010.
+* Dinamizar a bioética na University of Lisbon II: em torno da clonagem humana, moderator of the debate organized by the Biodiversity Center, Center for Integrative and functional Genomics (BioFIG), FCUL, 6 April 2010.
+* Analogia e mediação, transversalidade na investigação em arte, filosofia e ciência", moderation of a round table organized at the Faculdade de Belas Artes, University of Lisbon, 12 December 2012.
+* Hommage to João Lopes Alves, participation in the “Homage session to João Lopes Alves”, put forward by the CFCUL, FCUL, 7 November 2013.
+* Apontamentos sobre o ócio, invited talk at the round table "Time for doing nothing / what is otium for?" in the context of the event " The 24 Hours of Time" organized by Ciência Viva – National agency for Scientific and Technological Culture, Lisboa, Knowledge Pavilion, 21 June 2014.
+* Apontamentos sobre margens, fronteiras e linhas de demarcação, invited talk at a round table on "Religion, Philosophy and Science: View Bridges", Congress of the Portuguese Psychodrama Society, Almada Pousada da Juventude, Almada, 9 November 2014.
+* Notas sobre a ciência em Portugal antes e depois do 25 de Abril, invited talk at a debate on “Science in Portugal”, Festa do Avante, Seixal, 3 September 2016.
+* O futuro da investigação filosófica em Portugal, participation at the round table organized in the context of the 2nd Congresso Português de Filosofia, Universidade de Oporto, 9 September 2016.
+* Pensar as ciências, participation at the fishbowl talk, Faculty of Sciences e Tecnologia, New University of Lisbon, 28 September 2016.
+* Utopias e distopias, invited talk at the“Tertúlia Folio. Festival Literário Internacional de Óbidos”, coordinated by Teresa Calçada, Livraria da Adega, Óbidos, 29 September 2016
+* O valor cognitivo da árvore, invited talk at the round table on “Valor da Árvore”, organized by the Doctoral College F3 of the UL and the project “Muita Fruta”, 3 July 2017.<https://www.facebook.com/watch/live/?v=334326760337147&ref=watch_permalink>
+* Por que razão marcho pela ciência?, invited speech in Marcha pela Ciência /March for Science, Largo do Carmo,  Lisboa, 22th April, 2017 
 < https://www.youtube.com/watch?v=hgTy1DrLLd0>
-•	Ciência, democracia e escola, invited talk at the round table on “Science and Education”, in the context of Ulisses Conferences 2018. European Democracy: an idea whose time has arrived, Cultural Center of Belem, Lisboa, 7 April 2018. 
-•	O saber n/do século XXI, invited talk at the debate on “O saber n/do século XXI” in the context of the program “My Research 2018” put forward by Universidade Católica de Lisboa, 13th November 2018.
-•	Utopia tecnológica, invited talk at a debate on “Utopia Tecnológica – A inovação ao serviço da Humanidade”, in the context of the series “European Utopia: the power of imagination and the imperatives of the future”, held at Fundação Serralves, Porto, 6 February 2019.
+* Ciência, democracia e escola, invited talk at the round table on “Science and Education”, in the context of Ulisses Conferences 2018. European Democracy: an idea whose time has arrived, Cultural Center of Belem, Lisboa, 7 April 2018.
+* O saber n/do século XXI, invited talk at the debate on “O saber n/do século XXI” in the context of the program “My Research 2018” put forward by Universidade Católica de Lisboa, 13th November 2018.
+* Utopia tecnológica, invited talk at a debate on “Utopia Tecnológica – A inovação ao serviço da Humanidade”, in the context of the series “European Utopia: the power of imagination and the imperatives of the future”, held at Fundação Serralves, Porto, 6 February 2019.
 https://www.youtube.com/watch?v=v0P5CvZ0T8s  (51.43)
 https://www.youtube.com/watch?v=v0P5CvZ0T8s&list=PLXKRQSlglfTUbOO9Ob7zmWn_JQX5VpaQZ&index=5&t=4309s
 https://forumdemosnet.wordpress.com/2019/02/13/a-utopia-tecnologica/
-•	University and interdisciplinarity, participation at the international round table on “Interdisciplinar Studies at the University - the case of Complex Systems Science,” organized by ISCTE-IUL/FCUL, in the context of the Doctoral Program on Complexity Sciences, ISCTE, 12 June 2019.
-•	What was, is and will be technology, participation at the debate of the “Talk a Bit 2020” conference, organized by the master in “Informatics, Engineering and Computation”, of the Faculdade de Engenharia, Universidade do Porto, 11 January 2020.
-•	A base científica da medicina e a prática da medicina baseada na evidência, participation, as commentator, at conference organized by the Research Centre for Criminal Law and Criminal Sciences, Faculdade de Direito, University of Lisbon, 16 April, 2021 (video conference)
-•	 Les liens entre interdisciplinarités et valorisation scientifique par les médias audio-visuels, participation, as animateur, at a round-table of the international colloquium “Interdisciplinarité(s)”, put forward by the Réseau National des Maisons des Sciences de L’Homme, University of Aix en Provence, France, 9-10 September, 2021. 
-•	Direito: ciência, arte, cultura, invited talk at a round table/debate put forward by the Instituto de Investigação Interdisciplinar do Direito da Faculdade de Direito da Universidade de Lisboa (IURIS/FDUL), Faculdade de Direito da Universidade de Lisboa,16 November 2023.
+* University and interdisciplinarity, participation at the international round table on “Interdisciplinar Studies at the University - the case of Complex Systems Science,” organized by ISCTE-IUL/FCUL, in the context of the Doctoral Program on Complexity Sciences, ISCTE, 12 June 2019.
+* What was, is and will be technology, participation at the debate of the “Talk a Bit 2020” conference, organized by the master in “Informatics, Engineering and Computation”, of the Faculdade de Engenharia, Universidade do Porto, 11 January 2020.
+* A base científica da medicina e a prática da medicina baseada na evidência, participation, as commentator, at conference organized by the Research Centre for Criminal Law and Criminal Sciences, Faculdade de Direito, University of Lisbon, 16 April, 2021 (video conference)
+* Les liens entre interdisciplinarités et valorisation scientifique par les médias audio-visuels, participation, as animateur, at a round-table of the international colloquium “Interdisciplinarité(s)”, put forward by the Réseau National des Maisons des Sciences de L’Homme, University of Aix en Provence, France, 9-10 September, 2021.
+* Direito: ciência, arte, cultura, invited talk at a round table/debate put forward by the Instituto de Investigação Interdisciplinar do Direito da Faculdade de Direito da Universidade de Lisboa (IURIS/FDUL), Faculdade de Direito da Universidade de Lisboa,16 November 2023.
 
-##
-Book presentations 
+##  Book presentations 
+
 •	Notas de leitura à margem de uma antologia, presentation of the book edited by Irene Borges Duarte, Maria Fernanda Henriques and Isabel Matos Dias, “Texto, Leitura e Escrita. Antologia” (Porto: Porto Editora, 2000), Lisboa, Bookshop Barata, 28 March 2001. 
 •	Enciclopédia e hipertexto. Continuidade e inovação, presentation of the book edited by José António Cordon Garcia’s "De D'Alembert ao CD-Rom", "I Encontro de Bibliotecas do Ensino Superior. Conhecimento, Qualidade e Inovação", Instituto de Psicologia Aplicada, Lisboa, 18 December 2003.
 •	Há verdade em ciência? Popper, Kuhn e outros, presentation of the portuguese translation of Karl Popper Conjectures and Refutations, Auditorium of the Almedina bookshop, Lisboa, 28 May 2004.
