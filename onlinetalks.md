@@ -28,7 +28,7 @@
 
 
 
-# Scientific conferences (invited and keynote)
+## Scientific conferences (invited and keynote)
 
 * **The leibnizian theory of the representativity of the sign**, “IV Internationale Konferenz zur Geschichte der Sprachwissenschaften”, Trier, Germany, 26 August 1987.  
 * **La théorie leibnizienne de la pensée aveugle en tant que perspective sur quelques des apories linguistiques de la modernité**, invited speaker at the “International colloquium Readings of Modernity”, Franco-Portuguese Institut, Lisboa, 27 May 1987.
@@ -131,7 +131,7 @@ https://www.youtube.com/watch?v=q_RK0CeQHO0
 
 
 
-### **Dissemination talks** 
+## **Dissemination talks** 
 
 •	Ciência e escola. Uma relação constitutiva, invited talk at conference cycle “Knowledges in dialogue. Transdisciplinary crossings”, D. Dinis High School, Lisboa, 8 February 2020.
 •	Ciência e escola, opening conference in the conference cycle “Looking for a better world: Science, Education and Humanism”, D. Dinis High School, Lisboa, 26 January 2019.
