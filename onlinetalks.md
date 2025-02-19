@@ -26,7 +26,8 @@
 * [**Porquê Celebrar Hoje o "Protagoras" de Platão** (Why to Celebrate Today Plato's Protagoras)](https://www.facebook.com/watch/live/?ref=watch_permalink&v=704392381189858), (52.10) at "What if virtue is not possible to be taught? Socrates and Protagoras in tribute to Prof. Dr. Olga Pombo”, Instituto Técnico Privado de Saúde Numa I do Bailundo (ITSNI), Angola, 5 January 2022.
 * [**O Lugar de Leibniz na História da Lógica**](https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos), at “Colóquio de Lógica”, Sociedade Portuguesa de Lógica, Instituto Superior Técnico University of Lisbon, Departamento de Matemática, 15 November 2022.
 
-#**Internatonal scientific conferences**
+
+#**Scientific conferences**
 
 • **The leibnizian theory of the representativity of the sign**, “IV Internationale Konferenz zur Geschichte der Sprachwissenschaften”, Trier, Germany, 26 August 1987.  
 • **La théorie leibnizienne de la pensée aveugle en tant que perspective sur quelques des apories linguistiques de la modernité**, invited speaker at the “International colloquium Readings of Modernity”, Franco-Portuguese Institut, Lisboa, 27 May 1987.
