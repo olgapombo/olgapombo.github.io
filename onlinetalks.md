@@ -27,6 +27,9 @@
 * [**O Lugar de Leibniz na História da Lógica**](https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos), at “Colóquio de Lógica”, Sociedade Portuguesa de Lógica, Instituto Superior Técnico University of Lisbon, Departamento de Matemática, 15 November 2022.
 
 
+
+
+
 #**Scientific conferences**
 
 * **The leibnizian theory of the representativity of the sign**, “IV Internationale Konferenz zur Geschichte der Sprachwissenschaften”, Trier, Germany, 26 August 1987.  
