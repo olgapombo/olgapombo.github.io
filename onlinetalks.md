@@ -26,8 +26,7 @@
 * [**Porquê Celebrar Hoje o "Protagoras" de Platão** (Why to Celebrate Today Plato's Protagoras)](https://www.facebook.com/watch/live/?ref=watch_permalink&v=704392381189858), (52.10) at "What if virtue is not possible to be taught? Socrates and Protagoras in tribute to Prof. Dr. Olga Pombo”, Instituto Técnico Privado de Saúde Numa I do Bailundo (ITSNI), Angola, 5 January 2022.
 * [**O Lugar de Leibniz na História da Lógica**](https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos), at “Colóquio de Lógica”, Sociedade Portuguesa de Lógica, Instituto Superior Técnico University of Lisbon, Departamento de Matemática, 15 November 2022.
 
-
-
+  
 ## Scientific conferences (invited and keynote)
 
 * **The leibnizian theory of the representativity of the sign**, “IV Internationale Konferenz zur Geschichte der Sprachwissenschaften”, Trier, Germany, 26 August 1987.  
@@ -139,56 +138,56 @@ https://www.youtube.com/watch?v=q_RK0CeQHO0
 * Ciência e interdisciplinaridade, invited talk at Seminars “Science, Education and Democracy”, D. Dinis High School, Lisboa, 18 May 2016.
 * A espantosa linguagem da matemática, invited talk at the "Ciclo de Conferencias - Uma Escola Publica de Qualidade", António Damásio High School, Lisboa, 20 Janury 2015.
 * Afinal, o que é a ciência?, talk presented at the project "Afinal, o que é a ciência?", António Damásio High School, 9 January 2014.
-•	Educação, investigação, ciência e desenvolvimento, invited talk at the “Centro de formação de professores da região Oeste“,  Auditorium of Rafael Bordalo Pinheiro High School, Caldas da Rainha, 31 January 2013. 
-•	Importância da filosofia para a compreensão das relações entre Arte e Ciência, invited talk at the Maria Amália Vaz de Carvalho High School, Lisboa, 28 March 2011.
-•	Celebrar McLuhan. Escola e currículo na sociedade de informação, invited talk at the Sebastião e Silva High School, Oeiras, 4 April 2010.
-•	Lugares da escola, invited talk at the Prof. Herculano de Carvalho High School, 4 May 2010.  
-•	Afinal o que é a escola?, invited talk at the Vitorino Nemésio High School,  Lisboa, 26 November 2009.     
-•	[Desafios da escola hoje](<https://becre-esct.blogspot.com/2010/04/escola-o-ensino-instrucao-segundo-olga.html>), invited talk at the Almada High School, Almada, 28 April 2010. 
-•	A construção do conhecimento científico, invited talk at the "Science Week", Colégio Moderno, Lisboa, 20 April 2007.  
-•	Elogio da transmissão, invited talk at the Vitorino Nemésio High School, Lisboa, 24 January 2007.  
-•	A bola de neve da interdisciplinaridade, invited talk at the Miguel Torga High School, Casal de São Brás, 13 April 2005.
-•	Que sucesso se pode esperar da escola?, invited talk at the Vitorino Nemésio High School,  Lisboa, 14 January 2004.  
-•	A escola e a Europa, invited talk at the "Week of Europe. Social Europe expectations", Eça de Queiroz High School, Lisboa, 8 May 2003.  
-•	A ciência e a escola, invited talk at the "IV Journeys of Educational Training. Science and Education", Oliveira de Frades High School, 8-9 May 2003.  
-•	Problemas da interdisciplinaridade, invited talk at the Grupo de Estágio de Educação Física, Stuart Carvalhais High School, Massamá, 19 March 2003. 
-•	A escola, a recta e o círculo, invited talk at the Vitorino Nemésio High School, Lisboa, 27 March 2003.  
-•	Sentido e crítica da avaliação escolar, invited talk at the Mathematics Stage Nucleon, António Arroio High School, Lisboa, 11 January 2001. 
-•	A situação da escola e as novas condições de comunicativas, invited talk at the Antero de Quental High School, Ponta Delgada, 26 January 2001.
-•	Da área-escola à área de projecto, invited talk at the Aquilino Ribeiro High School, Oeiras, 16 February 2000.  
-•	Projectar o projecto, invited speaker at the "Jornadas Pedagógicas" of the Alves Martins High Scholl, Viseu, 13 March 2000.  
-•	Ensino da matemática como arte de "dar a ver", invited talk at Fernão Mendes Pinto High School, Almada, 21 March 2000.  
-•	Escola, cultura e interdisciplinaridade, invited talk at Cacém High School, Cacém, 16 March 1999.  
-•	Tempo histórico e tempo geológico, invited talk at Afonso Domingues High School, Lisboa, 30 April 1999.  
-•	Observação: problemas gnosiológicos e epistemológicos, invited talk at Romeu Correia High Scool, Almada, 22 April 1998.  
-•	A interdisciplinaridade, invited talk at the Olaias High School, Lisboa, 20 January 1997.  
-•	Professor: profeta do passado, memória do futuro, invited talk at Lumiar High School, 20 May 1997.  
-•	A filosofia e a escola, invited talk at the Cidadela High School, Cascais, 25 October 1995.  
-•	Perspectivas de trabalho interdisciplinar, invited talk at Beja High School, in a session organized by Editora Texto, Beja, 29 November 1995.
-•	Interdisciplinaridade e área-escola, invited talk at Paço de Arcos High School, Paço de Arcos, 6 December 1995.  
-•	Interdisciplinaridade e área-escola. Problemas e perspectivas, invited talk at Trofa High School, Trofa, 24 May 1995.  
-•	Interdisciplinaridade. Uma atitude e uma exigência curricular, invited talk at Cascais High School, 31 May 1995.  
-•	Interdisciplinaridade e área escola, invited talk at Pedro Alexandrino High School, Póvoa de St. Adrião, 8 February 1995.  
-•	Significado da interdisciplinaridade no contexto actual da construção e transmissão dos saberes, talk at Patrício Prazeres High School, put forward by Editora Texto, Lisboa, 11 May 1993.  
-•	Interdisciplinaridade: dificuldades e perspectivas, talk at Rio de Mouro High School, Cacém, put forward by Editora Texto, 25 May 1993.  
-•	Integração e interdisciplinaridade: opções terminológicas e categorias de análise, talk at "Segundo Forum de Experiências Interdisciplinares", Marquês de Pombal High School, Lisboa, 3 July 1991.  
-•	Perspectivas e dificuldades no trabalho interdisciplinar, talk at "Primeiro Forum de Experiências Interdisciplinares", put forward by Project Mathesis, Marquês de Pombal High School, Lisboa, 3 Jan 1991.  
-•	A metáfora da escola na epistemologia de Bachelard, invited talk at St. André High School, Barreiro, 24 January 1990.  
-•	Problemas gerais da interdisciplinaridade, invited talk at D. Pedro V High School, Lisboa, 3 December 1990.  
-•	A condição e as funções do professor, invited talk at Lumiar High School, Lisboa, 13 December1989.  
-•	Os problemas do ensino da Filosofia, invited talk at Amora High School, Amora, 16 January 1990.
-•	Filosofia e texto, filosofia e escola, invited talk at Maria Amália Vaz de Carvalho High School, Lisboa, 2 March 1989.  
-•	Wittgenstein ou a questão do para quê ensinar filosofia, invited speaker at Montijo High School, "Journey on the Teaching of Philosophy", Câmara Municipal do Montijo, 19 March 1987.  
-•	Objectivos e modalidades do ensino da filosofia, Vila Franca de Xira High School, Vila Franca de Xira, 22 April 1986.  
-•	Formação de professores: perspectivas, invited talk to the colloquium "Professores, Quem São, Para Quê, que Formação?", D. Pedro V High School, Lisboa, 16 January 1985.  
-•	As utopias de Rousseau, invited talk at Josefa de Óbidos High School, Lisboa, 31 January 1985.  
-•	Trabalho de texto no ensino da filosofia, invited talk at Lumiar High School, Lisboa, 10 April 1985. 
-•	Mudar a escola, mudar a educação, invited speaker at the colloquium "Mudar a Política, Mudar a Cultura, Mudar a Educação", D. Pedro V High School, Lisboa, 6 June 1984. 
-•	Problema e problematização na aula de filosofia, talk at "Encontro Regional de Professores de Filosofia", D. Pedro V High School, Lisboa, 8 May 1984.  
-•	Pedagogia por objectivos: uma análise crítica, invited talk at Alfredo da Silva High School, Barreiro, 17 October 1984.  
-•	Teoria geral da planificação e pedagogia por objectivos, talk at Pedro Nunes High School, Lisboa, 17 March 1984.  
-•	Ensino da filosofia: conceito e imagem, invited speaker to Lisboa Pedagogical Center, Lisboa, 1 June 1983.  
-•	Leitura e comentário: os contributos de Todorov e Ricoeur, talk at "Encontro Regional de Professores de Filosofia", Camões High Scholl, Lisboa, 9 March 1983.  
-•	Pedagogia por e com objectivos, invited talk at Ferreira Dias High School, Cacém, 27 April 1983.
+* Educação, investigação, ciência e desenvolvimento, invited talk at the “Centro de formação de professores da região Oeste“,  Auditorium of Rafael Bordalo Pinheiro High School, Caldas da Rainha, 31 January 2013.
+* Importância da filosofia para a compreensão das relações entre Arte e Ciência, invited talk at the Maria Amália Vaz de Carvalho High School, Lisboa, 28 March 2011.
+* Celebrar McLuhan. Escola e currículo na sociedade de informação, invited talk at the Sebastião e Silva High School, Oeiras, 4 April 2010.
+* Lugares da escola, invited talk at the Prof. Herculano de Carvalho High School, 4 May 2010.
+* Afinal o que é a escola?, invited talk at the Vitorino Nemésio High School,  Lisboa, 26 November 2009.
+* [Desafios da escola hoje](<https://becre-esct.blogspot.com/2010/04/escola-o-ensino-instrucao-segundo-olga.html>), invited talk at the Almada High School, Almada, 28 April 2010.
+* A construção do conhecimento científico, invited talk at the "Science Week", Colégio Moderno, Lisboa, 20 April 2007.
+* Elogio da transmissão, invited talk at the Vitorino Nemésio High School, Lisboa, 24 January 2007.
+* A bola de neve da interdisciplinaridade, invited talk at the Miguel Torga High School, Casal de São Brás, 13 April 2005.
+* Que sucesso se pode esperar da escola?, invited talk at the Vitorino Nemésio High School,  Lisboa, 14 January 2004.
+* A escola e a Europa, invited talk at the "Week of Europe. Social Europe expectations", Eça de Queiroz High School, Lisboa, 8 May 2003.
+* A ciência e a escola, invited talk at the "IV Journeys of Educational Training. Science and Education", Oliveira de Frades High School, 8-9 May 2003.
+* Problemas da interdisciplinaridade, invited talk at the Grupo de Estágio de Educação Física, Stuart Carvalhais High School, Massamá, 19 March 2003.
+* A escola, a recta e o círculo, invited talk at the Vitorino Nemésio High School, Lisboa, 27 March 2003.
+* Sentido e crítica da avaliação escolar, invited talk at the Mathematics Stage Nucleon, António Arroio High School, Lisboa, 11 January 2001.
+* A situação da escola e as novas condições de comunicativas, invited talk at the Antero de Quental High School, Ponta Delgada, 26 January 2001.
+* Da área-escola à área de projecto, invited talk at the Aquilino Ribeiro High School, Oeiras, 16 February 2000.
+* Projectar o projecto, invited speaker at the "Jornadas Pedagógicas" of the Alves Martins High Scholl, Viseu, 13 March 2000.
+* Ensino da matemática como arte de "dar a ver", invited talk at Fernão Mendes Pinto High School, Almada, 21 March 2000.
+* Escola, cultura e interdisciplinaridade, invited talk at Cacém High School, Cacém, 16 March 1999.
+* Tempo histórico e tempo geológico, invited talk at Afonso Domingues High School, Lisboa, 30 April 1999.
+* Observação: problemas gnosiológicos e epistemológicos, invited talk at Romeu Correia High Scool, Almada, 22 April 1998.
+* A interdisciplinaridade, invited talk at the Olaias High School, Lisboa, 20 January 1997.
+* Professor: profeta do passado, memória do futuro, invited talk at Lumiar High School, 20 May 1997.
+* A filosofia e a escola, invited talk at the Cidadela High School, Cascais, 25 October 1995.
+* Perspectivas de trabalho interdisciplinar, invited talk at Beja High School, in a session organized by Editora Texto, Beja, 29 November 1995.
+* Interdisciplinaridade e área-escola, invited talk at Paço de Arcos High School, Paço de Arcos, 6 December 1995.
+* Interdisciplinaridade e área-escola. Problemas e perspectivas, invited talk at Trofa High School, Trofa, 24 May 1995.
+* Interdisciplinaridade. Uma atitude e uma exigência curricular, invited talk at Cascais High School, 31 May 1995.
+* Interdisciplinaridade e área escola, invited talk at Pedro Alexandrino High School, Póvoa de St. Adrião, 8 February 1995.
+* Significado da interdisciplinaridade no contexto actual da construção e transmissão dos saberes, talk at Patrício Prazeres High School, put forward by Editora Texto, Lisboa, 11 May 1993.
+* Interdisciplinaridade: dificuldades e perspectivas, talk at Rio de Mouro High School, Cacém, put forward by Editora Texto, 25 May 1993.
+* Integração e interdisciplinaridade: opções terminológicas e categorias de análise, talk at "Segundo Forum de Experiências Interdisciplinares", Marquês de Pombal High School, Lisboa, 3 July 1991.
+* Perspectivas e dificuldades no trabalho interdisciplinar, talk at "Primeiro Forum de Experiências Interdisciplinares", put forward by Project Mathesis, Marquês de Pombal High School, Lisboa, 3 Jan 1991.
+* A metáfora da escola na epistemologia de Bachelard, invited talk at St. André High School, Barreiro, 24 January 1990.
+* Problemas gerais da interdisciplinaridade, invited talk at D. Pedro V High School, Lisboa, 3 December 1990.
+* A condição e as funções do professor, invited talk at Lumiar High School, Lisboa, 13 December1989.
+* Os problemas do ensino da Filosofia, invited talk at Amora High School, Amora, 16 January 1990.
+* Filosofia e texto, filosofia e escola, invited talk at Maria Amália Vaz de Carvalho High School, Lisboa, 2 March 1989.
+* Wittgenstein ou a questão do para quê ensinar filosofia, invited speaker at Montijo High School, "Journey on the Teaching of Philosophy", Câmara Municipal do Montijo, 19 March 1987.
+* Objectivos e modalidades do ensino da filosofia, Vila Franca de Xira High School, Vila Franca de Xira, 22 April 1986.
+* Formação de professores: perspectivas, invited talk to the colloquium "Professores, Quem São, Para Quê, que Formação?", D. Pedro V High School, Lisboa, 16 January 1985.
+* As utopias de Rousseau, invited talk at Josefa de Óbidos High School, Lisboa, 31 January 1985.
+* Trabalho de texto no ensino da filosofia, invited talk at Lumiar High School, Lisboa, 10 April 1985.
+* Mudar a escola, mudar a educação, invited speaker at the colloquium "Mudar a Política, Mudar a Cultura, Mudar a Educação", D. Pedro V High School, Lisboa, 6 June 1984.
+* Problema e problematização na aula de filosofia, talk at "Encontro Regional de Professores de Filosofia", D. Pedro V High School, Lisboa, 8 May 1984.
+* Pedagogia por objectivos: uma análise crítica, invited talk at Alfredo da Silva High School, Barreiro, 17 October 1984.
+* Teoria geral da planificação e pedagogia por objectivos, talk at Pedro Nunes High School, Lisboa, 17 March 1984.
+* Ensino da filosofia: conceito e imagem, invited speaker to Lisboa Pedagogical Center, Lisboa, 1 June 1983.
+* Leitura e comentário: os contributos de Todorov e Ricoeur, talk at "Encontro Regional de Professores de Filosofia", Camões High Scholl, Lisboa, 9 March 1983.
+* Pedagogia por e com objectivos, invited talk at Ferreira Dias High School, Cacém, 27 April 1983.
 
 
