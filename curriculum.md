@@ -37,7 +37,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * History and Philosophy of School, Philosophy of Teaching, Museum, Library, Book, Reading.
   
 
-## Academic career and responsabilities 
+## Academic positions and responsabilities 
 
 * 2016 - ongoing - Professor (retired with collaboration agreement) of the “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 * 2014 – 2017 - Founder and Program-Director of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
