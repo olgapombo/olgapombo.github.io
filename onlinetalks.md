@@ -124,7 +124,6 @@
 < https://www.youtube.com/watch?v=EgAsN8Pwqkc>
 * **Epistemology of interdisciplinarity**, key note speaker of the Universita di Salento, Dipartimento di Ingegneria dell'Innovazione e Dipartimeno di Studi Umanistici, Lecce, Italy, 7 May 2014. <https://www.youtube.com/watch?v=jLKlGGCxf_Y>
 * **Relaciones de la filosofía con la enseñanza de la filosofía. Dilemas y paradojas**, invited speaker to the « International Conference on Teaching Innovation in Philosophy, II Jornadas de Innovación Docente en la Enseñanza de la Filosofia », Faculty of Philosophy of the Complutense University of Madrid, 7 November 2014.
-* 
 * **Desafios contemporaneos da cartografia dos conhecimentos (Contemporary Challenges of Knowledge Cartographies)**, invited talk at the international Colloquium “Mind and Responsibility”, put forward by the Centro de Investigação em Direito Penal e Ciências Criminais, Faculdade de Direito da University of Lisbon, 21 e 22 may 2015.
 https://www.youtube.com/watch?v=q_RK0CeQHO0
 * **Máquinas**, invited speaker to the workshop "Máquina. Auto-organização social. Computação ubiqua 2.0: abordagens sociais, políticas, éticas e artísticas", organized by the CFCUL Thematic Line “Filosofia das Tecnologias do Humano, FCUL, 10 March 2014.
