@@ -1,10 +1,16 @@
 # Research Center
 
-I created the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL) of which I was the Director and Scientific Coordinator since its foundation in 2003 until 2017. 
+•	2003 - Founder of  the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL), research unit financed by the Portuguese Foundation for Science and Technology (FCT).  
+•	2003-20017 - Scientific coordinator of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL), since 2003 up to my retirement in January 2017.
+•	2003-2024 - Integrated Member of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL) (2003-2024)
+• 1994-2003 - Integrated member of the “Research Center in Education” (CIEFCUL), Faculdade de Ciencias, University of Lisbon 
+• 1996 - 2002 - Collaborator of the “Center of Philosophy University of Lisbon”, Faculty of Letters, University of Lisbon (1996-2002).
+
+
 
 # Projects
 
-## Coordination (PI) of research projects
+## Coordination (PI) of research projects and Groups (RG)
 
 * [**From Encyclopedia to Hypertext**](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/), FCT Research Project, POCTI/FIL/36357/2000 (1999-2002). 
 *  [**Scientific Culture. Conceptual Migrations and Social Contaminations**](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/)  FCT Research Project, POCTI/FIL/48133/2002 (2003-2006). 
@@ -19,11 +25,10 @@ I created the “Research Centre for Philosophy of Sciences of the University of
 * [**Lisbon Applied Evolutionary Epistemology Lab**](https://ciencias.ulisboa.pt/pt/noticia/07-02-2013/appeel-applied-evolutionary-epistemology-lab), CFCUL research project (coordination of Nathalie Gontier and Olga Pombo), (2012-2016). 
 * **Abduction and Scientific Discovery**, <http://cfcul.fc.ul.pt/projectos/abducao/abducao.htm>, CFCUL research project  (2013). 
 * [**Afinal o que é a Ciência? / After all, what is Science?**](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project, (2013-2014).
-* **Unity of Science**,  CFCUL Research Group, (2013-2015)
-* **Epistemology and Methodology**, CFCUL Research Group, (2015-3/2016).
-* [**Unity of Science and Interdisciplinarity**](http://uci.fc.ul.pt), CFCUL Thematic Line, (2015-2016)
-* [**Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities**](https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transversal/), CFCUL Transversal Interdisciplinary Pole, (2017- 2022).
-
+* **Unity of Science**,  head of the CFCUL Research Group (2013-2015)
+* **Epistemology and Methodology**, head of the CFCUL Research Group (2015-3/2016).
+* [**Unity of Science and Interdisciplinarity**](http://uci.fc.ul.pt), head of the CFCUL Thematic Line (2015-2016)
+* [**Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities**](https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transversal/), head of the CFCUL Transversal Interdisciplinary Pole (2017- 2022).
 
 ## Member and associate researcher of research projects 
 
