@@ -2,12 +2,7 @@
 * [**Protagoras**](./protagoras/index/index2.htm)
 * **Lisbon Center for Image in Science and Art (CISA)** - Image platform and archive intending to question the philosophical, scientific and artistic nature of image (2008) 
 
-# Projects
 
-## Coordination of research projects ( PI )
- 
-* [From Encyclopedia to Hypertext>, FCT Research Project, POCTI/FIL/36357/2000 (1999-2002).](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/) 
-* [FCT Research Project “Scientific Culture. Conceptual Migrations and Social Contaminations”  POCTI/FIL/48133/2002 (2003-2006).](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/)
 * CFCUL Research Project “Bachelard. Science and Poetics” (2006-2009). 
 * [FCT International Research Project “Image in Science and Art”, PTDC/EAT/64201/2006, (2007-2012).] (https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/)
 * [Coordinator (PI) of the International Research Project “Universal Logics and Unity of Science” (CFCUL/University of Sevilla), financed by CRUP-Acções integradas, (2008-2010), Budget: 5.000€ ).](https://cfcul.ciencias.ulisboa.pt/projectos/logica-universal-e-unidade-da-ciencia/)
