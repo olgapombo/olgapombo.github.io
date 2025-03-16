@@ -1,4 +1,6 @@
-# Online publications
+# Publications
+
+## Online publications
 
 * [**Protagoras**](./protagoras/index/index2.htm)
   
@@ -14,7 +16,7 @@
 < http://webpages.fc.ul.pt/~ommartins/investigacao/tese.htm> 
 
 
-### Books (author)
+## Books (author)
 
 1.	Pombo, Olga (1987) **Leibniz and the Problem of a Universal Language**, Münster: Nodus Publikationen, 321 pp.  ISBN 3-89323-303-2.
 https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf (full book)
@@ -39,10 +41,10 @@ https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/10/brilho-escola-opomb
 16.	Pombo, Olga (2024), **Deriva a partir de Rousseau / Derives from Rousseau**, Lisboa: Mariposa Azul (forthcoming)
 
 
-#### Books (editor)
+## Books (editor)
 
-##### Chapters
+## Chapters
 
-##### Articles
+## Articles
   
 
