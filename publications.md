@@ -9,7 +9,7 @@
 
 ## Dissertations
 
-* Pombo, Olga (1986) - **Leibniz e o Problema de uma Língua Universal** (Master dissertation in “Modern Philosophy” Faculty of Social and Human Sciences, New University of Lisbon)
+* Pombo, Olga (1986) - **[Leibniz e o Problema de uma Língua Universal](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf )** (Master dissertation in “Modern Philosophy” Faculty of Social and Human Sciences, New University of Lisbon)
 < http://webpages.fc.ul.pt/~ommartins/leibniz/leibnizcont.htm>
 
 * Pombo, Olga (1998) - **Unidade da Ciência e Configuração Disciplinar dos Saberes. Contributos para uma Filosofia do Ensino** (PhD dissertation in “History and Philosophy of Education”, University of Lisbon)
