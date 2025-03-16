@@ -1,10 +1,10 @@
 # Online interviews 
 
 * [**Pensare vuol dire Allargare i Confini**](https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini), Avvenire, 29 Maggio 2022, p.A 22 (presented by Giovanni Scarafile). 
-* [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 TV program "Vamos beber um café e falar sobre isso" (with journalist José Navarro de Andrade), 24 January 2022 (on the second edition of the book ["Interdisciplinarity. Ambitions and Limits"](https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites))
-*	[**Philosopher Olga Pombo**](https://www.youtube.com/watch?v=oOZaGbF3aLs&feature=youtu.be), "Contemporary Philosophy - Global Conversations", online interview with John Symos, Mana Platform, 7 July 2020.
+* [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 TV program "Vamos beber um café e falar sobre isso", interview with journalist José Navarro de Andrade, 24 January 2022 (on the second edition of the book ["Interdisciplinarity. Ambitions and Limits"](https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites))
+*	[**Philosopher Olga Pombo**](https://www.youtube.com/watch?v=oOZaGbF3aLs&feature=youtu.be), online interview with John Symos, "Contemporary Philosophy - Global Conversations", Mana Platform, 7 July 2020.
 * [**Interdisciplinaridade (Interdisciplinarity)**](https://www.youtube.com/watch?v=HJdyKZbsZes), online interview with Helena Esser, Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (PPGIDH), Universidade Federal de Goias, Brazil, 14 August, 2020. 
-* [**Philosophers Share their Advice and Hopes with Philosophy Students**](https://www.youtube.com/watch?v=GKzPtLdQMBM), "Contemporary Philosophy - Global Conversations", online interviews with John Symons, Mana Platform, 2020.
+* [**Philosophers Share their Advice and Hopes with Philosophy Students**](https://www.youtube.com/watch?v=GKzPtLdQMBM),online interviews with John Symons, "Contemporary Philosophy - Global Conversations",  Mana Platform, 2020.
 *	**O Pensamento Vivo da Informação (The Alive Thought of Information)**, interview with Robson Ashtoffen, a series coordinated by Prof. Marcos Mucheroni, Núcleo de Pesquisa em Produção Científica da ECA-USP, São Paulo, Brazil, (2012).  The interview is divided in 4 parts: 
      1.	[Informação e Complexidade (Information and Complexity)](https://www.youtube.com/watch?v=hpncNUeEVYE&feature=plcp)
      2.	[Especialização e Interdisciplinaridade (Specialization and Interdisciplinarity)](https://www.youtube.com/watch?v=ExyaET0GuVg)
@@ -20,9 +20,9 @@
 * **Imagem na Ciência e na Arte' Desvenda Corpo Humano (Image in Science and Art Unveils the Human Body)**, televison interview  by the journalist Lucia Alves, at the program “TV Ciência”, RTP1,  14 February 2011 
 * **Sobre a Ciência (On Science)**, television interview by the journalist Vasco Trigo, at the program “Com Ciência”, RTP 1, 23 February 2011.
 *  **Sobre a Ideia de Enciclopédia (On the Idea of Encyclopaedia)**, television interview by the journalist Paula Moura Pinheiro, at the program "Câmara Clara",  RTP 2, 19 January 2010.
-* **Agostinho da Silva**, Radio interview, TSF, 13 February 2006
+* **Sobre Agostinho da Silva**, Radio interview, TSF, 13 February 2006
 * **A Politica da Educação (Politics of Education)**, radio interview, Rádio Paris-Lisboa, 25 October 2005.
-* **A Escola, A Recta e o Circulo (The School, the Straigt Line and the Circle** radio interview about the publication of the book, by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002.
+* **A Escola, A Recta e o Circulo (The School, the Straigt Line and the Circle** radio interview  by the journalist Paula Moura Pinheiro about the publication of my book, Rádio Paris-Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002.
 * **Livres e Iguais (Free and Equal)**, television program moderated by the journalist Paula Moura Pinheiro (other participants: Augusto Santos Silva (Minister of Education), Roberto Carneiro, José Pacheco and João Soeiro), RTP 2 channel, 20th and 22 June 2001.
 * **A Situação da Educação em Portugal (Sitution of Portuguese Education)**, radio interview by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa, 20 June 2001.
 * **O Projecto Leibniziano de uma Mathesis Universalis (The Leibnizian Project of a Mathesis Universalis)**, radio interview by Luísa Costa Gomes, at the cycle “Leibniz, Filósofo, Matemático e Historiador. Leibniz nasceu há 350 anos”, Rádio Difusão Portuguesa, Lisboa, 6th July 1996.  
