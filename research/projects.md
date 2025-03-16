@@ -1,11 +1,18 @@
+# Research interests
+
+* Epistemology and Philosophy of Science - Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Model, Science and Art (Plato, Peirce, Poincaré, Neurath, Bachelard)
+* Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel)
+* History and Philosophy of Encyclopaedia, Hypertext and Internet
+* History and Philosophy of School, Teaching, Museum, Library, Book, Reading.
+
+
 # Research Center
 
-•	2003 - Founder of  the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL), research unit financed by the Portuguese Foundation for Science and Technology (FCT).  
-•	2003-20017 - Scientific coordinator of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL), since 2003 up to my retirement in January 2017.
-•	2003-2024 - Integrated Member of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL) (2003-2024)
-• 1994-2003 - Integrated member of the “Research Center in Education” (CIEFCUL), Faculdade de Ciencias, University of Lisbon 
-• 1996 - 2002 - Collaborator of the “Center of Philosophy University of Lisbon”, Faculty of Letters, University of Lisbon (1996-2002).
-
+* 2003 - Founder of  the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL), research unit financed by the Portuguese Foundation for Science and Technology (FCT).
+* 2003-20017 - Scientific coordinator of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL), since 2003 up to my retirement in January 2017.
+* 2003-2024 - Integrated Member of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL) (2003-2024)
+* 1994-2003 - Integrated member of the “Research Center in Education” (CIEFCUL), Faculdade de Ciencias, University of Lisbon 
+* 1996 - 2002 - Collaborator of the “Center of Philosophy University of Lisbon”, Faculty of Letters, University of Lisbon (1996-2002).
 
 
 # Projects
@@ -32,7 +39,7 @@
 
 ## Member and associate researcher of research projects 
 
-* Founder (with Joâo Lopes Alves, Zaza Carneiro de Moura, Ana Figueiredo and Filomena Mölder) of the research project **Jean-Jacques Rousseau**, Portuguese Society for Philosophy (1977 - 1979).  
+* Founder (with Joâo Lopes Alves, Zaza Carneiro de Moura, Ana Figueiredo and Filomena Mölder) of the research project **Jean-Jacques Rousseau**, Portuguese Society for Philosophy (1977 - 1979). 
 * Founder (with Teresa Levy and Henrique Guimaraes) of the research project **[Mathesis]**(https://webpages.ciencias.ulisboa.pt/~ommartins/mathesis/index.htm), Calouste Gulbenkian Foundation  (1989-1995).
 * Member of the international research project **Leibniz the Polemicist**, Institute for Advanced Studies, Hebrew University of Jerusalem, Israel (head by Marcelo Dascal) (1994-1998).
 * Member of the research project **O Ensino na Faculdade de Ciencias / Teaching at the Faculty of Sciences)**, CIE-FCUL(head by Maria Odete Valente),(1995-1998). 
