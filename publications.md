@@ -84,7 +84,7 @@ ISBN - Hb: 978 90 272 0754 8; E-book: 978 90 272 6075 8;   DOI: https://doi.org/
 30.	Olga Pombo (ed.) (2021), **Regresso ao Protágoras, de Platão / Return to Plato's Protagoras**.  Lisboa: Mariposa Azul, 227 pp.; ISBN:978-972-8481-70-4
 https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/Prota%CC%81goras_OP_2021.pdf (full book) 
 31.	Olga Pombo, Klaus Gaertner, Jorge Jesuíno (eds.) (2023), **Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century**, Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, 309 pp. 
-ISBN: 978-3-031-20404-3; DOI: https://doi.org/10.1007/978-3-031-20405-0
+ISBN: 978-3-031-20404-3; DOI: https://doi.org/10.1007/978-3-031-20405-0.
 
 
 ## Chapters
