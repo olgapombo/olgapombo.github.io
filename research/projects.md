@@ -1,11 +1,3 @@
-# Research interests
-
-* Epistemology and Philosophy of Science - Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Model, Science and Art (Plato, Peirce, Poincaré, Neurath, Bachelard)
-* Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel)
-* History and Philosophy of Encyclopaedia, Hypertext and Internet
-* History and Philosophy of School, Teaching, Museum, Library, Book, Reading.
-
-
 # Research Center
 
 * 2003 - Founder of  the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL), research unit financed by the Portuguese Foundation for Science and Technology (FCT).
