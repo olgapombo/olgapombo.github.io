@@ -191,80 +191,81 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 
 * Deriva a partir de Rousseau, talk presented at the Portuguese Philosophy Society,  Lisboa, 24 May 1979.  
 * Do texto no ensino da Filosofia, talk presented at the "Segundo Encontro Nacional de Professores de Filosofia", Fundação Calouste Gulbenkian,  Lisboa, 15 February 1980.  
-• Análise crítica da pedagogia por objectivos, talk presented at the Congresso de "Pedagogia por Objectivos" promoted by Piaget Institute, Rectory of the  University of Lisbon, 7 February 1983.  
-• Rousseau no feminino, invited speaker at the Azores University, Ponta Delgada, 16 May 1983.  
-•  Explicação e objectividade em contexto escolar, invited speaker at the colloquium "Objectividade em ciências", Auditório da Casa da Cultura das Caldas da Rainha, 27 May 1986.  
-• Para uma fenomenologia do acto educativo, invited speaker at colloquium "Institution and Philosophy", Eng. António de Almeida Foundation, Oporto, 8 November 1986.  
-• Meio é a mensagem: Mc Luhan e as novas tecnologias, invited speaker at the "Computer week", Department of Education, FCUL, University of Lisbon, 12 January 1987.  
-Investigação e ensino: articulações, invited speaker at the conference “A Problemática das Licenciaturas em Ensino”, Rectorship of the University of Lisbon, 19-20 February, 1987
-• Hannah Arendt ou o papel do filósofo face à crise da educação, invited speaker at the "First Meeting on Philosophy in Non/Philosophical Contexts", Aveiro Cifop, 7-8 March 1987.  
-• Problemas da formação de professores de filosofia, invited speaker at the Philosophy Teachers Association "Second Philosophy Meeting of Central Region", Paulo Quintela Theater, Faculty of Letters, Coimbra, 30 April 1987.  
-• Leibniz e o problema de uma língua universal: apresentação de uma investigação, invited talk at the cycle "Theses" of the Portuguese Society of Philosophy, Lisboa, 3 June 1987.  
-• Situação curricular da filosofia no ensino secundário, invited talk at the Colloquium "Who is afraid of philosophy?", Câmara Municipal Setúbal, 15 January 1988.  
-Bachelard: epistemólogo e pedagogo, talk presented at the "Interdisciplinar Seminar on Bachelard", FCUL, 4 May 1988.  
-• Reforma e critérios de legitimação curricular, talk presented at the Colloquium "Reforma do Sistema Educativo", Department of Education, FCUL, 24 June 1988.  
-• Epistemologia e matemática: algumas observações, invited speaker at Prof. Luís Saraiva seminar, FCUL, 29 November 1988
-Linguagem e escola: os lugares da filosofia, invited speaker at the colloquium "Reason and Critique", "Associação dos Professores de Filosofia", Rectory of the University of Coimbra, 11 February 1989.  • Um diálogo interdisciplinar, invited speaker at the seminar "O Curriculum no Ensino, o Programa na Formação Profissional", FCUL, Lisboa, 18 December 1990.  
-• Epistemologia e ensino das ciências, invited speaker at the "IV Encontro Regional de Lisboa e Zona Sul", Natural History Museum and FCUL, 23-25 May 1991.  
-• Porquê a interdisciplinaridade?, talk presented at the Seminar "O que é a Interdisciplinaridade?", put forward by "Project Mathesis", Department of Education, FCUL,  Lisboa, 12 June 1991.  
-Para um modelo reflexivo de formação de professores, talk presented at the Seminar "O Ensino Superior e a Formação de Professores em Portugal", Calouste Gulbenkian Foundation, 21-22 January 1993.  
-Problemas e perspectivas da interdisciplinaridade, talk presented at the Symposium "Novas Perspectivas no Ensino das Ciências e da Matemática", Calouste Gulbenkian Foundation, 23-25 June 1993.  
-• Integração interdisciplinar. Categorias de análise, with Teresa Levy and Henrique Guimarães, talk presented at the Symposium "Novas Perspectivas no Ensino das Ciências e da Matemática", Calouste Gulbenkian Foundation, 23-25 June 1993.  
-• A interdisciplinaridade como exigência curricular, invited speaker at the "Primeira Conferência sobre Interdisciplinaridade no Ensino: Reflexões e Práticas sobre a Área Escola", Auditório Eng. Eurico de Melo, St. Tirso, 6 May 1994.  
-Estaremos a caminho para uma escola de sucesso?, invited speaker at the "Encontro Regional de Professores de Matemática", Forum da Maia, 13 September 1995.
-A interdisciplinaridade no ensino e na investigação, invited speaker at the "Ciclo de Interdisciplinaridade. Saber de Risco Sísmico com o Mínimo de Risco Ambiental", FCUL, Lisboa, 19 December 1996.  
-• Recordar Agostinho da Silva: 10 anos depois, talk presented at the "Ciclo de Conferências Agostinho da Silva", FCUL, Lisboa, 17 December 1998.
-Notas à margem do projecto "Escolas Inclusivas", talk presented at the 2ª Sessão do "Ciclo de Conferências Agostinho da Silva", FCUL, 4 May 1999.  
-• Sobre a emergência da universidade mundial electrónica. Notas à margem da conferência de Parker Rossman, talk presented at the Colloquium "From the Idea of University to the University of Lisbon", Rectory of the University of Lisbon, 30 November 1999.  
-• Curriculum: critérios de legitimação, invited speaker at the "Jornadas Pedagógicas do Pinhal", Centro de Formação do Pinhal, Municipal Auditorium of Proença-a-Nova, 23 March 2000.  
-• Biblioteca. A alma da escola, invited speaker at the Coloquium "Bibliotecas e Novas Tecnologias", organized by Câmara Municipal de Lisboa, Forum Lisboa, 11-13 Oct 2000.  
-• A escola como memória do futuro, invited speaker Colloquium "Homenagem a Agostinho da Silva", organized by Associação Agostinho da Silva, Sala do Arquivo, Paços do Concelho, Lisboa, 14-15 February 2001.  
-• Da autoridade ao autoritarismo, invited speaker Seminário "Autoridade, Responsabilidade e Indisciplina nas Escolas", organized by Associação Nacional dos Professores do Ensino Secundário, University School of Communication, Lisboa, 15 -16 February 2001.  
-• Professor: profeta do passado, memória do futuro, invited speaker at the "Segundo Encontro de Investigação e Formação: Criatividade, Afectividade e Modernidade", Escola Superior de Educação of  Lisboa, 22-24 November 2001.  
-• Hipertexto como limite da ideia de enciclopédia, talk presented at Seminário do Projecto Enciclopédia e Hipertexto, FCUL, 4 December 2002.      
-. Biblioteca e escola. O esplendor de uma articulação, invited speaker at the "Jornadas de Bibliotecas Escolares do Concelho de Vila Franca de Xira: Literacias, Conhecimentos e Bibliotecas Escolares", Câmara Municipal Vila Franca de Xira, 30-31 October 2003. 
-. A Matemática: raínha e serva das disciplinas científicas, invited speaker at the "Baú da Matemática. Encontro de Professores de Educação Básica", organized by "Calculus. Centro de Investigação e Cultura Matemática do IP Porto", Forum Cultural de Ermesinde, 20 -21 November 2003.  
-• A escola e o seu essencial destino cognitivo, invited speaker at the "Sessão de Estudos: Educação, Cidadania e Justiça Social numa Sociedade Global", Casa das Irmãs Franciscanas de N. Srª das Vitórias, Apelação, Loures, 7-8 February 2004.  
-• Claro que a Física é cultura!, invited speaker at the Conference Series  "Física é Cultura!", "XIV Encontro Ibérico para o Ensino da Física - Escola de Educação em Física 2004", put forward by the Portuguese Physics Society, Instituto Superior de Engenharia, Oporto, 9 September 2004.  
-•  Porque é que Rousseau não é um utopista mas parece?, invited talk at the exhibition "Ilhas da Utopia", Livraria Ler Devagar,  Lisboa, 15 October 2004.  
-• O que é o logicismo?, talk presented at the 2ª session of the “Gymnasium of the Center for Philosophy of Sciences“, FCUL, 9th November 2005.  
-• O que é um objecto?, talk presented at the 3rt session of “Gymnasium of the Center for Philosophy of Science,“ FCUL, 18th January 2006.   
-• Enciclopédia e hipertexto. Entre a suspeita e a perplexidade, invited talk at the Livraria " Sem Mais nem Menos", OPorto, 26 May 2006.  
-• Sobre a educação das crianças dos 0 aos 12 anos, invited speaker at the Seminar "A Educação das Crianças dos 0 aos 12 anos", Nacional Education Council, CNE Auditorium, 20 May 2008.  
-• Interacções arte e ciência, invited speaker at the “Conversas na Aldeia Global - A Ciência não Morde”, put forward by the Oeiras Municipal Council, Biblioteca Municipal de Oeiras, Oeiras, 20 November 2008.  
-• Diários gráficos como instrumento de conhecimento, invited talk by the Project “Espaços do Desenho”, Fábrica de Braço de Prata, Lisboa, 12 March 2009.  
-Diderot, D' Alembert e o movimento enciclopedista, invited speaker at the Câmara Municipal de Oeiras, “Ciclo de Conferencias sobre o Iluminismo”, Oeiras, 22 April 2009.  
-• Interdisciplinaridade em arte, invited speaker at the “I Congresso Internacional Investigação em Arte”, Calouste Gulbenkian Foundation, 18 May 2009.  
+* Análise crítica da pedagogia por objectivos, talk presented at the Congresso de "Pedagogia por Objectivos" promoted by Piaget Institute, Rectory of the  University of Lisbon, 7 February 1983.  
+* Rousseau no feminino, invited speaker at the Azores University, Ponta Delgada, 16 May 1983.  
+* Explicação e objectividade em contexto escolar, invited speaker at the colloquium "Objectividade em ciências", Auditório da Casa da Cultura das Caldas da Rainha, 27 May 1986.  
+* Para uma fenomenologia do acto educativo, invited speaker at colloquium "Institution and Philosophy", Eng. António de Almeida Foundation, Oporto, 8 November 1986.  
+* Meio é a mensagem: Mc Luhan e as novas tecnologias, invited speaker at the "Computer week", Department of Education, FCUL, University of Lisbon, 12 January 1987.  
+* Investigação e ensino: articulações, invited speaker at the conference “A Problemática das Licenciaturas em Ensino”, Rectorship of the University of Lisbon, 19-20 February, 1987
+* Hannah Arendt ou o papel do filósofo face à crise da educação, invited speaker at the "First Meeting on Philosophy in Non/Philosophical Contexts", Aveiro Cifop, 7-8 March 1987.  
+* Problemas da formação de professores de filosofia, invited speaker at the Philosophy Teachers Association "Second Philosophy Meeting of Central Region", Paulo Quintela Theater, Faculty of Letters, Coimbra, 30 April 1987.  
+* Leibniz e o problema de uma língua universal: apresentação de uma investigação, invited talk at the cycle "Theses" of the Portuguese Society of Philosophy, Lisboa, 3 June 1987.  
+* Situação curricular da filosofia no ensino secundário, invited talk at the Colloquium "Who is afraid of philosophy?", Câmara Municipal Setúbal, 15 January 1988.  
+* Bachelard: epistemólogo e pedagogo, talk presented at the "Interdisciplinar Seminar on Bachelard", FCUL, 4 May 1988.  
+* Reforma e critérios de legitimação curricular, talk presented at the Colloquium "Reforma do Sistema Educativo", Department of Education, FCUL, 24 June 1988.  
+* Epistemologia e matemática: algumas observações, invited speaker at Prof. Luís Saraiva seminar, FCUL, 29 November 1988
+* Linguagem e escola: os lugares da filosofia, invited speaker at the colloquium "Reason and Critique", "Associação dos Professores de Filosofia", Rectory of the University of Coimbra, 11 February 1989.  
+* Um diálogo interdisciplinar, invited speaker at the seminar "O Curriculum no Ensino, o Programa na Formação Profissional", FCUL, Lisboa, 18 December 1990.  
+* Epistemologia e ensino das ciências, invited speaker at the "IV Encontro Regional de Lisboa e Zona Sul", Natural History Museum and FCUL, 23-25 May 1991.  
+* Porquê a interdisciplinaridade?, talk presented at the Seminar "O que é a Interdisciplinaridade?", put forward by "Project Mathesis", Department of Education, FCUL,  Lisboa, 12 June 1991.  
+* Para um modelo reflexivo de formação de professores, talk presented at the Seminar "O Ensino Superior e a Formação de Professores em Portugal", Calouste Gulbenkian Foundation, 21-22 January 1993.  
+* Problemas e perspectivas da interdisciplinaridade, talk presented at the Symposium "Novas Perspectivas no Ensino das Ciências e da Matemática", Calouste Gulbenkian Foundation, 23-25 June 1993.  
+* Integração interdisciplinar. Categorias de análise, with Teresa Levy and Henrique Guimarães, talk presented at the Symposium "Novas Perspectivas no Ensino das Ciências e da Matemática", Calouste Gulbenkian Foundation, 23-25 June 1993.  
+* A interdisciplinaridade como exigência curricular, invited speaker at the "Primeira Conferência sobre Interdisciplinaridade no Ensino: Reflexões e Práticas sobre a Área Escola", Auditório Eng. Eurico de Melo, St. Tirso, 6 May 1994.  
+* Estaremos a caminho para uma escola de sucesso?, invited speaker at the "Encontro Regional de Professores de Matemática", Forum da Maia, 13 September 1995.
+* A interdisciplinaridade no ensino e na investigação, invited speaker at the "Ciclo de Interdisciplinaridade. Saber de Risco Sísmico com o Mínimo de Risco Ambiental", FCUL, Lisboa, 19 December 1996.  
+* Recordar Agostinho da Silva: 10 anos depois, talk presented at the "Ciclo de Conferências Agostinho da Silva", FCUL, Lisboa, 17 December 1998.
+* Notas à margem do projecto "Escolas Inclusivas", talk presented at the 2ª Sessão do "Ciclo de Conferências Agostinho da Silva", FCUL, 4 May 1999.  
+* Sobre a emergência da universidade mundial electrónica. Notas à margem da conferência de Parker Rossman, talk presented at the Colloquium "From the Idea of University to the University of Lisbon", Rectory of the University of Lisbon, 30 November 1999.  
+* Curriculum: critérios de legitimação, invited speaker at the "Jornadas Pedagógicas do Pinhal", Centro de Formação do Pinhal, Municipal Auditorium of Proença-a-Nova, 23 March 2000.  
+* Biblioteca. A alma da escola, invited speaker at the Coloquium "Bibliotecas e Novas Tecnologias", organized by Câmara Municipal de Lisboa, Forum Lisboa, 11-13 Oct 2000.  
+* A escola como memória do futuro, invited speaker Colloquium "Homenagem a Agostinho da Silva", organized by Associação Agostinho da Silva, Sala do Arquivo, Paços do Concelho, Lisboa, 14-15 February 2001.  
+* Da autoridade ao autoritarismo, invited speaker Seminário "Autoridade, Responsabilidade e Indisciplina nas Escolas", organized by Associação Nacional dos Professores do Ensino Secundário, University School of Communication, Lisboa, 15 -16 February 2001.  
+* Professor: profeta do passado, memória do futuro, invited speaker at the "Segundo Encontro de Investigação e Formação: Criatividade, Afectividade e Modernidade", Escola Superior de Educação of  Lisboa, 22-24 November 2001.  
+* Hipertexto como limite da ideia de enciclopédia, talk presented at Seminário do Projecto Enciclopédia e Hipertexto, FCUL, 4 December 2002.      
+* Biblioteca e escola. O esplendor de uma articulação, invited speaker at the "Jornadas de Bibliotecas Escolares do Concelho de Vila Franca de Xira: Literacias, Conhecimentos e Bibliotecas Escolares", Câmara Municipal Vila Franca de Xira, 30-31 October 2003. 
+* A Matemática: raínha e serva das disciplinas científicas, invited speaker at the "Baú da Matemática. Encontro de Professores de Educação Básica", organized by "Calculus. Centro de Investigação e Cultura Matemática do IP Porto", Forum Cultural de Ermesinde, 20 -21 November 2003.  
+* A escola e o seu essencial destino cognitivo, invited speaker at the "Sessão de Estudos: Educação, Cidadania e Justiça Social numa Sociedade Global", Casa das Irmãs Franciscanas de N. Srª das Vitórias, Apelação, Loures, 7-8 February 2004.  
+* Claro que a Física é cultura!, invited speaker at the Conference Series  "Física é Cultura!", "XIV Encontro Ibérico para o Ensino da Física - Escola de Educação em Física 2004", put forward by the Portuguese Physics Society, Instituto Superior de Engenharia, Oporto, 9 September 2004.  
+* Porque é que Rousseau não é um utopista mas parece?, invited talk at the exhibition "Ilhas da Utopia", Livraria Ler Devagar,  Lisboa, 15 October 2004.  
+* O que é o logicismo?, talk presented at the 2ª session of the “Gymnasium of the Center for Philosophy of Sciences“, FCUL, 9th November 2005.  
+* O que é um objecto?, talk presented at the 3rt session of “Gymnasium of the Center for Philosophy of Science,“ FCUL, 18th January 2006.   
+* Enciclopédia e hipertexto. Entre a suspeita e a perplexidade, invited talk at the Livraria " Sem Mais nem Menos", OPorto, 26 May 2006.  
+* Sobre a educação das crianças dos 0 aos 12 anos, invited speaker at the Seminar "A Educação das Crianças dos 0 aos 12 anos", Nacional Education Council, CNE Auditorium, 20 May 2008.  
+* Interacções arte e ciência, invited speaker at the “Conversas na Aldeia Global - A Ciência não Morde”, put forward by the Oeiras Municipal Council, Biblioteca Municipal de Oeiras, Oeiras, 20 November 2008.  
+* Diários gráficos como instrumento de conhecimento, invited talk by the Project “Espaços do Desenho”, Fábrica de Braço de Prata, Lisboa, 12 March 2009.  
+* Diderot, D' Alembert e o movimento enciclopedista, invited speaker at the Câmara Municipal de Oeiras, “Ciclo de Conferencias sobre o Iluminismo”, Oeiras, 22 April 2009.  
+* Interdisciplinaridade em arte, invited speaker at the “I Congresso Internacional Investigação em Arte”, Calouste Gulbenkian Foundation, 18 May 2009.  
 • Afinal, o que é a escola?, invited speaker at the “Conferências de  Lisboa / Lições Abertas” (Org. Rui Tavares), Câmara Municipal de  Lisboa,  Lisboa, 25 June 2009.  
-• Apresentação de um projecto, plenary talk at the International Colloquium «Da Civilização da Palavra à Civilização da Imagem», organized in the context of the Project “Image in science and Art”, Franco-Portuguese Institute, Lisboa, 10 - 11 May 2010.  
-• "Matemática e Lógica" em H. Poincaré, talk presented at the project “Poincaré. Philosopher of Science”, FCUL, Lisboa, 23 June 2010.  
-Acerca da verdade, invited talk of the National Etics Commission, Parque da Saúde, Lisboa, 5 November 2010. 
-Ciência e interdisciplinaridade, invited speaker at “Jornadas interdisciplinares 2011”, put forward by the Students Association of Psychology and Educational Sciences of the University of Coimbra, Coimbra, 22 March 2011.
-O livro como extravagância, invited speaker at the “Jornadas Kantianas”, put forward by the Oporto Association, Lisboa, 16 March 2012.  
-Qual a diferença entre ciência e filosofia?, invited speaker of the "Evolution Day", organized by CFCUL / Ciência Viva, Knowledge Pavilion,  Lisboa, 16 March 2013. 
-• Que faz um filósofo da ciência?, invited speaker to the conference series "Encontro com o Cientista", organized by Ciência Viva, Knowledge Pavilion,  Lisboa, 8th November 2013.
+* Apresentação de um projecto, plenary talk at the International Colloquium «Da Civilização da Palavra à Civilização da Imagem», organized in the context of the Project “Image in science and Art”, Franco-Portuguese Institute, Lisboa, 10 - 11 May 2010.  
+* Matemática e Lógica em H. Poincaré, talk presented at the project “Poincaré. Philosopher of Science”, FCUL, Lisboa, 23 June 2010.  
+* Acerca da verdade, invited talk of the National Etics Commission, Parque da Saúde, Lisboa, 5 November 2010. 
+* Ciência e interdisciplinaridade, invited speaker at “Jornadas interdisciplinares 2011”, put forward by the Students Association of Psychology and Educational Sciences of the University of Coimbra, Coimbra, 22 March 2011.
+* O livro como extravagância, invited speaker at the “Jornadas Kantianas”, put forward by the Oporto Association, Lisboa, 16 March 2012.  
+* Qual a diferença entre ciência e filosofia?, invited speaker of the "Evolution Day", organized by CFCUL / Ciência Viva, Knowledge Pavilion,  Lisboa, 16 March 2013. 
+* Que faz um filósofo da ciência?, invited speaker to the conference series "Encontro com o Cientista", organized by Ciência Viva, Knowledge Pavilion,  Lisboa, 8th November 2013.
 ... A epistemologia e as ciências, invited speaker at the “Autumn Talks of the Psychiatry Service of the Santa Maria Hospital”, Hospital de Santa Maria, Lisboa, 21 October 2014.
-• Elogio da transmissão. Mais passado para o futuro; mais futuro para o passado, invited speaker at the conference series "Escutar a cidade" put forward by Diocese de Lisboa, Forum Lisboa, 5 March 2015.
+* Elogio da transmissão. Mais passado para o futuro; mais futuro para o passado, invited speaker at the conference series "Escutar a cidade" put forward by Diocese de Lisboa, Forum Lisboa, 5 March 2015.
 <https://www.bing.com/videos/search?q=O+Elogio+Da+Transmissao+Olga+Pombo+Video+YouTube&&view=detail&mid=2F46F9C142680DDF45BC2F46F9C142680DDF45BC&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3DO%2BElogio%2BDa%2BTransmissao%2BOlga%2BPombo%2BVideo%2BYouTube%26FORM%3DVDMHRS>
-• In memoriam of Prof. Herminio Martins, invited speaker (opening session) of the “PhD Program Philosophy of Science, Technology, Art and Society”, FCUL, 5 October 2015.
-• A infinitude da queda no 'Teeteto' de Platão, invited speaker at the a conference put forward by the project ‘Diálogos’ of the Calouste Gulbenkian Foundation, FCUL, 29 October 2015.
-•	Ciência e arte. Proximidades e diferencas. invited speaker at a conference put forward by the project ‘Dialogos” of the Calouste Gulbenkian Foundation, Escola Superior de Artes e Design, Caldas da Rainha, 24 October 2017. 
-•	O projecto epistemológico de Piaget, talk presented at the “Permanent Seminar of Philosophy of Science” dedicated to Jean Piaget, FCUL, 9 October 2018 (poster)
-•	Homens ou cidadãos, invited speaker at the Conference “Philosophy and Human rights” put forward by the Portuguese Association of Philosophy Teachers (APF), Museu Monográfico de Conimbriga, Conimbriga, 9 March 2019.
-•	“Interdisciplinaridade. Desafio e destino da universidade”, invited talk at the Dia da Faculdade de Medicina, Faculdade of Medicina, Universidade do Porto, Porto, 7 Mars, 2022 
-•	“A interdisciplinaridade e o futuro da Universidade”, invited conference at the “Ciclo de Conferências FEP 70 anos” put forward by the Faculdade de Economia of the University of Oporto, Salão Nobre da Faculdade de Economia da Universidade do Porto, 4 December, 2023
-•	 “Interdisciplinaridade e Cultura Integral», invited conference at the series of conferencies put forward by the Associação Bento Jesus Caraça, Biblioteca Municipal Palácio Galveias, Lisbon, 18 January 2024. 
-•	“Sobre o conceito de Biblioteca (On the concept of Library)”,  talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 9 January 2024.
-•	“Progressos e Regressos (Progresses and returns)”, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 5 March 2024. 
-•	“O que é Pensar (On thinking)”, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 7 May 2024. 
-•	“O que é a Filosofia (On Philosophy)”, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon), 7 June 2024. 
-•	“O Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia (Plato’s Protagoras” (IV aC).  Philosophy, Reason, Virtue and Democracy”), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon,1 October 2024.
-•	"O Discurso do Método" (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will”), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 5 November 2024.
-•	"O Discurso sobre a Origem da Desigualdade entre os Homens"" (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men"(1754). Philosophy, Fiction, Politics and Human Rights”), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 3 December 2024.
-•	“A Alice no País das Maravilhas” (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature”), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 7 de January 2025.
-•	“Os Espaços Outros” (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces" (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia”), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 4 February 2025. 
-•	A infinitude da queda no 'Teeteto' de Platão, invited speaker at a conference put forward by the project “Dialogos” of the Calouste Gulbenkian Foundation, Faculty of Letters, Coimbra University, 11 April 2016.
-•	Filosofia e conhecimento no “Teeteto” de Platão, lecture at the Doctoral Seminar of the PD-FCTAS, FCUL, 10 November 2016
+* In memoriam of Prof. Herminio Martins, invited speaker (opening session) of the “PhD Program Philosophy of Science, Technology, Art and Society”, FCUL, 5 October 2015.
+* A infinitude da queda no 'Teeteto' de Platão, invited speaker at the a conference put forward by the project ‘Diálogos’ of the Calouste Gulbenkian Foundation, FCUL, 29 October 2015.
+* Ciência e arte. Proximidades e diferencas. invited speaker at a conference put forward by the project ‘Dialogos” of the Calouste Gulbenkian Foundation, Escola Superior de Artes e Design, Caldas da Rainha, 24 October 2017. 
+* O projecto epistemológico de Piaget, talk presented at the “Permanent Seminar of Philosophy of Science” dedicated to Jean Piaget, FCUL, 9 October 2018 (poster)
+* Homens ou cidadãos, invited speaker at the Conference “Philosophy and Human rights” put forward by the Portuguese Association of Philosophy Teachers (APF), Museu Monográfico de Conimbriga, Conimbriga, 9 March 2019.
+* Interdisciplinaridade. Desafio e destino da universidade, invited talk at the Dia da Faculdade de Medicina, Faculdade of Medicina, Universidade do Porto, Porto, 7 Mars, 2022 
+* A interdisciplinaridade e o futuro da Universidade, invited conference at the “Ciclo de Conferências FEP 70 anos” put forward by the Faculdade de Economia of the University of Oporto, Salão Nobre da Faculdade de Economia da Universidade do Porto, 4 December, 2023
+* Interdisciplinaridade e Cultura Integral, invited conference at the series of conferencies put forward by the Associação Bento Jesus Caraça, Biblioteca Municipal Palácio Galveias, Lisbon, 18 January 2024. 
+* Sobre o conceito de Biblioteca (On the concept of Library),  talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 9 January 2024.
+* Progressos e Regressos (Progresses and returns), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 5 March 2024. 
+* O que é Pensar (On thinking), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 7 May 2024. 
+* O que é a Filosofia (On Philosophy), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon), 7 June 2024. 
+* O Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia (Plato’s Protagoras (IV aC).  Philosophy, Reason, Virtue and Democracy”), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon,1 October 2024.
+* O Discurso do Método (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 5 November 2024.
+* O Discurso sobre a Origem da Desigualdade entre os Homens (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men (1754). Philosophy, Fiction, Politics and Human Rights), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 3 December 2024.
+* A Alice no País das Maravilhas (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 7 de January 2025.
+* Os Espaços Outros (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 4 February 2025. 
+* A infinitude da queda no 'Teeteto' de Platão, invited speaker at a conference put forward by the project “Dialogos” of the Calouste Gulbenkian Foundation, Faculty of Letters, Coimbra University, 11 April 2016.
+* Filosofia e conhecimento no “Teeteto” de Platão, lecture at the Doctoral Seminar of the PD-FCTAS, FCUL, 10 November 2016
 
 
 
