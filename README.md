@@ -1,4 +1,3 @@
-  
 * [Presentation](presentation.md)
 * [Curriculum](curriculum.md)
 * [Online Publications](publications.md)
@@ -10,10 +9,8 @@
 * [Supervision](supervision.md)
 * [Media Mentions](media_mentions.md)
 
-<div style="position: fixed; bottom: 0; right: 0;">
-  <img src="./images/OPombo_Nancy.jpg" alt="Olga Pombo" width="250" height="250">
-  <p style="font-size: 0.8em; margin-top: 5px;">
-      "Each life is an encyclopedia, a library, an inventory of objects, a catalog of styles, where everything can be constantly stirred up and reordered in every possible way”
-      Italo Calvino, “Lezioni Americane. Sei Proposte per il Prossimo Millennio”
-  </p>
-</div>
+
+<img src="./images/OPombo_Nancy.jpg" alt="Olga Pombo" width="150" height="150" />
+
+> _Each life is an encyclopedia, a library, an inventory of objects, a catalog of styles, where everything can be constantly stirred up and reordered in every possible way_
+> Italo Calvino, “Lezioni Americane. Sei Proposte per il Prossimo Millennio”
