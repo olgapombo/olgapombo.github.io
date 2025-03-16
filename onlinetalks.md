@@ -189,8 +189,8 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 
 ## Public Talks
 
-Deriva a partir de Rousseau, talk presented at the Portuguese Philosophy Society,  Lisboa, 24 May 1979.  
-• Do texto no ensino da Filosofia, talk presented at the "Segundo Encontro Nacional de Professores de Filosofia", Fundação Calouste Gulbenkian,  Lisboa, 15 February 1980.  
+* Deriva a partir de Rousseau, talk presented at the Portuguese Philosophy Society,  Lisboa, 24 May 1979.  
+* Do texto no ensino da Filosofia, talk presented at the "Segundo Encontro Nacional de Professores de Filosofia", Fundação Calouste Gulbenkian,  Lisboa, 15 February 1980.  
 • Análise crítica da pedagogia por objectivos, talk presented at the Congresso de "Pedagogia por Objectivos" promoted by Piaget Institute, Rectory of the  University of Lisbon, 7 February 1983.  
 • Rousseau no feminino, invited speaker at the Azores University, Ponta Delgada, 16 May 1983.  
 •  Explicação e objectividade em contexto escolar, invited speaker at the colloquium "Objectividade em ciências", Auditório da Casa da Cultura das Caldas da Rainha, 27 May 1986.  
