@@ -15,7 +15,7 @@ and reordered in every possible way”
 
   [Curriculum](curriculum.md)
 
-  [Online Publications](publications.md)
+  [Online Publications](onlinepublications.md)
 
   [Interviews /online, tv and radio, journals](interviews.md)
 
