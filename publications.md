@@ -58,7 +58,7 @@ ISBN: 972-99794.2.1.
 11.	Olga Pombo (ed.) (2011) **Lógica Universal e Unidade da Ciência /Universal Logic and Unity of Science**, Lisboa: CFCUL,196 pp., ISBN: 978-989-8247-50-6.
 12.	Olga Pombo; Catarina Nabais; Cristina Tavares; Manuel Valente Alves; Marco Pina; Pedro Silva; Ricardo Santos; Silvia Di Marco (eds.) (2011) **CorpoIMAGEM - Representações do Corpo na Ciência e na Arte / BodyIMAGE - Body Representations in Science and Art**,  Lisboa: Ciência Viva, 27 pp. (catalogue).
 13.	Olga Pombo; John Symons; Juan Manuel Torres (eds.) (2011) **Otto Neurath and the Unity of Science**, Dordrecht/Heidelberg/ London/New York: Springer, 250 pp., ISBN: 978-94-007-0142-7. 
-DOI:10.1007/978-94-007-0143-4 (see also <https://link.springer.com/book/10.1007/978-94-007-0143-4>)
+DOI: 10.1007/978-94-007-0143-4 ; (see also <https://link.springer.com/book/10.1007/978-94-007-0143-4>)
 14.	Olga Pombo; João Cord. (eds.) (2012) **As Cartas de Problemática de António Sérgio dirigidas a um grupo de jovens amigos, alunos e alunas da Faculdade de Ciências**,  Lisboa: Fim de Século, 228 pp.
 ISBN: 978-972-754-294-9.
 15.	Olga Pombo; Shahid Rahman; John Symons; Juan Manuel Torres (eds.) (2012) **Special Sciences and the Unity of Science**, Dordrecht/Heidelberg/London/New York: Springer, 299 pp.,
