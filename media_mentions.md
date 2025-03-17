@@ -2,4 +2,4 @@
 
 **[Wook acontece](https://www.wook.pt/wookacontece/autores/autor?id=5779&srsltid=AfmBOoouFVLdylQPMd5_3hZRd1khnsq7Bje6fac26ZrvCgOrFjV5SmrA)** - list of books  
 
-review **[here](https://periodicos.ufc.br/argumentos/article/view/19037/29756)**
+Marco Silva, review on POMBO, Olga.  Leibniz e o problema de uma língua universal.  Lisboa.  Editora:  Junta  Portuguesa  de  Investigação Científica e Tecnológica, 1997. **[here](https://periodicos.ufc.br/argumentos/article/view/19037/29756)**
