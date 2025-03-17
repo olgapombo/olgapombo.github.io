@@ -71,13 +71,13 @@ DOI: 10.1007/978-94-007-2030-5.
 ISBN: 978-972-574-286-4.
 25.	Olga Pombo (ed.) (2018) **[Modelos e Imagens /Models and Images](https://www.wook.pt/livro/modelos-e-imagens-olga-pombo/21821748?utm_source=paginasautores&utm_campaign=wookacontece&utm_medium=wookacontece)**, Lisboa: Fim de Século, 299 pp. 
 ISBN: 978-972-754-287-1.
-26.	Olga Pombo; Ana Pato; Juan Redmond (eds) (2018) **Epistemologia, Lógica e Linguagem /Epistemology, Logic and Language**, Lisboa: CFCUL, Series “Documenta”, vol. 11, 189 pp., ISBN: 78-989-8247-78-0.
-27.	Olga Pombo; Catarina Nabais; Sara Fuentes (eds.) (2019), **CorpoIMAGEM. Representações do Corpo na Ciência e na Arte /BodyIMAGE - Body Representations in Science and Art**, Lisboa: Fim de Século, 249 pp. ISBN: 978-972-754-285-7
-28.	Jens Alwood; Olga Pombo; Clara Renna; Giovanni Scarafile (eds.)(2020) **Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a new Knowledge Model**, Amsterdam/Philadelphia: John Benjamin’s Publishing Company, series “Controversies. Ethics and Interdisciplinarity”, vol. 16, 279 pp. 
+26.	Olga Pombo; Ana Pato; Juan Redmond (eds) (2018) **[Epistemologia, Lógica e Linguagem](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?2040823) /Epistemology, Logic and Language**, Lisboa: CFCUL, Series “Documenta”, vol. 11, 189 pp., ISBN: 78-989-8247-78-0.
+27.	Olga Pombo; Catarina Nabais; Sara Fuentes (eds.) (2019), **[CorpoIMAGEM. Representações do Corpo na Ciência e na Arte](https://www.wook.pt/livro/representacoes-do-corpo-na-ciencia-e-na-arte-cristina-azevedo-tavares/12640573?srsltid=AfmBOoqPAwOI7hiB_5YLtxKaHBRV2-yHstspPacinl5O1xWLyaWjnheS) /BodyIMAGE - Body Representations in Science and Art**, Lisboa: Fim de Século, 249 pp. ISBN: 978-972-754-285-7
+28.	Jens Alwood; Olga Pombo; Clara Renna; Giovanni Scarafile (eds.)(2020) **[Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a new Knowledge Model](https://www.degruyter.com/document/doi/10.1075/cvs.16/html?srsltid=AfmBOoqkwUzOIU2RahX9oucBCXhxphnDJxdk4HeTxU1X7qd5lJ33u4Rq)**, Amsterdam/Philadelphia: John Benjamin’s Publishing Company, series “Controversies. Ethics and Interdisciplinarity”, vol. 16, 279 pp. 
 ISBN - Hb: 978 90 272 0754 8; E-book: 978 90 272 6075 8;   DOI: https://doi.org/10.1075/cvs.16
-29.	Olga Pombo (ed.) (2021),  **Ciência, Racionalidade e Política. Ensaios (in)Atuais /Science, Rationality and Politics. (In)Actual Essays**, Lisboa: Aletheia, ISBN: 978-989-8906.
+29.	Olga Pombo (ed.) (2021),  **[Ciência, Racionalidade e Política. Ensaios (in)Atuais](https://www.aletheia.pt/collections/livros/products/ciencia-racionalidade-e-politica-ensaios-inatuais) /Science, Rationality and Politics. (In)Actual Essays**, Lisboa: Aletheia, ISBN: 978-989-8906.
 30.	Olga Pombo (ed.) (2021), **Regresso ao Protágoras, de Platão / Return to Plato's Protagoras**.  Lisboa: Mariposa Azul, 227 pp.; ISBN:978-972-8481-70-4
-https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/Prota%CC%81goras_OP_2021.pdf (full book) 
+ (full book **[here](https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/Prota%CC%81goras_OP_2021.pdf)**) 
 31.	Olga Pombo, Klaus Gaertner, Jorge Jesuíno (eds.) (2023), **Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century**, Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, 309 pp. 
 ISBN: 978-3-031-20404-3; DOI: https://doi.org/10.1007/978-3-031-20405-0.
 
