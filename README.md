@@ -1,6 +1,6 @@
 <img src="./images/OPombo_Nancy.jpg" alt="Olga Pombo" width="150" height="150" />
 
-> ##### "Each life is an encyclopedia, a library, an inventory of objects, a catalog of styles, where everything can be constantly stirred up and reordered in every possible way" Italo Calvino, *Lezioni Americane. Sei Proposte per il Prossimo Millennio*
+> ##### "Each life is an encyclopedia, a library, an inventory of objects, a catalog of styles, where everything can be constantly stirred up and reordered in every possible way"   Italo Calvino, *Lezioni Americane. Sei Proposte per il Prossimo Millennio*
 
 * [Curriculum](curriculum.md)
 * [Publications](publications.md)
