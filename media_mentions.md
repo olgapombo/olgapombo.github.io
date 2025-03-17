@@ -2,4 +2,6 @@
 
 **[Wook acontece](https://www.wook.pt/wookacontece/autores/autor?id=5779&srsltid=AfmBOoouFVLdylQPMd5_3hZRd1khnsq7Bje6fac26ZrvCgOrFjV5SmrA)** - list of books  
 
+Marina Lopez (????), **[review]()** on 
+
 Marco Silva (2013), **[review](https://periodicos.ufc.br/argumentos/article/view/19037/29756)** on Pombo, Olga.  "Leibniz e o problema de uma língua universal",  Lisboa.  Editora:  Junta  Portuguesa  de  Investigação Científica e Tecnológica, 1997. 
