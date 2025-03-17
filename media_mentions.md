@@ -4,4 +4,4 @@
 
 Marina Lopez (2007), **[review](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/livroolga_uc_por_marina_lopez.pdf)** on Pombo, Olga, *Unidade da Ciência. Programas, Figuras e Metáforas / Unity of Science. Programs, Figures and Metaphors*, Lisboa: Duarte Reis, 2006.
 
-Marco Silva (2013), **[review](https://periodicos.ufc.br/argumentos/article/view/19037/29756)** on Pombo, Olga, *Leibniz e o problema de uma língua universal*,  Lisboa:  Junta  Portuguesa  de  Investigação Científica e Tecnológica, 1997. 
+Marco Silva (2013), **[review](https://periodicos.ufc.br/argumentos/article/view/19037/29756)** on Pombo, Olga, *Leibniz e o Problema de uma Língua Universal*,  Lisboa:  Junta  Portuguesa  de  Investigação Científica e Tecnológica, 1997. 
