@@ -4,7 +4,7 @@
 > Italo Calvino, “Lezioni Americane. Sei Proposte per il Prossimo Millennio”
 
 * [Curriculum](curriculum.md)
-* [Online Publications](publications.md)
+* [Publications](publications.md)
 * [Interviews /online, tv and radio, journals](interviews.md)
 * [Online Talks/Conferences](onlinetalks.md)
 * [Research / Projects](/research/projects.md)
