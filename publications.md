@@ -30,9 +30,7 @@
 10.	Pombo, Olga (2013) **Tarefas da Filosofia da Ciência para o Século XXI / Tasks of the Philosophy of Science for the 21st Century**, Lisboa: CFCUL, 217 pp. ISBN: 978-989-8247-60-5.
 11.	Pombo, Olga (2021), **Minha Prosa Antiga como Dantes / My Ancient Prose as It Used to Be**, Lisboa: Aletheia, 31 pp.
 12.	Pombo, Olga (2021) **[Interdisciplinaridade. Ambições e Limites / Interdisciplinarity: Ambitions and Limits](https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites)** (revised edition),  Lisboa: Aletheia, 211 pp X. ISBN: 978-989-8906-94-6
-https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites 
-13.	Pombo, Olga (2022), **Estudos de Filosofia da Ciência / Studies in Philosophy of Science**, Lisboa: Mariposa Azul, 348 pp. ISBN: 978-972-8481-74-2
-<https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/FilosofiaDaCiencia_OP_2022.pdf> (full book)
+13.	Pombo, Olga (2022), **Estudos de Filosofia da Ciência / Studies in Philosophy of Science**, Lisboa: Mariposa Azul, 348 pp. ISBN: 978-972-8481-74-2 (full book [here](https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/FilosofiaDaCiencia_OP_2022.pdf))
 14.	Pombo, Olga (2022), **O Insuportável Brilho da Escola. Elementos para uma Filosofia da Escola e do Ensino / The Unbearable Brightness of School. Elements for a Philosophy of School and Teaching**, Lisboa: Aletheia, 2022, 285 pp. ISBN: 978-989-9077-76-8. 
 <https://www.aletheia.pt/products/o-insuportavel-brilho-da-escola>
 https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/10/brilho-escola-opombo-livro.pdf (full book)
