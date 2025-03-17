@@ -18,7 +18,7 @@
 
 ## Books (author)
 
-1.	Pombo, Olga (1987) **Leibniz and the Problem of a Universal Language**, Münster: Nodus Publikationen, 321 pp.  ISBN 3-89323-303-2  (full book **[full book here](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf)**) 
+1.	Pombo, Olga (1987) **Leibniz and the Problem of a Universal Language**, Münster: Nodus Publikationen, 321 pp.  ISBN 3-89323-303-2  (full book **[here](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf)**) 
 2.	Pombo, Olga (1993) with Teresa Levy and Henrique Guimarães, **A Interdisciplinaridade: Reflexão e Experiência / Interdisciplinarity: Reflection and Experience**, Lisboa: Texto, 96 pp. ISBN 972-47-0462-9. (2nd revised and extended edition, 1994, 102 pp. ISBN 978-9724704623).
 3.	Pombo, Olga (1997) **Leibniz e o Problema de uma Língua Universal** (portuguese revised translation of “Leibniz and the Problem of a Universal Language”), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 320 pp. ISBN: 972-9493-29-4.
 4.	Pombo, Olga (2000) **[Quatro Textos Excêntricos. Hannah Arendt, Eric Weil, Bertrand Russell e Ortega Y Gasset](https://www.relogiodagua.pt/produto/quatro-textos-excentricos/) / Four Eccentric Texts**,  Lisboa: Relógio d'Água, 105 pp. ISBN: 9789727085699.
