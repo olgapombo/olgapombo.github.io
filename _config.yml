@@ -2,16 +2,17 @@ theme: jekyll-theme-minimal
 title: olga pombo webpage
 description: personal webpage
 
-remote_theme: "jekyll/minima@593a05a"
+remote_theme: "jekyll/minima@1e8a445"
 #remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-header_pages:
-  - curriculum.md
-  - interviews.md
-  - online_publications.md
-  - onlinetalks.md
-  - publications.md
-  - supervision.md
+minima:
+  nav_pages:
+    - curriculum.md
+    - interviews.md
+    - online_publications.md
+    - onlinetalks.md
+    - publications.md
+    - supervision.md
     
