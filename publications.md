@@ -47,13 +47,13 @@ DL: 56340/92.
 ISBN: 972-99794.2.1.
 6.	Olga Pombo; Alexander Gerner (eds.) (2007) **Abduction and the Process of Scientific Discovery**, Lisboa: CFCUL / Publidisa, series “Documenta”, vol. 1, 386 pp., ISBN: 264501/07.
 7.	Olga Pombo; Angel Nepomuceno (eds.) (2009) **Lógica e Filosofia da Ciência / Logic and Philosophy of Science**, Lisboa: CFCUL / CRUP, series “Documenta”, vol. 2, 283 pp., ISBN: 978-989-8247-00-1.
-8.	Olga Pombo; Silvia di Marco; Marco Pina (eds.) (2010) **Neuroaesthetics, Can Science explain Art?**,  Lisboa: Fim de Século,175 pp., ISBN: 9789727542765. 
-9.	Olga Pombo; Alexander Gerner (eds.) (2010) **Studies in Diagrammatology and Diagram Praxis**, London: College Publications, 224 pp., ISBN: 978-184-8900073.
-10.	Olga Pombo; Silvia di Marco (eds.) (2010) **As Imagens com que Ciência se Faz / Images with which Science is Done**, Lisboa: Fim de Século, 286 pp., ISBN: 978-972-754-279-6.
+8.	Olga Pombo; Silvia di Marco; Marco Pina (eds.) (2010) **[Neuroaesthetics, Can Science explain Art?](https://www.wook.pt/livro/neuroaesthetics-olga-pombo/10287054?srsltid=AfmBOopp7ynMsoHdUSpFQxPNycGY2psbDf3yEDV_OuNAqBCdKqSFKngA)**,  Lisboa: Fim de Século,175 pp., 
+ISBN: 9789727542765. 
+9.	Olga Pombo; Alexander Gerner (eds.) (2010) **[Studies in Diagrammatology and Diagram Praxis](https://www.amazon.com/Studies-Diagrammatology-Diagram-Praxis-Logic/dp/1848900074)**, London: College Publications, 224 pp., ISBN: 978-184-8900073.
+10.	Olga Pombo; Silvia di Marco (eds.) (2010) **[As Imagens com que Ciência se Faz](https://www.fnac.pt/As-Imagens-com-que-a-Ciencia-se-Faz-POMBO-OLGA-E-SILVIA-DI-MARCO/a341870) / Images with which Science is Done**, Lisboa: Fim de Século, 286 pp., ISBN: 978-972-754-279-6.
 11.	Olga Pombo (ed.) (2011) **Lógica Universal e Unidade da Ciência /Universal Logic and Unity of Science**, Lisboa: CFCUL,196 pp., ISBN: 978-989-8247-50-6.
 12.	Olga Pombo; Catarina Nabais; Cristina Tavares; Manuel Valente Alves; Marco Pina; Pedro Silva; Ricardo Santos; Silvia Di Marco (eds.) (2011) **CorpoIMAGEM - Representações do Corpo na Ciência e na Arte / BodyIMAGE - Body Representations in Science and Art**,  Lisboa: Ciência Viva, 27 pp. (catalogue).
-13.	Olga Pombo; John Symons; Juan Manuel Torres (eds.) (2011) **Otto Neurath and the Unity of Science**, Dordrecht/Heidelberg/ London/New York: Springer, 250 pp., ISBN: 978-94-007-0142-7. 
-DOI: 10.1007/978-94-007-0143-4 ; (see also <https://link.springer.com/book/10.1007/978-94-007-0143-4>)
+13.	Olga Pombo; John Symons; Juan Manuel Torres (eds.) (2011) **[Otto Neurath and the Unity of Science](<https://link.springer.com/book/10.1007/978-94-007-0143-4>)**, Dordrecht/Heidelberg/ London/New York: Springer, 250 pp., ISBN: 978-94-007-0142-7. ; DOI: 10.1007/978-94-007-0143-4
 14.	Olga Pombo; João Cord. (eds.) (2012) **As Cartas de Problemática de António Sérgio dirigidas a um grupo de jovens amigos, alunos e alunas da Faculdade de Ciências**,  Lisboa: Fim de Século, 228 pp.
 ISBN: 978-972-754-294-9.
 15.	Olga Pombo; Shahid Rahman; John Symons; Juan Manuel Torres (eds.) (2012) **Special Sciences and the Unity of Science**, Dordrecht/Heidelberg/London/New York: Springer, 299 pp.,
