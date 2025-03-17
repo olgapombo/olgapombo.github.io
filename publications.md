@@ -42,7 +42,7 @@
 2.	Olga Pombo; Teresa Levy; Henrique Guimarães; José Manuel Conceição (eds.) (1992) **Antologia II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 214 pp. 
 DL: 56340/92.
 3.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (2006) **Interdisciplinaridade. Antologia**, Porto: Campo das Letras, 303 pp.. ISBN: 989-625-042-1.
-4.	Olga Pombo; António Guerreiro; António Franco Alexandre (eds.) (2006) **Enciclopédia e Hipertexto /Encyclopaedia and Hypertext**, Lisboa: Editora Duarte Reis, 556 pp., ISBN: 972-8745-22-2.
+4.	Olga Pombo; António Guerreiro; António Franco Alexandre (eds.) (2006) **[Enciclopédia e Hipertexto](https://www.goodreads.com/book/show/13500237-enciclop-dia-e-hipertexto) /Encyclopaedia and Hypertext**, Lisboa: Editora Duarte Reis, 556 pp., ISBN: 972-8745-22-2.
 5.	Olga Pombo; Manuel Beirão; J. Cordovil (eds) (2006) **As Cartas de Problemática de António Sérgio**, series “Cadernos de Filosofia das Ciências”, vol. 3, Lisboa: CFCUL, 217 pp. 
 ISBN: 972-99794.2.1.
 6.	Olga Pombo; Alexander Gerner (eds.) (2007) **Abduction and the Process of Scientific Discovery**, Lisboa: CFCUL / Publidisa, series “Documenta”, vol. 1, 386 pp., ISBN: 264501/07.
@@ -55,7 +55,7 @@ ISBN: 9789727542765.
 12.	Olga Pombo; Catarina Nabais; Cristina Tavares; Manuel Valente Alves; Marco Pina; Pedro Silva; Ricardo Santos; Silvia Di Marco (eds.) (2011) **CorpoIMAGEM - Representações do Corpo na Ciência e na Arte / BodyIMAGE - Body Representations in Science and Art**,  Lisboa: Ciência Viva, 27 pp. (catalogue).
 13.	Olga Pombo; John Symons; Juan Manuel Torres (eds.) (2011) **[Otto Neurath and the Unity of Science](<https://link.springer.com/book/10.1007/978-94-007-0143-4>)**, Dordrecht/Heidelberg/ London/New York: Springer, 250 pp., ISBN: 978-94-007-0142-7. ; 
 DOI: 10.1007/978-94-007-0143-4
-14.	Olga Pombo; João Cord. (eds.) (2012) **As Cartas de Problemática de António Sérgio dirigidas a um grupo de jovens amigos, alunos e alunas da Faculdade de Ciências**,  Lisboa: Fim de Século, 228 pp.
+14.	Olga Pombo; João Cord. (eds.) (2012) **[As Cartas de Problemática de António Sérgio dirigidas a um grupo de jovens amigos, alunos e alunas da Faculdade de Ciências](https://www.wook.pt/livro/as-cartas-de-problematica-de-antonio-sergio-joao-luis-cordovil/12919296?srsltid=AfmBOoqVCu6OUqbVtb5FuKNhukGKdu7scGufScXSL3udOrRFRtxDrYg7)**,  Lisboa: Fim de Século, 228 pp.
 ISBN: 978-972-754-294-9.
 15.	Olga Pombo; Shahid Rahman; John Symons; Juan Manuel Torres (eds.) (2012) **[Special Sciences and the Unity of Science](https://link.springer.com/book/10.1007/978-94-007-2030-5)**, Dordrecht/Heidelberg/London/New York: Springer, 299 pp., ISBN: 978-94-007-2029-9.; 
 DOI: 10.1007/978-94-007-2030-5. 
@@ -63,12 +63,11 @@ DOI: 10.1007/978-94-007-2030-5.
 17.	Olga Pombo; António Guerreiro (eds.) (2012) **[Da Civilização da Palavra à Civilização da Imagem](https://www.wook.pt/livro/da-civilizacao-da-palavra-a-civilizacao-da-imagem-olga-pombo/15066641?srsltid=AfmBOooBxsXSn5EdbZrvIY7zDyYR_1v0fjyWqNypdDa_Zu3mSFwcY1YI) /From word civilization to Image Civilization**, Lisboa: Fim de Século, 186 pp., ISBN: 978-972-754-293-2.
 18.	Olga Pombo; Nuno Melim (eds.) (2013) **[Rousseau e as Ciências](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?1865764&cl=en) /Rousseau and the Sciences** , Lisboa: CFCUL, 222 pp., ISBN: 978-989-8247-63-6.
 19.	Olga Pombo; Nuno Nabais (eds.) (2013) **[O Lugar da Filosofia da Ciência na Universidade de Lisboa](https://www.amazon.com.br/lugar-filosofia-ci%C3%AAncia-universidade-lisboa/dp/9898247614) /The place of Philosophy of Science at the University of Lisbon**, Lisboa: CFCUL, 250 pp., ISBN: 978-989-8247-61-2.
-20.	Juan Redmond; Olga Pombo; Ángel Nepomuceno (eds) (2016) **Epistemology, Knowledge and the Impact of Interaction**, series “Logic, Epistemology, and the Unity of Science”, vol. 38, Switzerland: Springer International Publishing, 554 pp., ISBN: 978-3-319-26504-9  
-DOI: 10.1007/978-3-319-26506-3.
-21.	Olga Pombo; Gil Costa (eds.) (2016) **Philosophy of Science in the XXI Century: Challenges and Tasks**, Lisboa: CFCUL, 352 pp., ISBN: 978-989-8247-72-8.
+20.	Juan Redmond; Olga Pombo; Ángel Nepomuceno (eds) (2016) **[Epistemology, Knowledge and the Impact of Interaction](https://link.springer.com/book/10.1007/978-3-319-26506-3)**, series “Logic, Epistemology, and the Unity of Science”, vol. 38, Switzerland: Springer International Publishing, 554 pp., ISBN: 978-3-319-26504-9; DOI: 10.1007/978-3-319-26506-3.
+21.	Olga Pombo; Gil Costa (eds.) (2016) **Philosophy of Science in the XXI Century: Challenges and Tasks**, Lisboa: CFCUL, 352 pp., ISBN: 978-989-8247-72-8. (full book **[here](https://research.unl.pt/ws/portalfiles/portal/3352158/NunoFonseca.pdf)**)
 22.	Olga Pombo; Ricardo Santos (eds.) (2016) **Afinal, o que é a Ciência? Relatório de um Projecto**, Lisboa: Ciência Viva, 122 pp. ISBN: 978-989-8247-70-4.
 23.	Olga Pombo; Paulo Castro (eds.) (2017) **Debates da Filosofia da Ciência Contemporânea**, Lisboa: CFCUL, 392 pp., ISBN: 978-989-8247-75-9.
-24.	Olga Pombo (ed.) (2017) **Image in Science and Art**, Lisboa: Fim de Século, 231 pp. 
+24.	Olga Pombo (ed.) (2017) **[Image in Science and Art](https://www.wook.pt/livro/image-in-science-and-art-olga-pombo/23416273?srsltid=AfmBOopGcdI4udaOzItmaQJPAN2niamcpz5IJEAqtt0BA4fN1w0u9Mu4)**, Lisboa: Fim de Século, 231 pp. 
 ISBN: 978-972-574-286-4.
 25.	Olga Pombo (ed.) (2018) **Modelos e Imagens /Models and Images**, Lisboa: Fim de Século, 299 pp. 
 ISBN: 978-972-754-287-1.
