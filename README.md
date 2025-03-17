@@ -5,8 +5,8 @@
 
 * [Curriculum](curriculum.md)
 * [Publications](publications.md)
-* [Interviews /online, tv and radio, journals](interviews.md)
-* [Online Talks/Conferences](onlinetalks.md)
+* [Interviews](interviews.md)
+* [Talks/Conferences](onlinetalks.md)
 * [Research / Projects](/research/projects.md)
 * [Teaching / Doctor Program FCTAS](teaching_doctoral_program.md)
 * [Supervision](supervision.md)
