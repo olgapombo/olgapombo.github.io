@@ -55,7 +55,7 @@ ISBN: 9789727542765.
 12.	Olga Pombo; Catarina Nabais; Cristina Tavares; Manuel Valente Alves; Marco Pina; Pedro Silva; Ricardo Santos; Silvia Di Marco (eds.) (2011) **CorpoIMAGEM - Representações do Corpo na Ciência e na Arte / BodyIMAGE - Body Representations in Science and Art**,  Lisboa: Ciência Viva, 27 pp. (catalogue).
 13.	Olga Pombo; John Symons; Juan Manuel Torres (eds.) (2011) **[Otto Neurath and the Unity of Science](<https://link.springer.com/book/10.1007/978-94-007-0143-4>)**, Dordrecht/Heidelberg/ London/New York: Springer, 250 pp., ISBN: 978-94-007-0142-7. ; 
 DOI: 10.1007/978-94-007-0143-4
-14.	Olga Pombo; João Cord. (eds.) (2012) **[As Cartas de Problemática de António Sérgio dirigidas a um grupo de jovens amigos, alunos e alunas da Faculdade de Ciências](https://www.wook.pt/livro/as-cartas-de-problematica-de-antonio-sergio-joao-luis-cordovil/12919296?srsltid=AfmBOoqVCu6OUqbVtb5FuKNhukGKdu7scGufScXSL3udOrRFRtxDrYg7)**,  Lisboa: Fim de Século, 228 pp.
+14.	Olga Pombo; João Cord. (eds.) (2012) **As Cartas de Problemática de António Sérgio dirigidas a um grupo de jovens amigos, alunos e alunas da Faculdade de Ciências**,  Lisboa: Fim de Século, 228 pp.
 ISBN: 978-972-754-294-9.
 15.	Olga Pombo; Shahid Rahman; John Symons; Juan Manuel Torres (eds.) (2012) **[Special Sciences and the Unity of Science](https://link.springer.com/book/10.1007/978-94-007-2030-5)**, Dordrecht/Heidelberg/London/New York: Springer, 299 pp., ISBN: 978-94-007-2029-9.; 
 DOI: 10.1007/978-94-007-2030-5. 
@@ -69,7 +69,7 @@ DOI: 10.1007/978-94-007-2030-5.
 23.	Olga Pombo; Paulo Castro (eds.) (2017) **Debates da Filosofia da Ciência Contemporânea**, Lisboa: CFCUL, 392 pp., ISBN: 978-989-8247-75-9.
 24.	Olga Pombo (ed.) (2017) **[Image in Science and Art](https://www.wook.pt/livro/image-in-science-and-art-olga-pombo/23416273?srsltid=AfmBOopGcdI4udaOzItmaQJPAN2niamcpz5IJEAqtt0BA4fN1w0u9Mu4)**, Lisboa: Fim de Século, 231 pp. 
 ISBN: 978-972-574-286-4.
-25.	Olga Pombo (ed.) (2018) **Modelos e Imagens /Models and Images**, Lisboa: Fim de Século, 299 pp. 
+25.	Olga Pombo (ed.) (2018) **[Modelos e Imagens /Models and Images](https://www.wook.pt/livro/modelos-e-imagens-olga-pombo/21821748?utm_source=paginasautores&utm_campaign=wookacontece&utm_medium=wookacontece)**, Lisboa: Fim de Século, 299 pp. 
 ISBN: 978-972-754-287-1.
 26.	Olga Pombo; Ana Pato; Juan Redmond (eds) (2018) **Epistemologia, Lógica e Linguagem /Epistemology, Logic and Language**, Lisboa: CFCUL, Series “Documenta”, vol. 11, 189 pp., ISBN: 78-989-8247-78-0.
 27.	Olga Pombo; Catarina Nabais; Sara Fuentes (eds.) (2019), **CorpoIMAGEM. Representações do Corpo na Ciência e na Arte /BodyIMAGE - Body Representations in Science and Art**, Lisboa: Fim de Século, 249 pp. ISBN: 978-972-754-285-7
