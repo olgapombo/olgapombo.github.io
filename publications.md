@@ -59,7 +59,7 @@ ISBN: 978-972-754-293-2.
 18.	Olga Pombo; Nuno Melim (eds.) (2013) **[Rousseau e as Ciências](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?1865764&cl=en) /Rousseau and the Sciences** , Lisboa: CFCUL, 222 pp., ISBN: 978-989-8247-63-6.
 19.	Olga Pombo; Nuno Nabais (eds.) (2013) **[O Lugar da Filosofia da Ciência na Universidade de Lisboa](https://www.amazon.com.br/lugar-filosofia-ci%C3%AAncia-universidade-lisboa/dp/9898247614) /The place of Philosophy of Science at the University of Lisbon**, Lisboa: CFCUL, 250 pp., ISBN: 978-989-8247-61-2.
 20.	Juan Redmond; Olga Pombo; Ángel Nepomuceno (eds) (2016) **[Epistemology, Knowledge and the Impact of Interaction](https://link.springer.com/book/10.1007/978-3-319-26506-3)**, series “Logic, Epistemology, and the Unity of Science”, vol. 38, Switzerland: Springer International Publishing, 554 pp., ISBN: 978-3-319-26504-9; DOI: 10.1007/978-3-319-26506-3.
-21.	Olga Pombo; Gil Costa (eds.) (2016) **Philosophy of Science in the XXI Century: Challenges and Tasks**, Lisboa: CFCUL, 352 pp., ISBN: 978-989-8247-72-8. (full book **[here](https://research.unl.pt/ws/portalfiles/portal/3352158/NunoFonseca.pdf)**)
+21.	Olga Pombo; Gil Costa (eds.) (2016) **Philosophy of Science in the XXI Century: Challenges and Tasks**, Lisboa: CFCUL, 352 pp., ISBN: 978-989-8247-72-8. (**full book [here](https://research.unl.pt/ws/portalfiles/portal/3352158/NunoFonseca.pdf)**)
 22.	Olga Pombo; Ricardo Santos (eds.) (2016) **Afinal, o que é a Ciência? Relatório de um Projecto**, Lisboa: Ciência Viva, 122 pp. ISBN: 978-989-8247-70-4.
 23.	Olga Pombo; Paulo Castro (eds.) (2017) **Debates da Filosofia da Ciência Contemporânea**, Lisboa: CFCUL, 392 pp., ISBN: 978-989-8247-75-9.
 24.	Olga Pombo (ed.) (2017) **[Image in Science and Art](https://www.wook.pt/livro/image-in-science-and-art-olga-pombo/23416273?srsltid=AfmBOopGcdI4udaOzItmaQJPAN2niamcpz5IJEAqtt0BA4fN1w0u9Mu4)**, Lisboa: Fim de Século, 231 pp. ISBN: 978-972-574-286-4.
@@ -70,7 +70,7 @@ ISBN: 978-972-754-293-2.
 DOI: https://doi.org/10.1075/cvs.16
 29.	Olga Pombo (ed.) (2021),  **[Ciência, Racionalidade e Política. Ensaios (in)Atuais](https://www.aletheia.pt/collections/livros/products/ciencia-racionalidade-e-politica-ensaios-inatuais) /Science, Rationality and Politics. (In)Actual Essays**, Lisboa: Aletheia, ISBN: 978-989-8906.
 30.	Olga Pombo (ed.) (2021), **Regresso ao Protágoras, de Platão / Return to Plato's Protagoras**.  Lisboa: Mariposa Azul, 227 pp.; ISBN:978-972-8481-70-4
- (full book **[here](https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/Prota%CC%81goras_OP_2021.pdf)**) 
+ (**full book [here](https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/Prota%CC%81goras_OP_2021.pdf)**) 
 31.	Olga Pombo, Klaus Gaertner, Jorge Jesuíno (eds.) (2023), **[Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century](https://link.springer.com/book/10.1007/978-3-031-20405-0)**, Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, 309 pp. ISBN: 978-3-031-20404-3; DOI: https://doi.org/10.1007/978-3-031-20405-0.
 
 
