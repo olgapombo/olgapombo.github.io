@@ -77,8 +77,8 @@ DOI: https://doi.org/10.1075/cvs.16
 ## Chapters
 
 
-1.	Pombo, Olga (1979), “Biobibliografia de Jean-Jacques Rousseau" / Bibliography of Jean Jacques Rousseau), in Jean-Jacques Rousseau. Uma Exposição, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44.
-2.	Pombo, Olga, (1988), “Notas sobre as Instituições da Filosofia”, in A Filosofia face à Cultura Tecnológica, edited by Adelino Cardoso, Coimbra: Associação de Professores de Filosofia, pp. 71-89. 
+1.	Pombo, Olga (1979), **“Biobibliografia de Jean-Jacques Rousseau" / Bibliography of Jean Jacques Rousseau)**, in *Jean-Jacques Rousseau. Uma Exposição*, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44.
+2.	Pombo, Olga, (1988), “**Notas sobre as Instituições da Filosofia**”, in *A Filosofia face à Cultura Tecnológica*, edited by Adelino Cardoso, Coimbra: Associação de Professores de Filosofia, pp. 71-89. 
 3.	Pombo, Olga (1988), “Leibnizian Strategies for the Semantical Foundation of the Universal Language”, in Leibniz, Tradition und Aktualitat. V. Internationaler Leibniz-Kongress, vol. 1, edited by Ernest Albrecht, Hannover: Gottfried-Wilhelm Leibniz-Gesellschaft, pp. 753-760. ISBN: 3-9800978-2-X 
 4.	Pombo, Olga (1990), “Dilema do Ensino da Filosofia”, in Didáctica da Filosofia, vol. 2, edited by Isabel Marnoto, Lisboa: Universidade Aberta, pp. 7-30. ISBN: 9726740282
 5.	Pombo, Olga (1990), “The Leibnizian Theory of Representativity of the Sign”, in History and Historiography of Linguistics, vol. II, edited by Hans-Joseph Niederehe; Konrad Koerner, Amsterdam/Philadelphia: John Benjamins Publishing Company, pp. 447-59, “Studies in the History of the Language Sciences”. DOI: https://doi.org/10.1075/sihols.51.2.06pom
