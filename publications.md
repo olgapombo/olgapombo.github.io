@@ -3,6 +3,7 @@
 ## Online publications
 
 * [**Protagoras**](./protagoras/index/index2.htm)
+* [**Enciclopaedia and Hypertext**](https://arquivo.pt/wayback/20091224030154/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p2/genero.htm#1.2.10)
   
 * **Lisbon Center for Image in Science and Art (CISA)** - Image platform and archive intending to question the philosophical, scientific and artistic nature of image (2008) 
 
