@@ -2,9 +2,9 @@
 
 ## Online publications
 
-* [**Protagoras**](./protagoras/index/index2.htm)
 * [**Encyclopaedia and Hypertext**](https://arquivo.pt/wayback/20091224030154/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p2/genero.htm#1.2.10)
-* **[Protagoras novo](https://arquivo.pt/wayback/20140930093038/http://www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm)**
+ 
+* **[Protagoras](https://arquivo.pt/wayback/20140930093038/http://www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm)**
   
 * **[Lisbon Center for Image in Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)** - Image platform and archive intending to question the philosophical, scientific and artistic nature of image (2008) 
 
