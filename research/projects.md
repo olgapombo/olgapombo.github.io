@@ -23,7 +23,7 @@
 *	[**Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain**](https://www.templeton.org/grant/implementing-the-extended-synthesis-in-evolutionary-biology-into-the-sociocultural-domain(APPEEL)), John Templeton Foundation International Research Project (coordination of Nathalie Gontier and Olga Pombo), (2012).
 * [**Lisbon Applied Evolutionary Epistemology Lab**](https://ciencias.ulisboa.pt/pt/noticia/07-02-2013/appeel-applied-evolutionary-epistemology-lab), CFCUL research project (coordination of Nathalie Gontier and Olga Pombo), (2012-2016). 
 * **Abduction and Scientific Discovery**, <http://cfcul.fc.ul.pt/projectos/abducao/abducao.htm>, CFCUL research project  (2013). 
-* [**Afinal o que é a Ciência? / After all, what is Science?**](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project, (2013-2014).
+* [**Afinal o que é a Ciência? / After all, what is Science?**](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project, (2013-2014). (**More information [here](https://arquivo.pt/wayback/20240112200715/https://ciencia13-14.fc.ul.pt/?)**)
 * **Unity of Science**,  head of the CFCUL Research Group (2013-2015).
 * **Epistemology and Methodology**, head of the CFCUL Research Group (2015-3/2016).
 * [**Unity of Science and Interdisciplinarity**](http://uci.fc.ul.pt), head of the CFCUL Thematic Line (2015-2016).
