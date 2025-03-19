@@ -196,7 +196,8 @@ Pombo, Olga (2013), **“Encyclopedia”**, in *Encyclopedia of Philosophy and t
 2.	Pombo, Olga et alii (2024), [**“On the Concept of Resistance. Editorial”**](https://journals.ku.edu/aion/article/view/23014/20807), *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. https://journals.ku.edu/aion/article/view/23014/20807
 3.	Pombo, Olga et alii (2024), **“A fotografia entre a Ciência, a Arte e a Filosofia”**, *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16
 https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891
-4.	Pombo, Olga (2021), **“Curiosity and Science /Curiosidade e Ciência”**, *Electra (bilingue)*, nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0
+4.	Pombo, Olga (2021), **“Curiosity and Science /Curiosidade e Ciência”**, *Electra (bilingue)*, nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0, 
+Doi: https://doi.org/10.5216/lahrs.v1.70672
 5.	Pombo, Olga (2021), **“Interdisciplinaridade”**, *Latin American Human Rights Studies (LAHRS)*, nº 1. ISNN: 2763-8162 <https://www.revistas.ufg.br/lahrs>
 6.	Pombo, Olga (2021), **“Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania”**, *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162 
 https://revistas.ufg.br/lahrs/article/view/69398/36782 (full article **here**)
