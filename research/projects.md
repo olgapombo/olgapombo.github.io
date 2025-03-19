@@ -14,7 +14,7 @@
 * [**From Encyclopedia to Hypertext**](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/), FCT Research Project, POCTI/FIL/36357/2000 (1999-2002). 
 *  [**Scientific Culture. Conceptual Migrations and Social Contaminations**](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/)  FCT Research Project, POCTI/FIL/48133/2002 (2003-2006). 
 * **Bachelard. Science and Poetics**, CFCUL Research Project  (2006-2009).
-*  [**Image in Science and Art**](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/), FCT International Research Project, PTDC/EAT/64201/2006, (2007-2012).
+*  [**Image in Science and Art**](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/), FCT International Research Project, PTDC/EAT/64201/2006, (2007-2012). **More info [here](https://arquivo.pt/wayback/20140926170450/http://ica.fc.ul.pt/)**
 *  [**Universal Logics and Unity of Science**](<https://cfcul.ciencias.ulisboa.pt/projectos/logica-universal-e-unidade-da-ciencia/>),  International Research Project (CFCUL/University of Sevilla), CRUP-Acções integradas (2008-2010).
 * **Abduction and Scientific Discovery**,  International Research Project  (CFCUL/Madrid Complutense University), CRUP-Acções integradas, (2010-2012).
 *  [**Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention**](https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/) , International Research Project (CFCUL / University of Sevilla), CRUP-Acções integradas, (2012-2013). 
