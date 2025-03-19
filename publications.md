@@ -265,11 +265,39 @@ ISSN: 0870-7642.
 * Pombo, Olga (1991), **Agostinho da Silva, ‘Educação de Portugal’**, Revista de Educação, vol. II, n.º 1, Lisboa: DEFCUL, pp. 110-115.
 * Pombo, Olga (1984), **Herbert H. Knecht. ‘La Logique chez Leibniz’**, Análise, nº 1, Lisboa, Gec, pp. 231-239.
 
+## Journal guest editor
+* Pombo, Olga (2015), Axiomathes, Special Issue I, "Introduction to the special issue Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference", Axiomathes, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), Kairos, vol. 4 - Dossier: Leibniz, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", Kairos. Journal of Philosophy & Science, 4, May, pp. 119-151. ISSN (print): 2182-2824
+
+
+## Scholar brochures
+
+* Olga Pombo; Teresa Levy; Henrique Guimarães (eds.), (1990) **Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**, Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
+* Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1991), **Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**, Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
+* Olga Pombo (ed.) (1994), **McLuhan. A Escola e os Media** (anthology of texts by M. McLuhan, translated and prefaced), 1º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 73 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno1
+* Olga Pombo (ed.) (1995), **Dois Textos sobre Educação. Hannah Arendt e Eric Weil** (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 2º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 48 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno2
+* Olga Pombo (ed.) (1996), **A Invenção da Escola na Grécia. Materiais de Estudo** (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 3º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 81 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno3
+* Olga Pombo (ed) (1997), **Museu de Alexandria**, 4º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 87 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno4
+* Olga Pombo (ed.) (1997), **Utopia e Educação** (anthology of texts translated and commented), 5º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 160 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno5
+* Olga Pombo (ed.) (2001), **Educar / Ensinar. Materiais de estudo** (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), 6º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 84 pp.http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno6
+* Olga Pombo (ed.) (2005), **Três Textos sobre Educação para um Mundo Difícil: Bertrand Russell e Ortega Y Gasset** (anthology with introduction and revised translation), 7º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 40 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno7
+
+
+## Publications at exhibition
+
+* Pombo, Olga (2019), **A Bioarte de Isa Duarte Ribeiro**, (per)cursos exhibition by Isa Duarte Ribeiro, Mora: Casa da Cultura.
+* Pombo, Olga (2004), **From Thomas More to Rousseau**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
+* Pombo, Olga (2004), **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
+Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
+* Pombo, Olga (2003), **Enciclopédia, Hipertexto e Condição Humana**, A Condição Humana exhibition by Rodrigo Vilhena, Lisboa.
+* Pombo, Olga (1996), **Nenhum Vento**, Olhares Soltos exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
+
+
 
 ## Preprints
 
 * **Filosofia e práticas discursivas no Protágoras de Platão**
-* **Argumento e racionalidade no Protágoras de Platão**
+* Argumento e racionalidade no Protágoras de Platão
 * **A infinitude da queda no 'Teeteto' de Platão**
 
 * **Por que é que Rousseau não é um utopista mas parece?**
@@ -278,16 +306,14 @@ ISSN: 0870-7642.
 
 * Da classificação dos seres à classificação dos saberes 
 * **As ciências das formas e as formas das ciências** 
-* Cartografias do conhecimento
-* **Desafios contemporaneos da cartografia dos conhecimentos**
+* **Cartografias do conhecimento e desafios contemporaneos**
 * **Mapas disciplinares e cartografias do saber**
 * **O valor cognitivo da árvore**
 * O círculo dos saberes 
 * A ciência e as ciências
 * Interdisciplinaridade
 
-* **Da civilização da palavra à civilização da imagem**
-* O meio é a mensagem
+* Da civilização da palavra à civilização da imagem
 * **Magia e esplendor dos livros**
 * O livro como extravagância
 * **Oralidade, escrita e tecnologia**
@@ -309,9 +335,9 @@ ISSN: 0870-7642.
 * **Filosofia e matemática – Da mathesis universalis a Lewis Carroll**
 * **Filosofia, matemática e língua natural**
 * Concepções de intuição na filosofia da matemática de Poincaré, 
-* **Razão e computação**
-* **O que é isso do pensamento cego?**
 
+* **Razão e computação. O contributo de Leibniz**
+* **O que é isso do pensamento cego?**
 * Leibniz e a ideia de máquina matemática,
 * **O Lugar de Leibniz na História da Lógica**,
 * **Por que não somos ainda leibnizianos**
@@ -324,7 +350,7 @@ ISSN: 0870-7642.
 * Curiosidade
 * **Mistérios da Criação**
 * **Para uma Cartografia do Conceito de Criação**
-* On creation in science and art
+* **On creation in science and art**
 * **Ciência e Arte (interacções, aproximações e distancias)**
 * **Science and art. Variations upon a common ground**
 * **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**
@@ -336,3 +362,6 @@ ISSN: 0870-7642.
 * Darwin e a ilustração cientifica
 
 * **Crianças selvagens**
+
+______________________________________
+
