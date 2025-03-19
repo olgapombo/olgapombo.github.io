@@ -180,9 +180,9 @@ ISBN: 978-972-8481-70-4
 92. Pombo, Olga (2021), **“Apresentação”**, in Pombo, Olga, *Interdisciplinaridade: Ambições e limites (2nd Editions)*, Lisboa: Aletheia, pp. 9-15. ISBN: 978-989-8906-94-6
 93. Pombo, Olga (2022), **“Men and Citizens. Actual Consequences of an Unconventional Distinction established by Rousseau”**, in *In Difesa dell'Umano. Problemi e Prospettive*, edited by L. Boi; U. Curi; L. Maffei; L. Miraglia, Frascati-Napoli: Edizioni Accademia Vivarium Novum - Bibliopolis, 2 vols, pp: 265-279. ISBN: 9788887637533
 94. Pombo, Olga (2023), **“The Fundamental Cognitive Destiny of Interdisciplinarity”**, in *[Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century](https://books.google.pt/books/about/Theory_and_Practice_in_the_Interdiscipli.html?id=td2mEAAAQBAJ&redir_esc=y)*, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino (eds.), Dordrecht /Heidelberg/London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. 3-58. ISBN: 978-3-031-20404-3 (**more info [here](https://philpapers.org/rec/POMTAP)**)
-95. 	Pombo, Olga (2023), “Signs of Interdisciplinarity in the second half of XX century and Prospects for the XXI Century”, in Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/Heidelberg/London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. 241-299. ISBN: 978-3-031-20404-3 (**more info [here](https://philpapers.org/rec/POMTAP)**)
-96. 	Pombo, Olga; Gaertner, Klaus; Jesuino, Jorge (2023), “Introduction”, in Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/ Heidelberg/ London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. ix-xvi. ISBN: 978-3-031-20404-3.
-97. 	Pombo, Olga, “For a cartography of the concept of creation”, in Nuno Proença (ed.), Invention and Imagination, Proceedings of the conference organized by CHAM, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming).
+95. 	Pombo, Olga (2023), **“Signs of Interdisciplinarity in the second half of XX century and Prospects for the XXI Century”**, in *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century*, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/Heidelberg/London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. 241-299. ISBN: 978-3-031-20404-3 (**more info [here](https://philpapers.org/rec/POMTAP)**
+96. 	Pombo, Olga; Gaertner, Klaus; Jesuino, Jorge (2023), “Introduction”, in *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century*, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/ Heidelberg/ London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. ix-xvi. ISBN: 978-3-031-20404-3.
+97. 	Pombo, Olga, **“For a cartography of the concept of creation”**, in Nuno Proença (ed.), *Invention and Imagination*, Proceedings of the conference organized by CHAM, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming).
 
 
 ## Encyclopaedia Entries
@@ -192,15 +192,12 @@ Pombo, Olga (2013), **“Encyclopedia”**, in *Encyclopedia of Philosophy and t
 
 ## Articles
   
-1.	Pombo, Olga (2024), **"Science et École chez Bachelard.  Discontinuité et Nouveauté"**, *Bachelard Studies / Études Bachelardiennes / Studi Bachelardiani*, nº 8, 1, 77-91, pp. 77-91. ISSN: 2724-5470, 
-ISBN: 9791222317328, DOI: 10.7413/2724-5470100. 
-2.	Pombo, Olga et alii (2024), **“On the Concept of Resistance. Editorial Introduction”**, *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. 
-https://journals.ku.edu/aion/article/view/23014/20807
+1.	Pombo, Olga (2024), **"Science et École chez Bachelard.  Discontinuité et Nouveauté"**, *Bachelard Studies / Études Bachelardiennes / Studi Bachelardiani*, nº 8, 1, 77-91, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, DOI: 10.7413/2724-5470100. 
+2.	Pombo, Olga et alii (2024), **“On the Concept of Resistance”**, [*Aion. Journal of Philosophy and Science*]( https://journals.ku.edu/aion/article/view/23014/20807), nº1, pp. 1-5. https://journals.ku.edu/aion/article/view/23014/20807
 3.	Pombo, Olga et alii (2024), **“A fotografia entre a Ciência, a Arte e a Filosofia”**, *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16
 https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891
 4.	Pombo, Olga (2021), **“Curiosity and Science /Curiosidade e Ciência”**, *Electra (bilingue)*, nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0
-5.	Pombo, Olga (2021), **“Interdisciplinaridade”**, *Latin American Human Rights Studies (LAHRS)*, nº 1.
-ISNN: 2763-8162 <https://www.revistas.ufg.br/lahrs>
+5.	Pombo, Olga (2021), **“Interdisciplinaridade”**, *Latin American Human Rights Studies (LAHRS)*, nº 1. ISNN: 2763-8162 <https://www.revistas.ufg.br/lahrs>
 6.	Pombo, Olga (2021), **“Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania”**, *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162 
 https://revistas.ufg.br/lahrs/article/view/69398/36782 (full article **here**)
 <https://www.revistas.ufg.br/lahrs/article/view/69398>  (journal with the article pdf)
