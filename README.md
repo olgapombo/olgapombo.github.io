@@ -6,7 +6,7 @@
 * [Publications](publications.md)
 * [Interviews](interviews.md)
 * [Talks/Conferences](onlinetalks.md)
-* [Preprtins](preprints.md)
+* [Preprints](preprints.md)
 * [Research / Projects](/research/projects.md)
 * [Teaching / Doctoral Program FCTAS](teaching_doctoral_program.md)
 * [Supervision](supervision.md)
