@@ -186,17 +186,6 @@ ISBN: 978-972-8481-70-4
 97.	Pombo, Olga, “**For a cartography of the concept of creation**”, in Nuno Proença (ed.), *Invention and Imagination*, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming).
 
 
-
-
-
-
-
-
-95. 	Pombo, Olga (2023), **“Signs of Interdisciplinarity in the second half of XX century and Prospects for the XXI Century”**, in *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century*, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/Heidelberg/London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. 241-299. ISBN: 978-3-031-20404-3 (**more info [here](https://philpapers.org/rec/POMTAP)**
-96. 	Pombo, Olga; Gaertner, Klaus; Jesuino, Jorge (2023), “Introduction”, in *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century*, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/ Heidelberg/ London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. ix-xvi. ISBN: 978-3-031-20404-3.
-97. 	Pombo, Olga, **“For a cartography of the concept of creation”**, in Nuno Proença (ed.), *Invention and Imagination*, Proceedings of the conference organized by CHAM, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming).
-
-
 ## Encyclopaedia Entries
 
 Pombo, Olga (2013), **“Encyclopedia”**, in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257. DOI: http://dx.doi.org/10.4135/9781452276052
