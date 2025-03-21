@@ -5,6 +5,7 @@
 * [Curriculum](curriculum.md)
 * [Publications](publications.md)
 * [Interviews](interviews.md)
+* [Preprints](preprints.md)
 * [Talks/Conferences](onlinetalks.md)
 * [Preprints](preprints.md)
 * [Research / Projects](/research/projects.md)
