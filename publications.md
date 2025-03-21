@@ -206,7 +206,8 @@ https://revistas.ufg.br/lahrs/article/view/69398/36782 (full article **here**)
 8.	Pombo, Olga (2020), **“Leibniz and the Idea of Universal Machine”**, *Mana Platform*, <https://mana.net/12861> 
 9.	Pombo, Olga (2019), **“Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte”**, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. DOI https://doi.org/10.17990/RPF/2019_75_4_2155
 10.	Pombo, Olga (2018), **“Dilemas de la Ensenhanza de la Filosofia”** (Dilemmas of Teaching Philosophy”), *ArteFaCTos. Revista de Estudios sobre la Ciência y la Tecnologia*, Salamanca, Spain, vol. 7, nº 1, April, pp. 175-190. DOI: http://dx.doi.org/10.14201/art201871175190.
-11.	Pombo, Olga (2015), **"Introduction to the special issue Metaphysical and Epistemological Challenges"**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). DOI: 10.1007/s10516-014-9264-5
+11.	Pombo, Olga (2015), **"Introduction to the Axiomates special issue Metaphysical and Epistemological Challenges"**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). 
+DOI: 10.1007/s10516-014-9264-5
 12.	Pombo, Olga (2014), **"Dispersão e Unidade: Para uma Poética da Simpatia"**, *Caderno Escolar*, Lisboa:  Escola Vitorino Nemésio, nº 13-14, 1: 30-41 (reprint). 
 13.	Pombo, Olga (2013),**”Epistemología de la Interdisciplinariedad. La Construcción de un nuevo Modelo de Comprensión”**, *Interdisciplina*, Mexico, vol. 1, nº 1, pp. 21-50.
 DOI: http://dx.doi.org/10.22201/ceiich.24485705e.2013.1.46512
@@ -220,14 +221,14 @@ DOI:http://dx.doi.org/10.11606/; ISSN.2178-2075.v2i1p16-30
 20.	Pombo, Olga (2009), **“Linguagem e Conhecimento em Leibniz”**, *O que nos faz Pensar. Cadernos do Departamento de Filosofia da PUC*, Rio de Janeiro, Brazil, nº 26, pp. 9-29. ISSN: 0104-6675 
 21.	Pombo, Olga (2008), **“Epistemologia da Interdisciplinaridade**, *Ideação, Revista do Centro de Educação e Letras*, vol. 10, nº 1, Foz do Iguaçu: Edunioeste, Brazil, pp. 09-40. 
 DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
-22.	Pombo, Olga (2008), **“Elogio da Transmissão”**, *Pensar a Escola*, nº 6, Lisboa: Escola Vitorino Nemésio, pp. 29-36. 
-https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/elogiodatransmissao.pdf (full article **here**)
+22.	Pombo, Olga (2008), **“Elogio da Transmissão”**, *Pensar a Escola*, nº 6, Lisboa: Escola Vitorino Nemésio, pp. 29-36. ttps://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/elogiodatransmissao.pdf 
+(full article **here**)
 23.	Pombo, Olga (2007), **“A Escola como Memória do Futuro”**, *Revista Convergência Lusíada,  23, Número Especial. Centenário de Agostinho da Silva (1906-2006)*, Real Gabinete Português de Leitura do Rio de Janeiro, Brazil, pp. 281-291. ISNN: 1414-0381 
-24.	Pombo, Olga (2006), **“Práticas Interdisciplinares”**, *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249. 
-ISSN: 1517-4522
-25.	Pombo, Olga (2006), **“Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”**, *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. ISSN: 1665-3319.
+24.	Pombo, Olga (2006), **“Práticas Interdisciplinares”**, *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249.ISSN: 1517-4522
+25.	Pombo, Olga (2006), **“Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”**, *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. 
+ISSN: 1665-3319.
 26.	Pombo, Olga (2005), **“Interdisciplinaridade e Integração dos Saberes”**, *LIINC em Revista*, Brazil, vol. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186
-https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf (full article)
+ (**full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf)**)
 27.	Pombo, Olga (2005), **“A Escola como Memória”**, *Pensar a Escola*, nº 1, Lisboa: Escola Vitorino Nemésio, pp. 33-43.
 28.	Pombo, Olga (com Rui Canario)**“Ivan Illich - Um Visionário que é Preciso Reler**, *Aprender ao Longo da Vida*, nº 4 (May 2005), pp. 40-47 
 <http://www.direitodeaprender.com.pt/artigos/ivan-illich-um-visionario-que-e-preciso-reler>
@@ -266,8 +267,8 @@ ISSN: 0870-7642.
 * Pombo, Olga (1984), **Herbert H. Knecht. ‘La Logique chez Leibniz’**, Análise, nº 1, Lisboa, Gec, pp. 231-239.
 
 ## Journal guest editor
-* Pombo, Olga (2015), Axiomathes, Special Issue I, "Introduction to the special issue Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference", Axiomathes, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-* Pombo, Olga (2012), Kairos, vol. 4 - Dossier: Leibniz, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", Kairos. Journal of Philosophy & Science, 4, May, pp. 119-151. ISSN (print): 2182-2824
+* Pombo, Olga (2015), **Axiomathes, Special Issue - Metaphysical and Epistemological Challenges**: Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), **Kairos. Journal of Philosophy & Science - Dossier Leibniz**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824
 
 
 ## Scholar brochures
@@ -293,75 +294,4 @@ Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearan
 * Pombo, Olga (1996), **Nenhum Vento**, Olhares Soltos exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
 
-
-## Preprints
-
-* **Filosofia e práticas discursivas no Protágoras de Platão**
-* Argumento e racionalidade no Protágoras de Platão
-* **A infinitude da queda no 'Teeteto' de Platão**
-
-* **Por que é que Rousseau não é um utopista mas parece?**
-* **Homens ou cidadãos. Rousseau e os direitos humanos**
-* Imigrantes, estrangeiros e cidadãos. A partir de Rousseau, Hannah Arendt e Bertrand Russell
-
-* Da classificação dos seres à classificação dos saberes 
-* **As ciências das formas e as formas das ciências** 
-* **Cartografias do conhecimento e desafios contemporaneos**
-* **Mapas disciplinares e cartografias do saber**
-* **O valor cognitivo da árvore**
-* O círculo dos saberes 
-* A ciência e as ciências
-* Interdisciplinaridade
-
-* Da civilização da palavra à civilização da imagem
-* **Magia e esplendor dos livros**
-* O livro como extravagância
-* **Oralidade, escrita e tecnologia**
-* **A leitura no mundo de ontem e no mundo de amanhã**
-
-* **Os lugares da ciência e da filosofia**
-* O insuportável brilho da Escola 
-* A escola, a recta e o circulo
-* A Matemática e o Trabalho de 'Dar a Ver'
-* **Da universidade medieval a´ universidade mundial electrónica** 
-* **Escolas, museus e bibliotecas**
-* Elogio da transmissão.
-* **Mais passado para o futuro; mais futuro para o passado**
-
-* **De Plínio à internet / Enciclopédia e internet**
-* Diderot, D'Alembert e o Movimento Enciclopedista
-* Otto Neurath. Uma Comovente Figura de Filósofo do século XX
-
-* **Filosofia e matemática – Da mathesis universalis a Lewis Carroll**
-* **Filosofia, matemática e língua natural**
-* Concepções de intuição na filosofia da matemática de Poincaré, 
-
-* **Razão e computação. O contributo de Leibniz**
-* **O que é isso do pensamento cego?**
-* Leibniz e a ideia de máquina matemática,
-* **O Lugar de Leibniz na História da Lógica**,
-* **Por que não somos ainda leibnizianos**
-* Three Roots for Leibniz's Contribution to the Computational Conception of Reason
-* Natural Language and Philosophical Language. Nationalism and Universalism in Leibniz's position on the German language
-
-* **Ciencia, tecnociencia e pseudo ciencia** 
-* Bachelard et la Cité Savante
-* **Descontinuidade e novidade em Bachelard**
-* Curiosidade
-* **Mistérios da Criação**
-* **Para uma Cartografia do Conceito de Criação**
-* **On creation in science and art**
-* **Ciência e Arte (interacções, aproximações e distancias)**
-* **Science and art. Variations upon a common ground**
-* **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**
-* **Model’ s nearness to the work of art**
-* Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte,
-* **A imagem na ciencia e e na arte** 
-* As imagens com que a ciência se faz
-* **Imagem e diagrama**
-* Darwin e a ilustração cientifica
-
-* **Crianças selvagens**
-
-______________________________________
 
