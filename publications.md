@@ -230,8 +230,7 @@ ISSN: 1665-3319.
 26.	Pombo, Olga (2005), **“Interdisciplinaridade e Integração dos Saberes”**, *LIINC em Revista*, Brazil, vol. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186
  (**full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf)**)
 27.	Pombo, Olga (2005), **“A Escola como Memória”**, *Pensar a Escola*, nº 1, Lisboa: Escola Vitorino Nemésio, pp. 33-43.
-28.	Pombo, Olga (com Rui Canario)**“Ivan Illich - Um Visionário que é Preciso Reler**, *Aprender ao Longo da Vida*, nº 4 (May 2005), pp. 40-47 
-<http://www.direitodeaprender.com.pt/artigos/ivan-illich-um-visionario-que-e-preciso-reler>
+28.	Pombo, Olga (com Rui Canario)**“Ivan Illich - Um Visionário que é Preciso Reler**, *Aprender ao Longo da Vida*, nº 4 (May 2005), pp. 40-47 <http://www.direitodeaprender.com.pt/artigos/ivan-illich-um-visionario-que-e-preciso-reler>
 https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illich%20finalolga.pdf (full article **here**)
 29.	Pombo, Olga (2002), **“Vid klasyfikaciji buttia do klasyfikaciji znattia”** (From the Classification of Beings to the Classification of Knowledge), Ucranian translation by Serghii Wakulenko, *Zbirnyk Xarkivs'koho istoryko-filolohičnoho tovarystva*, Karkiv, Ucrain, vol. IX: pp. 33-52.  ISBN: 966-95465-8-3
 30.	Pombo, Olga (2001), **“Notas de Leitura à Margem de uma Antologia”**, *Philosophica* nº 16, DF-FLUL, Lisboa, pp. 135-140. ISSN: 0872-4784
@@ -250,8 +249,7 @@ https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illi
 43.	Pombo, Olga (1991), **“Nas Origens da Semiologia: a Teoria do Pensamento Cego em Leibniz”**, *Argumento*, vol. I, n. 1, Lisboa: Cosmos, pp. 17-25. ISSN: 0871-7494.
 44.	Pombo, Olga (1991), **"Do Texto no Ensino da Filosofia:  Algumas Questões"**, *Boletim Informativo*, nº 15, Lisboa: Ministério da Educação e Cultura, pp. 13-23.
 45.	Pombo, Olga (1990), **“Comparative lines between Leibniz's Theory of Language and Spinoza's Reflexions on Language Themes”**, *Studia Spinozana*, Konigshausen & Neumann, Germany, vol. 6, pp. 147-177. ISSN: 0179-3896
-46.	Pombo, Olga (1989), **“Eticidade / Racionalidade na Comunicação e Ensino do Conhecimento Científico”**, *CTS. Revista de Ciência, Tecnologia e Sociedade*, Lisboa: Associação de Ciência e Tecnologia para o Desenvolvimento, n.º 10 (Ética e Investigação Científica), October/December, pp. 76-81. 
-ISSN: 0870-7642. 
+46.	Pombo, Olga (1989), **“Eticidade / Racionalidade na Comunicação e Ensino do Conhecimento Científico”**, *CTS. Revista de Ciência, Tecnologia e Sociedade*, Lisboa: Associação de Ciência e Tecnologia para o Desenvolvimento, n.º 10 (Ética e Investigação Científica), October/December, pp. 76-81. ISSN: 0870-7642. 
 47.	Pombo, Olga (1986), **“A Função Exemplar na ‘IX Carta de Problemática’ de António Sérgio”**, *Revista de Educação*, n.º 1, Lisboa: DEFCUL, pp. 97-99. 
 48.	Pombo, Olga (1985), **“Linguagem e Verdade em Hobbes”**, *Filosofia* n.º 1, Lisboa: Gec, pp. 45-61. 
 49.	Pombo, Olga (1985), **“Mudar a Escola, Mudar a Educação”**, *Animador* n.º 1, Lisboa: MAD, pp. 12-16. DL: 2859 13/4/84
@@ -267,8 +265,8 @@ ISSN: 0870-7642.
 * Pombo, Olga (1984), **Herbert H. Knecht. ‘La Logique chez Leibniz’**, Análise, nº 1, Lisboa, Gec, pp. 231-239.
 
 ## Journal guest editor
-* Pombo, Olga (2015), **Axiomathes, Special Issue - Metaphysical and Epistemological Challenges**: Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-* Pombo, Olga (2012), **Kairos. Journal of Philosophy & Science - Dossier Leibniz**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824
+* Pombo, Olga (2015), **[Axiomathes, Special Issue - Metaphysical and Epistemological Challenges](https://www.researchgate.net/publication/279325568_Metaphysical_and_Epistemological_Challenges_special_issue)**: Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), **[Kairos. Journal of Philosophy & Science](https://kairos.campus.ciencias.ulisboa.pt/)- Dossier Leibniz**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824 **(more info [here](https://sciendo.com/issue/kjps/19/1))**
 
 
 ## Scholar brochures
