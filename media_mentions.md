@@ -7,3 +7,5 @@ Marina Lopez, *Devenires*, VIII - Mexico (Julho 2007) **[review](https://webpage
 António Guerreiro, *Expresso Cartaz* - Portugal (18.7.1998) **[review](https://arquivo.pt/wayback/20081022125858/http://aeiou.primeirasedicoes.expresso.pt/ed1342/c251.asp)** on Pombo, Olga, *Leibniz e o Problema de uma Língua Universal*, Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997. 
 
 Marco Silva. *Argumentos*, 5,10 - Fortaleza, Brazil (jul./dez. 2013), **[review](https://periodicos.ufc.br/argumentos/article/view/19037/29756)** on Pombo, Olga, *Leibniz e o Problema de uma Língua Universal*,  Lisboa:  Junta  Portuguesa  de  Investigação Científica e Tecnológica (JNICT), 1997. 
+
+•	Olga Pombo, Palavra e Esplendor do Mundo. Estudos sobre Leibniz, Lisboa: Fim de Seculo, 2010, 300 pp. (Recensão Expresso, 2011)
