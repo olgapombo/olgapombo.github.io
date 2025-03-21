@@ -245,7 +245,8 @@ DOI: http://dx.doi.org/10.4135/9781452276052
 8.	Pombo, Olga (2020), **Leibniz and the Idea of Universal Machine**, *Mana Platform*, <https://mana.net/12861> 
 9.	Pombo, Olga (2019), **Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte**, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. DOI https: //doi.org/10.17990/RPF/2019_75_4_2155
 10.	Pombo, Olga (2018), **Dilemas de la Ensenhanza de la Filosofia (Dilemmas of Teaching Philosophy)**, *ArteFaCTos. Revista de Estudios sobre la Ciência y la Tecnologia*, Salamanca, Spain, vol. 7, nº 1, April, pp. 175-190. DOI: http://dx.doi.org/10.14201/art201871175190.
-11.	Pombo, Olga (2015), **Metaphysical and Epistemological Challenges**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). DOI: 10.1007/s10516-014-9264-5
+11.	Pombo, Olga (2015), **Metaphysical and Epistemological Challenges**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). 
+DOI: 10.1007/s10516-014-9264-5
 12.	Pombo, Olga (2014), **Dispersão e Unidade: Para uma Poética da Simpatia**, *Caderno Escolar*, Lisboa:  Escola Vitorino Nemésio, nº 13-14, 1: 30-41 (reprint). 
 13.	Pombo, Olga (2013),**Epistemología de la Interdisciplinariedad. La Construcción de un nuevo Modelo de Comprensión**, *Interdisciplina*, Mexico, vol. 1, nº 1, pp. 21-50.DOI: http://dx.doi.org/10.22201/ceiich.24485705e.2013.1.46512
 14.	Pombo, Olga (2013), **Comentário a 'Filósofos e Matemáticos' de José Sebastião e Silva**, *Internacional Journal Delfim Santos Studies*, vol. 1, nº 1, pp. 256-260. ISSN: 2182-5653.
@@ -288,10 +289,10 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 50.	Pombo, Olga (1984), **Pedagogia por Objectivos / Pedagogia com Objectivos**, *Logos*, n.º 1, Lisboa: Filosofia Aberta, pp. 43-7 
 
 
-### Journal issues guest editor
+### Journal guest editor
  
-* Pombo, Olga (2015), **Axiomathes, Special Issue I**, "Introduction to the special issue   Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference", *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-* Pombo, Olga (2012), **Kairos, vol. 4 - Dossier: Leibniz**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824
+* Pombo, Olga (2015), **Axiomathes, Special Issue**, "Introduction to the special issue   Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference", *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), **Kairos. Journal of Philosophy & Science, Dossier: Leibniz**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
 
 
 ### Book reviews
