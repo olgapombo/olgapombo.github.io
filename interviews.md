@@ -43,7 +43,7 @@ title: Interviews
 * **Ciência em Movimento. Os Nossos Neurónios. Cérebros Portugueses de que temos Orgulho (Science in Movement. Our Neurons. Portuguese Brains we are Proud of**, interview by the journalist Helena Mendonça, *Diário de Notícias Magazine*, 18 May 2008 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18052008.pdf>
 * [**Fernando Gil, Filósofo do Conhecimento (Fernando Gil, Philosopher of Knowledge)**](http://webpages.fc.ul.pt/~ommartins/publicacoes%20opombo/fernandogil.htm), newspapper *Expresso*, supplement *Actual*, p. 23, 25 March 2006
 * **O Que É e Não É Ciencia (What Science Is and Is Not**, interview by the *Pós-graduation program in Teching methodology*, Universidade Federal de São Carlos, 2006 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op2006.pdf>
+* **About the Book "Interdisciplinaridade: Ambições e Limites”**, interview newsletter *Infociências* nº 142, 1 February 2005, pp. 12-14 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op122005.pdf>
 * Entrevista com Antonio Gnzales(ISPA), *Revista Ser*, 2004 [here](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/Entrevista%20Revista%20SER%20(Ispa).pdf)
-* **About the Book "Interdisciplinaridade: Ambições e Limites”**, interview newsletter *Infociências* nº 142, 1 February 2005, pp. 12-14 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op122005.pdf> 
 * **Persistência da Memória (Memory Persistence)**, interview with journalist Daniel Branco, newspapper *Jornal de Letras*. Educação, 8 January 2003. 
 * **Que Escola Queremos para os Nossos Filhos (What School do We Want for Our Children)**, interview (with Paulo Feytor-Pinto) by the journalist Paula Moura Pinheiro, *Magazine Elle*, 158, November 2001, pp. 140-148. 
