@@ -129,10 +129,10 @@ https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/
 ## Webpages
 
 * Pombo, Olga, Representações da Leitura (image platform) 
-   <https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm>
-* Pombo, Olga, (ed.), Crianças Selvagens (2004)     <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm>
+   <https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm> - Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura. Exercício em andamento / The idea is to collect and place (pictorial) representations of reading next to each other. Exercise in progress.
+* Pombo, Olga, (ed.), Crianças Selvagens / Wild Children (2004)     <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm>
 
-## Trabalhos de apoio à leccionação da disciplina de Historia e Filosofia da Educação 
+## Materiais relativos à leccionação da disciplina de Historia e Filosofia da Educação por mim leccuonada na Faculdade de ciencias da Universidade de Lisboa entre ??????? (trabalhos na sua maior parte feitos pelos alunos, revistos e editados por mim)
 
   * Olga Pombo (ed.), Momentos da Ideia de Escola 
 <https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm>
