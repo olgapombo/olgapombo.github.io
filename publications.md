@@ -2,7 +2,7 @@
 
 ## Online publications
 
-* [**Encyclopaedia and Hypertext**](https://arquivo.pt/wayback/20091224030154/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p2/genero.htm#1.2.10)
+* [**O Projecto Enciclopedista**](https://arquivo.pt/wayback/20091224030154/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p2/genero.htm#1.2.10)
  
 * **[Protagoras](https://arquivo.pt/wayback/20140930093038/http://www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm)**
   
