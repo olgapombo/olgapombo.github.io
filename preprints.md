@@ -50,7 +50,9 @@ title: Preprints
 ## Webpages
 
 * Pombo, Olga, [Representações da Leitura](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading next to each other. 
-* Pombo, Olga, (ed.), [Crianças Selvagens](http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm) / Wild Children (2004)     
+* Pombo, Olga, (ed.), [Crianças Selvagens](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), 2004
+*
+* http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm) / Wild Children     
 
 # Materiais relativos à leccionação da disciplina de Historia e Filosofia da Educação por mim leccuonada na Faculdade de ciencias da Universidade de Lisboa entre ??????? (trabalhos na sua maior parte feitos pelos alunos, revistos e editados por mim)
 
