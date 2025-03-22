@@ -119,6 +119,22 @@ title: Preprints
 
 
 ## Power points
+•	Pombo, Olga, Jangada de Pedra (power-point 2013) 
+< http://slideplayer.com.br/slide/1263976>
+https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/
+
+•	Pombo, Olga, Lugares da Filosofia (power-point 2005) 
+<https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm>
+
+## Webpages
+
+* Pombo, Olga, Representações da Leitura (image platform) 
+   <https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm>
+  •	Olga Pombo (ed.), Crianças Selvagens (2004)     <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm> 
+  
+
+
+
 
 
 
