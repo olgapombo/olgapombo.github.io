@@ -35,7 +35,7 @@ title: Preprints
 * **Ciência e Arte (interacções, aproximações e distancias)**
 * **Science and art. Variations upon a common ground**
 * **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**
-+ **Model’ s nearness to the work of art**
+* **Model’ s nearness to the work of art**
 * **A imagem na ciencia e e na arte**
 * **Imagem e diagrama**
 
@@ -43,26 +43,22 @@ title: Preprints
 ## Power points
 •	Pombo, Olga, [Jangada de Pedra](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (power-point 2013) (see also  ([here](http://slideplayer.com.br/slide/1263976)) or [here](https://www.slideserve.com/orli/jangada-de-pedra)
 
-•	Pombo, Olga, Lugares da Filosofia (power-point 2005) 
-<https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm>
+•	Pombo, Olga, [Lugares da Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm) (power-point 2005) 
+
 
 
 ## Webpages
 
-* Pombo, Olga, Representações da Leitura (image platform) 
-   <https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm> - Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura. Exercício em andamento / The idea is to collect and place (pictorial) representations of reading next to each other. Exercise in progress.
-* Pombo, Olga, (ed.), Crianças Selvagens / Wild Children (2004)     <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm>
+* Pombo, Olga, [Representações da Leitura](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura. Exercício em andamento / The idea is to collect and place (pictorial) representations of reading next to each other. Exercise in progress.
+* Pombo, Olga, (ed.), [Crianças Selvagens](http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm) / Wild Children (2004)     
 
-## Materiais relativos à leccionação da disciplina de Historia e Filosofia da Educação por mim leccuonada na Faculdade de ciencias da Universidade de Lisboa entre ??????? (trabalhos na sua maior parte feitos pelos alunos, revistos e editados por mim)
+# Materiais relativos à leccionação da disciplina de Historia e Filosofia da Educação por mim leccuonada na Faculdade de ciencias da Universidade de Lisboa entre ??????? (trabalhos na sua maior parte feitos pelos alunos, revistos e editados por mim)
 
-  * Olga Pombo (ed.), Momentos da Ideia de Escola 
-<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm>
-•	Olga Pombo (ed.), Autores 
-<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/autores.htm>
-•	Olga Pombo (ed.), Grandes Matemáticos  
-<https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/matematicos.htm>
-•	Olga Pombo (ed.), Articulações da Matemática  
-<https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm>
+* Olga Pombo (ed.), [Momentos da Ideia de Escola](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm) 
+* Olga Pombo (ed.), [Autores](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/autores.htm>) 
+* Olga Pombo (ed.), [Grandes Matemáticos](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/matematicos.htm)  
+* Olga Pombo (ed.), [Articulações da Matemática](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)  
+
 
 
 
