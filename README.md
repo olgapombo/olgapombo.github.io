@@ -5,7 +5,7 @@
 * [Curriculum](curriculum.md)
 * [Publications](publications.md)
 * [Interviews](interviews.md)
-* [Preprints](preprints.md)
+* [Preprints / Web Pages](preprints.md)
 * [Talks/Conferences](onlinetalks.md)
 * [Research / Projects](/research/projects.md)
 * [Teaching / Doctoral Program FCTAS](teaching_doctoral_program.md)
