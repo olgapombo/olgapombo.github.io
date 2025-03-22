@@ -50,17 +50,17 @@ title: Preprints
 ## Webpages
 
 * Pombo, Olga, [Representações da Leitura](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading next to each other. 
-* Pombo, Olga, (ed.), [Crianças Selvagens](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), 2004
-*
-* http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm) / Wild Children     
 
-# Materiais relativos à leccionação da disciplina de Historia e Filosofia da Educação por mim leccuonada na Faculdade de ciencias da Universidade de Lisboa entre ??????? (trabalhos na sua maior parte feitos pelos alunos, revistos e editados por mim)
+
+# Work in Progress
+Recolha de trabalhos, na sua maioria realizados por alunos (em cada caso, devidamente identificados) das cadeiras de licenciatra de "História e Filosofia da Educação" e "Seminário Temático" que leccionei na Faculdade de Ciências da Universidade de Lisboa entre os anos e  1992-2006 e 1999-2004, respectivamente. 
+A seleccão, revisão, enquadramento e edição dos trabalhos assinados pelos alunos é da minha responsabilidade.   
 
 * Olga Pombo (ed.), [Momentos da Ideia de Escola](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm) 
 * Olga Pombo (ed.), [Autores](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/autores.htm>) 
 * Olga Pombo (ed.), [Grandes Matemáticos](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/matematicos.htm)  
-* Olga Pombo (ed.), [Articulações da Matemática](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)  
-
+* Olga Pombo (ed.), [Articulações da Matemática](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)
+* Pombo, Olga, (ed.), [Crianças Selvagens](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004     
 
 
 
