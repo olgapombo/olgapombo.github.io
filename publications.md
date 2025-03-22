@@ -81,7 +81,7 @@ DOI: https://doi.org/10.1075/cvs.16
 ## Chapters
 
 
-1.	Pombo, Olga (1979), **“Biobibliografia de Jean-Jacques Rousseau"** (Bibliography of Jean Jacques Rousseau), in *Jean-Jacques Rousseau. Uma Exposição*, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44.
+1.	Pombo, Olga (1979), **“Biobibliografia de Jean-Jacques Rousseau"** (Bibliography of Jean Jacques Rousseau), in *Jean-Jacques Rousseau. Uma Exposição*, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44. <https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf>
 2.	Pombo, Olga, (1988), “**Notas sobre as Instituições da Filosofia**”, in *A Filosofia face à Cultura Tecnológica*, edited by Adelino Cardoso, Coimbra: Associação de Professores de Filosofia, pp. 71-89. 
 3.	Pombo, Olga (1988), **“Leibnizian Strategies for the Semantical Foundation of the Universal Language”**, in *Leibniz, Tradition und Aktualitat. V. Internationaler Leibniz-Kongress*, vol. 1, edited by Ernest Albrecht, Hannover: Gottfried-Wilhelm Leibniz-Gesellschaft, pp. 753-760. ISBN: 3-9800978-2-X 
 4.	Pombo, Olga (1990), **“Dilema do Ensino da Filosofia”**, in *Didáctica da Filosofia*, vol. 2, edited by Isabel Marnoto, Lisboa: Universidade Aberta, pp. 7-30. ISBN: 9726740282
@@ -96,8 +96,7 @@ DOI: https://doi.org/10.1075/cvs.16
 13.	 Pombo, Olga (1996), **“A Matemática e o trabalho de dar a ver”**, in *Dez Anos de PROFMAT. Intervenções*, edited by Henrique Guimarães, Lisboa: A.P.M., pp. 105-121 (reprint).  
 14.	 Pombo, Olga (1996), **“Nota de Abertura”**, in *A Invenção da Escola na Grécia. Materiais de Estudo, 3º Caderno de História e Filosofia da Educação*, edited by Olga Pombo, Lisboa: DEFCUL, pp. 1-2.
 15.	 Pombo, Olga (1997), **“Museu e Biblioteca. A Alma da Escola”**, in *O Museu de Alexandria, 4º Caderno de História e Filosofia da Educação*, edited by Olga Pombo, Lisboa: DEFCUL, pp. 3-21.
-16.	Pombo, Olga (1996), **”The Place of the ‘Dissertatio De Stylo Philosophico Nizolii’ in the Leibnizian Praise of the German Language”**, in *Italia ed Europa nella Linguistica del Rinascimento*, edited by Mirko Tavoni, Ferrara: Franco Cosimo Panini Editore/Istituto di Studi Rinascimentali, vol. II, pp. 57-67. 
-ISBN: 8876866728 9788876866722
+16.	Pombo, Olga (1996), **”The Place of the ‘Dissertatio De Stylo Philosophico Nizolii’ in the Leibnizian Praise of the German Language”**, in *Italia ed Europa nella Linguistica del Rinascimento*, edited by Mirko Tavoni, Ferrara: Franco Cosimo Panini Editore/Istituto di Studi Rinascimentali, vol. II, pp. 57-67. ISBN: 8876866728 9788876866722
 17.	Pombo, Olga (1996), **“Leibnizian Strategies for the Semantical Foundation of the Universal Language”**, in *Im Spiegel des Verstandes. Studien zu Leibniz*, edited by Klaus D. Dutz and Stefano Gensini, Münster: Nodus Publikationen, pp. 161-171.  ISBN: 3893232680 
 18.	 Pombo, Olga (2000), **“Comunicação e Construção do Conhecimento”**, in *Itinerários. Investigar em Educação*, edited by Odete Valente, Lisboa: CIE, pp. 755-760 (reprint).
 19.	 Pombo, Olga (2000), **“Universidade. Regresso ao Futuro de uma Ideia”**, in *Itinerários. Investigar em Educação*, edited by Odete Valente, Lisboa: CIE, pp. 903-912.
