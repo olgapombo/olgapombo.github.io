@@ -8,7 +8,7 @@
 
 * **[Lisbon Center for Image in Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)** - Image platform and archive intending to question the philosophical, scientific and artistic nature of image (2008) 
 
-•	**[Convite à Leitura de Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm)** - Hipertexto sobre Rousseau (1995) 
+*	**[Convite à Leitura de Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm)** - Hipertexto sobre Rousseau (1995) 
 
 
 ## Dissertations
