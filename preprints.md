@@ -131,6 +131,9 @@ https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/
 * Pombo, Olga, Representações da Leitura (image platform) 
    <https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm>
 * Pombo, Olga, (ed.), Crianças Selvagens (2004)     <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm>
+
+## Trabalhos de apoio à leccionação da disciplina de Historia e Filosofia da Educação 
+
   * Olga Pombo (ed.), Momentos da Ideia de Escola 
 <https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm>
 •	Olga Pombo (ed.), Autores 
