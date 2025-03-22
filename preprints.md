@@ -53,8 +53,7 @@ title: Preprints
 
 
 # Work in Progress
-Recolha de trabalhos, na sua maioria realizados por alunos (em cada caso, devidamente identificados) das cadeiras de licenciatra de "História e Filosofia da Educação" e "Seminário Temático" que leccionei na Faculdade de Ciências da Universidade de Lisboa entre os anos e  1992-2006 e 1999-2004, respectivamente. 
-A seleccão, revisão, enquadramento e edição dos trabalhos assinados pelos alunos é da minha responsabilidade.   
+Recolha de trabalhos, a maioria dos quais realizados por alunos de licenciatura das cadeiras de "História e Filosofia da Educação" e "Seminário Temático" que leccionei na Faculdade de Ciências da Universidade de Lisboa entre os anos e  1992-2006 e 1999-2004, respectivamente. A seleccão, enquadramento, revisão e edição dos trabalhos assinados pelos alunos (e, em cada caso, devidamente identificados) é da minha responsabilidade.   
 
 * Olga Pombo (ed.), [Momentos da Ideia de Escola](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm) 
 * Olga Pombo (ed.), [Autores](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/autores.htm>) 
