@@ -116,8 +116,6 @@ title: Preprints
 
 * Darwin e a ilustração cientifica
 
-* **Crianças selvagens**
-
 
 ## Power points
 •	Pombo, Olga, Jangada de Pedra (power-point 2013) 
