@@ -41,7 +41,7 @@ title: Preprints
 
 
 ## Power points
-•	Pombo, Olga, [Jangada de Pedra](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (power-point 2013) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) or ([here](http://slideplayer.com.br/slide/1263976) with text transcription) 
+•	Pombo, Olga, [Jangada de Pedra](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (power-point 2013) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) or [here](http://slideplayer.com.br/slide/1263976) (with text transcription) 
 
 •	Pombo, Olga, [Lugares da Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm) (power-point 2005) 
 
