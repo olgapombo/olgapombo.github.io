@@ -1,10 +1,7 @@
 ---
 title: Preprints
 ---
-# Webpages, Power Points and Preprints
-
-## Webpages
-
+# Preprints, PowerPoints, Sites
 
 
 ## Preprints
