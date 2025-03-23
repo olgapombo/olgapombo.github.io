@@ -11,7 +11,7 @@
 
 ## Coordination (PI) of research projects and Groups (RG)
 
-* **[From Encyclopedia to Hypertext](https://arquivo.pt/wayback/20140930091757/http://www.educ.fc.ul.pt/hyper/)**, FCT Research Project, POCTI/FIL/36357/2000 (1999-2002). **(more info [here](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia) and [here](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm#hip%C3%B3tese))** (2002)
+* (1999-2002) **[From Encyclopedia to Hypertext](https://arquivo.pt/wayback/20140930091757/http://www.educ.fc.ul.pt/hyper/)**, FCT Research Project, POCTI/FIL/36357/2000. **(more info [here](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia) and [here](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm#hip%C3%B3tese))** 
 *  **[Scientific Culture. Conceptual Migrations and Social Contaminations](https://arquivo.pt/wayback/20060219165027/http://cfcul.fc.ul.pt/migracoes/actividades.htm)**  FCT Research Project, POCTI/FIL/48133/2002 (2003-2006). **more infor [here](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/)**
 * **Bachelard. Science and Poetics**, CFCUL Research Project  (2006-2009).
 *  [**Image in Science and Art**](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/), FCT International Research Project, PTDC/EAT/64201/2006, (2007-2012). **More info [here](https://arquivo.pt/wayback/20140926170450/http://ica.fc.ul.pt/)**
