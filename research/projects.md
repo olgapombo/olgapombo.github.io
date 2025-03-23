@@ -17,10 +17,10 @@
 * **[Lisbon Center for Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)**
 * 2008-2010 - [**Universal Logics and Unity of Science**](<https://cfcul.ciencias.ulisboa.pt/projectos/logica-universal-e-unidade-da-ciencia/>),  International Research Project (CFCUL/University of Sevilla), CRUP-Acções integradas.
 * 2009-2012 - **[Abduction and Scientific Discovery](https://arquivo.pt/wayback/20140925070503/http://cfcul.fc.ul.pt/projectos/abducao/abducao.htm)**,  International Research Project  (CFCUL/Madrid Complutense University), CRUP-Acções integradas.
-* 2012-2013 - **[Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention](https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/)**, International Research Project (CFCUL /University of Sevilla), CRUP-Acções integradas. 
-* 2012-2014 - **Plato’s Protagoras** <http://cfcul.fc.ul.pt/projectos/protagoras>, CFCUL internal research project.
-* 2012 - **Rousseau and the Sciences** <http://cfcul.fc.ul.pt/projectos/rousseau>, CFCUL research project .https://arquivo.pt/wayback/20140925074630/http://cfcul.fc.ul.pt/projectos/rosseau/
+* 2012 - **[Rousseau and the Sciences](https://arquivo.pt/wayback/20140925074630/http://cfcul.fc.ul.pt/projectos/rosseau/)**, CFCUL internal research project.
 *	2012 - [**Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain**](https://www.templeton.org/grant/implementing-the-extended-synthesis-in-evolutionary-biology-into-the-sociocultural-domain(APPEEL)), John Templeton Foundation International Research Project (coordination of Nathalie Gontier and Olga Pombo).
+* 2012-2013 - **[Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention](https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/)**, International Research Project (CFCUL /University of Sevilla), CRUP-Acções integradas. 
+* 2012-2015 - **Plato’s Protagoras** <http://cfcul.fc.ul.pt/projectos/protagoras>, CFCUL internal research project.
 * 2012-2016 - [**Lisbon Applied Evolutionary Epistemology Lab**](https://ciencias.ulisboa.pt/pt/noticia/07-02-2013/appeel-applied-evolutionary-epistemology-lab), CFCUL research project (coordination of Nathalie Gontier and Olga Pombo). 
 * 2013-2014 -  [**Afinal o que é a Ciência? / After all, what is Science?**](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project. (**More information [here](https://arquivo.pt/wayback/20240112200715/https://ciencia13-14.fc.ul.pt/?)**)
 * 2013-2015 - **Unity of Science**,  head of the CFCUL Research Group.
