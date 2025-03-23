@@ -59,6 +59,8 @@ title: Preprints
 2.	[CorpoFRAGMENTO](http:// Lisboncisa.fc.ul.pt/videos/v33b.htm)
 3.	[CorpoALGORITMO](http:// Lisboncisa.fc.ul.pt/videos/v33c.htm) 
 
+* Pombo, Olga, Recordar Agostinho da Silva: 10 anos Depois  (1999)
+http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm
 
 
 # Work in Progress
