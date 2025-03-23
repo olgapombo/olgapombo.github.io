@@ -14,6 +14,7 @@
 
 *	Pombo, Olga (1995) **[Convite à Leitura de Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm)** - Hipertexto sobre Rousseau  
 
+* Pombo, Olga (1979), **[Biobibliografia de Jean-Jacques Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf)**
 
 
 ## Dissertations
