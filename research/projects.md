@@ -24,8 +24,8 @@
 * 2013-2014 -  [**Afinal o que é a Ciência? / After all, what is Science?**](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project. (**More information [here](https://arquivo.pt/wayback/20240112200715/https://ciencia13-14.fc.ul.pt/?)**)
 * 2013-2015 - **Unity of Science**,  head of the CFCUL Research Group.
 * 2015-3/2016 - **Epistemology and Methodology**, head of the CFCUL Research Group .
-* 2015-2016 - **[Unity of Science and Interdisciplinarity](https://arquivo.pt/wayback/20140925041546/http://cfcul.fc.ul.pt/LT/UCI/)**, head of the CFCUL Thematic Line.
-* https://arquivo.pt/wayback/20171212131758/http://uci.fc.ul.pt/
+* 2015-2016 - **[Unity of Science and Interdisciplinarity](https://arquivo.pt/wayback/20171212131758/http://uci.fc.ul.pt/)**, head of the CFCUL Thematic Line.
+* https://arquivo.pt/wayback/20140925041546/http://cfcul.fc.ul.pt/LT/UCI/
 * 2017- 2022 - [**Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities**](https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transversal/), head of the CFCUL Transversal Interdisciplinary Pole.
 
 ## Member and associate researcher of research projects 
