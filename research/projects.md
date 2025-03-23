@@ -13,7 +13,6 @@
 
 * 1999-2002 - **[From Encyclopedia to Hypertext](https://arquivo.pt/wayback/20140930091757/http://www.educ.fc.ul.pt/hyper/)**, FCT Research Project, POCTI/FIL/36357/2000. **(more info [here](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia) and [here](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm#hip%C3%B3tese))** 
 * 2003-2006 - **[Scientific Culture. Conceptual Migrations and Social Contaminations](https://arquivo.pt/wayback/20060219165027/http://cfcul.fc.ul.pt/migracoes/actividades.htm)**  FCT Research Project, POCTI/FIL/48133/2002. **(more infor [here](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/))**
-* 2006-2009 - **Bachelard. Science and Poetics**, CFCUL Research Project.
 * 2007-2012 - **[Image in Science and Art](https://arquivo.pt/wayback/20140926170450/http://ica.fc.ul.pt/)**, FCT International Research Project, PTDC/EAT/64201/2006. **(more info [here](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/))**
 * **[Lisbon Center for Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)**
 * 2008-2010 - [**Universal Logics and Unity of Science**](<https://cfcul.ciencias.ulisboa.pt/projectos/logica-universal-e-unidade-da-ciencia/>),  International Research Project (CFCUL/University of Sevilla), CRUP-Acções integradas.
@@ -39,7 +38,8 @@
 * Associated Researcher of the international project **La Science dans ses Contextes**, Maison de Sciences Humaines du Nord-Pas de Calais, Université de Lille III, France (head by Shahid Rahman) (2004-2006).
 * Associated Researcher of the international project **Le Rôle de la Micro-Histoire**, Université de Lille III, France (head by Shahid Rahman) (2006-2008). 
 * Associated Researcher of the international project **La Contextualization des Catégories de la Pensée Scientifique**, Université de Lille III, France (head by Shahid Rahman), (2006-2008). 
-* Associated Researcher of the international project **Logiques de la Ficcion**, Université de Lille III, France (head by Shahid Rahman) (2006-2008). 
+* Associated Researcher of the international project **Logiques de la Ficcion**, Université de Lille III, France (head by Shahid Rahman) (2006-2008).
+* Member of the **[Bachelard. Science and Poetics](https://arquivo.pt/wayback/20140925075736/http://cfcul.fc.ul.pt/projectos/bachelard/)** CFCUL Research Project (head Zbigniew Kotowicz) (2006-2009). 
 * Member of the [**Poincaré Filósofo da Ciência / Poincaré Philosopher of Science**](https://cfcul.ciencias.ulisboa.pt/projectos/poincare-filosofo-da-ciencia/), FCT research project (head by António Franco Oliveira) (2007-2010). 
 * Member of the  **Problemas Filosóficos da Física Quântica / Philosophical Problems of Quantum Mechanics**,  FCT research project (head by José Croca) (2007-2010). 
 * Associated Researcher of the international project **Imag(in)ing the Nano-scale: Interactions between Science and Art**, University of Bergen, Centre for the Studies of the Sciences and Humanities (head by Rasmus Tore Slaattelid), (2009-2011).  
