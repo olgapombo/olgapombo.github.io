@@ -1,7 +1,7 @@
 ---
 title: Preprints
 ---
-# Preprints, PowerPoints, Webpages
+# Preprints
 
 
 ## Preprints
@@ -39,21 +39,23 @@ title: Preprints
 * **A imagem na ciencia e e na arte**
 * **Imagem e diagrama**
 
-
+## Hypertexts, PowerPoints and webpages 
 ## Power points
+
 •	Pombo, Olga, [Jangada de Pedra](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (power-point 2013) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) or [here](http://slideplayer.com.br/slide/1263976) (with text transcription) 
 
 •	Pombo, Olga, [Lugares da Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm) (power-point 2005) 
 
 
-
-## Webpages and videos
+## Hypertexts
 
 * Pombo, Olga, Lugares da Escola (2003)
 <https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html>
 * Pombo, Olga, Apontamentos sobre Utopia (2004)
 <http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm>
 * Pombo, Olga, [Representações da Leitura](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading next to each other.
+ 
+## Webpages and videos 
 * Pombo, Olga (coord), corpoIMAGEM, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, put forward with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. The video is divided in 3 parts: 
 1.	[Corpo PAISAGEM](http:// Lisboncisa.fc.ul.pt/videos/v33.htm) 
 2.	[CorpoFRAGMENTO](http:// Lisboncisa.fc.ul.pt/videos/v33b.htm)
