@@ -2,9 +2,7 @@
 
 ## Online publications
 
-* Pombo, Olga, Enciclopédia e Hipertexto. Ponto de Partida (2002) 
-<http://www.educ.fc.ul.pt/hyper/ency.htm#hipotese>
-
+* Pombo, Olga, **[Enciclopédia e Hipertexto. Ponto de Partida]( https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm#hip%C3%B3tese)** (2002)
 
 * Pombo, Olga, **A Enciclopedia** - Hipertexto sobre o **[Projecto Enciclopedista](https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**, a **[Para uma História da Ideia de Enciclopedia](https://arquivo.pt/wayback/20091224025159/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm)** e a **[Enciclopedia filosófica](https://arquivo.pt/wayback/20091218065708/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)** (2009)
 
