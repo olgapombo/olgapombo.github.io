@@ -2,13 +2,18 @@
 
 ## Online publications
 
-* **A Enciclopedia** - Hipertexto sobre o **[Projecto Enciclopedista](https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**, a **[Historia da Ideia de Enciclopedia](https://arquivo.pt/wayback/20091224025159/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm)** e a **[Enciclopedia filosófica](https://arquivo.pt/wayback/20091218065708/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)** (2009)
+* Pombo, Olga, Enciclopédia e Hipertexto. Ponto de Partida (2002) 
+<http://www.educ.fc.ul.pt/hyper/ency.htm#hipotese>
+
+
+* **A Enciclopedia** - Hipertexto sobre o **[Projecto Enciclopedista](https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**, a **[Para uma História da Ideia de Enciclopedia](https://arquivo.pt/wayback/20091224025159/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm)** e a **[Enciclopedia filosófica](https://arquivo.pt/wayback/20091218065708/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)** (2009)
 
 * **[Lisbon Center for Image in Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)** - Image platform and archive intending to question the philosophical, scientific and artistic nature of image (2008)
   
 * **[Protagoras](https://arquivo.pt/wayback/20140930093038/http://www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm)** - Hipertexto sobre o *Protagoras* de Platão, traduzido e comentado / Hypertext on Plato’s *Protagoras* full text, translated and commented (2002)
 
-*	**[Convite à Leitura de Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm)** - Hipertexto sobre Rousseau (1995) 
+*	Pombo, Olga (1995) **[Convite à Leitura de Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm)** - Hipertexto sobre Rousseau  
+
 
 
 ## Dissertations
@@ -81,7 +86,7 @@ DOI: https://doi.org/10.1075/cvs.16
 ## Chapters
 
 
-1.	Pombo, Olga (1979), **“Biobibliografia de Jean-Jacques Rousseau"** (Bibliography of Jean Jacques Rousseau), in *Jean-Jacques Rousseau. Uma Exposição*, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44. <https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf>
+1.	Pombo, Olga (1979), **[Biobibliografia de Jean-Jacques Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf)** (Bibliography of Jean Jacques Rousseau), in *Jean-Jacques Rousseau. Uma Exposição*, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44. 
 2.	Pombo, Olga, (1988), “**Notas sobre as Instituições da Filosofia**”, in *A Filosofia face à Cultura Tecnológica*, edited by Adelino Cardoso, Coimbra: Associação de Professores de Filosofia, pp. 71-89. 
 3.	Pombo, Olga (1988), **“Leibnizian Strategies for the Semantical Foundation of the Universal Language”**, in *Leibniz, Tradition und Aktualitat. V. Internationaler Leibniz-Kongress*, vol. 1, edited by Ernest Albrecht, Hannover: Gottfried-Wilhelm Leibniz-Gesellschaft, pp. 753-760. ISBN: 3-9800978-2-X 
 4.	Pombo, Olga (1990), **“Dilema do Ensino da Filosofia”**, in *Didáctica da Filosofia*, vol. 2, edited by Isabel Marnoto, Lisboa: Universidade Aberta, pp. 7-30. ISBN: 9726740282
