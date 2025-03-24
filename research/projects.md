@@ -1,4 +1,6 @@
-# Research Center
+# Research 
+
+## Research Centers
 
 * 2003 - Founder of  the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL), research unit financed by the Portuguese Foundation for Science and Technology (FCT).
 * 2003-20017 - Scientific coordinator of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL), since 2003 up to my retirement in January 2017.
@@ -7,9 +9,9 @@
 * 1996 - 2002 - Collaborator of the “Center of Philosophy University of Lisbon”, Faculty of Letters, University of Lisbon (1996-2002).
 
 
-# Projects
+## Resarch Projects
 
-## Coordination (PI) of research projects and Groups (RG)
+### Coordination (PI) of research projects and Groups (RG)
 
 * 1999-2002 - **[From Encyclopedia to Hypertext](https://arquivo.pt/wayback/20140930091757/http://www.educ.fc.ul.pt/hyper/)**, FCT Research Project, POCTI/FIL/36357/2000. **(more info [here](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia) and [here](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm#hip%C3%B3tese))** 
 * 2003-2006 - **[Scientific Culture. Conceptual Migrations and Social Contaminations](https://arquivo.pt/wayback/20060219165027/http://cfcul.fc.ul.pt/migracoes/actividades.htm)**  FCT Research Project, POCTI/FIL/48133/2002. **(more infor [here](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/))**
@@ -27,10 +29,10 @@
 * 2015-2016 - **[Unity of Science and Interdisciplinarity](https://arquivo.pt/wayback/20171212131758/http://uci.fc.ul.pt/)**, head of the CFCUL Thematic Line. 
 * 2017- 2022 - [**Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities**](https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transversal/), head of the CFCUL Transversal Interdisciplinary Pole.
 
-## Member and associate researcher of research projects 
+### Member and associate researcher of research projects 
 
-* Founder (with Joâo Lopes Alves, Zaza Carneiro de Moura, Ana Figueiredo and Filomena Mölder) of the research project **Jean-Jacques Rousseau**, Portuguese Society for Philosophy (1977 - 1979). 
-* Founder (with Teresa Levy and Henrique Guimaraes) of the research project **[Mathesis]**(https://webpages.ciencias.ulisboa.pt/~ommartins/mathesis/index.htm), Calouste Gulbenkian Foundation  (1989-1995).
+* Co-founder (with Joâo Lopes Alves, Zaza Carneiro de Moura, Ana Figueiredo and Filomena Mölder) of the research project **Jean-Jacques Rousseau**, Portuguese Society for Philosophy (1977 - 1979). 
+* Co-founder (with Teresa Levy and Henrique Guimaraes) of the research project **[Mathesis]**(https://webpages.ciencias.ulisboa.pt/~ommartins/mathesis/index.htm), Calouste Gulbenkian Foundation  (1989-1995).
 * Member of the international research project **Leibniz the Polemicist**, Institute for Advanced Studies, Hebrew University of Jerusalem, Israel (head by Marcelo Dascal) (1994-1998).
 * Member of the research project **O Ensino na Faculdade de Ciencias / Teaching at the Faculty of Sciences)**, CIE-FCUL(head by Maria Odete Valente),(1995-1998). 
 * Member of the research project, **A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais / The University of Lisbon. From the Idea of University to the Institutional Practices**, Rectory of the University of Lisbon (head by Maria Odete Valente) (1997-1999).
@@ -47,3 +49,33 @@
 * Member of the  [**Science, Art, Philosophy Lab (Sap-Lab)**](https://www.researchgate.net/lab/Catarina-Pombo-Nabais-Lab), CFCUL research project (head by Catarina Nabais) (2014 – 2022). (See also [**here**](https://www.facebook.com/SciArtPhiloLAB/) and [here](https://inarts.eu/en/lab/collaborations/rd/1/)).
 * Member of the management council of the Cost Action **INTREPID - Interdisciplinarity in research programming and funding cycles**,  EU Framework Program Horizon 2020 (2015-2017).
 * Member of the international project **Complejidad y filosofía natural en el cruce de arte y Ciência / Complexity and Natural Philosophy in the crossing of art and science**, funded by PAPIIT, Mexico (head by María Antonia González Valerio) (2015-2017).
+
+## Networks 
+
+* Member of the scientific network **[RED Iberoamericana Leibniz](http://leibniz.es/red-iberoamericana-leibniz/)**, Granada, Spain (since 2003)
+* Member of the International Research Network, **[Système d'Information en Philosophie des Sciences](https://mshe.univ-fcomte.fr/sips)** (head by Thierry Martin (2007-2020). 
+* Member of Scientific Committee of the **Système d’information en Philosophie des Sciences (SIPS)** directed by Thierry Martin and coordinated by the Centre de Documentation et de Bibliographie Philosophique, Maison des Sciences de l'Homme Claude-Nicolas Ledoux (UMS 27), France (2008-2010).  
+* Member of the **[POND Network - Philosophy of Science Around the Mediterranean](https://pondposmed.wordpress.com/)** (since 2017)
+
+
+## Sientific societies
+
+•	President of the General Assembly Board of the Sociedade Portuguesa de Lógica (since 2022)
+•	Founding member of the Sociedade Portuguesa de Lógica (created January 2022)
+•	Founding member of the Société de Philosophie des Sciences, France (2002). 
+•	Member of the Advisory Board of the International Association for the Study of Controversies (IASC) (2016-on going).
+•	Member of the Administrative Board of the Société de Philosophie des Sciences (2012-2015).
+•	Member of the Association for Interdisciplinary Studies (AIS), USA (since 2019).
+•	Member of the Amonet. Associação Portuguesa de Mulheres Cientistas, Lisboa, Portugal (2019).
+•	Member of the Associação Bento Jesus Caraça, Lisboa (since 2018).
+•	Member of the Scientific Society for Woman in Philosophy Switzerland, SWIP CH (since 2017).
+•	Member of the Association Computability in Europe (CIE), Leeds, UK (since 2016).  
+•	Member of the International Association for the Study of Controversies (IASC) (since 2014).
+•	Member of the European Philosophy of Science Association (EPSA), Austria (2000).
+•	Member of the Associação Agostinho da Silva, Lisboa, Portugal (since 1996).   
+•	Member of the Sociéte d'Histoire et d'Épistémologie des Sciences du Langage (S.H.E.S.L.), Paris, France (1990).
+•	Member of the Henry Sweet Society for the History of Linguistic Ideas, Oxford, UK (since 1989). 
+•	Member of the Gesellschaften Studienkreis der Sprachwissenschafte, Münster, Germany (since 1987).
+•	Member of the Directory Board of the Sociedade Portuguesa de Filosofia, Lisboa (1983-1999).
+•	Member of the Sociedade Portuguesa de Filosofia, Lisboa (since its foundation in 1977).
+
