@@ -1,6 +1,8 @@
 # Supervision 
 
-## PhD dissertations
+[Phd dissertations], [Master dissertations] [Post-Docs research] [Doctoral students stages] [Sabbatical stages]
+
+# PhD dissertations
 
 * Alexander Gerner, **Philosophical Investigation on Attention**, PhD in History and Philosophy of Science, FCUL, May 2012, University of Lisbon (Very Good, unanimity). FCT Grant SFRH/BD/23459/2005.
 *	Inacio Valentim, **La Parresia y el cuidado de Si em "Eutifron", "Laques", "Alcibiades" de Platon. Analisis de una Lectura de Michel Foucault**, (co-supervision), PhD in Philosophy, Faculdad de Humanities, Universidad Carlos III, Madrid, , April 2012, Universidad Complutense Madrid (Very Good, unanimity).
@@ -18,7 +20,7 @@
 *	Nuno Jerónimo, **Um Retrato de Gödel enquanto Filósofo. A Filosofia como Ciência de Rigor**, PhD in History and Philosophy of Science, FCUL and Pantheon Sorbonne, Paris, PhD individual grant by the FCT SFRH/BD/47643/2008 (2008-2016)
 
 
-## Marter dissertations
+# Master dissertations
 
 *	Maria Eduarda Santos, **Para uma Pedagogia da Mudança Conceptual. Estudo de Orientação Epistemologica**, Master in “Science Education”, FCUL (1986 - 1989) (Very Good, unanimity). (published in a book in 1991).
 *	Leonor Santos, **O Corpo Escotomizado da Escola. Contributo para a implementação da Área de Formação Pessoal e Social no Ensino Secundário**, Master in “Science Education”, FCUL (1995 - 1996). (Very Good, unanimity). 
@@ -37,7 +39,7 @@
 *	Diogo Miguel Silva da Cunha, **Processo e Realidade Social. Reconstrução do Núcleo Teórico da Sociologia Processual de Norberto Elias**, Master in “History and Philosophy of Science”, FCUL, 5th April 2021 (very good, unanimity).
 
 
-## Post-docs 
+# Post-docs research 
 
 * Juan Manuel Torres, **The Influence of Genetics on Contemporary Thinking**, FCT Grant SFRH/BPD/17625/2004, CFCUL, 2009-2010.  
 * Nathalie Gontier, **An Investigation into the Different Applications of an Evolutionary Epistemological, Universal Symbiogenesis and Universal Punctuated Equilibrium Approach for Studies into the Origin and Evolution of Language and Culture**, FCT Grant SFRH/BPD/43519/2008, CFCUL, 2008-2009.  
@@ -60,7 +62,7 @@
 * Matthieu Fontaine, **Existential Conjectures in Abductive Reasoning**, FCT Grant holder (SFRH/BDP/116494/2016), CFCUL, 2017- 2020.
 
 
-## Research stages of doctoral students
+#  Doctoral students stages
 
 *	Remi Schorn, Pontific University Catolic South Rio Grande (PUC-RS), Brazil (March - July 2007). 
 *	Roseli Hickmann, Federal University South Rio Grande (UFRGS), Brazil (May - August 2007).
@@ -80,7 +82,7 @@
 *	Rosangela Alemida Chaves, Faculdade de Filosofia, Federal University of Goias, Brazil (1 July- 31 July 2017).
 
 
-## Hosting professors on sabbaticals 
+# Sabbatical stages
  
 *	Juan Manuel Torres, National University of Cuyo, Argentina, Fundação Gulbenkian grant, research stay at the CFCUL (October 2003-February 2004). 
 *	Marcelo Dascal, Tel-Aviv University, Israel, Fundação Gulbenkian grant, research stay at the CFCUL (March 2004 – June 2004). 
