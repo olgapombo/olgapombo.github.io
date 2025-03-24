@@ -5,13 +5,13 @@
 * 2003 - Founder of  the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL), research unit financed by the Portuguese Foundation for Science and Technology (FCT).
 * 2003-20017 - Scientific coordinator of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL), since 2003 up to my retirement in January 2017.
 * 2003-2024 - Integrated Member of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL) (2003-2024).
-* 1994-2003 - Integrated member of the “Research Center in Education” (CIEFCUL), Faculdade de Ciencias, University of Lisbon 
 * 1996 - 2002 - Collaborator of the “Center of Philosophy University of Lisbon”, Faculty of Letters, University of Lisbon (1996-2002).
+* 1994-2003 - Integrated member of the “Research Center in Education” (CIEFCUL), Faculdade de Ciencias, University of Lisbon 
 
 
-## Resarch Projects
+## Research Projects
 
-### Coordination (PI) of research projects and Groups (RG)
+### Coordination (PI) of research projects and groups (RG)
 
 * 1999-2002 - **[From Encyclopedia to Hypertext](https://arquivo.pt/wayback/20140930091757/http://www.educ.fc.ul.pt/hyper/)**, FCT Research Project, POCTI/FIL/36357/2000. **(more info [here](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia) and [here](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm#hip%C3%B3tese))** 
 * 2003-2006 - **[Scientific Culture. Conceptual Migrations and Social Contaminations](https://arquivo.pt/wayback/20060219165027/http://cfcul.fc.ul.pt/migracoes/actividades.htm)**  FCT Research Project, POCTI/FIL/48133/2002. **(more infor [here](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/))**
@@ -60,22 +60,22 @@
 
 ## Sientific societies
 
-•	President of the General Assembly Board of the Sociedade Portuguesa de Lógica (since 2022)
+•	President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica]()** (since 2022)
 •	Founding member of the Sociedade Portuguesa de Lógica (created January 2022)
-•	Founding member of the Société de Philosophie des Sciences, France (2002). 
-•	Member of the Advisory Board of the International Association for the Study of Controversies (IASC) (2016-on going).
-•	Member of the Administrative Board of the Société de Philosophie des Sciences (2012-2015).
-•	Member of the Association for Interdisciplinary Studies (AIS), USA (since 2019).
-•	Member of the Amonet. Associação Portuguesa de Mulheres Cientistas, Lisboa, Portugal (2019).
-•	Member of the Associação Bento Jesus Caraça, Lisboa (since 2018).
-•	Member of the Scientific Society for Woman in Philosophy Switzerland, SWIP CH (since 2017).
-•	Member of the Association Computability in Europe (CIE), Leeds, UK (since 2016).  
-•	Member of the International Association for the Study of Controversies (IASC) (since 2014).
-•	Member of the European Philosophy of Science Association (EPSA), Austria (2000).
-•	Member of the Associação Agostinho da Silva, Lisboa, Portugal (since 1996).   
-•	Member of the Sociéte d'Histoire et d'Épistémologie des Sciences du Langage (S.H.E.S.L.), Paris, France (1990).
-•	Member of the Henry Sweet Society for the History of Linguistic Ideas, Oxford, UK (since 1989). 
-•	Member of the Gesellschaften Studienkreis der Sprachwissenschafte, Münster, Germany (since 1987).
-•	Member of the Directory Board of the Sociedade Portuguesa de Filosofia, Lisboa (1983-1999).
-•	Member of the Sociedade Portuguesa de Filosofia, Lisboa (since its foundation in 1977).
+•	Founding member of the Société de Philosophie des Sciences, France (2002). ()
+•	Member of the Advisory Board of the **International Association for the Study of Controversies (IASC)** (2016-on going).
+•	Member of the Administrative Board of the **Société de Philosophie des Sciences** (2012-2015).
+•	Member of the **Association for Interdisciplinary Studies (AIS)**, USA (since 2019).
+•	Member of the **Amonet. Associação Portuguesa de Mulheres Cientistas**, Lisboa, Portugal (2019).
+•	Member of the **Associação Bento Jesus Caraça**, Lisboa (since 2018).
+•	Member of the **Scientific Society for Woman in Philosophy**, Switzerland, SWIP CH (since 2017).
+•	Member of the **Association Computability in Europe (CIE)**, Leeds, UK (since 2016).  
+•	Member of the **International Association for the Study of Controversies (IASC)** (since 2014).
+•	Member of the **European Philosophy of Science Association (EPSA)**, Austria (2000).
+•	Member of the **Associação Agostinho da Silva**, Lisboa, Portugal (since 1996).   
+•	Member of the **Sociéte d'Histoire et d'Épistémologie des Sciences du Langage (S.H.E.S.L.)**, Paris, France (1990).
+•	Member of the **Henry Sweet Society for the History of Linguistic Ideas**, Oxford, UK (since 1989). 
+•	Member of the **Gesellschaften Studienkreis der Sprachwissenschafte**, Münster, Germany (since 1987).
+•	Member of the Directory Board of the **Sociedade Portuguesa de Filosofia**, Lisboa (1983-1999).
+•	Member of the **[Sociedade Portuguesa de Filosofia**(https://www.spfil.pt/#:~:text=Fundada%20em%201977%2C%20a%20Sociedade%20Portuguesa%20de%20Filosofia,pugnando%20pela%20sua%20expans%C3%A3o%2C%20excel%C3%AAncia%2C%20ensino%20e%20divulga%C3%A7%C3%A3o)], Lisboa (since its foundation in 1977).
 
