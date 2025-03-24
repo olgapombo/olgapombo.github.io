@@ -3,7 +3,7 @@
 ## Research Centers
 
 * 2003 - Founder of  the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL), research unit financed by the Portuguese Foundation for Science and Technology (FCT).
-* 2003-20017 - Scientific coordinator of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL), since 2003 up to my retirement in January 2017.
+* 2003-20017 - Scientific coordinator of the **[Research Center for Philosophy of Science of the University of Lisbon” (CFCUL)](https://arquivo.pt/wayback/20140925030955/http://cfcul.fc.ul.pt/)**, since 2003 up to my retirement in January 2017.
 * 2003-2024 - Integrated Member of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL) (2003-2024).
 * 1996 - 2002 - Collaborator of the “Center of Philosophy University of Lisbon”, Faculty of Letters, University of Lisbon (1996-2002).
 * 1994-2003 - Integrated member of the “Research Center in Education” (CIEFCUL), Faculdade de Ciencias, University of Lisbon 
