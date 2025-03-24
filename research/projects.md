@@ -74,8 +74,8 @@
 * Member of the **European Philosophy of Science Association (EPSA)**, Austria (2000).
 * Member of the **Associação Agostinho da Silva**, Lisboa, Portugal (since 1996).   
 * Member of the **Sociéte d'Histoire et d'Épistémologie des Sciences du Langage (S.H.E.S.L.)**, Paris, France (since 1990).
-* Member of the **[Henry Sweet Society for the History of Linguistic Ideas]**(https://www.henrysweet.org), Oxford, UK (since 1989). 
+* Member of the **[Henry Sweet Society for the History of Linguistic Ideas](https://www.henrysweet.org)**, Oxford, UK (since 1989). 
 * Member of the **Gesellschaften Studienkreis der Sprachwissenschafte**, Münster, Germany (since 1987).
 * Member of the Directory Board of the **Sociedade Portuguesa de Filosofia**, Lisboa (1983-1999).
-* Member of the **[Sociedade Portuguesa de Filosofia]**(https://www.spfil.pt/), Lisboa (since its foundation in 1977).
+* Member of the **[Sociedade Portuguesa de Filosofia](https://www.spfil.pt/)**, Lisboa (since its foundation in 1977).
 
