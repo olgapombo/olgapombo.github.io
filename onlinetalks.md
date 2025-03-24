@@ -1,7 +1,7 @@
 ---
 title: Talks
 ---
-[Online talks], [Scientific conferences], [Public talks], [Debates and Round Tables], [Book Presentations], [Dissemination Talks]
+[Online talks], [Scientific conferences], [Public talks], [Debates and round tables], [Book presentations], [Dissemination talks]
 
 # Online talks
 
