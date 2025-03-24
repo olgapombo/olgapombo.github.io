@@ -1,8 +1,6 @@
----
-title: Curriculum
----
 
 # Curriculum
+
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Aggregation degree in “History and Philosophy of Science” also by the University of Lisbon. 
 
@@ -24,6 +22,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 
 
 ## Education and degrees
+
 * 2009 – Aggregation in "History and Philosophy of Science", University of Lisbon with the lesson “Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century).
 * 1998 - PhD in Philosophy of Education, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge).  
 * 1986 - Master in "Modern Philosophy”, Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language).
@@ -74,7 +73,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * Pombo, Olga (1998) - [Unidade da Ciência e Configuração Disciplinar dos Saberes. Contributos para uma Filosofia do Ensino](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/tese.htm), PhD dissertation in “History and Philosophy of Education”, University of Lisbon)
 
 
-### Books (as Author)
+### Books (Author)
 1.	Pombo, Olga (1987) [***Leibniz and the Problem of a Universal Language***](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf), Münster: Nodus Publikationen, 321 pp.  ISBN 3-89323-303-2.
 2.	Pombo, Olga (1993) with Teresa Levy and Henrique Guimarães, ***A Interdisciplinaridade: Reflexão e Experiência (Interdisciplinarity: Reflection and Experience***), Lisboa: Texto, 96 pp. ISBN 972-47-0462-9. (2nd revised and extended edition, 1994, 102 pp. ISBN 978-9724704623).
 3.	Pombo, Olga (1997) ***Leibniz e o Problema de uma Língua Universal*** (portuguese revised translation of “Leibniz and the Problem of a Universal Language”), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 320 pp. ISBN: 972-9493-29-4.
@@ -94,7 +93,7 @@ ISBN: 978-989-9077-76-8.
 16.	Pombo, Olga (2024), ***Deriva a partir de Rousseau (Derives Drifts from Rousseau***), Lisboa: Mariposa Azul (forthcoming)
 
 
-### Books (as Editor)
+### Books (Editor)
 1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1990) ***Antologia I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências***, Lisboa: Mathesis / DEFCUL, 177 pp. DL: 44162/90.
 2.	Olga Pombo; Teresa Levy; Henrique Guimarães; José Manuel Conceição (eds.) (1992) ***Antologia II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências***,  Lisboa: Mathesis / DEFCUL, 214 pp. DL: 56340/92.
 3.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (2006) ***Interdisciplinaridade. Antologia***, Porto: Campo das Letras, 303 pp. ISBN: 989-625-042-1.
@@ -289,14 +288,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 50.	Pombo, Olga (1984), **Pedagogia por Objectivos / Pedagogia com Objectivos**, *Logos*, n.º 1, Lisboa: Filosofia Aberta, pp. 43-7 
 
 
-### Journal guest editor
- 
-* Pombo, Olga (2015), **Axiomathes, Special Issue**, "Introduction to the special issue   Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference", *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-* Pombo, Olga (2012), **Kairos. Journal of Philosophy & Science, Dossier: Leibniz**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
-
-
 ### Book reviews
-
 1.	Pombo, Olga (2010), **A propósito de 'Relatividade e Física Clássica: Continuidade e Ruptura', apresentação de um livro de António Brotas**, *Gazeta de Física*, Vol. 33, nº 2, pp. 9-12.
 2.	Pombo, Olga (2008), **Todos os Homens por Natureza Desejam Conhecer**, in Barros Veloso, António, *Medicina e outras Coisas*, Lisboa: Gradiva, pp. 7-11. 
 3.	Pombo, Olga (1992), **Ana Luísa Janeira, 'Sistemas Epistémicos e Ciências: do Noviciado da Cotovia à Faculdade de Ciências de Lisboa” e José Lopes Ribeiro, 'O Edifício da Faculdade de Ciências. Quatro Séculos de Retratos Institucionais'**, *Revista de Educação*, vol. II, nº 1, Lisboa: DEFCUL, pp. 119-120.
@@ -317,7 +309,6 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 8.	Olga Pombo (ed.) (2001), **Educar / Ensinar. Materiais de estudo** (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), *6º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 84 pp.<http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno6> 
 9.	Olg a Pombo (ed.) (2005), **Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset** (anthology with introduction and revised translation), *7º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 40 pp.  <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno7>  
 
-
 ### Publications at exhibition
 * Pombo, Olga (2019), **A Bioarte de Isa Duarte Ribeiro**, *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
 * Pombo, Olga (2004), **From Thomas More to Rousseau**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
@@ -328,14 +319,15 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 
 	
 ### Journals' editor
-
 * Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
 * *Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
 * Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
-
+### Journal guest editor
+* Pombo, Olga (2015), **Axiomathes, Special Issue**, "Introduction to the special issue   Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference", *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), **Kairos. Journal of Philosophy & Science, Dossier: Leibniz**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
+  
 ### Book series editor 
-
 * Director of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).  
 * Director of the book series **Cadernos de Filosofia da Ciência**, Lisboa: CFCUL (13 volumes published). <https://cfcul.blogspot.com/p/cadernos-de-fc.html>, <https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm> 
 * Director of the book series **Documenta**, Lisboa: CFCUL (11 published volumes). 
