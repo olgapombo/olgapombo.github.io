@@ -26,13 +26,13 @@
 * 2013-2014 -  [**Afinal o que é a Ciência? / After all, what is Science?**](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project. (**More information [here](https://arquivo.pt/wayback/20240112200715/https://ciencia13-14.fc.ul.pt/?)**)
 * 2013-2015 - **Unity of Science**,  head of the CFCUL Research Group.
 * 2015-3/2016 - **Epistemology and Methodology**, head of the CFCUL Research Group .
-* 2015-2016 - **[Unity of Science and Interdisciplinarity](https://arquivo.pt/wayback/20171212131758/http://uci.fc.ul.pt/)**, head of the CFCUL Thematic Line. 
+* 2015-2016 - **[Unity of Science and Interdisciplinarity**](https://arquivo.pt/wayback/20171212131758/http://uci.fc.ul.pt/), head of the CFCUL Thematic Line. 
 * 2017- 2022 - [**Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities**](https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transversal/), head of the CFCUL Transversal Interdisciplinary Pole.
 
 ### Member and associate researcher of research projects 
 
 * Co-founder (with Joâo Lopes Alves, Zaza Carneiro de Moura, Ana Figueiredo and Filomena Mölder) of the research project **Jean-Jacques Rousseau**, Portuguese Society for Philosophy (1977 - 1979). 
-* Co-founder (with Teresa Levy and Henrique Guimaraes) of the research project **[Mathesis]**(https://webpages.ciencias.ulisboa.pt/~ommartins/mathesis/index.htm), Calouste Gulbenkian Foundation  (1989-1995).
+* Co-founder (with Teresa Levy and Henrique Guimaraes) of the research project **[Mathesis](https://webpages.ciencias.ulisboa.pt/~ommartins/mathesis/index.htm)**, Calouste Gulbenkian Foundation  (1989-1995).
 * Member of the international research project **Leibniz the Polemicist**, Institute for Advanced Studies, Hebrew University of Jerusalem, Israel (head by Marcelo Dascal) (1994-1998).
 * Member of the research project **O Ensino na Faculdade de Ciencias / Teaching at the Faculty of Sciences)**, CIE-FCUL(head by Maria Odete Valente),(1995-1998). 
 * Member of the research project, **A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais / The University of Lisbon. From the Idea of University to the Institutional Practices**, Rectory of the University of Lisbon (head by Maria Odete Valente) (1997-1999).
@@ -60,17 +60,17 @@
 
 ## Sientific societies
 
-•	President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica]()** (since 2022)
-•	Founding member of the Sociedade Portuguesa de Lógica (created January 2022)
+•	President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (since 2022)
+•	Founding member of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (created January 2022)
 •	Founding member of the Société de Philosophie des Sciences, France (2002). ()
-•	Member of the Advisory Board of the **International Association for the Study of Controversies (IASC)** (2016-on going).
+•	Member of the Advisory Board of the **[International Association for the Study of Controversies (IASC)](https://iasc.me/)** (2016-on going).
 •	Member of the Administrative Board of the **Société de Philosophie des Sciences** (2012-2015).
 •	Member of the **Association for Interdisciplinary Studies (AIS)**, USA (since 2019).
-•	Member of the **Amonet. Associação Portuguesa de Mulheres Cientistas**, Lisboa, Portugal (2019).
+•	Member of the **[Amonet. Associação Portuguesa de Mulheres Cientistas](https://amonetpt.wixsite.com/amonet)**, Lisboa, Portugal (2019).
 •	Member of the **Associação Bento Jesus Caraça**, Lisboa (since 2018).
 •	Member of the **Scientific Society for Woman in Philosophy**, Switzerland, SWIP CH (since 2017).
-•	Member of the **Association Computability in Europe (CIE)**, Leeds, UK (since 2016).  
-•	Member of the **International Association for the Study of Controversies (IASC)** (since 2014).
+•	Member of the **[Association Computability in Europe (CIE)](https://www.acie.eu/)**, Leeds, UK (since 2016).  
+•	Member of the **[International Association for the Study of Controversies (IASC)](https://iasc.me/)** (since 2014).
 •	Member of the **European Philosophy of Science Association (EPSA)**, Austria (2000).
 •	Member of the **Associação Agostinho da Silva**, Lisboa, Portugal (since 1996).   
 •	Member of the **Sociéte d'Histoire et d'Épistémologie des Sciences du Langage (S.H.E.S.L.)**, Paris, France (1990).
