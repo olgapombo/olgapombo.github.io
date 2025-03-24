@@ -1,8 +1,10 @@
 ---
-title: Interviews
+# Interviews
 ---
 
-# Online interviews 
+[Online interviews], [Televison and radio interviews], [Newspaper and magazine interviews]
+
+## Online interviews 
 
 * [**Pensare vuol dire Allargare i Confini**](https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini), Avvenire, 29 Maggio 2022, p.A 22 (presented by Giovanni Scarafile). 
 * [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 TV program "Vamos beber um café e falar sobre isso", interview with journalist José Navarro de Andrade, 24 January 2022 (on the second edition of the book ["Interdisciplinarity. Ambitions and Limits"](https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites))
@@ -33,7 +35,7 @@ title: Interviews
 * **Jean-Jacques Rousseau**, radio interview by Luísa Costa Gomes, Rádio Comercial, Lisboa, 6th May 1985.
 
   
-## Newspaper, magazine and newsletter interviews
+## Newspaper and magazine interviews
 
 * [**Três Perguntas a Olga Pombo àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem" (Three Questions to Olga Pombo, about the Book "From Word Civilization to Image Civilization")**](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf), *“Newsletter” of the FCUL*, 21 June, 2013. 
 *  [**About the Book "Círculo dos Saberes"**](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf), *Newsletter” of FCUL*, 24 October 2012. 
