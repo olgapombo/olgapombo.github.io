@@ -4,8 +4,6 @@
 
 ### [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
 International PhD Program funded by the Portuguese Foundation for Science and Technology (FCT), Faculty of Sciences, University of Lisbon (2014-2024). 
-Overall comment from FCT international Evaluation Panel 2013: "Exceptionally 
-strong with essentially no weaknesses”
 
 * Epistemology (2014-2016) 
 * Themes and Problems of Contemporary Philosophy of Science (2014-2016)
@@ -13,7 +11,7 @@ strong with essentially no weaknesses”
 * Doctoral Seminar I, II, III (2015)
 * Doctoral seminar I, II, III, IV (2016)
 * Doctoral seminar I, II, III, IV, V (2017-2024)
-* Science and Art. Image Theories, Representation and Production of the Real (2014-2019) (participation in the lecturing)
+* Science and Art. Image Theories, Representation and Production of the Real (2014-2019) 
 
 ### Master in “History and Philosophy of Science” 
 Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science (leaflet [**here**](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
