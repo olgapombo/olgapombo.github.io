@@ -2,7 +2,7 @@
 
 [Doctoral Program FCTAS], [University of Lisbon][][][]
 
-## University of Lisbon 
+## Teaching at the University of Lisbon 
 
 ### Doctoral Program  "Philosophy of Science, Technology, Art and Society" (FCTAS)
 International PhD Program funded by the Portuguese Foundation for Science and Technology (FCT), Faculty of Sciences, University of Lisbon (2014-2024)
@@ -23,15 +23,13 @@ Faculty of Sciences, University of Lisbon, Department of History and Philosophy 
 
 ### Minor in “History and Philosophy of Science”, 
 Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science
-* Science and Art (2009-2012) (**sillabus [here](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm)** 
+* Science and Art (2009-2014) (**sillabus [here](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm)** 
 * Science and Culture (2011-2012) 
 
 
 **Initiator of the teaching of "Science and Art" in Portugal**
 
 * [**Syllabus of the Science and Art Chair 2013-2014**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm),
-* **Syllabus of the Science and Art Chair 2015-2016**
-
 
 
 
