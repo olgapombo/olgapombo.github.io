@@ -45,7 +45,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 ## Academic positions and responsabilities 
 
 * 2016 - ongoing - Professor (retired with collaboration agreement) of the “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
-* 2014 – 2017 - Founder and Program-Director of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
+* 2014 – 2017 - Proponent and first Program-Director of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
 * 2011- Founder and Coordinator (with Ana Simões) of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
 * 2009 – 2016 - Professor with Aggregation of the “Department of History and Philosophy of Sciences”, FCUL, since the 9th June 2009 up until retirement, the 1st January 2016. 
 * 2007 - 2012 - President of the “Department of History and Philosophy of Sciences”, FCUL (elected 27 September 2007 until 3 July 2009, re-elected the 3rd July 2009 until 3 July 2012).
