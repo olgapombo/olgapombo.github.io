@@ -14,6 +14,10 @@ Shahid Rahman
 
 Prof de Coimbra
 
+Marcos Antônio Pires, [Resenha crítica: o insuportável brilho da escola de Olga Pombo](https://www.isciweb.com.br/revista/2374), *Revista ISCI, Revista Científica do Instituto Saber Ciências Integradas*, 8 (2), May 2021, ISSN 2446-8436, 
+
+
+
 Medina, Patricia; Pereira, M. Lustosa;  Paiva, José Feijó, [Estudo da ciência da educação fundamentada na interdisciplinaridade por Olga Pombo: study of the science of education based on interdisciplinarity by Olga Pombo: a review study](https://periodicos.fclar.unesp.br/iberoamericana/article/view/12113/8771), *RIAEE – Revista Ibero-Americana de Estudos em Educação*, Araraquara, 14 (4), pp. 2287-2300 (out/dez,2019), e-ISSN: 1982-5587. 
 DOI: https://doi.org/10.21723/riaee.v14i4.12113
 
