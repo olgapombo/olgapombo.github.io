@@ -14,6 +14,6 @@ Shahid Rahman
 
 Prof de Coimbra
 
-Medina, Patricia; Pereira, M. Lustosa;  Paiva, José Feijó, [Estudo da ciência da educação fundamentada na interdisciplinaridade por Olga Pombo: study of the science of education based on interdisciplinarity by Olga Pombo: a review study](file:///C:/Users/Olga%20Pombo/Downloads/12+12113-35280-1-SP+(revisado)+MV+MVI%20(2).pdf
-), RIAEE – Revista Ibero-Americana de Estudos em Educação*, Araraquara, v. 14, n. 4, pp. 2287-2300 (out/dez, 2019), e-ISSN: 1982-5587. 
+Medina, Patricia; Pereira, M. Lustosa;  Paiva, José Feijó, [Estudo da ciência da educação fundamentada na interdisciplinaridade por Olga Pombo: study of the science of education based on interdisciplinarity by Olga Pombo: a review study](https://periodicos.fclar.unesp.br/iberoamericana/article/view/12113/8771), RIAEE – Revista Ibero-Americana de Estudos em Educação*, Araraquara, v. 14, n. 4, pp. 2287-2300 (out/dez, 2019), e-ISSN: 1982-5587. 
 DOI: https://doi.org/10.21723/riaee.v14i4.12113
+file:///C:/Users/Olga%20Pombo/Downloads/12+12113-35280-1-SP+(revisado)+MV+MVI%20(2).pdf
