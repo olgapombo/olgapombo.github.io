@@ -35,7 +35,7 @@ Faculty of Sciences, University of Lisbon, Department of History and Philosophy 
 * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) - Opção livre FCUL (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
 * [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Temas%20da%20Fil%20CC%20contemp.pdf) (2013-2014)) 
 
-## Minor in Biochemistry 
+### Minor in Biochemistry 
 Faculty of Sciences, University of Lisbon, Department of Biochemistry
 * Philosophy of science (2001-2002) 
 
@@ -65,7 +65,7 @@ Faculty of Sciences, University of Lisbon
 * Filosofia do conhecimento cientifico, para professores do ensino secundario, registo de acreditação CCPFC/ACC61744/10 (1st semester 2011-2012)
 * Ciencia e Arte, para professores do ensino secundario, registo de acreditação CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
-## Teaching in other national universities 
+## Teaching in other universities 
  
 ### PhD
 * Doctoral Program in “Complexity Sciences”, invited faculty member of the joint academic program proposed by Faculty of Sciences, University of Lisbon and ISCTE Lisbon University Institute (2006-2019).
