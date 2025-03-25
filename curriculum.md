@@ -1,7 +1,7 @@
 
 # Curriculum
 
-[Education],[Appointments],[],[],[],[],[],[],[],[]
+[Education],[Research interests],[Academic Positions and responsabilties][Fellowships and research stays abroad],[],[],[],[],[],[],[]
 
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Aggregation degree in “History and Philosophy of Science” also by the University of Lisbon. 
@@ -22,7 +22,12 @@ She was invited to join the honour commission of the Portuguese “Reading Natio
 
 Recently,  she was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). 
 
-
+## Research interests 
+* Epistemology and Philosophy of Science - Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Model, Science and Art (Plato, Peirce, Poincaré, Neurath, Bachelard)
+* Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
+* History and Philosophy of Encyclopaedia, Hypertext and Internet
+* History and Philosophy of School, Philosophy of Teaching, Museum, Library, Book, Reading.
+  
 ## Education and degrees
 
 * 2009 – Aggregation in "History and Philosophy of Science", University of Lisbon with the lesson “Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century).
@@ -35,18 +40,11 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * 1970 – Bachelor in Pedagogical Sciences, Faculty of Letters, University of Lisbon.
 
 
-## Research interests 
-* Epistemology and Philosophy of Science - Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Model, Science and Art (Plato, Peirce, Poincaré, Neurath, Bachelard)
-* Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
-* History and Philosophy of Encyclopaedia, Hypertext and Internet
-* History and Philosophy of School, Philosophy of Teaching, Museum, Library, Book, Reading.
-  
-
 ## Academic positions and responsabilities 
 
 * 2016 - ongoing - Professor (retired with collaboration agreement) of the “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 * 2014 – 2017 - Proponent and first Program-Director of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
-* 2011- Founder and Coordinator (with Ana Simões) of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
+* 2011-2015 Founder and Coordinator (with Ana Simões) of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
 * 2009 – 2016 - Professor with Aggregation of the “Department of History and Philosophy of Sciences”, FCUL, since the 9th June 2009 up until retirement, the 1st January 2016. 
 * 2007 - 2012 - President of the “Department of History and Philosophy of Sciences”, FCUL (elected 27 September 2007 until 3 July 2009, re-elected the 3rd July 2009 until 3 July 2012).
 * 2007- 2012 - Member of the Scientific Council of FCUL.  
@@ -55,10 +53,9 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * 2003 - 2017 - [Director of the  “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL)](https://cfcul.ciencias.ulisboa.pt/equipa/olga-pombo/) since its foundation (2003) until my retirement (2017).
 * 2003 - Founder of the  “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL) 
 * 2002 - 2007 - Professor (with definitive nomination) of the “Department of Education”, FCUL, since the 26th March 2003. 
-* 1998 - 2007 - Member of the Scientific Commission of the “Department of Education”, FCUL. 
-* 1998 - 2002 - Professor of the “Department of Education”, FCUL.
+* 1998 -2007 - Member of the Scientific Commission of the “Department of Education”, FCUL. 
 * 1996 -1998 - Member of the Pedagogical Council of the “Department of Education”, FCUL.
-* 1988 - 1998 – Professor (invited) of the “Department of Education”, FCUL.
+* 1988 - 2002 – Professor of the “Department of Education”, FCUL.
 * 1987 - 1996 - Member of the Scientific Council of the “Department of Education”, FCUL.  
 * 1986 – 1988 - Member of the Assembly of Representatives of FCUL.
 * 1984 - 1988 – Professor (assistant) of the “Department of Education” (selected by public contest), FCUL.
@@ -67,6 +64,57 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * 1979 - 1980 – Full Teacher of Philosophy of D. Pedro V High School, Lisbon.  
 * 1973 - 1979 – Aggregated Teacher of Philosophy of D. Pedro V High School, Lisbon.
 * 1970 - 1972 – Assistant Teacher of Philosophy and History at M. Amália Vaz de Carvalho High School, Lisbon.
+
+## Fellowships and research stays abroad
+
+* PhD fellowship by the National Institute of Scientific Research (JNIC) (1989 – 1992)
+* PhD research stay at the Centre de Recherche Épistémologie Appliquée – CREA, University of Paris, France (1990-1991)
+* PhD research stay at Philosophy Institute, University of Leuven, Belgium (1991-1992)
+* Sabbatical fellowship by the Foundation for Science and Technology (FCT), Berlin, Germany (1 November 2004-31th September 2005)
+-- 
+* Research Fellow at Institute for Advanced Studies (invited by Marcelo Dascal), Hebrew University of Jerusalem, Israel (March - May 1995)
+* Research Fellow at Oxford University, Jesus College (invited by David Cram), Oxford, UK (March-June 1999)
+* Research Fellow at Institut für Philosophie (invited by Elisabeth Nemeth), Viena University, Austria (September-October 1999)
+* Research Fellow at Institut Wiener Kreis and Zentrum für Überfakultäre Forschung (invited by Friedrich Stadler), Vienna University, Austria (May 2000)
+* Research Fellow at University Lille 3 (invited by Shahid Rahman), France (January 2003)
+* Research Fellow at Catholic University of Rio Grande do Sul, Porto Alegre, and Caxias do Sul University, Brazil (invited by William de Siqueira Piauí), (June 2004).
+* Research Fellow at the Zentrum für Literaturforshung (invited by Sigrid Weigel), Berlin, Germany (January - July 2005)
+* Research Fellow at UERJ and PUC-Rio de Janeiro (invited by Deborah Danowsky), Brazil (November 2007)
+* Research Fellow at Federal University of Latin-American Integration (UNILA), (invited by Carlos A. Dos Santos), Foz do Iguaçu, Brazil, (December 2010).
+* Research Fellow at Goias Federal University (invited by Wagner Sanz) and University Sagrado Coração - Bauru/SP, Brazil, (October 2012).
+* Research Fellow at the Dipartimento di Ingegneria dell'Innovazione and Dipartimeno di Studi Umanistici, Lecce University (invited by Giovanni Scarafille), Italy, (May 2014).
+* Research Fellow at “Centro studi sulla natura, l’umano e l’unità del pensiero” (grant awarded by invited by Luciano Boi), Accademia Vivarium novum, Roma, Italy, (October – Novembre 2019).
+--
+* Short-Term Fellowship, invited by the Philosophy Institut, Hannover University, Germany (November 1988)
+* Short-Term Fellowship by Calouste Gulbenkian Foundation, Institut Universitaire Kurt Bosch, Suisse (September 1997)
+* Short-Term Fellowship (funded by CFCUL) Edinburg University, UK (September 2000)
+* Short-Term Fellowship at Zentrum für Überfakultäre Forschung, Vienna University (invited by Elisabeth Nemeth Austria) (May 2000)
+* Short-Term Fellowship at Valência Polithechnical University, (invited by Concha Roldan) Spain (March 2001) 
+* Short-Term Fellowship, invited by the Société de Philosophie des Sciences, Genève, Switzerland (March 2007).
+* Short-Term Fellowship at Sevilla University (invited by Fernando Soler), Sevilla, Spain, (March 2007). 
+* Short-Term Fellowship at Communication and Arts School, São Paulo University (invited by Marilda de Lara), São Paulo, Brazil (September-October 2008).  
+* Short-Term Fellowship at Faculty of Philosophy, Sevilla University (invited by Angel Napomuceno), Spain (February 2008).
+* Short-Term Fellowship, invited by Maison des Sciences de l' Homme, Paris, France (October 2009).  
+* Short-Term Fellowship (funded by CFCUL), Technische Universität Darmstadt, Germany (October 2010).
+* Short-Term Fellowship at Tel Aviv University (invited by Marcelo Dascal), Israel (November 2010).
+* Short-Term Fellowship (funded by CFCUL), at Université de Lorraine (Gerhard Heinzmann), Nancy, France, (July 2011).
+* Short-Term Fellowship, invited by Complutense University of Madrid, Spain (November 2011).  
+* Short-Term Fellowship, invited by Calouste Gulbenkian Foundation in France, Paris, France (December 2011).
+* Short-Term Fellowship at Ecole Normale Supérieure (invited by Claude Imbert), Paris (May 2012). 
+* Short-Term Fellowship at École Superieur d'Arts Villa Arson (invited by Caroline Challan Belval), Nice, France (2013). 
+* Short-Term Fellowship, invited by Faculty of Philosophy of the Complutense University of Madrid (November 2014). 
+* Short-Term Fellowship (funded by CFCUL), at Ionian University (Dalila Honorato), Corfu, Greece (May 2016)
+* Short-Term Fellowship at Pisa University and IASC Society (invited by Giovanni Scarafile), Pisa, Italy (October 2016). 
+* Short-Term Fellowship at Sevilla University (invited by Fernando Contreras Medina), Sevilla, Spain (November 2016).
+* Short-Term Fellowship at Poznań University (invited by Katarzina Gan-Krzywoszynska), Poland (May 2017). 
+* Short-Term Fellowship at University of Athens (invited by Stathis Psillos), Athens, Greece (Setember 2017).
+* Short-Term Fellowship at École des Mines (invited by Vincent Bontems), Paris (Mai 2018). 
+* Short-Term Fellowship at University of Sevilla, Spain (invited by Matthieu Fontaine) (October 2018).
+* Short-Term Fellowship (funded by CFCUL), Facultat de Filosofia, Universitat de Barcelona, Spain (September, 2019)
+* Short-Term Fellowship at Department of Humanities and Philosophy of the University of Florence (invited by Elena Castellani), Italy (October 2019) 
+* Short-Term Fellowship (funded by CFCUL), Amsterdam University, (October 2019). 
+* Short-Term Fellowship, funded by CNRS Besançon Observatory (grant awarded by invited by Sarah Carvallo), France (October 2022)
+
 
 ## Publications
 
