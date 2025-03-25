@@ -17,14 +17,23 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 
 ### Master in “History and Philosophy of Science”, 
 Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science (leaflet [**here**](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
-* Philosophy of Knowledge (2003-2004, 2005-2016) 
+
+* Philosophy of Scientific Knowledge (2003-2013, 2013-2016)
 * Epistemology and Philosophy of Science (2005-2008) 
-* Epistemology and Philosophy of Science of the XX century (2011-2016)
+* Epistemology and Philosophy of Science of the XX century (2005-2013, 2013-2016)
+* Temas e Problemas da Filosofia da Ciência Contemporânea (2013-2014)
 
 ### Minor in “History and Philosophy of Science”, 
 Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science
-* Science and Art (2009-2014) (sillabus [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))** 
-* Science and Culture (2011-2012) 
+* Science and Art (2009-2014) (sillabus [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
+* Science and Culture (2011-2012)
+
+* 
+* Ciência e Cultura - Licenciatura em Estudos Gerais (2012-2013)
+Temas e Problemas de Epistemologia e Filosofia da Ciência - Opção livre FCUL (cartaz)(2003-2006)
+Análise do Discurso Científico - Opção livre FCUL
+Textos e Conceitos de Filosofia - Opção livre FCUL
+Introdução à Hermenêutica - Opção 
 
 
 
