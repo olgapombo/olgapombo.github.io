@@ -6,6 +6,14 @@ Marina Lopez, *Devenires*, VIII - Mexico (Julho 2007) **[review](https://webpage
 
 António Guerreiro, *Expresso Cartaz* - Portugal (18.7.1998) **[review](https://arquivo.pt/wayback/20081022125858/http://aeiou.primeirasedicoes.expresso.pt/ed1342/c251.asp)** on Pombo, Olga, *Leibniz e o Problema de uma Língua Universal*, Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997. 
 
-Marco Silva. *Argumentos*, 5,10 - Fortaleza, Brazil (jul./dez. 2013), **[review](https://periodicos.ufc.br/argumentos/article/view/19037/29756)** on Pombo, Olga, *Leibniz e o Problema de uma Língua Universal*,  Lisboa:  Junta  Portuguesa  de  Investigação Científica e Tecnológica (JNICT), 1997. 
+Marco Silva, *Argumentos*, 5,10 - Fortaleza, Brazil (jul./dez. 2013), **[review](https://periodicos.ufc.br/argumentos/article/view/19037/29756)** on Pombo, Olga, *Leibniz e o Problema de uma Língua Universal*,  Lisboa:  Junta  Portuguesa  de  Investigação Científica e Tecnológica (JNICT), 1997. 
 
-•	Olga Pombo, Palavra e Esplendor do Mundo. Estudos sobre Leibniz, Lisboa: Fim de Seculo, 2010, 300 pp. (Recensão Expresso, 2011)
+•	????? Expresso, 2011, review on Pombo, Olga, *Palavra e Esplendor do Mundo. Estudos sobre Leibniz*, Lisboa: Fim de Seculo, 2010. 
+
+Shahid Rahman 
+
+Prof de Coimbra
+
+Medina, Patricia; Pereira, M. Lustosa;  Paiva, José Feijó, [Estudo da ciência da educação fundamentada na interdisciplinaridade por Olga Pombo: study of the science of education based on interdisciplinarity by Olga Pombo: a review study](file:///C:/Users/Olga%20Pombo/Downloads/12+12113-35280-1-SP+(revisado)+MV+MVI%20(2).pdf
+), *RIAEE – Revista Ibero-Americana de Estudos em Educação*, Araraquara, v. 14, n. 4, pp. 2287-2300 (out/dez, 2019), e-ISSN: 1982-5587. 
+DOI: https://doi.org/10.21723/riaee.v14i4.12113
