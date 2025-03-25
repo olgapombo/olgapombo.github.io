@@ -16,7 +16,7 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Science and Art. Image Theories, Representation and Production of the Real (2014-2019) (participation in the lecturing)
 
 ### Master in “History and Philosophy of Science”, 
-Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science (**leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)**
+Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science (leaflet [**here**](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)
 * Philosophy of Knowledge (2003-2004, 2005-2016) 
 * Epistemology and Philosophy of Science (2005-2008) 
 * Epistemology and Philosophy of Science of the XX century (2011-2016)
