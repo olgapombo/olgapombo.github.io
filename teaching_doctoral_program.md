@@ -2,10 +2,10 @@
 
 [Doctoral Program FCTAS], [University of Lisbon][][][]
 
-## Teaching at the University of Lisbon 
-
-### Doctoral Program  "Philosophy of Science, Technology, Art and Society" (FCTAS)
-International PhD Program funded by the Portuguese Foundation for Science and Technology (FCT), Faculty of Sciences, University of Lisbon (2014-2024)
+### [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
+International PhD Program funded by the Portuguese Foundation for Science and Technology (FCT), Faculty of Sciences, University of Lisbon (2014-2024). 
+       Overall comment from FCT international Evaluation Panel 2013: "Exceptionally 
+       strong with essentially no weaknesses”
 
 * Epistemology (2014-2016) 
 * Themes and Problems of Contemporary Philosophy of Science (2014-2016)
@@ -15,14 +15,16 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Doctoral seminar I, II, III, IV, V (2017-2024)
 * Science and Art. Image Theories, Representation and Production of the Real (2014-2019) (participation in the lecturing)
 
-### Master in “History and Philosophy of Science”, 
+### Master in “History and Philosophy of Science” 
 Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science (leaflet [**here**](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
+
 * [Philosophy of Scientific Knowledge](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) (2003-2013, 2013-2016)
 * [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2005-2013, 2013-2016)
 * Temas e Problemas da Filosofia da Ciência Contemporânea
 
-## Master in “Science Teaching”, 
+### Master in “Science Teaching”, 
 Faculty of Sciences, University of Lisbon, Department of Education 
+
 * Epistemology and Science Teaching (1986-1987; 1988-1989)
 * Production, Circulation and Transmission of Scientific knowledge (1987-1988)
 * Philosophy of Education (1985-86; 1988-1989; 1994-1995; 2002-03)
