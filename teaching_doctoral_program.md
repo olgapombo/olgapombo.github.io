@@ -24,7 +24,7 @@ Faculty of Sciences, University of Lisbon, Department of History and Philosophy 
 ### Minor in “History and Philosophy of Science”, 
 Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science
 * Science and Art (2009-2014) (**sillabus [here](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))** 
-* **Science and Culture** (2011-2012) 
+* Science and Culture (2011-2012) 
 
 
 
