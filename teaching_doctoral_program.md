@@ -4,8 +4,8 @@
 
 ### [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
 International PhD Program funded by the Portuguese Foundation for Science and Technology (FCT), Faculty of Sciences, University of Lisbon (2014-2024). 
-       Overall comment from FCT international Evaluation Panel 2013: "Exceptionally 
-       strong with essentially no weaknesses”
+Overall comment from FCT international Evaluation Panel 2013: "Exceptionally 
+strong with essentially no weaknesses”
 
 * Epistemology (2014-2016) 
 * Themes and Problems of Contemporary Philosophy of Science (2014-2016)
