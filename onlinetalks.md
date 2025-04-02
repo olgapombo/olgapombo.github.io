@@ -248,7 +248,7 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 * **Interacções arte e ciência**, invited speaker at the “Conversas na Aldeia Global - A Ciência não Morde”, put forward by the Oeiras Municipal Council, Biblioteca Municipal de Oeiras, Oeiras, 20 November 2008.  
 * **Diários gráficos como instrumento de conhecimento**, invited talk by the Project “Espaços do Desenho”, Fábrica de Braço de Prata, Lisboa, 12 March 2009.  
 * **Diderot, D' Alembert e o movimento enciclopedista**, invited speaker at the Câmara Municipal de Oeiras, “Ciclo de Conferencias sobre o Iluminismo”, Oeiras, 22 April 2009.  
-• **Afinal, o que é a escola?**, invited speaker at the “Conferências de  Lisboa / Lições Abertas” (Org. Rui Tavares), Câmara Municipal de  Lisboa,  Lisboa, 25 June 2009.  
+* **Afinal, o que é a escola?**, invited speaker at the “Conferências de  Lisboa / Lições Abertas” (Org. Rui Tavares), Câmara Municipal de  Lisboa,  Lisboa, 25 June 2009.  
 * **Apresentação de um projecto**, plenary talk at the International Colloquium «Da Civilização da Palavra à Civilização da Imagem», organized in the context of the Project “Image in science and Art”, Franco-Portuguese Institute, Lisboa, 10 - 11 May 2010.  
 * **Matemática e Lógica em H. Poincaré**, Project “Poincaré. Philosopher of Science”, FCUL, Lisboa, 23 June 2010.  
 * **Acerca da verdade**, invited talk of the National Etics Commission, Parque da Saúde, Lisboa, 5 November 2010. 
