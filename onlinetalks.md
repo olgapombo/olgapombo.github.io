@@ -143,7 +143,6 @@
 * **Epistemologia da interdisciplinaridade**, invited speaker at the “II Ciclo de Conferências e Debates Interdisciplinares”, organized by Instituto de Investigação Interdisciplinar (III UC) and the Centre of Interdisciplinary Studies of the XX century of the University of Coimbra - CEIS20, Coimbra, 28th April 2014.
 * **O projecto de uma sociologia filosófica da tecnologia**, invited speaker at the colloquium “Ciência e Humanismo sobre a obra de Hermínio Martins”, Universidade de Évora, 26-27 June 2014.
 * **O estado da arte da investigação em filosofia em Portugal**, invited speaker at the “1st Portuguese Congress of Philosophy”, organized by Portuguese Philosophy Society, Calouste Gulbenkian Foundation, Lisboa, 6 September 2014.
-* **Elogio da transmissão. Mais passado para o futuro; mais futuro para o passado**, invited speaker at the conference series "Escutar a cidade" put forward by Diocese de Lisboa, Forum Lisboa, 5 March 2015. <https://www.bing.com/videos/search?q=O+Elogio+Da+Transmissao+Olga+Pombo+Video+YouTube&&view=detail&mid=2F46F9C142680DDF45BC2F46F9C142680DDF45BC&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3DO%2BElogio%2BDa%2BTransmissao%2BOlga%2BPombo%2BVideo%2BYouTube%26FORM%3DVDMHRS>
 * **Filosofia e matemática**, invited speaker at the “2ª edition of the Jornadas de Matemática”, IST, Lisboa, 6th March 2015.
 * **Unity of science and interdisciplinarity**, plenary lecture to the “1st International Workshop of the Thematic Line Unity of Science and Interdisciplinarity: How to think Interdisciplinarity”, FCUL, 13 March 2015.
 * **Desafios contemporaneos da cartografia dos conhecimentos (Contemporary Challenges of Knowledge Cartographies)**, invited talk at the international Colloquium “Mind and Responsibility”, put forward by the Centro de Investigação em Direito Penal e Ciências Criminais, Faculdade de Direito da University of Lisbon, 21 e 22 May 2015.
@@ -202,7 +201,7 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 *	**Interdisciplinarity. Between past and present, towards a plural unity**, Keynote speaker at the international symposium “Interdisciplining Knowledge: Humanities, Sciences and Culture”, organized by the Centre for Interdisciplinary Studies of the University of Coimbra in partnership with the Municipality of Coimbra, Casa da Cidadania da Língua, Coimbra, 6-7 December 2023.
 *	**Para uma “Cartografia do Conceito de Criação**, Keynote speaker at the International interdisciplinar colloquium Invention and Imagination, put forward by CHAM (Center of Humanities of the Universidade Nova de Lisboa), Universidade Nova de Lisboa, 14-16 de dezembro de 2023.
 *	 **Interdisciplinarity today. Both a fact and a project**, invited speaker at the Special Session “Re-Imagining the Human. Ethics, Expression, Interdisciplinary Approaches, and the Evolving Anthropological Landscape”, 25th World Congress of Philosophy, Roma, 1-8 agosto 2024.
-*	 **Alice e a verdade (Alice and the truth)**, invited conference at the Faculty of Law, University of Lisbon, 14 March 2025
+*	 **Alice e a pós-verdade (Alice and the post-truth)**, invited conference at the Faculty of Law, University of Lisbon, 14 March 2025
 *	**to be given**, Keynote speaker at the 6º Congresso Internacional de Filosofia, organized by  Sociedade Portuguesa de Filosofia, Faculdade de Letras da Universidade de Lisboa. 1, 2, 3  September, 2025. (foreseen)
 
 
@@ -235,7 +234,7 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 * Notas à margem do projecto "Escolas Inclusivas",  2ª Sessão do "Ciclo de Conferências Agostinho da Silva", FCUL, 4 May 1999.  
 * Sobre a emergência da universidade mundial electrónica. Notas à margem da conferência de Parker Rossman, Colloquium "From the Idea of University to the University of Lisbon", Rectory of the University of Lisbon, 30 November 1999.  
 * Curriculum: critérios de legitimação, invited speaker at the "Jornadas Pedagógicas do Pinhal", Centro de Formação do Pinhal, Municipal Auditorium of Proença-a-Nova, 23 March 2000.    
-* A escola como memória do futuro, invited speaker Colloquium "Homenagem a Agostinho da Silva", organized by Associação Agostinho da Silva, Sala do Arquivo, Paços do Concelho, Lisboa, 14-15 February 2001.  
+* A escola como memória do futuro, invited speaker Colloquium "Homenagem a Agostinho da Silva", organized by Associação Agostinho da Silva, Sala do Arquivo, Paços do Concelho, Lisboa, 14-15 February 2001. 
 * Da autoridade ao autoritarismo, invited speaker Seminário "Autoridade, Responsabilidade e Indisciplina nas Escolas", organized by Associação Nacional dos Professores do Ensino Secundário, University School of Communication, Lisboa, 15 -16 February 2001.  
 * Hipertexto como limite da ideia de enciclopédia, Seminário do Projecto Enciclopédia e Hipertexto, FCUL, 4 December 2002.      
 * Biblioteca e escola. O esplendor de uma articulação, invited speaker at the "Jornadas de Bibliotecas Escolares do Concelho de Vila Franca de Xira: Literacias, Conhecimentos e Bibliotecas Escolares", Câmara Municipal Vila Franca de Xira, 30-31 October 2003. 
@@ -249,25 +248,19 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 * Interacções arte e ciência, invited speaker at the “Conversas na Aldeia Global - A Ciência não Morde”, put forward by the Oeiras Municipal Council, Biblioteca Municipal de Oeiras, Oeiras, 20 November 2008.  
 * Diários gráficos como instrumento de conhecimento, invited talk by the Project “Espaços do Desenho”, Fábrica de Braço de Prata, Lisboa, 12 March 2009.  
 * Diderot, D' Alembert e o movimento enciclopedista, invited speaker at the Câmara Municipal de Oeiras, “Ciclo de Conferencias sobre o Iluminismo”, Oeiras, 22 April 2009.  
-  
 • Afinal, o que é a escola?, invited speaker at the “Conferências de  Lisboa / Lições Abertas” (Org. Rui Tavares), Câmara Municipal de  Lisboa,  Lisboa, 25 June 2009.  
 * Apresentação de um projecto, plenary talk at the International Colloquium «Da Civilização da Palavra à Civilização da Imagem», organized in the context of the Project “Image in science and Art”, Franco-Portuguese Institute, Lisboa, 10 - 11 May 2010.  
 * Matemática e Lógica em H. Poincaré, Project “Poincaré. Philosopher of Science”, FCUL, Lisboa, 23 June 2010.  
 * Acerca da verdade, invited talk of the National Etics Commission, Parque da Saúde, Lisboa, 5 November 2010. 
 * Ciência e interdisciplinaridade, invited speaker at “Jornadas interdisciplinares 2011”, put forward by the Students Association of Psychology and Educational Sciences of the University of Coimbra, Coimbra, 22 March 2011.
 * O livro como extravagância, invited speaker at the “Jornadas Kantianas”, put forward by the Oporto Association, Lisboa, 16 March 2012.  
-* Qual a diferença entre ciência e filosofia?, invited speaker of the "Evolution Day", organized by CFCUL / Ciência Viva, Knowledge Pavilion,  Lisboa, 16 March 2013. 
 * Que faz um filósofo da ciência?, invited speaker to the conference series "Encontro com o Cientista", organized by Ciência Viva, Knowledge Pavilion,  Lisboa, 8th November 2013.
-... A epistemologia e as ciências, invited speaker at the “Autumn Talks of the Psychiatry Service of the Santa Maria Hospital”, Hospital de Santa Maria, Lisboa, 21 October 2014.
+* A epistemologia e as ciências, invited speaker at the “Autumn Talks of the Psychiatry Service of the Santa Maria Hospital”, Hospital de Santa Maria, Lisboa, 21 October 2014.
 * Elogio da transmissão. Mais passado para o futuro; mais futuro para o passado, invited speaker at the conference series "Escutar a cidade" put forward by Diocese de Lisboa, Forum Lisboa, 5 March 2015.
 <https://www.bing.com/videos/search?q=O+Elogio+Da+Transmissao+Olga+Pombo+Video+YouTube&&view=detail&mid=2F46F9C142680DDF45BC2F46F9C142680DDF45BC&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3DO%2BElogio%2BDa%2BTransmissao%2BOlga%2BPombo%2BVideo%2BYouTube%26FORM%3DVDMHRS>
 * In memoriam of Prof. Herminio Martins, invited speaker (opening session) of the “PhD Program Philosophy of Science, Technology, Art and Society”, FCUL, 5 October 2015.
-* A infinitude da queda no 'Teeteto' de Platão, invited speaker at the a conference put forward by the project ‘Diálogos’ of the Calouste Gulbenkian Foundation, FCUL, 29 October 2015.
-* Ciência e arte. Proximidades e diferencas. invited speaker at a conference put forward by the project ‘Dialogos” of the Calouste Gulbenkian Foundation, Escola Superior de Artes e Design, Caldas da Rainha, 24 October 2017. 
-* O projecto epistemológico de Piaget, “Permanent Seminar of Philosophy of Science” dedicated to Jean Piaget, FCUL, 9 October 2018 (poster)
+* O projecto epistemológico de Piaget, “Permanent Seminar of Philosophy of Science” dedicated to Jean Piaget, FCUL, 9 October 2018 
 * Homens ou cidadãos, invited speaker at the Conference “Philosophy and Human rights” put forward by the Portuguese Association of Philosophy Teachers (APF), Museu Monográfico de Conimbriga, Conimbriga, 9 March 2019.
-* Interdisciplinaridade. Desafio e destino da universidade, invited speaker at the Dia da Faculdade de Medicina, Faculdade of Medicina, Universidade do Porto, Porto, 7 Mars, 2022 
-* A interdisciplinaridade e o futuro da Universidade, invited speaker at the “Ciclo de Conferências FEP 70 anos” put forward by the Faculdade de Economia of the University of Oporto, Salão Nobre da Faculdade de Economia da Universidade do Porto, 4 December, 2023
 * Interdisciplinaridade e Cultura Integral, invited speaker at the series of conferencies put forward by the Associação Bento Jesus Caraça, Biblioteca Municipal Palácio Galveias, Lisbon, 18 January 2024. 
 * Sobre o conceito de Biblioteca (On the concept of Library),  Biblioteca Espaço Cultural Cinema Europa, Lisbon, 9 January 2024.
 * Progressos e Regressos (Progresses and returns),  Biblioteca Espaço Cultural Cinema Europa, Lisbon, 5 March 2024. 
@@ -278,7 +271,9 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 * O Discurso sobre a Origem da Desigualdade entre os Homens (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men (1754). Philosophy, Fiction, Politics and Human Rights), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 3 December 2024.
 * A Alice no País das Maravilhas (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 7 de January 2025.
 * Os Espaços Outros (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 4 February 2025. 
-* A infinitude da queda no 'Teeteto' de Platão, invited speaker at a conference put forward by the project “Dialogos” of the Calouste Gulbenkian Foundation, Faculty of Letters, Coimbra University, 11 April 2016.
+* **O Princípio Responsabilidade (1979) de Hans Jonas (filosofia, ética, futuro e ecologia (The Principle of Responsibility (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 11 March 2025.
+* **Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência (You have to change your life (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 1 April 2025.
+* **Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (About the New (2014) by Boris Groys. Philosophy, Novelty, Creation**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 6 May 2025.
 
 
 ## Debates and round tables
