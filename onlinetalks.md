@@ -212,7 +212,7 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 * Análise crítica da pedagogia por objectivos, Congresso de "Pedagogia por Objectivos" promoted by Piaget Institute, Rectory of the  University of Lisbon, 7 February 1983.  
 * Rousseau no feminino, invited speaker at the Azores University, Ponta Delgada, 16 May 1983.  
 * Explicação e objectividade em contexto escolar, invited speaker at the colloquium "Objectividade em ciências", Auditório da Casa da Cultura das Caldas da Rainha, 27 May 1986. 
-* Para uma fenomenologia do acto educativo, invited speaker at colloquium "Institution and Philosophy", Eng. António de Almeida Foundation, Oporto, 8 November 1986.  
+* Para uma fenomenologia do acto educativo, invited speaker at colloquium "Institution and Philosophy", Eng. António de Almeida Foundation, Oporto, 8 November 1986. 
 * Investigação e ensino: articulações, invited speaker at the conference “A Problemática das Licenciaturas em Ensino”, Rectorship of the University of Lisbon, 19-20 February, 1987
 * Hannah Arendt ou o papel do filósofo face à crise da educação, invited speaker at the "First Meeting on Philosophy in Non/Philosophical Contexts", Aveiro Cifop, 7-8 March 1987.  
 * Problemas da formação de professores de filosofia, invited speaker at the Philosophy Teachers Association "Second Philosophy Meeting of Central Region", Paulo Quintela Theater, Faculty of Letters, Coimbra, 30 April 1987.   
