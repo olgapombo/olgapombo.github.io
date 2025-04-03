@@ -19,8 +19,7 @@
 * **Conhecimento e medida. Prolegómenos a uma epistemologia da medida**,  Museum of Metrology, Instituto Português de Qualidade (IPQ), Monte da Caparica, 7 March 2017.
 <http://www1.ipq.pt/PT/IPQ/historico_eventos/Documents/2017/Sistema-Metrico-evento/OlgaPombo.pdf>
 * [**A atitude cientifica. O que é a ciência e o que não é**](https://www.facebook.com/ffms.pt/videos/801222530297548), (3.01.03), Foundation Francisco Manuel dos Santos, Universidade de Aveiro, 8 October 2019.
-* [**Utopia Tecnológica**](https://www.youtube.com/watch?v=v0P5CvZ0T8s) (51.20), debate on “European Utopia: the power of imagination and the imperatives of the future”, Fundação Serralves, Porto, 6 February 2019. (see also the newsletter: 
-<https://forumdemosnet.wordpress.com/2019/02/13/a-utopia-tecnologica/>)
+* [**Utopia Tecnológica**](https://www.youtube.com/watch?v=v0P5CvZ0T8s) (51.20), debate on “European Utopia: the power of imagination and the imperatives of the future”, Fundação Serralves, Porto, 6 February 2019. (newsletter here: <https://forumdemosnet.wordpress.com/2019/02/13/a-utopia-tecnologica/>)
 * [**Alan Turing: Cientista Universal**](https://www.youtube.com/watch?v=3L1G9TR3tCE), (30.25), book launch promoted by Universidade do Minho Editora, Braga, 14 July 2020.  
 * [**Oralidade, escrita e tecnologia**](https://www.facebook.com/watch/live/?ref=watch_permalink&v=992927447849286), at the “V International ISPSN Debates”, Angola, 12 October 2020.
 * [**Que fazer hoje com a nossa escola de ontem?**](https://www.youtube.com/watch?v=TPgE23HCRkc), at the Universidade Federal do Pará, Brazil, 13 April 2021.
