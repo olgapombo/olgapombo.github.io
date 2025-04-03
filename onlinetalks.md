@@ -10,7 +10,6 @@
 * **Interdisciplinary Changes for the Study of Emergent Phenomena**, at “Encontros da Arrábida” (ISCTE), 7-9 June 2009. < https://vimeo.com/5788444>
 * [**Models and Representations of Knowledge Organization**](https://vimeo.com/15233007), at “ECCS'10 European Conference on Complex Systems”, 2010. 
 * [**Filosofia, Educação e Interdisciplinaridade**](https://www.youtube.com/watch?v=2kcCznweujs), Federal University of Goiás (UFG) and Pontifícia Universidade Católica de Goiás (PUC), Goias, 9 October 2012. 
-* Welcoming words at the “International Conference on Evolutionary Patterns”, organized by AEPEE-Lab, Calouste Gulbenkian Foundation, Lisboa, 2013.< https://www.youtube.com/watch?v=EgAsN8Pwqkc>
 * [**Epistemology of Interdisciplinarity**](https://www.youtube.com/watch?v=jLKlGGCxf_Y), Faculty of Engineering of Innovation, Lecce, Italy, 6 - 9 May 2014. 
 * [**Desafios contemporaneos da cartografia dos conhecimentos**](https://www.youtube.com/watch?v=q_RK0CeQHO), International Colloquium “Mind and Responsibility”, Faculdade de Direito da University of Lisbon, 21 e 22 May 2015. 
 * [**Elogio da transmissão. Mais passado para o futuro; mais futuro para o passado**](https://www.bing.com/videos/search?q=O+Elogio+Da+Transmissao+Olga+Pombo+Video+YouTube&&view=detail&mid=2F46F9C142680DDF45BC2F46F9C142680DDF45BC&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3DO%2BElogio%2BDa%2BTransmissao%2BOlga%2BPombo%2BVideo%2BYouTube%26FORM%3DVDMHRS), conference series "Escutar a cidade" forward by Diocese de Lisboa, Forum Lisboa, 5 March 2015.
