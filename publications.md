@@ -1,5 +1,6 @@
 # Publications
-[online publications][Dissertations] [Books (author)][Books (editor)][Chapters][Encyclopaedia Entries][Articles][Book reviews][Scholar brochures][Room Texts of exhibitions][Sites, Webpages][Book series editor][]Journals editor][Journal guest editor]
+[Online publications][Dissertations] [Books (author)][Books (editor)][Chapters][Encyclopaedia Entries][Articles][Book reviews][Scholar brochures][Room Texts][Sites, Webpages][Book series][Journals editor][Journals guest editor]
+
 
 ## Online publications
 
