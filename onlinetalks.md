@@ -202,7 +202,7 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 *	**to be given**, Keynote speaker at the 6º Congresso Internacional de Filosofia, organized by  Sociedade Portuguesa de Filosofia, Faculdade de Letras da Universidade de Lisboa. 1, 2, 3  September, 2025. (foreseen)
 
 
-## Public Talks
+## Public Talks 
 
 * **Deriva a partir de Rousseau**, Portuguese Philosophy Society,  Lisboa, 24 May 1979.  
 * **Do texto no ensino da Filosofia**,"Segundo Encontro Nacional de Professores de Filosofia", Fundação Calouste Gulbenkian,  Lisboa, 15 February 1980.  
@@ -226,7 +226,7 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 * **Integração interdisciplinar. Categorias de análise**, with Teresa Levy and Henrique Guimarães,  Symposium "Novas Perspectivas no Ensino das Ciências e da Matemática", Calouste Gulbenkian Foundation, 23-25 June 1993.  
 * **A interdisciplinaridade como exigência curricular**, invited speaker at the "Primeira Conferência sobre Interdisciplinaridade no Ensino: Reflexões e Práticas sobre a Área Escola", Auditório Eng. Eurico de Melo, St. Tirso, 6 May 1994.  
 * **Estaremos a caminho para uma escola de sucesso?**, invited speaker at the "Encontro Regional de Professores de Matemática", Forum da Maia, 13 September 1995.
-* **A interdisciplinaridade no ensino e na investigação**, invited speaker at the "Ciclo de Interdisciplinaridade. Saber de Risco Sísmico com o Mínimo de Risco Ambiental", FCUL, Lisboa, 19 December 1996.  
+* **A interdisciplinaridade no ensino e na investigação**, invited speaker at the "Ciclo de Interdisciplinaridade. Saber de Risco Sísmico com o Mínimo de Risco Ambiental", FCUL, Lisboa, 19 December 1996. 
 * **Recordar Agostinho da Silva: 10 anos depois**, "Ciclo de Conferências Agostinho da Silva", FCUL, Lisboa, 17 December 1998.
 * **Notas à margem do projecto "Escolas Inclusivas"**,  2ª Sessão do "Ciclo de Conferências Agostinho da Silva", FCUL, 4 May 1999.  
 * **Sobre a emergência da universidade mundial electrónica. Notas à margem da conferência de Parker Rossman**, Colloquium "From the Idea of University to the University of Lisbon", Rectory of the University of Lisbon, 30 November 1999.  
@@ -248,10 +248,10 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 * **Afinal, o que é a escola?**, invited speaker at the “Conferências de  Lisboa / Lições Abertas” (Org. Rui Tavares), Câmara Municipal de  Lisboa,  Lisboa, 25 June 2009.  
 * **Apresentação de um projecto**, plenary talk at the International Colloquium «Da Civilização da Palavra à Civilização da Imagem», organized in the context of the Project “Image in science and Art”, Franco-Portuguese Institute, Lisboa, 10 - 11 May 2010.  
 * **Matemática e Lógica em H. Poincaré**, Project “Poincaré. Philosopher of Science”, FCUL, Lisboa, 23 June 2010.  
-* **Acerca da verdade**, invited talk of the National Etics Commission, Parque da Saúde, Lisboa, 5 November 2010. 
+* **Acerca da verdade**, invited talk at the National Etics Commission, Parque da Saúde, Lisboa, 5 November 2010. 
 * **Ciência e interdisciplinaridade**, invited speaker at “Jornadas interdisciplinares 2011”, put forward by the Students Association of Psychology and Educational Sciences of the University of Coimbra, Coimbra, 22 March 2011.
 * **O livro como extravagância**, invited speaker at the “Jornadas Kantianas”, put forward by the Oporto Association, Lisboa, 16 March 2012.  
-* **Que faz um filósofo da ciência?**, invited speaker to the conference series "Encontro com o Cientista", organized by Ciência Viva, Knowledge Pavilion,  Lisboa, 8th November 2013.
+* **Que faz um filósofo da ciência?**, invited speaker at the conference series "Encontro com o Cientista", organized by Ciência Viva, Knowledge Pavilion,  Lisboa, 8th November 2013.
 * **A epistemologia e as ciências**, invited speaker at the “Autumn Talks of the Psychiatry Service of the Santa Maria Hospital”, Hospital de Santa Maria, Lisboa, 21 October 2014.
 * **Elogio da transmissão. Mais passado para o futuro; mais futuro para o passado**, invited speaker at the conference series "Escutar a cidade" put forward by Diocese de Lisboa, Forum Lisboa, 5 March 2015.
 <https://www.bing.com/videos/search?q=O+Elogio+Da+Transmissao+Olga+Pombo+Video+YouTube&&view=detail&mid=2F46F9C142680DDF45BC2F46F9C142680DDF45BC&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3DO%2BElogio%2BDa%2BTransmissao%2BOlga%2BPombo%2BVideo%2BYouTube%26FORM%3DVDMHRS>
