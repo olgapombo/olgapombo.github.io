@@ -1,7 +1,7 @@
 
 # Curriculum
 
-[Education],[Research interests],[Academic positions and responsabilties][Fellowships and research stays abroad],[Publications],[],[],[],[],[],[]
+[Education]  [Research interests]  [Academic positions and responsabilties]  [Fellowships and research stays]  [Publications]  []  []  []  []  []  []
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Aggregation degree in “History and Philosophy of Science” also by the University of Lisbon. 
 
@@ -397,8 +397,8 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the advisory board of the journal [Logos and Episteme. An International Journal of Epistemology](https://www.pdcnet.org/logos-episteme/Editorial-Team) (ISSN 2069-0533), Romania Academy (since 2010)
 * Member of the scientific board of the journal [RHV. An International Journal of Philosophy](https://revistas.uv.cl/index.php/RHV/about/editorialTeam), Instituto de Filosofia, Faculdade de Humanidades, Valparaiso, Chile
 * Member of the scientific board of the journal [Cuadernos de Lógica, Epistemologia y Lenguaje](https://www.collegepublications.co.uk/cuadernos/), College Publication, UK (since 2007)   
-* Member of the editorial council of the journal [Contexto e Educação](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil (since 2006).  
-* Member of the consulting board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (since 2000).  
+* Member of the editorial board of the journal [Contexto e Educação](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil (since 2006).  
+* Member of the consulting board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (since 2000-2002).  
 * Member of the editorial board of the journal **Argumento. Revista Quadrimestral de Filosofia**, edited by Editora Cosmos, Lisboa (1990-1993).  
 * Member of the editorial board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
 * Member of the editorial board of the journal **Filosofia**, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
