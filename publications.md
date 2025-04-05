@@ -287,7 +287,7 @@ https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illi
 * Olga Pombo (ed.) (2005), **Três Textos sobre Educação para um Mundo Difícil: Bertrand Russell e Ortega Y Gasset** (anthology with introduction and revised translation), 7º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 40 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno7
 
 
-## Publications at exhibition
+## Room texts for exhibitions
 
 * Pombo, Olga (2019), **A Bioarte de Isa Duarte Ribeiro**, (per)cursos exhibition by Isa Duarte Ribeiro, Mora: Casa da Cultura.
 * Pombo, Olga (2004), **From Thomas More to Rousseau**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
