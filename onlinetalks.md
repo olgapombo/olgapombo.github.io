@@ -27,7 +27,7 @@
 * [**Ciencia e Arte. Afinidades Admiráveis e Diferenças Sublimes**](https://www.youtube.com/watch?v=Bq12-IleNRM&list=PLBJEkvYhpHiYVdxEBNZ3Xq5dTitATsOcw&index=13&t=229s), "FICA, International Science Festival", Oeiras, 13 October 2021.
 * [**The cognitive nature of interdisciplinarity**](https://www.youtube.com/watch?v=GDT6eFVRNVE), I International Simposio “Integrated Teaching in Specific Didactics: Potentialities and Challenges of Transdisciplinary Integration”, University of Burgos, Spain, 10 November 2021
 * [**A Escola e os Grandes Desafios da Contemporaneidade**](https://www.youtube.com/watch?v=q3TqyHFEMyg),  "Grupo de Estudos e Pesquisas em Políticas Públicas e Formação", Universidade Federal de Viçosa, Brazil, 10 February 2022.
-* [**Porquê Celebrar Hoje o "Protagoras" de Platão** (Why to Celebrate Today Plato's Protagoras)](https://www.facebook.com/watch/live/?ref=watch_permalink&v=704392381189858), (52.10)  "What if virtue is not possible to be taught? Socrates and Protagoras in tribute to Prof. Dr. Olga Pombo”, Instituto Técnico Privado de Saúde Numa I do Bailundo (ITSNI), Angola, 5 January 2022.
+* [**Porquê Celebrar Hoje o "Protagoras" de Platão** (Why to celebrate Plato's "Protagoras" today?)](https://www.facebook.com/watch/live/?ref=watch_permalink&v=704392381189858), (52.10)  "What if virtue is not possible to be taught? Socrates and Protagoras in tribute to Prof. Dr. Olga Pombo”, Instituto Técnico Privado de Saúde Numa I do Bailundo (ITSNI), Angola, 5 January 2022.
 * [**O Lugar de Leibniz na História da Lógica**](https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos),  “Colóquio de Lógica”, Sociedade Portuguesa de Lógica, Instituto Superior Técnico University of Lisbon, Departament of Mathematics, 15 November 2022.
 
   
