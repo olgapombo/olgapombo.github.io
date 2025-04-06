@@ -300,8 +300,8 @@
 * **Por que razão marcho pela ciência?**, invited speech in Marcha pela Ciência /March for Science, Largo do Carmo,  Lisboa, 22th April, 2017 (**[here](https://www.youtube.com/watch?v=hgTy1DrLLd0)**)
 * **Ciência, democracia e escola**, invited talk at the round table on “Science and Education”, in the context of Ulisses Conferences 2018. European Democracy: an idea whose time has arrived, Cultural Center of Belem, Lisboa, 7 April 2018.
 * **O saber n/do século XXI**, invited talk at the debate on “O saber n/do século XXI” in the context of the program “My Research 2018” put forward by Universidade Católica de Lisboa, 13th November 2018.
-* **Utopia tecnológica**, invited talk at a debate on “Utopia Tecnológica – A inovação ao serviço da Humanidade”, in the context of the series “European Utopia: the power of imagination and the imperatives of the future”, held at Fundação Serralves, Porto, 6 February 2019 (**[here](https://www.youtube.com/watch?v=v0P5CvZ0T8s)**) (51.43)
-https://www.youtube.com/watch?v=v0P5CvZ0T8s&list=PLXKRQSlglfTUbOO9Ob7zmWn_JQX5VpaQZ&index=5&t=4309s
+* **Utopia tecnológica**, invited talk at a debate on “Utopia Tecnológica – A inovação ao serviço da Humanidade”, in the context of the series “European Utopia: the power of imagination and the imperatives of the future”, held at Fundação Serralves, Porto, 6 February 2019 (**[here](https://www.youtube.com/watch?v=v0P5CvZ0T8s&list=PLXKRQSlglfTUbOO9Ob7zmWn_JQX5VpaQZ&index=5&t=4309s)**)(51.43)
+* (https://www.youtube.com/watch?v=v0P5CvZ0T8s)**) 
 https://forumdemosnet.wordpress.com/2019/02/13/a-utopia-tecnologica/
 * **University and interdisciplinarity**, participation at the international round table on “Interdisciplinar Studies at the University - the case of Complex Systems Science,” organized by ISCTE-IUL/FCUL, in the context of the Doctoral Program on Complexity Sciences, ISCTE, 12 June 2019.
 * **What was, is and will be technology**, participation at the debate of the “Talk a Bit 2020” conference, organized by the master in “Informatics, Engineering and Computation”, of the Faculdade de Engenharia, Universidade do Porto, 11 January 2020.
