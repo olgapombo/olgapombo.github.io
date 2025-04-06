@@ -5,7 +5,7 @@
 
 ## Online talks
 
-* [**Filosofia, Física e a Unidade da Ciência**](https://www.youtube.com/watch?v=BYRnpdQxbhU), Conference Cycle “Física sem Fronteiras", Portuguese Physics Society and Physics Department of the Universitdade do Porto, Oporto, 7 May 2005.
+* [**Filosofia, Física e a Unidade da Ciência**](https://www.youtube.com/watch?v=BYRnpdQxbhU))(Philosophy, Physics and the Unity of Science), Conference Cycle “Física sem Fronteiras", Portuguese Physics Society and Physics Department of the Universitdade do Porto, Oporto, 7 May 2005.
 * **Darwin and the Scientific Illustration**, research project “Image in Science and Art” in collaboration with Ciência Viva, Knowledge Pavilion, Lisbon, 21-22 April 2009 ([here](http://www.cvtv.pt/imagens/index.asp?id_video=293)).
 * **Interdisciplinary Changes for the Study of Emergent Phenomena**, “Encontros da Arrábida” (ISCTE), 7-9 June 2009 ([here](https://vimeo.com/5788444)).
 * [**Models and Representations of Knowledge Organization**](https://vimeo.com/15233007), at “ECCS'10 European Conference on Complex Systems”, 2010. 
