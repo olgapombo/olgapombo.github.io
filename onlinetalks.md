@@ -31,7 +31,7 @@
 * [**O Lugar de Leibniz na História da Lógica**](https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos),  “Colóquio de Lógica”, Sociedade Portuguesa de Lógica, Instituto Superior Técnico University of Lisbon, Departament of Mathematics, 15 November 2022.
 
   
-## Scientific conferences (invited and keynote)
+## Scientific conferences 
 
 * **The leibnizian theory of the representativity of the sign**,  “IV Internationale Konferenz zur Geschichte der Sprachwissenschaften”, Trier, Germany, 26 August 1987.  
 * **La théorie leibnizienne de la pensée aveugle en tant que perspective sur quelques des apories linguistiques de la modernité**, invited speaker at the “International colloquium Readings of Modernity”, Franco-Portuguese Institut, Lisboa, 27 May 1987.
