@@ -1,5 +1,5 @@
 
-# Talks / Conferences
+# Talks 
 
 [Online talks]  [Scientific conferences]  [Public talks]  [Debates and round tables]  [Book presentations] [Dissemination talks]
 
@@ -302,10 +302,9 @@ https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos
 * **O futuro da investigação filosófica em Portugal**, participation at the round table organized in the context of the 2nd Congresso Português de Filosofia, Universidade de Oporto, 9 September 2016.
 * **Pensar as ciências**, participation at the fishbowl talk, Faculty of Sciences e Tecnologia, New University of Lisbon, 28 September 2016.
 * **Utopias e distopias**, invited talk at the“Tertúlia Folio. Festival Literário Internacional de Óbidos”, coordinated by Teresa Calçada, Livraria da Adega, Óbidos, 29 September 2016
-* **O valor cognitivo da árvore**, invited talk at the round table on “Valor da Árvore”, organized by the Doctoral College F3 of the UL and the project “Muita Fruta”, 3 July 2017.<https://www.facebook.com/watch/live/
+* **O valor cognitivo da árvore**, invited talk at the round table on “Valor da Árvore”, organized by the Doctoral College F3 of the UL and the project “Muita Fruta”, 3 July 2017.(here)<https://www.facebook.com/watch/live/
 v=334326760337147&ref=watch_permalink>
-* **Por que razão marcho pela ciência?**, invited speech in Marcha pela Ciência /March for Science, Largo do Carmo,  Lisboa, 22th April, 2017 
-< https://www.youtube.com/watch?v=hgTy1DrLLd0>
+* **Por que razão marcho pela ciência?**, invited speech in Marcha pela Ciência /March for Science, Largo do Carmo,  Lisboa, 22th April, 2017 (**[here](https://www.youtube.com/watch?v=hgTy1DrLLd0)**)
 * **Ciência, democracia e escola**, invited talk at the round table on “Science and Education”, in the context of Ulisses Conferences 2018. European Democracy: an idea whose time has arrived, Cultural Center of Belem, Lisboa, 7 April 2018.
 * **O saber n/do século XXI**, invited talk at the debate on “O saber n/do século XXI” in the context of the program “My Research 2018” put forward by Universidade Católica de Lisboa, 13th November 2018.
 * **Utopia tecnológica**, invited talk at a debate on “Utopia Tecnológica – A inovação ao serviço da Humanidade”, in the context of the series “European Utopia: the power of imagination and the imperatives of the future”, held at Fundação Serralves, Porto, 6 February 2019.
