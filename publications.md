@@ -1,5 +1,5 @@
 # Publications
-[Online publications]  [Dissertations]  [Books (author)]  [Books (editor)]  [Chapters]  [Encyclopaedia Entries][Articles]  [Book reviews]  [Scholar brochures]  [Exhibition's room texts]  [Book series]  [Journal's editor]   [Journal's guest editor]  [Sites, webpages] 
+[Online publications]  [Dissertations]  [Books (author)]  [Books (editor)]  [Chapters]  [Encyclopaedia Entries][Articles]  [Book reviews]  [Scholar brochures]  [Room texts]  [Book series]  [Journal's editor]  [Journal's guest editor]  [Sites, webpages] 
 
 
 ## Online publications
@@ -83,7 +83,6 @@ DOI: https://doi.org/10.1075/cvs.16
 
 
 ## Chapters
-
 
 1.	Pombo, Olga (1979), **[Biobibliografia de Jean-Jacques Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf)** (Bibliography of Jean Jacques Rousseau), in *Jean-Jacques Rousseau. Uma Exposição*, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44. 
 2.	Pombo, Olga, (1988), “**Notas sobre as Instituições da Filosofia**”, in *A Filosofia face à Cultura Tecnológica*, edited by Adelino Cardoso, Coimbra: Associação de Professores de Filosofia, pp. 71-89. 
@@ -292,14 +291,79 @@ Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearan
 * Pombo, Olga (2003), **Enciclopédia, Hipertexto e Condição Humana**, A Condição Humana exhibition by Rodrigo Vilhena, Lisboa.
 * Pombo, Olga (1996), **Nenhum Vento**, Olhares Soltos exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
+
 ## Book series
 
+* Director of the book series **A Imagem na Ciência e na Arte**, Lisbon: Fim de Século (12 volumes published: 
+https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#imagem (não esta completo, procurar outra)
+    1.	As cidades, os castelos e a onda: imagens, diagramas e metáforas entre Calvino, Escher e Bohr , João Araújo, 2010.
+     2.	Neuroaesthetics : can science explain art?, Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010.
+     3.	As Imagens com que a Ciência se Faz, Olga Pombo, Silvia di Marco (eds), 2011
+     4.	Solaris: sistema beta pictoris. Ciclo de exposições 2004-2009, Rodrigo Vilhena, 2011.
+     5.	A colecção de desenho antigo da Faculdade de Belas Artes de Lisboa (1830-1935): tradição, formação e gosto, Alberto Faria, 2011.
+     6.	Representações do corpo na ciência e na arte, Cristina Azevedo Tavares (ed), 2012.
+     7.	Em torno de Darwin, Olga Pombo, Marco Pina (eds), 2012.
+     8.	Visível & enunciável, Nuno Melim, 2012.
+     9.	Da civilização da palavra à civilização da imagem, Olga Pombo, António Guerreiro (eds), 2012.
+     10.	Image in science and art, Olga Pombo (ed), 2017.
+     11.	Modelos e imagens, Olga Pombo (ed), 2018.
+     12.	12.	CorpoImagem : representações do corpo na ciência e na arte, Olga Pombo, Catarina Pombo Nabais, Sara Fuentes (eds), 2019.
+         
+•	Director of the book series **Cadernos de Filosofia da Ciência**, Lisbon: CFCUL (13 volumes published).
+•	https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos
+    1.	Ciência e Género. Quatro Textos de Quatro Mulheres, Teresa Levy, Clara Queiroz (eds), 2005,
+    2. Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos, Augusto J. Franco de Oliveira (ed), 2006.
+    3. As Cartas de Problemática de António Sérgio, Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil (eds), 2006.
+    4. Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica, Mário Gatta (ed), 2007.
+    5. Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès, Nuno Miguel Proença (ed), 2008.
+6.	Ciência, Psicanálise e Poética em torno de Gaston Bachelard, Ana Gaspar, 2008
+7.	Wittgenstein, a prova e a actividade matemática: uma introdução, Nuno Miguel Proença, 2008.
+8.	On Kuhns's Philosophy and its Legacy, Juan Manuel Torres (ed), 2010.
+9.	Cinco ensaios sobre Wittgenstein, João Esteves da Silva, 2010.
+10.	Henri Poincaré, Filósofo da Matemática, Augusto J. Franco de Oliveira (ed), 2010.
+11.	Poincaré's Philosophy of Mathematics: Intuition Experience Creativity, Ed. Hassan Tahiri, 2011.
+12.	Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré, Isabel Serra, María de Paz (eds), 2012
+13.	As intuições atomísticas (Ensaio de Classificação), Lídia Queiroz (ed), 2015.
+
+https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm 
+
+* Director of the book series **Documenta**, Lisbon: CFCUL (10 published volumes). 
+https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#documenta
+1.	Abduction and the Process of Scientific Discovery, Olga Pombo; Alexander Gerner (eds.), 2007
+2.	Lógica e Filosofia da Ciência, Olga Pombo; Ángel Nepomuceno (eds.) 2009, 
+3.	Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault, António Fernando Cascais, José Luís Câmara Leme e Nuno Nabais (eds.), 2009,~
+4.	Oficina de Filosofia das Ciências Sociais e Humanas, Nuno Miguel Proença ; Marta Filipe Alexandre (eds.), 2009, 
+5.	Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty, Jean-Yves Mercury;  Nuno Nabais (eds.), 2009
+6.	Lógica Universal e Unidade da Ciência, Olga Pombo (ed.), 2011, 
+7.	Rousseau e as Ciências, Olga Pombo; Nuno Melim (eds.), 2013,
+8.	Bachelard 50 ans après, Zbigniew Kotowicz (ed), 2016
+9.	Philosophy of Science in the 21st Century. Challenges and Tasks, Olga Pombo;  Gil Santos (eds.), 2016,
+10.	Epistemologia, Lógica e Linguagem, Olga Pombo, Ana Pato, Juan Redmond (eds), 2019
+ 
+* Director of the book series **Theses**, Lisbon: CFCUL (6 published volumes).  
+•	https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis
+1.	A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências, Helena Abreu, 2007,
+2.	A imagem-sensação: Deleuze e a pintura, Nuno Carvalho, 2009,
+3.	Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler, Ana Paula Silva, 2009.
+4.	Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave, Cláudia Ribeiro, 2009,
+5.	Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard, Ana Gaspar, 2010, 
+6.	Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon, Sergio Hugo Menna, 2015
+
+* Co-editor (with Nathalie Gonthier) of the Springer book series **Interdisciplinary Evolution Research** (5 published volumes- 1.	The Evolution of Social Communication in Primates. A multidisciplinary approach, ed. Marco Pina, Natalie Gntier, 2014, 2.	Macroevolution. Explanation, Interpretation and Evidence, Editors, Emanuele Serrelli, Nathalie Gontier, 2015, 3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, Editors, Nathalie Gontier, 2015, Cultural Phylogenetics. Concepts and Applications in Archaeology, Editors, Larissa Mendoza Straffon, 2016, 5.	Evolution of Primate Social Cognition, Editors: Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo, 2018
+
+
 ## Journal's editor
+
+* Founder and editor in chief of **[Aion. Journal of Philosophy & Science](https://journals.ku.edu/aion)**, University of Kansas Libraries, USA (2024 – on going)
+•	Founder and editor in chief of **[Kairos. Journal of Philosophy & Science] (https://sciendo.com/journal/KJPS)**, CFCUL/De Gruyter (2010 - 2022)
+•	Co-founder and co-director of the journal **Filosofia**, edited by the Portuguese Society for Philosophy (SPF) (1985 – 1990).
+
 
 ## Journal's guest editor
 
 * Pombo, Olga (2015), **[Axiomathes, Special Issue - Metaphysical and Epistemological Challenges](https://www.researchgate.net/publication/279325568_Metaphysical_and_Epistemological_Challenges_special_issue)**: Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 * Pombo, Olga (2012), **[Kairos. Journal of Philosophy & Science - Dossier Leibniz](https://arquivo.pt/wayback/20150416225706/http://kairos.fc.ul.pt/numeros-anteriores-2/)**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824 **(more info [here](https://arquivo.pt/wayback/20140925030955/http://cfcul.fc.ul.pt/) and [here](https://sciendo.com/journal/KJPS?content-tab=editorial-board&top-tab=top-cited))**
+
 
 ## Sites, webpages
 
