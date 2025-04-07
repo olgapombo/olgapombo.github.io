@@ -1,5 +1,5 @@
 # Publications
-[Online publications]  [Dissertations]  [Books (author)]  [Books (editor)]  [Chapters]  [Encyclopaedia Entries][Articles]  [Book reviews]  [Scholar brochures]  [Room Texts]  [Sites, Webpages]  [Book series]  [Journals editor]  [Journals guest editor]
+[Online publications]  [Dissertations]  [Books (author)]  [Books (editor)]  [Chapters]  [Encyclopaedia Entries][Articles]  [Book reviews]  [Scholar brochures]  [Exhibition's room texts]  [Book series]  [Journal's editor]   [Journal's guest editor]  [Sites, webpages] 
 
 
 ## Online publications
@@ -269,10 +269,6 @@ https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illi
 * Pombo, Olga (1991), **Agostinho da Silva, ‘Educação de Portugal’**, Revista de Educação, vol. II, n.º 1, Lisboa: DEFCUL, pp. 110-115.
 * Pombo, Olga (1984), **Herbert H. Knecht. ‘La Logique chez Leibniz’**, Análise, nº 1, Lisboa, Gec, pp. 231-239.
 
-## Journal guest editor
-* Pombo, Olga (2015), **[Axiomathes, Special Issue - Metaphysical and Epistemological Challenges](https://www.researchgate.net/publication/279325568_Metaphysical_and_Epistemological_Challenges_special_issue)**: Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-* Pombo, Olga (2012), **[Kairos. Journal of Philosophy & Science - Dossier Leibniz](https://arquivo.pt/wayback/20150416225706/http://kairos.fc.ul.pt/numeros-anteriores-2/)**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824 **(more info [here](https://arquivo.pt/wayback/20140925030955/http://cfcul.fc.ul.pt/) and [here](https://sciendo.com/journal/KJPS?content-tab=editorial-board&top-tab=top-cited))**
-
 
 ## Scholar brochures
 
@@ -287,7 +283,7 @@ https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illi
 * Olga Pombo (ed.) (2005), **Três Textos sobre Educação para um Mundo Difícil: Bertrand Russell e Ortega Y Gasset** (anthology with introduction and revised translation), 7º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 40 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno7
 
 
-## Exhibition's room texts 
+## Room texts at exhibitions
 
 * Pombo, Olga (2019), **A Bioarte de Isa Duarte Ribeiro**, (per)cursos exhibition by Isa Duarte Ribeiro, Mora: Casa da Cultura.
 * Pombo, Olga (2004), **From Thomas More to Rousseau**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
@@ -296,5 +292,14 @@ Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearan
 * Pombo, Olga (2003), **Enciclopédia, Hipertexto e Condição Humana**, A Condição Humana exhibition by Rodrigo Vilhena, Lisboa.
 * Pombo, Olga (1996), **Nenhum Vento**, Olhares Soltos exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
+## Book series
 
+## Journal's editor
+
+## Journal's guest editor
+
+* Pombo, Olga (2015), **[Axiomathes, Special Issue - Metaphysical and Epistemological Challenges](https://www.researchgate.net/publication/279325568_Metaphysical_and_Epistemological_Challenges_special_issue)**: Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), **[Kairos. Journal of Philosophy & Science - Dossier Leibniz](https://arquivo.pt/wayback/20150416225706/http://kairos.fc.ul.pt/numeros-anteriores-2/)**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824 **(more info [here](https://arquivo.pt/wayback/20140925030955/http://cfcul.fc.ul.pt/) and [here](https://sciendo.com/journal/KJPS?content-tab=editorial-board&top-tab=top-cited))**
+
+## Sites, webpages
 
