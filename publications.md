@@ -355,7 +355,9 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 ## Journal's editor
 
 * Founder and editor in chief of **[Aion. Journal of Philosophy & Science](https://journals.ku.edu/aion)**, University of Kansas Libraries, USA (2024 – on going)
-•	Founder and editor in chief of **[Kairos. Journal of Philosophy & Science] (https://sciendo.com/journal/KJPS)**, CFCUL/De Gruyter (2010 - 2022)
+  
+•	Founder and editor in chief of **[Kairos. Journal of Philosophy & Science](https://sciendo.com/journal/KJPS)**, CFCUL/De Gruyter (2010 - 2022)
+
 •	Co-founder and co-director of the journal **Filosofia**, edited by the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
 
