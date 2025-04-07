@@ -22,7 +22,7 @@
 ## Televison and radio interviews
 
 * **O Bosão de Higgs**, participation on the television program "Prós e Contras",  moderated by the journalist Fatima Campos Ferreira, RTP1, 9 July 2012.  
-* **Imagem na Ciência e na Arte' Desvenda Corpo Humano (Image in Science and Art Unveils the Human Body)**, televison interview  by the journalist Lucia Alves, at the program “TV Ciência”, RTP1,  14 February 2011 
+* **Imagem na Ciência e na Arte' Desvenda Corpo Humano (Image in Science and Art Unveils the Human Body)**, televison interview  by the journalist Lucia Alves, at the program “TV Ciência”, RTP1,  14 February 2011 ([here](<http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18022011.pdf))
 * **Sobre a Ciência (On Science)**, television interview by the journalist Vasco Trigo, at the program “Com Ciência”, RTP 1, 23 February 2011.
 *  **Sobre a Ideia de Enciclopédia (On the Idea of Encyclopaedia)**, television interview by the journalist Paula Moura Pinheiro, at the program "Câmara Clara",  RTP 2, 19 January 2010.
 * **Sobre Agostinho da Silva**, Radio interview, TSF, 13 February 2006
