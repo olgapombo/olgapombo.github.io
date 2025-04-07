@@ -1,6 +1,6 @@
 # Supervision 
 
-[Phd dissertations] [Master dissertations] [Post-Docs research] [Doctoral students stages] [Sabbatical research stays] [Academic Committees]
+[Phd dissertations] [Master dissertations] [Post-Docs research] [Doctoral students stages] [Sabbatical research stays] [Academic committees]
 
 ## PhD dissertations
 
