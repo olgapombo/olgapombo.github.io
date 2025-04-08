@@ -348,10 +348,10 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 
 * Co-editor (with Nathalie Gonthier) of the Springer book series **Interdisciplinary Evolution Research** - 5 volumes published:
 > (2014) *The Evolution of Social Communication in Primates. A multidisciplinary approach*, edited by Marco Pina, Natalie Gontier; 
-(2015)	*Macroevolution. Explanation, Interpretation and Evidence*, edited by Emanuele Serrelli, Nathalie Gontier; 
-(2015)	*Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity*, edited by Nathalie Gontier; 
-(2016) *Cultural Phylogenetics. Concepts and Applications in Archaeology*, edited by Larissa Mendoza Straffon;  
-(2018)	*Evolution of Primate Social Cognition*, edited by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo.
+> (2015)	*Macroevolution. Explanation, Interpretation and Evidence*, edited by Emanuele Serrelli, Nathalie Gontier; 
+> (2015)	*Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity*, edited by Nathalie Gontier; 
+> (2016) *Cultural Phylogenetics. Concepts and Applications in Archaeology*, edited by Larissa Mendoza Straffon;  
+> (2018)	*Evolution of Primate Social Cognition*, edited by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo.
 
   
 ## Journal's editor
