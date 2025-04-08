@@ -1,8 +1,8 @@
-# Research 
+## Research 
 [Research Centers] [Research Projects] [Networks] [Scientific Societies] [Organization of scientific meetings]
 
 
-## Research Centers
+### Research Centers
 
 * 2003 - Founder of  the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL), research unit financed by the Portuguese Foundation for Science and Technology (FCT).
 * 2003-20017 - Scientific coordinator of the **[Research Center for Philosophy of Science of the University of Lisbon” (CFCUL)](https://arquivo.pt/wayback/20140925030955/http://cfcul.fc.ul.pt/)**, since 2003 up to my retirement in January 2017.
@@ -11,9 +11,9 @@
 * 1994-2003 - Integrated member of the “Research Center in Education” (CIEFCUL), Faculdade de Ciencias, University of Lisbon 
 
 
-## Research Projects
+### Research Projects
 
-### Coordination (PI) of research projects and groups (RG)
+#### Coordination (PI) of research projects and groups (RG)
 
 * 1999-2002 - **[From Encyclopedia to Hypertext](https://arquivo.pt/wayback/20140930091757/http://www.educ.fc.ul.pt/hyper/)**, FCT Research Project, POCTI/FIL/36357/2000. **(more info [here](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia) and [here](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm#hip%C3%B3tese))** 
 * 2003-2006 - **[Scientific Culture. Conceptual Migrations and Social Contaminations](https://arquivo.pt/wayback/20060219165027/http://cfcul.fc.ul.pt/migracoes/actividades.htm)**  FCT Research Project, POCTI/FIL/48133/2002. **(more infor [here](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/))**
@@ -31,7 +31,7 @@
 * 2015-2016 - **[Unity of Science and Interdisciplinarity](https://arquivo.pt/wayback/20171212131758/http://uci.fc.ul.pt/)**, head of the CFCUL Thematic Line. 
 * 2017- 2022 - [**Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities**](https://cfcul.ciencias.ulisboa.pt/linhasinvestigacao/polo-de-investigacao-transversal/), head of the CFCUL Transversal Interdisciplinary Pole.
 
-### Member and associate researcher of research projects 
+#### Member and associate researcher of research projects 
 
 * Co-founder (with Joâo Lopes Alves, Zaza Carneiro de Moura, Ana Figueiredo and Filomena Mölder) of the research project **Jean-Jacques Rousseau**, Portuguese Society for Philosophy (1977 - 1979). 
 * Co-founder (with Teresa Levy and Henrique Guimaraes) of the research project **[Mathesis](https://webpages.ciencias.ulisboa.pt/~ommartins/mathesis/index.htm)**, Calouste Gulbenkian Foundation  (1989-1995).
@@ -52,7 +52,7 @@
 * Member of the management council of the Cost Action **INTREPID - Interdisciplinarity in research programming and funding cycles**,  EU Framework Program Horizon 2020 (2015-2017).
 * Member of the international project **Complejidad y filosofía natural en el cruce de arte y Ciência / Complexity and Natural Philosophy in the crossing of art and science**, funded by PAPIIT, Mexico (head by María Antonia González Valerio) (2015-2017).
 
-## Networks 
+### Networks 
 
 * Member of the scientific network **[RED Iberoamericana Leibniz](http://leibniz.es/red-iberoamericana-leibniz/)**, Granada, Spain (since 2003)
 * Member of the International Research Network, **[Système d'Information en Philosophie des Sciences](https://mshe.univ-fcomte.fr/sips)** (head by Thierry Martin (2007-2020). 
@@ -60,7 +60,7 @@
 * Member of the **[POND Network - Philosophy of Science Around the Mediterranean](https://pondposmed.wordpress.com/)** (since 2017)
 
 
-## Sientific societies
+### Sientific societies
 
 * President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (since 2022)
 * Founding member of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (created January 2022)
@@ -81,3 +81,4 @@
 * Member of the Directory Board of the **Sociedade Portuguesa de Filosofia**, Lisboa (1983-1999).
 * Member of the **[Sociedade Portuguesa de Filosofia](https://www.spfil.pt/)**, Lisboa (since its foundation in 1977).
 
+### Organization of scientific meetings
