@@ -325,16 +325,15 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
     13.	As intuições atomísticas (Ensaio de Classificação), Lídia Queiroz (ed), 2015.
 
 * Director of the book series **[Documenta](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#documenta)**, Lisbon: CFCUL - 10 published volumes:  
-> (2007) *Abduction and the Process of Scientific Discovery* edited by Olga Pombo and Alexander Gerner (2009) *Lógica e Filosofia da Ciência*, edited by Olga Pombo and Ángel Nepomuceno 
-
-     (2009) *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, António Fernando Cascais, José Luís Câmara Leme e Nuno Nabais (eds.), 
-     (2009) *Oficina de Filosofia das Ciências Sociais e Humanas*, Nuno Miguel Proença ; Marta Filipe Alexandre (eds.),  
-     5.	(2009) *Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty*, Jean-Yves Mercury;  Nuno Nabais (eds.), 
-     6.	(2011) *Lógica Universal e Unidade da Ciência*, Olga Pombo (ed.), 2011, 
-     7.	*Rousseau e as Ciências*, Olga Pombo; Nuno Melim (eds.), 2013,
-     8.	*Bachelard 50 ans après*, Zbigniew Kotowicz (ed), 2016
-     9.	*Philosophy of Science in the 21st Century. Challenges and Tasks*, Olga Pombo;  Gil Santos (eds.), 2016,
-     10.	Epistemologia, Lógica e Linguagem, Olga Pombo, Ana Pato, Juan Redmond (eds), 2019
+> (2007) *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo and Alexander Gerner (2009) *Lógica e Filosofia da Ciência*, edited by Olga Pombo and Ángel Nepomuceno 
+(2009) *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, edited by António Fernando Cascais, José Luís Câmara Leme and Nuno Nabais
+(2009) *Oficina de Filosofia das Ciências Sociais e Humanas*, edited by Nuno Miguel Proença and Marta Filipe Alexandre 
+(2009) *Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty*, edited by Jean-Yves Mercury and Nuno Nabais 
+(2011) *Lógica Universal e Unidade da Ciência*, edited by Olga Pombo 
+(2013) *Rousseau e as Ciências*, edited by Olga Pombo and Nuno Melim 
+(2016) *Bachelard 50 ans après*, edited by Zbigniew Kotowicz 
+(2016) *Philosophy of Science in the 21st Century. Challenges and Tasks*, edited by Olga Pombo and Gil Santos 
+(2019) *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo, Ana Pato and Juan Redmond
  
 * Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL  -  6 published volumes:  
 > (2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu; (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho; (2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva; (2009), *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave* by Cláudia Ribeiro; (2010) *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard* by Ana Gaspar; (2015) *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon* by Sergio Hugo Menna
