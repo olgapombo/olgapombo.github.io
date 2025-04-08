@@ -17,17 +17,16 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 ## Department of History and Philosophy of Science, Faculty of Sciences University of Lisbon  
 
 ### **[Master in “History and Philosophy of Science](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)**
-
 * [Philosophy of Scientific Knowledge](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) (2003-2004, 2005-2016)
-* [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2005-2016)
-* Temas e Problemas da Filosofia da Ciência Contemporânea (2011-2016)
+* **Epistemology and Philosophy of Science** (2005-2008)
+* [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2011-2016)
 
 ### Minor in “History and Philosophy of Science” 
 Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science
 * Science and Art (2009-2014) (sillabus [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
 * Science and Culture (2011-2013) (also offered in General Studies)
 * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) - Opção livre FCUL (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
-* [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Temas%20da%20Fil%20CC%20contemp.pdf) (2013-2014)) 
+* [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Temas%20da%20Fil%20CC%20contemp.pdf) (2013-2014))
 
 ### Minor in "Biochemistry" 
 Faculty of Sciences, University of Lisbon, Department of Biochemistry
@@ -38,6 +37,7 @@ Faculty of Sciences, University of Lisbon, Department of Biochemistry
 * [Textos e Conceitos de Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
 * [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) - Opção livre FCUL
 * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
+
 
 ## Department of Education, Faculty of Sciences University of Lisbon 
 
@@ -65,7 +65,8 @@ o	Experiences of Transversality (2007-2008)
 * Filosofia do conhecimento cientifico, para professores do ensino secundario, registo de acreditação CCPFC/ACC61744/10 (1st semester 2011-2012)
 * Ciencia e Arte, para professores do ensino secundario, registo de acreditação CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
-## Teaching in other universities 
+
+## Teaching in other universities in Portugal
  
 ### PhD
 * Doctoral Program in “Complexity Sciences”, invited faculty member of the joint academic program proposed by  ISCTE Lisbon University Institute and Faculty of Sciences, University of Lisbon (2006-2019).
@@ -79,10 +80,10 @@ o	Experiences of Transversality (2007-2008)
 * Master Program on “Drawing”, Faculdade de Belas Artes, University of Lisbon (2003). 
 
 ### Undergraduate courses 
-
 * “Philosophy and the Teaching of Philosophy”, Faculty of Social and Human Sciences, New University of Lisbon (1987-1988).
 * “Problems of Science Teaching”, University of Madeira (1988; 1989-1990, 1999)
 *	“Epistemology and Science Teaching”, University of Algarve (2003; 2004)
+
 
 ## Teaching and lecturing abroad 
 
