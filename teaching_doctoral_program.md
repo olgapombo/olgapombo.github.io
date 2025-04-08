@@ -1,9 +1,9 @@
 # Teaching
 
-[Doctoral Program FCTAS], [FCUL][][][]
+[Doctoral Program FCTAS - UL]  [Department of History and Philosophy of Science - FCUL]  [Department of Education - FCUL]  [][]
 
 
-### [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
+## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
 International PhD Program funded by the Portuguese Foundation for Science and Technology (FCT), University of Lisbon (2014-2024). 
 
 * Epistemology (2014-2016) 
