@@ -272,42 +272,42 @@ https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illi
 ## Scholar brochures
 
 * Olga Pombo; Teresa Levy; Henrique Guimarães (eds.)(1990) **Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**, Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
-* Olga Pombo; Teresa Levy; Henrique Guimarães (eds.)(1991), **Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**, Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
-* Olga Pombo (ed.)(1994), **McLuhan. A Escola e os Media** (Anthology of texts by M. McLuhan, translated and prefaced), [Cadernos de Historia e Filosofia da educação 1](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 73 pp. 
-* Olga Pombo (ed.)(1995), **Dois Textos sobre Educação. Hannah Arendt e Eric Weil** (Anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), [Cadernos de Historia e Filosofia da educação 2](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 48 pp. 
-* Olga Pombo (ed.)(1996), **A Invenção da Escola na Grécia** (Anthology of texts on the history of Athens’ educational institutions, translated and prefaced), [Cadernos de Historia e Filosofia da educação 3](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 81
-* Olga Pombo (ed)(1997), **Museu de Alexandria** [Cadernos de Historia e Filosofia da educação 4](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 87 pp. 
-* Olga Pombo (ed.)(1997), **Utopia e Educação** (Anthology of texts translated and commented), [Cadernos de Historia e Filosofia da educação 5](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 160 pp. 
-* Olga Pombo (ed.)(2001), **Educar / Ensinar** (Anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), [Cadernos de Historia e Filosofia da educação 6](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 84 pp.
+* Olga Pombo; Teresa Levy; Henrique Guimarães (eds.)(1991) **Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**, Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
+* Olga Pombo (ed.)(1994) **McLuhan. A Escola e os Media** (Anthology of texts by M. McLuhan, translated and prefaced), [Cadernos de Historia e Filosofia da educação 1](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 73 pp. 
+* Olga Pombo (ed.)(1995) **Dois Textos sobre Educação. Hannah Arendt e Eric Weil** (Anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), [Cadernos de Historia e Filosofia da educação 2](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 48 pp. 
+* Olga Pombo (ed.)(1996) **A Invenção da Escola na Grécia** (Anthology of texts on the history of Athens’ educational institutions, translated and prefaced), [Cadernos de Historia e Filosofia da educação 3](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 81
+* Olga Pombo (ed)(1997) **Museu de Alexandria** [Cadernos de Historia e Filosofia da educação 4](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 87 pp. 
+* Olga Pombo (ed.)(1997) **Utopia e Educação** (Anthology of texts translated and commented), [Cadernos de Historia e Filosofia da educação 5](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 160 pp. 
+* Olga Pombo (ed.)(2001) **Educar / Ensinar** (Anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), [Cadernos de Historia e Filosofia da educação 6](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 84 pp.
 * Olga Pombo (ed.)(2005) **Três Textos sobre Educação para um Mundo Difícil: Bertrand Russell e Ortega Y Gasset** (Anthology with introduction and revised translation), [Cadernos de Historia e Filosofia da educação 7](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 40 pp.
 
 
 ## Room texts at exhibitions
 
-* Pombo, Olga (2019), **A Bioarte de Isa Duarte Ribeiro**, (per)cursos exhibition by Isa Duarte Ribeiro, Mora: Casa da Cultura.
-* Pombo, Olga (2004), **From Thomas More to Rousseau**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
-* Pombo, Olga (2004), **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
-Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
-* Pombo, Olga (2003), **Enciclopédia, Hipertexto e Condição Humana**, A Condição Humana exhibition by Rodrigo Vilhena, Lisboa.
-* Pombo, Olga (1996), **Nenhum Vento**, Olhares Soltos exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
+* Pombo, Olga (2019) **A Bioarte de Isa Duarte Ribeiro**, (per)cursos exhibition by Isa Duarte Ribeiro, Mora: Casa da Cultura.
+* Pombo, Olga (2004) **From Thomas More to Rousseau**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
+* Pombo, Olga (2004) **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
+Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
+* Pombo, Olga (2003) **Enciclopédia, Hipertexto e Condição Humana**, A Condição Humana exhibition by Rodrigo Vilhena, Lisboa.
+* Pombo, Olga (1996) **Nenhum Vento**, Olhares Soltos exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
 
 ## Book series
 
 * Director of the book series **A Imagem na Ciência e na Arte**, Lisbon: Fim de Século (12 volumes published: 
 https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#imagem (não esta completo, procurar outra)
-    1.	As cidades, os castelos e a onda: imagens, diagramas e metáforas entre Calvino, Escher e Bohr , João Araújo, 2010.
-     2.	Neuroaesthetics : can science explain art?, Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010.
+     1.	As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr, João Araújo, 2010.
+     2.	Neuroaesthetics : Can Science explain Art?, Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010.
      3.	As Imagens com que a Ciência se Faz, Olga Pombo, Silvia di Marco (eds), 2011
-     4.	Solaris: sistema beta pictoris. Ciclo de exposições 2004-2009, Rodrigo Vilhena, 2011.
-     5.	A colecção de desenho antigo da Faculdade de Belas Artes de Lisboa (1830-1935): tradição, formação e gosto, Alberto Faria, 2011.
-     6.	Representações do corpo na ciência e na arte, Cristina Azevedo Tavares (ed), 2012.
+     4.	Solaris: Sistema Beta Pictoris. Ciclo de exposições 2004-2009, Rodrigo Vilhena, 2011.
+     5.	A Colecção de Desenho Antigo da Faculdade de Belas Artes de Lisboa (1830-1935), Alberto Faria, 2011.
+     6.	Representações do Corpo na Ciência e na Arte, Cristina Azevedo Tavares (ed), 2012.
      7.	Em torno de Darwin, Olga Pombo, Marco Pina (eds), 2012.
-     8.	Visível & enunciável, Nuno Melim, 2012.
-     9.	Da civilização da palavra à civilização da imagem, Olga Pombo, António Guerreiro (eds), 2012.
-     10.	Image in science and art, Olga Pombo (ed), 2017.
-     11.	Modelos e imagens, Olga Pombo (ed), 2018.
-     12.	12.	CorpoImagem : representações do corpo na ciência e na arte, Olga Pombo, Catarina Pombo Nabais, Sara Fuentes (eds), 2019.
+     8.	Visível & Enunciável, Nuno Melim, 2012.
+     9.	Da Civilização da Palavra à Civilização da Imagem, Olga Pombo, António Guerreiro (eds), 2012.
+     10.	Image in Science and Art, Olga Pombo (ed), 2017.
+     11.	Modelos e Imagens, Olga Pombo (ed), 2018.
+     12.	CorpoImagem : Representações do Corpo na Ciência e na Arte, Olga Pombo, Catarina Pombo Nabais, Sara Fuentes (eds), 2019.
          
 •	Director of the book series **Cadernos de Filosofia da Ciência**, Lisbon: CFCUL (13 volumes published).
 •	https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos
