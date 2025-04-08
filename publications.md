@@ -274,15 +274,16 @@ https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illi
 * Olga Pombo; Teresa Levy; Henrique Guimarães (eds.), (1990) **Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**, Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
 * Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1991), **Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**, Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
 * Olga Pombo (ed), **[Cadernos de Historia e filosofia da educação](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm)** 
- * Olga Pombo (ed.) (1994), **[McLuhan. A Escola e os Media** (anthology of texts by M. McLuhan, translated and prefaced), 1º Caderno de História e Filosofia da Educação]([https://arquivo.pt/wayback/20090927072807/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm]())**, Lisboa: DEFCUL, 73 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno1
-
- * 
-* Olga Pombo (ed.) (1995), **Dois Textos sobre Educação. Hannah Arendt e Eric Weil** (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 2º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 48 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno2
-* Olga Pombo (ed.) (1996), **A Invenção da Escola na Grécia. Materiais de Estudo** (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 3º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 81 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno3
-* Olga Pombo (ed) (1997), **Museu de Alexandria**, 4º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 87 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno4
-* Olga Pombo (ed.) (1997), **Utopia e Educação** (anthology of texts translated and commented), 5º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 160 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno5
-* Olga Pombo (ed.) (2001), **Educar / Ensinar. Materiais de estudo** (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), 6º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 84 pp.http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno6
-* Olga Pombo (ed.) (2005), **Três Textos sobre Educação para um Mundo Difícil: Bertrand Russell e Ortega Y Gasset** (anthology with introduction and revised translation), 7º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 40 pp. http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno7
+      * Olga Pombo (ed.) (1994), **McLuhan. A Escola e os Media** (anthology of texts by M. McLuhan, translated and prefaced), 1º Caderno de História e Filosofia da Educação], Lisboa: DEFCUL, 73 pp. 
+     * Olga Pombo (ed.) (1995), **Dois Textos sobre Educação. Hannah Arendt e Eric Weil** (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 2º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 48 pp. 
+     * Olga Pombo (ed.) (1996), **A Invenção da Escola na Grécia. Materiais de Estudo** (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 3º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 81
+ 
+*   * Olga Pombo (ed.) (1996), **A Invenção da Escola na Grécia. Materiais de Estudo** (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 3º **[Cadernos de Historia e filosofia da educação](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm)** , Lisboa: DEFCUL, 81
+    * 
+* Olga Pombo (ed) (1997), **Museu de Alexandria**, 4º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 87 pp. 
+* Olga Pombo (ed.) (1997), **Utopia e Educação** (anthology of texts translated and commented), 5º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 160 pp. 
+* Olga Pombo (ed.) (2001), **Educar / Ensinar. Materiais de estudo** (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), 6º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 84 pp.
+* Olga Pombo (ed.) (2005), **Três Textos sobre Educação para um Mundo Difícil: Bertrand Russell e Ortega Y Gasset** (anthology with introduction and revised translation), 7º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 40 pp.
 
 
 ## Room texts at exhibitions
