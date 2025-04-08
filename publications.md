@@ -310,10 +310,10 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
      12.	*CorpoImagem : Representações do Corpo na Ciência e na Arte*, Olga Pombo, Catarina Pombo Nabais, Sara Fuentes (eds), 2019.
          
 •	Director of the book series **[Cadernos de Filosofia da Ciência](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos)**, Lisbon: CFCUL - 13 volumes published: 
-    1.	*Ciência e Género. Quatro Textos de Quatro Mulheres*, Teresa Levy, Clara Queiroz (eds), 2005,
-    2. *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, Augusto J. Franco de Oliveira (ed), 2006.
-    3. *As Cartas de Problemática de António Sérgio*, Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil (eds), 2006.
-    4. *Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica*, Mário Gatta (ed), 2007.
+*Ciência e Género. Quatro Textos de Quatro Mulheres*, Teresa Levy, Clara Queiroz (eds), 2005,
+*Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, Augusto J. Franco de Oliveira (ed), 2006.
+*As Cartas de Problemática de António Sérgio*, Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil (eds), 2006.
+*Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica*, Mário Gatta (ed), 2007.
     5. *Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès*, Nuno Miguel Proença (ed), 2008.
     6.	*Ciência, Psicanálise e Poética em torno de Gaston Bachelard, Ana Gaspar, 2008
     7.	Wittgenstein, a prova e a actividade matemática: uma introdução, Nuno Miguel Proença, 2008.
@@ -325,31 +325,13 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
     13.	As intuições atomísticas (Ensaio de Classificação), Lídia Queiroz (ed), 2015.
 
 * Director of the book series **[Documenta](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#documenta)**, Lisbon: CFCUL - 10 published volumes:  
-1. (2007) *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo and Alexander Gerner
-2. (2009) *Lógica e Filosofia da Ciência*, edited by Olga Pombo and Ángel Nepomuceno
-3. (2009) *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, edited by António Fernando Cascais, José Luís Câmara Leme and Nuno Nabais
-4. (2009) *Oficina de Filosofia das Ciências Sociais e Humanas*, edited by Nuno Miguel Proença and Marta Filipe Alexandre
-5. (2009) *Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty*, edited by Jean-Yves Mercury and Nuno Nabais
-6. (2011) *Lógica Universal e Unidade da Ciência*, edited by Olga Pombo
-7. (2013) *Rousseau e as Ciências*, edited by Olga Pombo and Nuno Melim
-8. (2016) *Bachelard 50 ans après*, edited by Zbigniew Kotowicz
-9. (2016) *Philosophy of Science in the 21st Century. Challenges and Tasks*, edited by Olga Pombo and Gil Santos
-10. (2019) *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo, Ana Pato and Juan Redmond
+> (2007) *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo and Alexander Gerner; (2009) *Lógica e Filosofia da Ciência*, edited by Olga Pombo and Ángel Nepomuceno; (2009) *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, edited by António Fernando Cascais, José Luís Câmara Leme and Nuno Nabais; (2009) *Oficina de Filosofia das Ciências Sociais e Humanas*, edited by Nuno Miguel Proença and Marta Filipe Alexandre; (2009) *Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty*, edited by Jean-Yves Mercury and Nuno Nabais; (2011) *Lógica Universal e Unidade da Ciência*, edited by Olga Pombo; (2013) *Rousseau e as Ciências*, edited by Olga Pombo and Nuno Melim; (2016) *Bachelard 50 ans après*, edited by Zbigniew Kotowicz; (2016) *Philosophy of Science in the 21st Century. Challenges and Tasks*, edited by Olga Pombo and Gil Santos; (2019) *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo, Ana Pato and Juan Redmond
  
 * Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL  -  6 published volumes:
-1. (2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu
-2. (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho 
-3. (2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva 
-4. (2009), *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave* by Cláudia Ribeiro
-5. (2010) *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard* by Ana Gaspar
-6. (2015) *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon* by Sergio Hugo Menna
+ >(2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu; (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho;  (2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva;  (2009), *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave* by Cláudia Ribeiro; (2010) *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard* by Ana Gaspar; (2015) *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon* by Sergio Hugo Menna
 
 * Co-editor (with Nathalie Gonthier) of the Springer book series **Interdisciplinary Evolution Research**  -  5 published volumes:
-(2014) *The Evolution of Social Communication in Primates. A multidisciplinary approach*, edited by Marco Pina, Natalie Gontier
-(2015)	*Macroevolution. Explanation, Interpretation and Evidence*, edited by Emanuele Serrelli, Nathalie Gontier
-(2015)	*Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity*, edited by Nathalie Gontier
-(2016) *Cultural Phylogenetics. Concepts and Applications in Archaeology*, edited by Larissa Mendoza Straffon
-(2018)	*Evolution of Primate Social Cognition*, edited by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo.
+> (2014) *The Evolution of Social Communication in Primates. A multidisciplinary approach*, edited by Marco Pina, Natalie Gontier; (2015)	*Macroevolution. Explanation, Interpretation and Evidence*, edited by Emanuele Serrelli, Nathalie Gontier; (2015)	*Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity*, edited by Nathalie Gontier; (2016) *Cultural Phylogenetics. Concepts and Applications in Archaeology*, edited by Larissa Mendoza Straffon; (2018)	*Evolution of Primate Social Cognition*, edited by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo.
 
   
 ## Journal's editor
