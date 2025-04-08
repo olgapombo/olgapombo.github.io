@@ -296,21 +296,33 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 * Director of the book series **A Imagem na Ciência e na Arte**, Lisbon: Fim de Século            - 12 volumes published: 
 https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#imagem 
->1.	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, João Araújo, 2010.
->2.	*Neuroaesthetics : Can Science explain Art?*, Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010.
->3.	*As Imagens com que a Ciência se Faz*, Olga Pombo, Silvia di Marco (eds), 2011
-4.	*Solaris: Sistema Beta Pictoris. Ciclo de exposições 2004-2009*, Rodrigo Vilhena, 2011.
-     5.	*A Colecção de Desenho Antigo da Faculdade de Belas Artes de Lisboa* (1830-1935), Alberto Faria, 2011.
-     6.	*Representações do Corpo na Ciência e na Arte*, Cristina Azevedo Tavares (ed), 2012.
-     7.	*Em torno de Darwin*, Olga Pombo, Marco Pina (eds), 2012.
-     8.	*Visível & Enunciável*, Nuno Melim, 2012.
-     9.	*Da Civilização da Palavra à Civilização da Imagem*, Olga Pombo, António Guerreiro (eds), 2012.
-     10.	*Image in Science and Art*, Olga Pombo (ed), 2017.
-     11.	*Modelos e Imagens*, Olga Pombo (ed), 2018.
-     12.	*CorpoImagem : Representações do Corpo na Ciência e na Arte*, Olga Pombo, Catarina Pombo Nabais, Sara Fuentes (eds), 2019.
+>1. (2010)	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, by João Araújo;
+>2.	(2010) *Neuroaesthetics : Can Science explain Art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina;
+>3.	(2011)*As Imagens com que a Ciência se Faz*, edited by Olga Pombo, Silvia di Marco;
+>4.	(2011) *Solaris: Sistema Beta Pictoris. Ciclo de exposições 2004-2009*, by Rodrigo Vilhena;
+>5.	(2011) *A Colecção de Desenho Antigo da Faculdade de Belas Artes de Lisboa* (1830-1935), by Alberto Faria;
+>6.	(2012) *Representações do Corpo na Ciência e na Arte*, edited by Cristina Azevedo Tavares;
+>7.	(2012) *Em torno de Darwin*, edited by Olga Pombo, Marco Pina;
+>8.	(2012) *Visível & Enunciável*by Nuno Melim;
+>9.	(2012) *Da Civilização da Palavra à Civilização da Imagem*, edited by Olga Pombo, António Guerreiro;
+>10.	(2017) *Image in Science and Art*, edited by Olga Pombo;
+>11.	(2018) *Modelos e Imagens*, edited by Olga Pombo;
+>12.	(2019) *CorpoImagem : Representações do Corpo na Ciência e na Arte*, edited by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes.
          
 •	Director of the book series **[Cadernos de Filosofia da Ciência](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos)**, Lisbon: CFCUL - 13 volumes published: 
-> (2005) *Ciência e Género. Quatro Textos de Quatro Mulheres*, edited by Teresa Levy, Clara Queiroz; (2006) *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, edited by  Augusto J. Franco de Oliveira; (2006) *As Cartas de Problemática de António Sérgio*, edited by Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil; (2007) *Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica*, by Mário Gatta; (2008) *Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès*, by Nuno Miguel Proença;  (2008) *Ciência, Psicanálise e Poética em torno de Gaston Bachelard*, by Ana Gaspar; (2008)	*Wittgenstein, a prova e a actividade matemática: uma introdução*,  Nuno Miguel Proença; (2010) *On Kuhns's Philosophy and its Legacy*, edited by Juan Manuel Torres; (2010)	*Cinco ensaios sobre Wittgenstein*, João Esteves da Silva; (2010)	*Henri Poincaré, Filósofo da Matemática*, by Augusto J. Franco de Oliveira; (2011) *Poincaré's Philosophy of Mathematics: Intuition Experience Creativity*, by Hassan Tahiri; (2012)	*Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré*, edited by Isabel Serra, María de Paz; (2015) *As intuições atomísticas (Ensaio de Classificação)*, by Lídia Queiroz.
+> 1. (2005) *Ciência e Género. Quatro Textos de Quatro Mulheres*, edited by Teresa Levy, Clara Queiroz;
+> 2. (2006) *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, edited by  Augusto J. Franco de Oliveira;
+> 3. (2006) *As Cartas de Problemática de António Sérgio*, edited by Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil;
+> 4. (2007) *Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica*, by Mário Gatta;
+> 5. (2008) *Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès*, by Nuno Miguel Proença;
+> 6. (2008) *Ciência, Psicanálise e Poética em torno de Gaston Bachelard*, by Ana Gaspar;
+> 7. (2008)	*Wittgenstein, a prova e a actividade matemática: uma introdução*, by Nuno Miguel Proença
+> 8. (2010) *On Kuhns's Philosophy and its Legacy*, edited by Juan Manuel Torres;
+> 9. (2010)	*Cinco ensaios sobre Wittgenstein*, João Esteves da Silva;
+> 10. (2010)	*Henri Poincaré, Filósofo da Matemática*, by Augusto J. Franco de Oliveira;
+> 11. (2011) *Poincaré's Philosophy of Mathematics: Intuition Experience Creativity*, by Hassan Tahiri;
+> 12. (2012)	*Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré*, edited by Isabel Serra, María de Paz;
+> 13. (2015) *As intuições atomísticas (Ensaio de Classificação)*, by Lídia Queiroz.
 
 * Director of the book series **[Documenta](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#documenta)**, Lisbon: CFCUL - 10 published volumes: 
 > 1. (2007) *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo and Alexander Gerner;
@@ -325,15 +337,19 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 > 10. (2019) *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo, Ana Pato and Juan Redmond
  
 * Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL  -  6 published volumes:
-> (2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu;
-> (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho;
-> (2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva
-> (2009), *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave* by Cláudia Ribeiro;
-> (2010) *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard* by Ana Gaspar;
-> (2015) *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon* by Sergio Hugo Menna
+> 1.(2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu;
+> 2. (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho;
+> 3. (2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva
+> 4. (2009), *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave* by Cláudia Ribeiro;
+> 5. (2010) *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard* by Ana Gaspar;
+> 6. (2015) *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon* by Sergio Hugo Menna
 
 * Co-editor (with Nathalie Gonthier) of the Springer book series **Interdisciplinary Evolution Research**  -  5 published volumes:
-> (2014) *The Evolution of Social Communication in Primates. A multidisciplinary approach*, edited by Marco Pina, Natalie Gontier; (2015)	*Macroevolution. Explanation, Interpretation and Evidence*, edited by Emanuele Serrelli, Nathalie Gontier; (2015)	*Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity*, edited by Nathalie Gontier; (2016) *Cultural Phylogenetics. Concepts and Applications in Archaeology*, edited by Larissa Mendoza Straffon; (2018)	*Evolution of Primate Social Cognition*, edited by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo.
+> 1. (2014) *The Evolution of Social Communication in Primates. A multidisciplinary approach*, edited by Marco Pina, Natalie Gontier;
+> 2. (2015)	*Macroevolution. Explanation, Interpretation and Evidence*, edited by Emanuele Serrelli, Nathalie Gontier;
+> 3. (2015)	*Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity*, edited by Nathalie Gontier;
+> 4. (2016) *Cultural Phylogenetics. Concepts and Applications in Archaeology*, edited by Larissa Mendoza Straffon;
+> 5. (2018)	*Evolution of Primate Social Cognition*, edited by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo.
 
   
 ## Journal's editor
