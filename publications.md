@@ -337,8 +337,8 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 9.	Philosophy of Science in the 21st Century. Challenges and Tasks, Olga Pombo;  Gil Santos (eds.), 2016,
 10.	Epistemologia, Lógica e Linguagem, Olga Pombo, Ana Pato, Juan Redmond (eds), 2019
  
-* Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL - 6 volues published:  
-(2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu;
+* Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL - 6 volumes published:  
+>   (2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu;
 (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho
 (2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva
 (2009), *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave* by Cláudia Ribeiro
