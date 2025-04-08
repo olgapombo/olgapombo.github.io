@@ -130,6 +130,8 @@
 * Member (supervisor) of the jury for the PhD dissertation by Master Pedro Caldas, O Cinema e a Ciência dos Processos, to get a PhD in “Philosophy of Science, Technology, Art and Society”, FCUL, 22 May 2023.
 * Member of the jury for the PhD dissertation by Master Sofia Margarida Fortuna Carrola, “Illustrant dum Insfuscant; Os Usos da Imagem nos Livros Ilustrados de Educação Científica em Portugal (dos inícios do Iluminismo ao começo do Liberalismo”, to get a PhD in “Philosophy of Science, Technology, Art and Society”, FBAUL, 2O November, 2024.
 * Member (arguing) of the jury for the PhD dissertation by Carolina Neto Henriques, “A Questão da Transdisciplinaridade em Portugal: Análise de Discursos, Sentidos e Implicações”, to get a PhD in “Estudos Urbanos”, ISCTE- Instituto Universitário de Lisbon., 21 February, 2025.
+* Member (supervisor) of the jury for the PhD dissertation by Ana Paula Mendes de Sousa Suarez, “Imagem Naturalista. A Iconografia da Viagem Philosophica de Alexandre Rodrigues Ferreira ao Brasil”, to get a PhD in “Philosophy of Science, Technology, Art and Society”, speciality “Art and Science”, FCUL, 20 May 2025.
+
 
 ### Master 
 
