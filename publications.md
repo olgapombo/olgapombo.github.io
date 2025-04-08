@@ -278,7 +278,7 @@ https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illi
      * Olga Pombo (ed.) (1995), **Dois Textos sobre Educação. Hannah Arendt e Eric Weil** (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 2º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 48 pp. 
      * Olga Pombo (ed.) (1996), **A Invenção da Escola na Grécia. Materiais de Estudo** (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 3º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 81
  
-*   * Olga Pombo (ed.) (1996), **A Invenção da Escola na Grécia. Materiais de Estudo** (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 3º **[Cadernos de Historia e filosofia da educação](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm)** , Lisboa: DEFCUL, 81
+*   * Olga Pombo (ed.) (1996), **A Invenção da Escola na Grécia. Materiais de Estudo** (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), **[Cadernos de Historia e filosofia da educação 3](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm)** , Lisboa: DEFCUL, 81
     * 
 * Olga Pombo (ed) (1997), **Museu de Alexandria**, 4º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 87 pp. 
 * Olga Pombo (ed.) (1997), **Utopia e Educação** (anthology of texts translated and commented), 5º Caderno de História e Filosofia da Educação, Lisboa: DEFCUL, 160 pp. 
