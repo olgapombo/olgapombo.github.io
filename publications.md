@@ -296,9 +296,9 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 * Director of the book series **A Imagem na Ciência e na Arte**, Lisbon: Fim de Século            - 12 volumes published: 
 https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#imagem 
-1.	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, João Araújo, 2010.
-2.	*Neuroaesthetics : Can Science explain Art?*, Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010.
-3.	*As Imagens com que a Ciência se Faz*, Olga Pombo, Silvia di Marco (eds), 2011
+>1.	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, João Araújo, 2010.
+>2.	*Neuroaesthetics : Can Science explain Art?*, Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010.
+>3.	*As Imagens com que a Ciência se Faz*, Olga Pombo, Silvia di Marco (eds), 2011
 4.	*Solaris: Sistema Beta Pictoris. Ciclo de exposições 2004-2009*, Rodrigo Vilhena, 2011.
      5.	*A Colecção de Desenho Antigo da Faculdade de Belas Artes de Lisboa* (1830-1935), Alberto Faria, 2011.
      6.	*Representações do Corpo na Ciência e na Arte*, Cristina Azevedo Tavares (ed), 2012.
@@ -310,19 +310,7 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
      12.	*CorpoImagem : Representações do Corpo na Ciência e na Arte*, Olga Pombo, Catarina Pombo Nabais, Sara Fuentes (eds), 2019.
          
 •	Director of the book series **[Cadernos de Filosofia da Ciência](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos)**, Lisbon: CFCUL - 13 volumes published: 
-*Ciência e Género. Quatro Textos de Quatro Mulheres*, Teresa Levy, Clara Queiroz (eds), 2005,
-*Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, Augusto J. Franco de Oliveira (ed), 2006.
-*As Cartas de Problemática de António Sérgio*, Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil (eds), 2006.
-*Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica*, Mário Gatta (ed), 2007.
-    5. *Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès*, Nuno Miguel Proença (ed), 2008.
-    6.	*Ciência, Psicanálise e Poética em torno de Gaston Bachelard, Ana Gaspar, 2008
-    7.	Wittgenstein, a prova e a actividade matemática: uma introdução, Nuno Miguel Proença, 2008.
-    8.	On Kuhns's Philosophy and its Legacy, Juan Manuel Torres (ed), 2010.
-    9.	Cinco ensaios sobre Wittgenstein, João Esteves da Silva, 2010.
-    10.	Henri Poincaré, Filósofo da Matemática, Augusto J. Franco de Oliveira (ed), 2010.
-    11.	Poincaré's Philosophy of Mathematics: Intuition Experience Creativity, Ed. Hassan Tahiri, 2011.
-    12.	Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré, Isabel Serra, María de Paz (eds), 2012
-    13.	As intuições atomísticas (Ensaio de Classificação), Lídia Queiroz (ed), 2015.
+> (2005) *Ciência e Género. Quatro Textos de Quatro Mulheres*, edited by Teresa Levy, Clara Queiroz; (2006) *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, edited by  Augusto J. Franco de Oliveira; (2006) *As Cartas de Problemática de António Sérgio*, edited by Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil; (2007) *Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica*, by Mário Gatta; (2008) *Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès*, by Nuno Miguel Proença;  (2008) *Ciência, Psicanálise e Poética em torno de Gaston Bachelard*, by Ana Gaspar; (2008)	*Wittgenstein, a prova e a actividade matemática: uma introdução*,  Nuno Miguel Proença; (2010) *On Kuhns's Philosophy and its Legacy*, edited by Juan Manuel Torres; (2010)	*Cinco ensaios sobre Wittgenstein*, João Esteves da Silva; (2010)	*Henri Poincaré, Filósofo da Matemática*, by Augusto J. Franco de Oliveira; (2011) *Poincaré's Philosophy of Mathematics: Intuition Experience Creativity*, by Hassan Tahiri; (2012)	*Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré*, edited by Isabel Serra, María de Paz; (2015) *As intuições atomísticas (Ensaio de Classificação)*, by Lídia Queiroz.
 
 * Director of the book series **[Documenta](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#documenta)**, Lisbon: CFCUL - 10 published volumes: 
 > (2007) *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo and Alexander Gerner; (2009) *Lógica e Filosofia da Ciência*, edited by Olga Pombo and Ángel Nepomuceno; (2009) *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, edited by António Fernando Cascais, José Luís Câmara Leme and Nuno Nabais; (2009) *Oficina de Filosofia das Ciências Sociais e Humanas*, edited by Nuno Miguel Proença and Marta Filipe Alexandre; (2009) *Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty*, edited by Jean-Yves Mercury and Nuno Nabais; (2011) *Lógica Universal e Unidade da Ciência*, edited by Olga Pombo; (2013) *Rousseau e as Ciências*, edited by Olga Pombo and Nuno Melim; (2016) *Bachelard 50 ans après*, edited by Zbigniew Kotowicz; (2016) *Philosophy of Science in the 21st Century. Challenges and Tasks*, edited by Olga Pombo and Gil Santos; (2019) *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo, Ana Pato and Juan Redmond
