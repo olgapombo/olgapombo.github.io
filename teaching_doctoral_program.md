@@ -1,6 +1,6 @@
 # Teaching
 
-[Doctoral Program FCTAS], [University of Lisbon][][][]
+[Doctoral Program FCTAS], [FCUL][][][]
 
 ### [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
 International PhD Program funded by the Portuguese Foundation for Science and Technology (FCT), Faculty of Sciences, University of Lisbon (2014-2024). 
@@ -13,7 +13,9 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Doctoral seminar I, II, III, IV, V (2017-2024)
 * Science and Art. Image Theories, Representation and Production of the Real (2014-2019) 
 
-### Master in “History and Philosophy of Science 
+### 
+
+Master in “History and Philosophy of Science 
 Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science (leaflet [**here**](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
 
 * [Philosophy of Scientific Knowledge](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) (2003-2013, 2013-2016)
