@@ -294,12 +294,12 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 ## Book series
 
-* Director of the book series **A Imagem na Ciência e na Arte**, Lisbon: Fim de Século - 12 volumes published: 
+* Director of the book series **A Imagem na Ciência e na Arte**, Lisbon: Fim de Século            - 12 volumes published: 
 https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#imagem 
-     1.	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, João Araújo, 2010.
-     2.	*Neuroaesthetics : Can Science explain Art?*, Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010.
-     3.	*As Imagens com que a Ciência se Faz*, Olga Pombo, Silvia di Marco (eds), 2011
-     4.	*Solaris: Sistema Beta Pictoris. Ciclo de exposições 2004-2009*, Rodrigo Vilhena, 2011.
+1.	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, João Araújo, 2010.
+2.	*Neuroaesthetics : Can Science explain Art?*, Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010.
+3.	*As Imagens com que a Ciência se Faz*, Olga Pombo, Silvia di Marco (eds), 2011
+4.	*Solaris: Sistema Beta Pictoris. Ciclo de exposições 2004-2009*, Rodrigo Vilhena, 2011.
      5.	*A Colecção de Desenho Antigo da Faculdade de Belas Artes de Lisboa* (1830-1935), Alberto Faria, 2011.
      6.	*Representações do Corpo na Ciência e na Arte*, Cristina Azevedo Tavares (ed), 2012.
      7.	*Em torno de Darwin*, Olga Pombo, Marco Pina (eds), 2012.
