@@ -325,7 +325,12 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 > 10. (2019) *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo, Ana Pato and Juan Redmond
  
 * Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL  -  6 published volumes:
- >(2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu; (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho;  (2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva;  (2009), *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave* by Cláudia Ribeiro; (2010) *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard* by Ana Gaspar; (2015) *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon* by Sergio Hugo Menna
+>(2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu;
+>(2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho;
+>(2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva
+>(2009), *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave* by Cláudia Ribeiro;
+>(2010) *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard* by Ana Gaspar;
+>(2015) *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon* by Sergio Hugo Menna
 
 * Co-editor (with Nathalie Gonthier) of the Springer book series **Interdisciplinary Evolution Research**  -  5 published volumes:
 > (2014) *The Evolution of Social Communication in Primates. A multidisciplinary approach*, edited by Marco Pina, Natalie Gontier; (2015)	*Macroevolution. Explanation, Interpretation and Evidence*, edited by Emanuele Serrelli, Nathalie Gontier; (2015)	*Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity*, edited by Nathalie Gontier; (2016) *Cultural Phylogenetics. Concepts and Applications in Archaeology*, edited by Larissa Mendoza Straffon; (2018)	*Evolution of Primate Social Cognition*, edited by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo.
