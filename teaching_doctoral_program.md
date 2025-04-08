@@ -16,11 +16,11 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 
 ## Department of History and Philosophy of Science, Faculty of Sciences University of Lisbon  
 
-### **[Master in “History and Philosophy of Science](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)**)
+### **[Master in “History and Philosophy of Science](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)**
 
-* [Philosophy of Scientific Knowledge](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) (2003-2013, 2013-2016)
+* [Philosophy of Scientific Knowledge](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) (2003-2004, 2005-2016)
 * [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2005-2016)
-* Temas e Problemas da Filosofia da Ciência Contemporânea (2013-2016)
+* Temas e Problemas da Filosofia da Ciência Contemporânea (2011-2016)
 
 ### Minor in “History and Philosophy of Science” 
 Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science
@@ -42,19 +42,18 @@ Faculty of Sciences, University of Lisbon, Department of Biochemistry
 ## Department of Education, Faculty of Sciences University of Lisbon 
 
 ### Master in “Science Teaching” 
-* Philosophy of Education (1994-1995; 2002-03)
-* Experiences of Transversality (2007-2008)
-
+o	Epistemology and Science Teaching (1986-1987; 1988-1989) 
+o	Production, Circulation and Transmission of Scientific knowledge (1987-1988)  
+o	Philosophy of Education (1985-86; 1988-1989; 1994-1995; 2002-03) 
+o	Experiences of Transversality (2007-2008)  
   
 ###  Undergraduate Courses 
-* Epistemology and Science Teaching (1986-1987; 1988-1989)
-* Production, Circulation and Transmission of Scientific knowledge (1987-1988)
 * Philosophy of Education (1985-86; 1988-1989)
 * Observation and Analysis (1984-1985; 1992-1993; 1994-1996) 
 * Interdisciplinary seminar (1985-1989;1992-1993) 
 * Interdisciplinarity, Science and Mathematics (1992-1994) 
 * History and Philosophy of Education (1992-2006)
-* Thematic seminar (1999-2004)(option) 
+* Thematic seminar (1999-2004) 
 
 ### Tutorials and stage advising 
 * Monograph Tutor of the Bachelor's License in “Teaching of Mathematics” (1985-88)
