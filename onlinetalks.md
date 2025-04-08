@@ -359,6 +359,7 @@
 
 ## **Dissemination talks** 
 
+* **A Matemática da “Alice no País das Maravilhas”**, invited talk at the Almada High School, Almada, 5 May 2025.
 * **Ciência e escola. Uma relação constitutiva**, invited talk at conference cycle “Knowledges in dialogue. Transdisciplinary crossings”, D. Dinis High School, Lisboa, 8 February 2020.
 * **Ciência e escola**, opening conference in the conference cycle “Looking for a better world: Science, Education and Humanism”, D. Dinis High School, Lisboa, 26 January 2019.
 * **Verdade, filosofia e ciência**, invited talk at the Philosophy Day put forward by the Department of Philosophy, Cacilhas-Tejo High School, Almada, 17 November 2016.
