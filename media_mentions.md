@@ -19,3 +19,6 @@ Marcos Antônio Pires, [Resenha crítica: O Insuportável Brilho da Escola de Ol
 Medina, Patricia; Pereira, M. Lustosa;  Paiva, José Feijó, [Estudo da ciência da educação fundamentada na interdisciplinaridade por Olga Pombo: study of the science of education based on interdisciplinarity by Olga Pombo: a review study](https://periodicos.fclar.unesp.br/iberoamericana/article/view/12113/8771), *RIAEE – Revista Ibero-Americana de Estudos em Educação*, Araraquara, 14 (4), pp. 2287-2300 (out/dez,2019), e-ISSN: 1982-5587. 
 DOI: https://doi.org/10.21723/riaee.v14i4.12113
 
+
+sobre a exposiçao do corpo cc viva https://arquivo.pt/wayback/20141001002823/http://www.tvciencia.pt/tvcnot/pagnot/tvcnot03.asp?codpub=25&codnot=16
+
