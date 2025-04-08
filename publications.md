@@ -327,20 +327,19 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 * Director of the book series **[Documenta](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#documenta)**, Lisbon: CFCUL - 10 published volumes:  
 > (2007) *Abduction and the Process of Scientific Discovery* edited by Olga Pombo and Alexander Gerner (2009) *Lógica e Filosofia da Ciência*, edited by Olga Pombo and Ángel Nepomuceno 
 
-     3.	Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault, António Fernando Cascais, José Luís Câmara Leme e Nuno Nabais (eds.), 2009,
-     4.	Oficina de Filosofia das Ciências Sociais e Humanas, Nuno Miguel Proença ; Marta Filipe Alexandre (eds.), 2009, 
-     5.	Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty, Jean-Yves Mercury;  Nuno Nabais (eds.), 2009
-     6.	Lógica Universal e Unidade da Ciência, Olga Pombo (ed.), 2011, 
-     7.	Rousseau e as Ciências, Olga Pombo; Nuno Melim (eds.), 2013,
-     8.	Bachelard 50 ans après, Zbigniew Kotowicz (ed), 2016
-     9.	Philosophy of Science in the 21st Century. Challenges and Tasks, Olga Pombo;  Gil Santos (eds.), 2016,
+     (2009) *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, António Fernando Cascais, José Luís Câmara Leme e Nuno Nabais (eds.), 
+     (2009) *Oficina de Filosofia das Ciências Sociais e Humanas*, Nuno Miguel Proença ; Marta Filipe Alexandre (eds.),  
+     5.	(2009) *Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty*, Jean-Yves Mercury;  Nuno Nabais (eds.), 
+     6.	(2011) *Lógica Universal e Unidade da Ciência*, Olga Pombo (ed.), 2011, 
+     7.	*Rousseau e as Ciências*, Olga Pombo; Nuno Melim (eds.), 2013,
+     8.	*Bachelard 50 ans après*, Zbigniew Kotowicz (ed), 2016
+     9.	*Philosophy of Science in the 21st Century. Challenges and Tasks*, Olga Pombo;  Gil Santos (eds.), 2016,
      10.	Epistemologia, Lógica e Linguagem, Olga Pombo, Ana Pato, Juan Redmond (eds), 2019
  
-* Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL
-         > 6 published volumes:  
+* Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL  -  6 published volumes:  
 > (2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu; (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho; (2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva; (2009), *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave* by Cláudia Ribeiro; (2010) *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard* by Ana Gaspar; (2015) *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon* by Sergio Hugo Menna
 
-* Co-editor (with Nathalie Gonthier) of the Springer book series **Interdisciplinary Evolution Research** - 5 published volumes:
+* Co-editor (with Nathalie Gonthier) of the Springer book series **Interdisciplinary Evolution Research**  -  5 published volumes:
 > (2014) *The Evolution of Social Communication in Primates. A multidisciplinary approach*, edited by Marco Pina, Natalie Gontier; (2015)	*Macroevolution. Explanation, Interpretation and Evidence*, edited by Emanuele Serrelli, Nathalie Gontier; (2015)	*Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity*, edited by Nathalie Gontier; (2016) *Cultural Phylogenetics. Concepts and Applications in Archaeology*, edited by Larissa Mendoza Straffon; (2018)	*Evolution of Primate Social Cognition*, edited by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo.
 
   
