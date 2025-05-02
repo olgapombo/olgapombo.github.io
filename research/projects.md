@@ -1,5 +1,5 @@
 ## Research 
-[Research Centers](#Research-Centers) [Research Projects](#Research-Projects) [Networks](#Networks) [Scientific Societies] [Organization of scientific meetings]
+[Research Centers](#research-centers) [Research Projects](#research-projects) [Networks](#networks) [Scientific Societies] [Organization of scientific meetings]
 
 
 ### Research Centers
