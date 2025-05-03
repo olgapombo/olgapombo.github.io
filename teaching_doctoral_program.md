@@ -4,7 +4,7 @@
 
 
 ## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
-International PhD Program funded by the Portuguese Foundation for Science and Technology (FCT), University of Lisbon (2014-2024). 
+International PhD Program funded by the Portuguese Foundation for Science and Technology (FCT),(2014-2024). 
 
 * Epistemology (2014-2016) 
 * Themes and Problems of Contemporary Philosophy of Science (2014-2016)
@@ -14,39 +14,40 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Doctoral seminar I, II, III, IV, V (2017-2024)
 * Science and Art. Image Theories, Representation and Production of the Real (2014-2019) 
 
-## Department of History and Philosophy of Science, FCUL  
+## University of Lisbon, Faculty of Sciences  
 
-### **[Master in “History and Philosophy of Science](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)**
+### Department of History and Philosophy of Science  
+
+#### **[Master in “History and Philosophy of Science](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)**
 * [Philosophy of Scientific Knowledge](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) (2003-2004, 2005-2016)
 * **Epistemology and Philosophy of Science** (2005-2008)
 * [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2011-2016)
 
-### Minor in “History and Philosophy of Science” 
-Faculty of Sciences, University of Lisbon, Department of History and Philosophy of Science
+#### Minor in “History and Philosophy of Science” 
 * Science and Art (2009-2014) (sillabus [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
 * Science and Culture (2011-2013) (also offered in General Studies)
 * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) - Opção livre FCUL (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
 * [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Temas%20da%20Fil%20CC%20contemp.pdf) (2013-2014))
 
-### Minor in "Biochemistry" FCUL (Department of Biochemistry)
+#### Minor in "Biochemistry" (Department of Biochemistry)
 * Philosophy of science (2001-2002) 
 
-### Undergraduate Courses - Cultural, Social and Ethical Training 
+#### Undergraduate Courses - Cultural, Social and Ethical Training 
 * Themes and Problems in Epistemology and Philosophy of Science (2003-2004, 2005-2006) 
 * [Textos e Conceitos de Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
 * [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) - Opção livre FCUL
 * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
 
 
-## Department of Education FCUL 
+### Department of Education FCUL 
 
-### Master in “Science Teaching” 
+#### Master in “Science Teaching” 
 o	Epistemology and Science Teaching (1986-1987; 1988-1989) 
 o	Production, Circulation and Transmission of Scientific knowledge (1987-1988)  
 o	Philosophy of Education (1985-86; 1988-1989; 1994-1995; 2002-03) 
 o	Experiences of Transversality (2007-2008)  
   
-###  Undergraduate Courses 
+####  Undergraduate Courses 
 * Philosophy of Education (1985-86; 1988-1989)
 * Observation and Analysis (1984-1985; 1992-1993; 1994-1996) 
 * Interdisciplinary seminar (1985-1989;1992-1993) 
@@ -54,13 +55,13 @@ o	Experiences of Transversality (2007-2008)
 * History and Philosophy of Education (1992-2006)
 * Thematic seminar (1999-2004) 
 
-### Tutorials and stage advising 
+#### Tutorials and stage advising 
 * Monograph Tutor of the Bachelor's License in “Teaching of Mathematics” (1985-88)
 * Stage advisor of the Bachelor's License in the “Teaching of Mathematics” (1986-88) (1999-04)(2005-2006)
 * Stage advisor of the Bachelor's License in the “Teaching of Biology” (1994-96) (1998-99)
 * Stage advisor of the Bachelor's License in the “Teaching of Physics” (1996-97, 2006-2007) 
 
-### Continuing training courses 
+#### Continuing training courses 
 * Filosofia do conhecimento cientifico, para professores do ensino secundario, registo de acreditação CCPFC/ACC61744/10 (1st semester 2011-2012)
 * Ciencia e Arte, para professores do ensino secundario, registo de acreditação CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
