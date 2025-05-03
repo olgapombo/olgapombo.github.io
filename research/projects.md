@@ -1,5 +1,5 @@
 ## Research 
-[Research Centers](#research-centers) | [Research Projects](#research-projects) | [Networks](#networks) [Scientific Societies] | [Organization of scientific meetings](#organization-of-scientific-meetings)
+[Research Centers](#research-centers) | [Research Projects](#research-projects) | [Networks](#networks) [Scientific Societies](Scientific-societies) | [Organization of scientific meetings](#organization-of-scientific-meetings)
 
 
 ### Research Centers
@@ -60,7 +60,7 @@
 * Member of the **[POND Network - Philosophy of Science Around the Mediterranean](https://pondposmed.wordpress.com/)** (since 2017)
 
 
-### Sientific societies
+### Scientific societies
 
 * President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (since 2022)
 * Founding member of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (created January 2022)
