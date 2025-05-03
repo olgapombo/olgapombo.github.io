@@ -1,5 +1,5 @@
 # Publications
-###### [Online publications](#Online-publications) | [Dissertations](#Dissertations) | [Books (author)](#Books-author) | [Books (editor)](#Books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#Encyclopaedia-entries) | [Articles] | [Book reviews] | [Scholar brochures] | [Room texts] | [Book series] | [Journal's editor] | [Journal's guest editor] | [Sites, webpages] 
+###### [Online publications](#Online-publications) | [Dissertations](#Dissertations) | [Books (author)](#Books-author) | [Books (editor)](#Books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#Encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts) | [Book series editor](#Book-series-editor) | [Journal's editor](#Journal's-editor) | [Journal's guest editor] | [Sites and webpages](#sites-webpages) 
 
 
 ## Online publications
@@ -189,7 +189,7 @@ ISBN: 978-972-8481-70-4
 97.	Pombo, Olga, “**For a cartography of the concept of creation**”, in Nuno Proença (ed.), *Invention and Imagination*, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming).
 
 
-## Encyclopaedia Entries
+## Encyclopaedia entries
 
 Pombo, Olga (2013), **“Encyclopedia”**, in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257. DOI: http://dx.doi.org/10.4135/9781452276052
 
