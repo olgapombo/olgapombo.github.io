@@ -8,6 +8,7 @@
 * [Preprints](preprints.md)
 * [Talks/Conferences](onlinetalks.md)
 * [Research / Projects](/research/projects.md)
+* [Organization of Scientific meetings.md]
 * [Teaching / Doctoral Program FCTAS](teaching_doctoral_program.md)
 * [Supervision](supervision.md)
 * [Media Mentions](media_mentions.md)
