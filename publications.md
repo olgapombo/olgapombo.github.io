@@ -1,5 +1,5 @@
 # Publications
-###### [Online publications](#Online-publications) | [Dissertations](#Dissertations) | [Books (author)](#Books-author) | [Books (editor)](#Books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#Encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal's editor](#Journal's-editor) | [Journal's guest editor](#Journal's-guest-editor) | [Sites and webpages](#sites-webpages) 
+###### [Online publications](#Online-publications) | [Dissertations](#Dissertations) | [Books (author)](#Books-author) | [Books (editor)](#Books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#Encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal's editor](#Journals-editor) | [Journals guest editor](#Journals-guest-editor) | [Sites and webpages](#sites-and-webpages) 
 
 
 ## Online publications
@@ -352,14 +352,14 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 > 5. (2018)	*Evolution of Primate Social Cognition*, edited by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo.
 
   
-## Journal's editor
+## Journals editor
 
 * Founder and editor of **[Aion. Journal of Philosophy & Science](https://journals.ku.edu/aion)**, University of Kansas Libraries, USA (2024 – on going)
 * Founder and editor of **[Kairos. Journal of Philosophy & Science](https://sciendo.com/journal/KJPS)**, CFCUL/De Gruyter (2010 - 2022)
 * Co-founder and co-editor of the journal **Filosofia**, edited by the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
 
-## Journal's guest editor
+## Journals guest editor
 
 * Pombo, Olga (2015), **[Axiomathes, Special Issue - Metaphysical and Epistemological Challenges](https://www.researchgate.net/publication/279325568_Metaphysical_and_Epistemological_Challenges_special_issue)**: Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 * Pombo, Olga (2012), **[Kairos. Journal of Philosophy & Science - Dossier Leibniz](https://arquivo.pt/wayback/20150416225706/http://kairos.fc.ul.pt/numeros-anteriores-2/)**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824 **(more info [here](https://sciendo.com/journal/KJPS?content-tab=editorial-board&top-tab=top-cited))**
