@@ -1,6 +1,6 @@
 # Teaching
 
-[Doctoral Program FCTAS - UL]  [Department of History and Philosophy of Science - FCUL]  [Department of Education - FCUL]  [][]
+###### [Doctoral Program FCTAS-UL](#Doctoral-Program-FCTAS-UL) | [DHFS-FCUL] | [DE-FCUL] | [][]
 
 
 ## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
@@ -14,7 +14,7 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Doctoral seminar I, II, III, IV, V (2017-2024)
 * Science and Art. Image Theories, Representation and Production of the Real (2014-2019) 
 
-## Department of History and Philosophy of Science, Faculty of Sciences University of Lisbon  
+## Department of History and Philosophy of Science, FCUL  
 
 ### **[Master in “History and Philosophy of Science](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)**
 * [Philosophy of Scientific Knowledge](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) (2003-2004, 2005-2016)
@@ -39,7 +39,7 @@ Faculty of Sciences, University of Lisbon, Department of Biochemistry
 * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
 
 
-## Department of Education, Faculty of Sciences University of Lisbon 
+## Department of Education, FCUL 
 
 ### Master in “Science Teaching” 
 o	Epistemology and Science Teaching (1986-1987; 1988-1989) 
@@ -66,7 +66,7 @@ o	Experiences of Transversality (2007-2008)
 * Ciencia e Arte, para professores do ensino secundario, registo de acreditação CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
 
-## Teaching in other universities in Portugal
+## Other universities in Portugal
  
 ### PhD
 * Doctoral Program in “Complexity Sciences”, invited faculty member of the joint academic program proposed by  ISCTE Lisbon University Institute and Faculty of Sciences, University of Lisbon (2006-2019).
