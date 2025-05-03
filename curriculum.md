@@ -66,53 +66,53 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 
 ## Fellowships and research stays abroad
 
-* PhD fellowship by the National Institute of Scientific Research (JNIC) (1989 – 1992)
+* PhD fellowship awarded by the National Institute of Scientific Research (JNIC) (1989 – 1992)
 * PhD research stay at the Centre de Recherche Épistémologie Appliquée – CREA, University of Paris, France (1990-1991)
 * PhD research stay at Philosophy Institute, University of Leuven, Belgium (1991-1992)
-* Sabbatical fellowship by the Foundation for Science and Technology (FCT), Berlin, Germany (1 November 2004-31th September 2005)
+* Sabbatical fellowship awarded by the Foundation for Science and Technology (FCT), Berlin, Germany (1 November 2004-31th September 2005)
 -- 
 * Research Fellow at Institute for Advanced Studies (invited by Marcelo Dascal), Hebrew University of Jerusalem, Israel (March - May 1995)
 * Research Fellow at Oxford University, Jesus College (invited by David Cram), Oxford, UK (March-June 1999)
 * Research Fellow at Institut für Philosophie (invited by Elisabeth Nemeth), Viena University, Austria (September-October 1999)
 * Research Fellow at Institut Wiener Kreis and Zentrum für Überfakultäre Forschung (invited by Friedrich Stadler), Vienna University, Austria (May 2000)
 * Research Fellow at University Lille 3 (invited by Shahid Rahman), France (January 2003)
-* Research Fellow at Catholic University of Rio Grande do Sul, Porto Alegre, and Caxias do Sul University, Brazil (invited by William de Siqueira Piauí), (June 2004).
+* Research Fellow at Catholic University of Rio Grande do Sul and Caxias do Sul University, (invited by William de Siqueira Piauí), Porto Alegre, Brazil (June 2004).
 * Research Fellow at the Zentrum für Literaturforshung (invited by Sigrid Weigel), Berlin, Germany (January - July 2005)
 * Research Fellow at UERJ and PUC-Rio de Janeiro (invited by Deborah Danowsky), Brazil (November 2007)
-* Research Fellow at Federal University of Latin-American Integration (UNILA), (invited by Carlos A. Dos Santos), Foz do Iguaçu, Brazil, (December 2010).
-* Research Fellow at Goias Federal University (invited by Wagner Sanz) and University Sagrado Coração - Bauru/SP, Brazil, (October 2012).
-* Research Fellow at the Dipartimento di Ingegneria dell'Innovazione and Dipartimeno di Studi Umanistici, Lecce University (invited by Giovanni Scarafille), Italy, (May 2014).
-* Research Fellow at “Centro studi sulla natura, l’umano e l’unità del pensiero” (grant awarded by invited by Luciano Boi), Accademia Vivarium novum, Roma, Italy, (October – Novembre 2019).
+* Research Fellow at Federal University of Latin-American Integration (UNILA), (invited by Carlos A. Dos Santos), Foz do Iguaçu, Brazil (December 2010).
+* Research Fellow at Goias Federal University (invited by Wagner Sanz) and University Sagrado Coração - Bauru/SP, Brazil (October 2012).
+* Research Fellow at the Dipartimento di Ingegneria dell'Innovazione and Dipartimeno di Studi Umanistici, Lecce University (invited by Giovanni Scarafille), Italy (May 2014).
+* Research Fellow at “Centro studi sulla natura, l’umano e l’unità del pensiero” (invited by Luciano Boi), Accademia Vivarium novum, Roma, Italy (October – Novembre 2019).
 --
 * Short-Term Fellowship, invited by the Philosophy Institut, Hannover University, Germany (November 1988)
-* Short-Term Fellowship by Calouste Gulbenkian Foundation, Institut Universitaire Kurt Bosch, Suisse (September 1997)
+* Short-Term Fellowship, awarded by Calouste Gulbenkian Foundation, Institut Universitaire Kurt Bosch, Suisse (September 1997)
 * Short-Term Fellowship (funded by CFCUL) Edinburg University, UK (September 2000)
 * Short-Term Fellowship at Zentrum für Überfakultäre Forschung, Vienna University (invited by Elisabeth Nemeth Austria) (May 2000)
 * Short-Term Fellowship at Valência Polithechnical University, (invited by Concha Roldan) Spain (March 2001) 
 * Short-Term Fellowship, invited by the Société de Philosophie des Sciences, Genève, Switzerland (March 2007).
-* Short-Term Fellowship at Sevilla University (invited by Fernando Soler), Sevilla, Spain, (March 2007). 
-* Short-Term Fellowship at Communication and Arts School, São Paulo University (invited by Marilda de Lara), São Paulo, Brazil (September-October 2008).  
-* Short-Term Fellowship at Faculty of Philosophy, Sevilla University (invited by Angel Napomuceno), Spain (February 2008).
+* Short-Term Fellowship at Sevilla University (invited by Fernando Soler), Spain, (March 2007). 
+* Short-Term Fellowship at Communication and Arts School, São Paulo University (invited by Marilda de Lara), Brazil (September-October 2008).  
+* Short-Term Fellowship at Faculty of Philosophy of Sevilla University (invited by Angel Napomuceno), Spain (February 2008).
 * Short-Term Fellowship, invited by Maison des Sciences de l' Homme, Paris, France (October 2009).  
 * Short-Term Fellowship (funded by CFCUL), Technische Universität Darmstadt, Germany (October 2010).
 * Short-Term Fellowship at Tel Aviv University (invited by Marcelo Dascal), Israel (November 2010).
-* Short-Term Fellowship (funded by CFCUL), at Université de Lorraine (Gerhard Heinzmann), Nancy, France, (July 2011).
+* Short-Term Fellowship (funded by CFCUL), at Université de Lorraine, Nancy, France (July 2011).
 * Short-Term Fellowship, invited by Complutense University of Madrid, Spain (November 2011).  
 * Short-Term Fellowship, invited by Calouste Gulbenkian Foundation in France, Paris, France (December 2011).
 * Short-Term Fellowship at Ecole Normale Supérieure (invited by Claude Imbert), Paris (May 2012). 
 * Short-Term Fellowship at École Superieur d'Arts Villa Arson (invited by Caroline Challan Belval), Nice, France (2013). 
 * Short-Term Fellowship, invited by Faculty of Philosophy of the Complutense University of Madrid (November 2014). 
-* Short-Term Fellowship (funded by CFCUL), at Ionian University (Dalila Honorato), Corfu, Greece (May 2016)
+* Short-Term Fellowship (funded by CFCUL), at Ionian University, Corfu, Greece (May 2016)
 * Short-Term Fellowship at Pisa University and IASC Society (invited by Giovanni Scarafile), Pisa, Italy (October 2016). 
-* Short-Term Fellowship at Sevilla University (invited by Fernando Contreras Medina), Sevilla, Spain (November 2016).
+* Short-Term Fellowship at Sevilla University (invited by Fernando Contreras Medina), Spain (November 2016).
 * Short-Term Fellowship at Poznań University (invited by Katarzina Gan-Krzywoszynska), Poland (May 2017). 
-* Short-Term Fellowship at University of Athens (invited by Stathis Psillos), Athens, Greece (Setember 2017).
-* Short-Term Fellowship at École des Mines (invited by Vincent Bontems), Paris (Mai 2018). 
-* Short-Term Fellowship at University of Sevilla, Spain (invited by Matthieu Fontaine) (October 2018).
-* Short-Term Fellowship (funded by CFCUL), Facultat de Filosofia, Universitat de Barcelona, Spain (September, 2019)
+* Short-Term Fellowship at University of Athens (invited by Stathis Psillos), Greece (Setember 2017).
+* Short-Term Fellowship at École des Mines Paris (invited by Vincent Bontems), France (Mai 2018). 
+* Short-Term Fellowship at University of Sevilla (invited by Matthieu Fontaine), Spain (October 2018).
+* Short-Term Fellowship (funded by CFCUL) at Facultat de Filosofia of Universitat de Barcelona, Spain (September, 2019)
 * Short-Term Fellowship at Department of Humanities and Philosophy of the University of Florence (invited by Elena Castellani), Italy (October 2019) 
-* Short-Term Fellowship (funded by CFCUL), Amsterdam University, (October 2019). 
-* Short-Term Fellowship, funded by CNRS Besançon Observatory (grant awarded by invited by Sarah Carvallo), France (October 2022)
+* Short-Term Fellowship (funded by CFCUL) at Amsterdam University, Holland (October 2019). 
+* Short-Term Fellowship at CNRS Besançon Observatory (invited by Sarah Carvallo), France (October 2022)
 
 
 ## Publications
