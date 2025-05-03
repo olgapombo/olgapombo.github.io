@@ -28,8 +28,7 @@ Faculty of Sciences, University of Lisbon, Department of History and Philosophy 
 * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) - Opção livre FCUL (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
 * [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Temas%20da%20Fil%20CC%20contemp.pdf) (2013-2014))
 
-### Minor in "Biochemistry" 
-Faculty of Sciences, University of Lisbon, Department of Biochemistry
+### Minor in "Biochemistry" FCUL (Department of Biochemistry)
 * Philosophy of science (2001-2002) 
 
 ### Undergraduate Courses - Cultural, Social and Ethical Training 
@@ -39,7 +38,7 @@ Faculty of Sciences, University of Lisbon, Department of Biochemistry
 * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
 
 
-## Department of Education, FCUL 
+## Department of Education FCUL 
 
 ### Master in “Science Teaching” 
 o	Epistemology and Science Teaching (1986-1987; 1988-1989) 
