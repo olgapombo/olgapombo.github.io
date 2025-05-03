@@ -1,5 +1,5 @@
 # Publications
-###### [Online publications](#Online-publications) | [Dissertations](#Dissertations) | [Books (author)](#Books-(author)) | [Books (editor)] | [Chapters] | [Encyclopaedia Entries][Articles] | [Book reviews] | [Scholar brochures] | [Room texts] | [Book series] | [Journal's editor] | [Journal's guest editor] | [Sites, webpages] 
+###### [Online publications](#Online-publications) | [Dissertations](#Dissertations) | [Books (author)](#Books-author) | [Books (editor)](#Books-editor) | [Chapters] | [Encyclopaedia Entries][Articles] | [Book reviews] | [Scholar brochures] | [Room texts] | [Book series] | [Journal's editor] | [Journal's guest editor] | [Sites, webpages] 
 
 
 ## Online publications
@@ -21,7 +21,7 @@
 * Pombo, Olga (1998) - **[Unidade da Ciência e Configuração Disciplinar dos Saberes. Contributos para uma Filosofia do Ensino](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/tese.htm)** (PhD dissertation in “History and Philosophy of Education”, University of Lisbon)
   
 
-## Books (author)
+## Books author
 
 1.	Pombo, Olga (1987) **Leibniz and the Problem of a Universal Language**, Münster: Nodus Publikationen, 321 pp.  ISBN 3-89323-303-2  (**full book [here](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf)**) 
 2.	Pombo, Olga (1993) with Teresa Levy and Henrique Guimarães, **A Interdisciplinaridade: Reflexão e Experiência / Interdisciplinarity: Reflection and Experience**, Lisboa: Texto, 96 pp. ISBN 972-47-0462-9. (2nd revised and extended edition, 1994, 102 pp. ISBN 978-9724704623).
