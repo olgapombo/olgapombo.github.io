@@ -1,7 +1,7 @@
 
 # Interviews
 
-[Online interviews], [Televison and radio interviews], [Newspaper and magazine interviews]
+###### [Online interviews](#Online-interviews) | [Televison and radio interviews](#Television-and-radio-interviews) | [Newspaper and magazine interviews](#Newspaper-and-magazine-interviews)
 
 ## Online interviews 
 
