@@ -88,12 +88,12 @@
 
 #### International scientific meetings
 
-* Member of the organizing committee of the international colloquium “Leituras da Modernidade”, put forward by the Centre for the History of Culture of the New University of Lisbon, held at Franco-Portuguese Institute, Lisbon, 1987.
-* Member of the organizing committee of the international symposium on “Communication, Meaning and Knowledge”, put forward by the Portuguese Society for Philosophy in collaboration with the Portuguese Association for Communication Development (APDC), held at Forum Picoas, Lisbon, 1989. 
-* Member of the organizing committee of the international colloquium “Ethics and Scientific Research”, put forward by the “Associação de Ciência e Tecnologia para o Desenvolvimento (ACTD)”, held at Forum Picoas, Lisbon, November 1989.
-* Member of the organizing committee of the international colloquium “Descartes, Leibniz and Modernity”, put forward by the Department of Philosophy of the Faculty of Letters, University of Lisbon, 1996.
-* Co-organizer of the international colloquium “On the idea of University”, put forward by the Department of Education of the FCUL, held at Recktorship of the University of Lisbon, November 1999.
-* Coordinator of the international seminar Encyclopedia and Hypertext, put forward by the FCT research project “Enciclopédia e Hipertexto” (1999-2002), held at FCUL (13 sessions)
+* Member of the organizing committee of the **International Colloquium Leituras da Modernidade**, put forward by the "Centre for the History of Culture" of the New University of Lisbon, held at Franco-Portuguese Institute, Lisbon, 1987.
+* Member of the organizing committee of the **International Symposium on Communication, Meaning and Knowledge**, put forward by the Portuguese Society for Philosophy in collaboration with the "Portuguese Association for Communication Development (APDC)", held at Forum Picoas, Lisbon, 1989. 
+* Member of the organizing committee of the **International Colloquium Ethics and Scientific Research**, put forward by the “Associação de Ciência e Tecnologia para o Desenvolvimento (ACTD)”, held at Forum Picoas, Lisbon, November 1989.
+* Member of the organizing committee of the **International colloquium “Descartes, Leibniz and Modernity**, put forward by the Department of Philosophy of the Faculty of Letters, University of Lisbon, 1996.
+* Co-organizer of the international colloquium **On the idea of University**, put forward by the Department of Education of the FCUL, held at Recktorship of the University of Lisbon, November 1999.
+* Coordinator of the international seminar **Encyclopedia and Hypertext**, put forward by the FCT research project “Enciclopédia e Hipertexto” (1999-2002), held at FCUL (13 sessions)
 * Coordinator of the international workshop “Two philosophers of Science. Franco Selleri and Daniel Andler”, put forward by the CFCUL, held at FCUL, 8 e 9 June 2005.
 * Member of the scientific committee of the international colloquium on "Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault", put forward by the CFCUL RG “Philosophy in the Human Sciences”, held at the French-Portuguese Institute, Lisbon, 23-25 November 2005.
 * Co-organizer of the international colloquium “O Curso Conimbricense e a sua Tradição. Jornadas de Estudo”, put forward by the CFCUL together with the Center for the History of Sciences of the University of Lisbon, held at the Lisbon Science Museum, April 2006.  
@@ -173,14 +173,14 @@
 
 #### Other scientific meetings
 
-* Member of the organizing committee for the “First National Encounter of Philosophy Teachers, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1978.
-* Member of the organizing committee for the “Second National Encounter of Philosophy Teachers, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1979.
-* Member of the organizing committee for the “Third National Encounter of Philosophy Teachers, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1980.
-* Member of the organizing committee of the conference “A Problemática das Licenciaturas em Ensino”, held at Rectorship of the University of Lisbon, 19-20, February, 1987.
-* Member of the organizing commitee of the workshop Investigação e Ensino, held at FCUL, 20 February 1987.
+* Member of the organizing committee for the **First National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1978.
+* Member of the organizing committee for the **Second National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1979.
+* Member of the organizing committee for the **Third National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1980.
+* Member of the organizing committee of the conference **A Problemática das Licenciaturas em Ensino**, held at Rectorship of the University of Lisbon, 19-20, February, 1987.
+* Member of the organizing commitee of the workshop **Investigação e Ensino**, held at FCUL, 20 February 1987.
 * Member of the organizing committee of the “Segundo Encontro Filosofia em Contextos Não-Filosóficos”, held at FCUL, June 1987.
-* Coordinator of the “Interdisciplinary Seminar on Bachelard”, held at FCUL, May 1988. 
-* Organizer with Teresa Levy and Henrique Guimaraes of the “1st Forum on Interdisciplinarity Experiences”, held at Marquês de Pombal High School, January 1991. 
+* Coordinator of the **Interdisciplinary Seminar on Bachelard**, held at FCUL, May 1988. 
+* Organizer with Teresa Levy and Henrique Guimaraes of the **1st Forum on Interdisciplinarity Experiences**, held at Marquês de Pombal High School, January 1991. 
 * Organizer with Teresa Levy and Henrique Guimaraes of the workshop “Interdisciplinarity and Environmental Education”, put forward by the Department of Education, held at FCUL, March 1991. 
 * Organizer with Teresa Levy and Henrique Guimaraes of the workshop O que é a Interdisciplinaridade?,  held at FCUL, March 1991. 
 * Organizer with Teresa Levy and Henrique Guimaraes of the “2nd Forum on Interdisciplinarity Experiences”, held at Marquês de Pombal High School, July 1991.
@@ -199,14 +199,14 @@
 * Organizer of the seminar “Aproximações ao Conceito de Imagem”, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 2007-2011 (21 sessions).
     * “Aproximações ao Conceito de Imagem I. Deleuze e a imagem”, 7 May 2007.
     * Organizer of the seminar “Aproximações ao Conceito de Imagem II. As imagens da arte, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 18 June 2007.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem III. As Imagens e as drogas”, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 16 July 2007.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem IV. Passagens”, put forward the FCT Project “Image in Science and Art”, held at FCUL, 24 September 2007.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem V. Desenho cientifico e pensamento selvagem, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 8 October 2007. 
+    * Organizer of the seminar “Aproximações ao Conceito de Imagem III. As Imagens e as drogas”, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 16 July 2007.
+    *	Organizer of the seminar “Aproximações ao Conceito de Imagem IV. Passagens”, put forward the FCT Project “Image in Science and Art”, held at FCUL, 24 September 2007.
+    * Organizer of the seminar “Aproximações ao Conceito de Imagem V. Desenho cientifico e pensamento selvagem, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 8 October 2007. 
 •	Coordinator of the workshop “Os Lugares da Epistemologia e da Poética em Gaston Bachelard”, FCUL, 10 December 2007.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem VI. Imagens da Natureza e natureza das imagens, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 18 February 2008. 
-•	Co-organizer of the workshop “Os últimos dias de Giordano Bruno”, put forward by CFCUL in collaboration with the Teatro da Escola Politécnica and “Cátedra A Razão”, held at Escola Politécnica Theater, Lisbon, 19 February 2008.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem VII. Peirce e Frege, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 10 March 2008.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem VIII. As imagens em geologia e oceanografia, put forward by the FCT Project “Image in Science and Art”, FCUL, 7 April 2008.
+    *	Organizer of the seminar “Aproximações ao Conceito de Imagem VI. Imagens da Natureza e natureza das imagens, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 18 February 2008. 
+* Co-organizer of the workshop “Os últimos dias de Giordano Bruno”, put forward by CFCUL in collaboration with the Teatro da Escola Politécnica and “Cátedra A Razão”, held at Escola Politécnica Theater, Lisbon, 19 February 2008.
+  * Organizer of the seminar “Aproximações ao Conceito de Imagem VII. Peirce e Frege, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 10 March 2008.
+  •	Organizer of the seminar “Aproximações ao Conceito de Imagem VIII. As imagens em geologia e oceanografia, put forward by the FCT Project “Image in Science and Art”, FCUL, 7 April 2008.
 •	Co-organizer of the workshop “Sobre Galileu”, put forward by CFCUL in collaboration with Teatro da Escola Politécnica and “Cátedra A Razão”, held Escola Politécnica Theater, Lisbon, 18 April 2008. 
 •	Coordinator of the workshop “Introdução ao processamento e analise de imagem”, put forward by the FCT project “Image in Science and Art”, held at FCUL, 4 and 8-10 September 2008. 
 •	Coordinator of the workshop “A Ilustração Científica e a Construção do Conhecimento”, put forward by the FCT project “Image in Science and Art”, held at FCUL, 4-5 December 2008. 
@@ -224,20 +224,35 @@
 •	Organizer of the seminar “Aproximações ao Conceito de Imagem XIX. Evolução da arte, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 7 June 2010.
 •	Organizer of the seminar “Aproximações ao Conceito de Imagem XX. Neurobiologia da arte, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 14 June 2010.
 •	Organizer of the seminar “Aproximações ao Conceito de Imagem XXI. Neuroimagens, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 16 December 2010.
-•	Organizer of the Jornadas de Pos-Graduação (postgraduated journeys) put forward by the Department of History and Philosophy of Science, held at FCUL, Lisbon, 31 March and 1 April 2011.  
-•	Coordinator of the seminar “Reading Whitehead”, held at FCUL, June-July 2011 (4 sessions). 
-•	Coordinator of the colloquium “O Lugar da Filosofia da Ciência na nova Universidade de Lisboa”, put forward by the CFCUL, held at Rectory of the University of Lisbon, January 2013. 
-•	Coordinator of the workshop “Qual é a diferença entre Ciência e Filosofia? / What’s the difference between Science and Philosophy? ”, put forward by CFCUL “AppEEL Lab” and the “Ciência Viva Agency Evolution Day”, held at Knowledge Pavilion, Lisbon, March 2013.
-•	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2014 (4 sessions).
-1.	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2015 (20 sessions).
-•	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2016 (10 sessions).
-•	Coordinator of the Jornadas de Doutoramento, put forward by the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 7-8 June 2017.
-•	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2017. 
-•	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2018 (3 sessions) (on Bachelard and Z. Kotowicz memorial (29 May), on Niels Bohr (19 June), on Jean Piaget (9 October)).
-•	Coordinator of the Jornadas de Doutoramento, put forward by the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 14-21 June 2018.
-•	Coordinator of the Jornadas de Doutoramento, put forward by the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 9, 16, 23, 30 May 2019.
-•	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences held at FCUL, 2019 (4 sessions) (with Phd Students (15 January), with Vincent Bontems (2 may), with Davide Vecchi (15 October), with Matthieu Fontaine (12 November). 
-•	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2020 (3 sessions) with Felix Costa (14 January), with Klaus Gärtner (11 February), with Jean Hugues Barthelemy (3 de March - posponed covid).
+*	Organizer of the Jornadas de Pos-Graduação (postgraduated journeys) put forward by the Department of History and Philosophy of Science, held at FCUL, Lisbon, 31 March and 1 April 2011.  
+*	Coordinator of the seminar “Reading Whitehead”, held at FCUL, June-July 2011 (4 sessions). 
+*	Coordinator of the colloquium “O Lugar da Filosofia da Ciência na nova Universidade de Lisboa”, put forward by the CFCUL, held at Rectory of the University of Lisbon, January 2013. 
+*	Coordinator of the workshop “Qual é a diferença entre Ciência e Filosofia? / What’s the difference between Science and Philosophy? ”, put forward by CFCUL “AppEEL Lab” and the “Ciência Viva Agency Evolution Day”, held at Knowledge Pavilion, Lisbon, March 2013.
+*	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2014 (4 sessions).
+*	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2015 (20 sessions).
+*	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2016 (10 sessions).
+* Coordinator of the Jornadas de Doutoramento, put forward by the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 7-8 June 2017.
+* Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2017. 
+* Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2018 (3 sessions) (on Bachelard and Z. Kotowicz memorial (29 May), on Niels Bohr (19 June), on Jean Piaget (9 October)).
+* Coordinator of the Jornadas de Doutoramento, put forward by the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 14-21 June 2018.
+* Coordinator of the Jornadas de Doutoramento, put forward by the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 9, 16, 23, 30 May 2019.
+* Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences held at FCUL, 2019 (4 sessions). 
+* Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2020 (3 sessions).
+* Organizer of the monthly talks “Philosophy at the Library”, put forward by the municipal library “Biblioteca-Espaço Cultural Cinema Europa”, Lisbon, 2024-2025 (14 sessions). 
+    * “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 9 January 2024.
+    * “Envelhecimento e Morte (On Aging and Death)”, by Jorge Correia Jesuino (with the participation of Olga Pombo and Nuno Oliveira), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 6 February 2024.
+    *	“Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 5 March 2024. 
+    *	“Sobre o conceito de Poder (On the concept of Power)”, by Nuno Oliveira (with the participation of Olga Pombo and Jorge Correia Jesuino), 2 April 2024. 
+    *	“O que é Pensar (On thinking)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 7 May 2024. 
+    *	“O que é a Filosofia (On Philosophy)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 7 June 2024. 
+o	“O Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia (Plato’s Protagoras” (IV aC).  Philosophy, Reason, Virtue and Democracy”), by Olga Pombo (with the participation of Jorge Correia Jesuíno), 1 October 2024.
+o	"O Discurso do Método" (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will”), by Olga Pombo (with the participation of Jorge Correia Jesuíno), 5 November 2024.
+o	"O Discurso sobre a Origem da Desigualdade entre os Homens"" (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men"(1754). Philosophy, Fiction, Politics and Human Rights”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 3 December 2024.
+o	“A Alice no País das Maravilhas” (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature”), by Olga Pombo, 7 de Janeiro 2025.
+o	“Os Espaços Outros” (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces" (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 4 February 2025.
+o	“O Princípio Responsabilidade” (1979) de Hans Jonas (filosofia, ética, futuro e ecologia ("The Principle of Responsibility" (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 4 March 2025.
+o	“Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência ("You have to change your life" (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence”), by Jorge Correia Jesuíno, Nuno Oliveira and Olga Pombo), 1 April 2025.
+o	“Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (“About the New" (2014) by Boris Groys. Philosophy, Innovation, Creation”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 6 May 2025
 
 
 
