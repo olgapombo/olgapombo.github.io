@@ -94,8 +94,7 @@
 * Organizer of the exhibition / video installation “Solaris ou a impossibilidade do fim /Solaris or the impossibility of the end”, authored by Rodrigo Vilhena, put forward by the FCT project “Image in Science and Art”, held at Travessa Convento de Jesus 12A e 16A, Lisbon, 2009.
 * Organizer of the exhibition / video installation “Beta Pictoris II”, authored by Rodrigo Vilhena, put forward by the FCT project “Image in Science and Art”, held at Travessa Convento de Jesus 12A e 16A, Lisbon, 2009.
 * Organizer of the exhibition From Science to Art. Porcelain Garden authored of Rob Kessler, put forward by the FCT project “Image in Science and Art”, held at Lisbon Calouste Gulbenkian Foundation, 17-19 February 2011
-* Coordinator with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco, of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, held at Knowledge Pavillon, Ciência Viva Agency, Lisbon, 2 February-30 March 2011 https://www.pavconhecimento.pt/243/corpo-imagem
-(also [here] (https://arquivo.pt/wayback/20141001002823/http://www.tvciencia.pt/tvcnot/pagnot/tvcnot03.asp?codpub=25&codnot=16))
+* Coordinator with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco, of the exhibition **[CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art](https://www.pavconhecimento.pt/243/corpo-imagem)**, held at Knowledge Pavillon, Ciência Viva Agency, Lisbon, 2 February-30 March 2011 (also [here] (https://arquivo.pt/wayback/20141001002823/http://www.tvciencia.pt/tvcnot/pagnot/tvcnot03.asp?codpub=25&codnot=16)).
 
 
 
