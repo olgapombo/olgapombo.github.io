@@ -62,7 +62,7 @@
 
 ### Scientific societies
 
-* Member of the Directory board of the **[Associação Bento Jesus Caraça](https://www.associacaobentodejesuscaraca.pt/)**, Lisboa (since 2025)
+* Member of the Directory Board of the **[Associação Bento Jesus Caraça](https://www.associacaobentodejesuscaraca.pt/)**, Lisboa (since 2025)
 * President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (since 2022)
 * Founding member of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (created January 2022)
 * Founding member of the Société de Philosophie des Sciences, France (2002). 
