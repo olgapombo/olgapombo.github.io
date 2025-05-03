@@ -1,7 +1,7 @@
 
 # Talks 
 
-[Online talks]  [Scientific conferences]  [Public talks]  [Debates and round tables]  [Book presentations] [Dissemination talks]
+###### [Online talks](#Online-talks) | [Scientific conferences](#Scientific-conferences) | [Public talks](#Public-talks) | [Debates and round tables](#Debates-and-round-tables) | [Book presentations](#Book-presentations) | [Dissemination talks](#Dissemination-talks)
 
 ## Online talks
 
