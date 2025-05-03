@@ -25,7 +25,7 @@
 * 2012-2013 - **[Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention](https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/)**, International Research Project (CFCUL /University of Sevilla), CRUP-Acções integradas. 
 * 2012-2015 - **Plato’s Protagoras** <http://cfcul.fc.ul.pt/projectos/protagoras>, CFCUL internal research project.
 * 2012-2016 - [**Lisbon Applied Evolutionary Epistemology Lab**](https://ciencias.ulisboa.pt/pt/noticia/07-02-2013/appeel-applied-evolutionary-epistemology-lab), CFCUL research project (coordination of Nathalie Gontier and Olga Pombo). 
-* 2013-2014 -  [**Afinal o que é a Ciência? / After all, what is Science?**](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project. (**More information [here](https://arquivo.pt/wayback/20240112200715/https://ciencia13-14.fc.ul.pt/?)**)
+* 2013-2014 -  [**Afinal o que é a Ciência? / After all, what is Science?**](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project. (**more info [here](https://arquivo.pt/wayback/20240112200715/https://ciencia13-14.fc.ul.pt/?)**)
 * 2013-2015 - **Unity of Science**,  head of the CFCUL Research Group.
 * 2015-3/2016 - **Epistemology and Methodology**, head of the CFCUL Research Group .
 * 2015-2016 - **[Unity of Science and Interdisciplinarity](https://arquivo.pt/wayback/20171212131758/http://uci.fc.ul.pt/)**, head of the CFCUL Thematic Line. 
@@ -94,7 +94,7 @@
 * Organizer of the exhibition / video installation “Solaris ou a impossibilidade do fim /Solaris or the impossibility of the end”, authored by Rodrigo Vilhena, put forward by the FCT project “Image in Science and Art”, held at Travessa Convento de Jesus 12A e 16A, Lisbon, 2009.
 * Organizer of the exhibition / video installation “Beta Pictoris II”, authored by Rodrigo Vilhena, put forward by the FCT project “Image in Science and Art”, held at Travessa Convento de Jesus 12A e 16A, Lisbon, 2009.
 * Organizer of the exhibition From Science to Art. Porcelain Garden authored of Rob Kessler, put forward by the FCT project “Image in Science and Art”, held at Lisbon Calouste Gulbenkian Foundation, 17-19 February 2011
-* Coordinator with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco, of the exhibition **[CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art](https://www.pavconhecimento.pt/243/corpo-imagem)**, held at Knowledge Pavillon, Ciência Viva Agency, Lisbon, 2 February-30 March 2011 also [here](https://arquivo.pt/wayback/20141001002823/http://www.tvciencia.pt/tvcnot/pagnot/tvcnot03.asp?codpub=25&codnot=16).
+* Coordinator with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco, of the exhibition **[CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art](https://www.pavconhecimento.pt/243/corpo-imagem)**, held at Knowledge Pavillon, Ciência Viva Agency, Lisbon, 2 February-30 March 2011 (also [**here**](https://arquivo.pt/wayback/20141001002823/http://www.tvciencia.pt/tvcnot/pagnot/tvcnot03.asp?codpub=25&codnot=16).
 
 
 
