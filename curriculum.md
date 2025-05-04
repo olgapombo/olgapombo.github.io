@@ -345,13 +345,9 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 ### Scholar brochures 
  1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.), (1990) **Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
 2.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1991) , **Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
-3.	Olga Pombo (ed.) (1994), **McLuhan. A Escola e os Media** (anthology of texts by M. McLuhan, translated and prefaced), *1º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 73 pp.
-4.	https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm
-<http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno1>
-https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/1cad.jpg
-
-6.	Olga Pombo (ed.) (1995), **Dois Textos sobre Educação. Hannah Arendt e Eric Weil** (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), *2º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 48 pp. <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno2>
-https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/2cad.jpg
+3.	Olga Pombo (ed.) (1994), [**McLuhan. A Escola e os Media**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/1cad.jpg) (anthology of texts by M. McLuhan, translated and prefaced), *1º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 73 pp.
+https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm
+6.	Olga Pombo (ed.) (1995), [**Dois Textos sobre Educação. Hannah Arendt e Eric Weil** (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/2cad.jpg), *2º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 48 pp. <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno2>
 
 7.	Olga Pombo (ed.) (1996), **A Invenção da Escola na Grécia. Materiais de Estudo** (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), *3º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 81 pp.
 <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno3>
