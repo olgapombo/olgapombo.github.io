@@ -345,13 +345,13 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 ### Scholar brochures 
  1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.), (1990) **Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
 2.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1991) , **Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
-3.	Olga Pombo (ed.) (1994), [**McLuhan. A Escola e os Media**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/1cad.jpg) (anthology of texts by M. McLuhan, translated and prefaced), [*1º Caderno de História e Filosofia da Educação*] (https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 73 pp.
-6.	Olga Pombo (ed.) (1995), [**Dois Textos sobre Educação. Hannah Arendt e Eric Weil**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/2cad.jpg), (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), [*2º Caderno de História e Filosofia da Educação*](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 48 pp.
-7.	Olga Pombo (ed.) (1996), [**A Invenção da Escola na Grécia. Materiais de Estudo**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/3cad.jpg) (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), [*3º Caderno de História e Filosofia da Educação*](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 81 pp.
-8.	Olga Pombo (ed) (1997), [**Museu de Alexandria**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/Alexandria.jpg), [*4º Caderno de História e Filosofia da Educação*](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 87 pp.
-9.	Olga Pombo (ed.) (1997), [**Utopia e Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/utopia.jpg) (anthology of texts translated and commented), [*5º Caderno de História e Filosofia da Educação*](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 160 pp.  
-10.	Olga Pombo (ed.) (2001), [**Educar / Ensinar. Materiais de estudo**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/caderno6.jpg), (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), [*6º Caderno de História e Filosofia da Educação*](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 84 pp.
-11.	Olg a Pombo (ed.) (2005), [**Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/capa1.jpg),(anthology with introduction and revised translation), [*7º Caderno de História e Filosofia da Educação*](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: DEFCUL, 40 pp.  
+3.	Olga Pombo (ed.) (1994), [**McLuhan. A Escola e os Media**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/1cad.jpg) (anthology of texts by M. McLuhan, translated and prefaced),*1º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 73 pp.
+6.	Olga Pombo (ed.) (1995), [**Dois Textos sobre Educação. Hannah Arendt e Eric Weil**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/2cad.jpg), (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced),*2º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 48 pp.
+7. Olga Pombo (ed.) (1996), [**A Invenção da Escola na Grécia. Materiais de Estudo**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/3cad.jpg) (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), *3º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 81 pp.
+8. Olga Pombo (ed) (1997), [**Museu de Alexandria**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/Alexandria.jpg), *4º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 87 pp.
+10. Olga Pombo (ed.) (1997), [**Utopia e Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/utopia.jpg) (anthology of texts translated and commented),*5º Caderno de História e Filosofia da Educação*,  Lisboa: DEFCUL, 160 pp.  
+11. Olga Pombo (ed.) (2001), [**Educar / Ensinar. Materiais de estudo**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/caderno6.jpg), (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), *6º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 84 pp.
+12. Olga Pombo (ed.) (2005), [**Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/capa1.jpg),(anthology with introduction and revised translation), *7º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 40 pp.  
 
 ### Room texts for exhibitions
 * Pombo, Olga (2019), [**A Bioarte de Isa Duarte Ribeiro**](https://www.researchgate.net/publication/338476516_A_Bioarte_de_Isa_Duarte_Ribeiro_BioArt_of_Isa_Duarte_Ribeiro), 
@@ -414,7 +414,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	9. *Philosophy of Science in the 21st Century. Challenges and Tasks*, Olga 		Pombo;  Gil Santos (eds.), 2016,
 	10. *Epistemologia, Lógica e Linguagem*, Olga Pombo, Ana Pato, Juan Redmond 		(eds), 2019
 
- * Director of the book series [**Theses**](https://cfcul.blogspot.com/p/publicacoes.html), Lisboa: CFCUL (6 published volumes).  
+ * Direction of the book series [**Theses**](https://cfcul.blogspot.com/p/publicacoes.html), Lisboa: CFCUL (6 published volumes).  
 	1. *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da 
 	História e Filosofia das Ciências*, by Helena Abreu, 2007,
 	2. *A imagem-sensação: Deleuze e a pintura*, by Nuno Carvalho, 2009,
@@ -423,6 +423,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	5. *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston 		Bachelard*, by Ana Gaspar, 2010, 
 	6. *Máquinas, Génios e Homens na Construção do Conhecimento. Uma 			interpretação heurística do método inductivo de Francis Bacon*, by Sergio Hugo 		Menna, 2015
 
+* Editor of the series of the scholar brochures  [*Cadernos de História e Filosofia da Educação*](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)  
 * Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes). 
 * Member of the editorial board of the book series [**Interdisciplinarité, Sciences et Humanités**](https://www.istegroup.com/fr/collection/interdisciplinarite-sciences-et-humanites/), ISTE Science Publishing, UK (since 2017).
 * Member of the editorial board of the book series [**Processos Formativos**](http://www.editorafi.org/serieprocessosformativos), Editora FI, Porto Alegre, Brazil. 
