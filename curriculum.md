@@ -374,8 +374,8 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
   
 ### Book series  
 * Direction of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
-	1) *As cidades, os castelos e a onda: imagens, diagramas e metáforas entre 		Calvino, Escher e Bohr*, by João Araújo, 2010;
-	2) *Neuroaesthetics : can science explain art?*, edited by Olga Pombo, Silvia Di 	Marco, Marco Pina (eds), 2010;
+	#### 1) *As cidades, os castelos e a onda: imagens, diagramas e metáforas entre 		Calvino, Escher e Bohr*, by João Araújo, 2010;
+	#### 2) *Neuroaesthetics : can science explain art?*, edited by Olga Pombo, Silvia Di 	Marco, Marco Pina (eds), 2010;
 	3) *As Imagens com que a Ciência se Faz*, edited by Olga Pombo, Silvia di Marco 	(eds), 2011;
 	4) *Solaris: sistema beta pictoris. Ciclo de exposições 2004-2009*, by Rodrigo 		Vilhena, 2011;
 	5) *A colecção de desenho antigo da Faculdade de Belas Artes de Lisboa (1830-		1935): tradição, formação e gosto*, by Alberto Faria, 2011;
@@ -423,8 +423,8 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	5. *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston 		Bachelard*, by Ana Gaspar, 2010, 
 	6. *Máquinas, Génios e Homens na Construção do Conhecimento. Uma 			interpretação heurística do método inductivo de Francis Bacon*, by Sergio Hugo 		Menna, 2015
 
-* Editor of the series of the scholar brochures  [*Cadernos de História e Filosofia da Educação*](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)  
-* Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes). 
+* Editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes).
+* Editor of the scholar brochures series [**Cadernos de História e Filosofia da Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)  
 * Member of the editorial board of the book series [**Interdisciplinarité, Sciences et Humanités**](https://www.istegroup.com/fr/collection/interdisciplinarite-sciences-et-humanites/), ISTE Science Publishing, UK (since 2017).
 * Member of the editorial board of the book series [**Processos Formativos**](http://www.editorafi.org/serieprocessosformativos), Editora FI, Porto Alegre, Brazil. 
 * Member of the scientific committee of the editorial series **Applied Ethics and Philosophical Anthropologies**, Milella Publishing House, Lecce, Italy (since 2024).
