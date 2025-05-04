@@ -374,8 +374,8 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
   
 ### Book series  
 * Direction of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
-	#### 1) *As cidades, os castelos e a onda: imagens, diagramas e metáforas entre 		Calvino, Escher e Bohr*, by João Araújo, 2010;
-	#### 2) *Neuroaesthetics : can science explain art?*, edited by Olga Pombo, Silvia Di 	Marco, Marco Pina (eds), 2010;
+	1) *As cidades, os castelos e a onda: imagens, diagramas e metáforas entre 		Calvino, Escher e Bohr*, by João Araújo, 2010;
+	2) *Neuroaesthetics : can science explain art?*, edited by Olga Pombo, Silvia Di 	Marco, Marco Pina (eds), 2010;
 	3) *As Imagens com que a Ciência se Faz*, edited by Olga Pombo, Silvia di Marco 	(eds), 2011;
 	4) *Solaris: sistema beta pictoris. Ciclo de exposições 2004-2009*, by Rodrigo 		Vilhena, 2011;
 	5) *A colecção de desenho antigo da Faculdade de Belas Artes de Lisboa (1830-		1935): tradição, formação e gosto*, by Alberto Faria, 2011;
