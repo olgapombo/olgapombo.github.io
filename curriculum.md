@@ -389,7 +389,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
   	11) *Modelos e imagens*, edited by Olga Pombo, 2018;
         12) *CorpoImagem : representações do corpo na ciência e na arte*, edited by 		Olga Pombo, Catarina Pombo Nabais, Sara Fuentes, 2019.
   	         
-* Direction of the book series [**Cadernos de Filosofia da Ciência**](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: CFCUL (13 volumes published). (more info [here](https://cfcul.blogspot.com/p/cadernos-de-fc.html).
+* Direction of the book series [**Cadernos de Filosofia da Ciência**](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: CFCUL (13 volumes published). (more info [here](https://cfcul.blogspot.com/p/cadernos-de-fc.html)).
 	1. *Ciência e Género. Quatro Textos de Quatro Mulheres*, Teresa Levy, Clara 		Queiroz (eds), 2005,
 	2. *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros 		Inéditos*, Augusto J. Franco de Oliveira (ed), 2006.
 	3. *As Cartas de Problemática de António Sérgio*, Olga Pombo, Manuel Beirão 		dos Reis, João Luís Cordovil (eds), 2006.
