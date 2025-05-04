@@ -7,7 +7,7 @@ Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Mast
 
 Professor of Philosophy of Science at the Department of History and Philosophy of Science, Faculty of Sciences of the University of Lisbon (retired since 2017, with collaboration agreement since then), she was president of the Department since its foundation in 2007 up to 2012. She created the “[Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL)](https://cfcul.ciencias.ulisboa.pt/) of which she was the [Director and Scientific Coordinator](https://cfcul.ciencias.ulisboa.pt/equipa/olga-pombo/) since its foundation in 2003 until 2017. She coordinated several research projects - "Encyclopedia and Hypertext" (1999-02), "Scientific Culture. Conceptual Migrations and Social Contaminations" (2003-6), “Image in Science and Art” (2007-12), “Universal Logics and Unity of Science” (2008-10), “Abduction and Scientific Discovery” (2010-12), “Knowledge Dynamics in the field of Social Sciences (2012-13) - and associated researcher in several other international projects.  In 2013, she created the FCT [Doctoral Program Philosophy of Science, Technology, Art and Society](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) of which she was the [first program director (PI)](https://phd-fctas.campus.ciencias.ulisboa.pt/director-do-programa/) until 2017, where she continued to lecture until 2024, and where she is currently still supervising several doctoral theses.
 
-She is the author and editor of numerous publications, national and international, dedicated to several authors, namelly Leibniz (but also Hobbes, Spinoza, Rousseau, Hegel, Peirce, Poincaré, Neurath, Bachelard) and to her various research fields - namely, Epistemology and Philosophy of Science, Unity of Science, Interdisciplinarity, Scientific Image, Scientific Models, History and Philosophy of Language, History and Philosophy of Encyclopedia, Philosophy of School and, more recently, "Science and Art" whose teaching she has initiated in Portugal.
+She is the author and editor of numerous publications, national and international, dedicated to several authors, namelly Leibniz (but also Hobbes, Spinoza, Rousseau, Hegel, Peirce, Poincaré, Neurath, Bachelard and Plato) and to her various research fields - namely, Epistemology and Philosophy of Science, Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Models, History and Philosophy of Language, History and Philosophy of Encyclopedia, Hypertext and Internet, History and Philosophy of School, Museum, Library,  and, more recently, "Science and Art" whose teaching she has initiated in Portugal.
 
 She has been invited as visiting professor and keynote speaker at several institutions in Portugal and abroad such as University of Hannover (Germany), Zentrum für Literaturforshung Berlin (Germany), Institute for Advanced Studies of the Hebrew University of Jerusalem (Israel), Institut Universitaire Kurt Bösch (Switzerland), Vienna University (Austria), Oxford University (UK), Poznań University (Poland), University of Athens (Greece), São Paulo University (Brazil), Federal University of Latino-American Integration (Brazil), Federal University of Goias (Brazil), Pará University (Brazil), École des Mînes of Paris (France), Pisa University (Italy), University of Florence (Italy), Accademia Vivarium Novum Roma (Italy), Sevilla University (Spain), Universidad de Burgos (Spain), SPSN (Angola), Azores University (PT), University of Oporto (PT), University of Coimbra (PT). 
 
@@ -21,11 +21,6 @@ She was invited to join the honour commission of the Portuguese “Reading Natio
 
 Recently,  she was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). 
 
-## Research interests 
-* Epistemology and Philosophy of Science - Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Model, Science and Art (Plato, Peirce, Poincaré, Neurath, Bachelard)
-* Philosophy of Language (Leibniz, Hobbes, Spinoza, Rousseau, Hegel) 
-* History and Philosophy of Encyclopaedia, Hypertext and Internet
-* History and Philosophy of School, Philosophy of Teaching, Museum, Library, Book, Reading.
   
 ## Education and degrees
 
@@ -39,7 +34,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * 1970 – Bachelor in Pedagogical Sciences, Faculty of Letters, University of Lisbon.
 
 
-## Academic positions and responsabilities 
+## Academic appointments, positions and responsabilities 
 
 * 2016 - ongoing - Professor (retired with collaboration agreement) of the “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 * 2014 – 2017 - Proponent and first Program-Director of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
@@ -66,28 +61,28 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 
 ## Fellowships and research stays abroad
 
-* PhD fellowship awarded by the National Institute of Scientific Research (JNIC) (1989 – 1992)
-* PhD research stay at the Centre de Recherche Épistémologie Appliquée – CREA, University of Paris, France (1990-1991)
+* PhD fellowship awarded by the National Institute of Scientific Research (JNIC) (1989 – 1992).
+* PhD research stay at the Centre de Recherche Épistémologie Appliquée – CREA, University of Paris, France (1990-1991).
 * PhD research stay at Philosophy Institute, University of Leuven, Belgium (1991-1992)
-* Sabbatical fellowship awarded by the Foundation for Science and Technology (FCT), Berlin, Germany (1 November 2004-31th September 2005)
+* Sabbatical fellowship awarded by the Foundation for Science and Technology (FCT), Berlin, Germany (1 November 2004-31th September 2005).
 -- 
-* Research Fellow at Institute for Advanced Studies (invited by Marcelo Dascal), Hebrew University of Jerusalem, Israel (March - May 1995)
-* Research Fellow at Oxford University, Jesus College (invited by David Cram), Oxford, UK (March-June 1999)
-* Research Fellow at Institut für Philosophie (invited by Elisabeth Nemeth), Viena University, Austria (September-October 1999)
-* Research Fellow at Institut Wiener Kreis and Zentrum für Überfakultäre Forschung (invited by Friedrich Stadler), Vienna University, Austria (May 2000)
-* Research Fellow at University Lille 3 (invited by Shahid Rahman), France (January 2003)
+* Research Fellow at the Philosophy Institut (invited by Manfred Walter), Hannover University, Germany (November 1989).
+* Research Fellow at Institute for Advanced Studies (invited by Marcelo Dascal), Hebrew University of Jerusalem, Israel (March - May 1995).
+* Research Fellow at Oxford University, Jesus College (invited by David Cram), Oxford, UK (March-June 1999).
+* Research Fellow at Institut für Philosophie (invited by Elisabeth Nemeth), Viena University, Austria (September-October 1999).
+* Research Fellow at Institut Wiener Kreis and Zentrum für Überfakultäre Forschung (invited by Friedrich Stadler), Vienna University, Austria (May 2000).
+* Research Fellow at University Lille 3 (invited by Shahid Rahman), France (January 2003).
 * Research Fellow at Catholic University of Rio Grande do Sul and Caxias do Sul University, (invited by William de Siqueira Piauí), Porto Alegre, Brazil (June 2004).
-* Research Fellow at the Zentrum für Literaturforshung (invited by Sigrid Weigel), Berlin, Germany (January - July 2005)
-* Research Fellow at UERJ and PUC-Rio de Janeiro (invited by Deborah Danowsky), Brazil (November 2007)
+* Research Fellow at the Zentrum für Literaturforshung (invited by Sigrid Weigel), Berlin, Germany (January - July 2005).
+* Research Fellow at UERJ and PUC-Rio de Janeiro (invited by Deborah Danowsky), Brazil (November 2007).
 * Research Fellow at Federal University of Latin-American Integration (UNILA), (invited by Carlos A. Dos Santos), Foz do Iguaçu, Brazil (December 2010).
 * Research Fellow at Goias Federal University (invited by Wagner Sanz) and University Sagrado Coração - Bauru/SP, Brazil (October 2012).
 * Research Fellow at the Dipartimento di Ingegneria dell'Innovazione and Dipartimeno di Studi Umanistici, Lecce University (invited by Giovanni Scarafille), Italy (May 2014).
 * Research Fellow at “Centro studi sulla natura, l’umano e l’unità del pensiero” (invited by Luciano Boi), Accademia Vivarium novum, Roma, Italy (October – Novembre 2019).
 --
-* Short-Term Fellowship, invited by the Philosophy Institut, Hannover University, Germany (November 1988)
 * Short-Term Fellowship, awarded by Calouste Gulbenkian Foundation, Institut Universitaire Kurt Bosch, Suisse (September 1997)
 * Short-Term Fellowship (funded by CFCUL) Edinburg University, UK (September 2000)
-* Short-Term Fellowship at Zentrum für Überfakultäre Forschung, Vienna University (invited by Elisabeth Nemeth Austria) (May 2000)
+* Short-Term Fellowship at Zentrum für Überfakultäre Forschung, Vienna University (invited by Elisabeth Nemeth), Austria (May 2000)
 * Short-Term Fellowship at Valência Polithechnical University, (invited by Concha Roldan) Spain (March 2001) 
 * Short-Term Fellowship, invited by the Société de Philosophie des Sciences, Genève, Switzerland (March 2007).
 * Short-Term Fellowship at Sevilla University (invited by Fernando Soler), Spain, (March 2007). 
@@ -154,26 +149,26 @@ ISBN: 978-989-9077-76-8.
 9.	Olga Pombo; Alexander Gerner (eds.) (2010) ***Studies in Diagrammatology and Diagram Praxis***, London: College Publications, 224 pp. ISBN: 978-184-8900073.
 10.	Olga Pombo; Silvia di Marco (eds.) (2010) ***As Imagens com que Ciência se Faz***, Lisboa: Fim de Século, 286 pp. ISBN: 978-972-754-279-6.
 11.	Olga Pombo (ed.) (2011) ***Lógica Universal e Unidade da Ciência***, Lisboa: CFCUL,196 pp. ISBN: 978-989-8247-50-6.
-17.	Olga Pombo; Catarina Nabais; Cristina Tavares; Manuel Valente Alves; Marco Pina; Pedro Silva; Ricardo Santos; Silvia Di Marco (eds.) (2011) ***CorpoIMAGEM - Representações do Corpo na Ciência e na Arte***,  Lisboa: Ciência Viva, 27 pp. (catalogue).
-12.	Olga Pombo; John Symons; Juan Manuel Torres (eds.) (2011) ***Otto Neurath and the Unity of Science***, Dordrecht/Heidelberg/ London/New York: Springer, 250 pp. ISBN: 978-94-007-0142-7.    DOI:10.1007/978-94-007-0143-4.
-13.	Olga Pombo; J. Cordovil (eds.) (2012) ***As Cartas de Problemática de António Sérgio dirigidas a um grupo de jovens amigos, alunos e alunas da Faculdade de Ciências***,  Lisboa: Fim de Século, 228 pp. ISBN: 978-972-754-294-9.
-14.	Olga Pombo; Shahid Rahman; John Symons; Juan Manuel Torres (eds.) (2012) ***Special Sciences and the Unity of Science***, Dordrecht/Heidelberg/London/New York: Springer, 299 pp. ISBN: 978-94-007-2029-9.DOI: 10.1007/978-94-007-2030-5. 
-15.	Olga Pombo; Marco Pina (eds.) (2012) ***Em torno de Darwin***,  Lisboa: Fim de Século, 187 pp. ISBN: 978-972-754-291-8.
-16.	Olga Pombo; António Guerreiro (eds.) (2012) ***Da Civilização da Palavra à Civilização da Imagem***, Lisboa: Fim de Século, 186 pp. ISBN: 978-972-754-293-2.
-17.	Olga Pombo; Nuno Melim (eds.) (2013) ***Rousseau e as Ciências***, Lisboa: CFCUL, 222 pp. ISBN: 978-989-8247-63-6.
-18.	Olga Pombo; Nuno Nabais (eds.) (2013) ***O Lugar da Filosofia da Ciência na Universidade de Lisboa***, Lisboa: CFCUL, 250 pp. ISBN: 978-989-8247-61-2.
-19.	Juan Redmond; Olga Pombo; Ángel Nepomuceno (eds) (2016) ***Epistemology, Knowledge and the Impact of Interaction***, series “Logic, Epistemology, and the Unity of Science”, vol. 38, Switzerland: Springer International Publishing, 554 pp. ISBN: 978-3-319-26504-9. DOI: 10.1007/978-3-319-26506-3.
-20.	Olga Pombo; Gil Costa (eds.) (2016) ***Philosophy of Science in the XXI Century: Challenges and Tasks***, Lisboa: CFCUL, 352 pp. ISBN: 978-989-8247-72-8.
-21.	Olga Pombo; Ricardo Santos (eds.) (2016) ***Afinal, o que é a Ciência? Relatório de um Projecto***, Lisboa: Ciência Viva, 122 pp. ISBN: 978-989-8247-70-4.
-22.	Olga Pombo; Paulo Castro (eds.) (2017) ***Debates da Filosofia da Ciência Contemporânea***, Lisboa: CFCUL, 392 pp. ISBN: 978-989-8247-75-9.
-23.	Olga Pombo (ed.) (2017) [***Image in Science and Art***](https://www.wook.pt/livro/image-in-science-and-art-olga-pombo/23416273?srsltid=AfmBOoo6Vyu70qLnUu6bvJ_hU4Lq9E6Eg3OY5Fn31N-CM0PbuaEUspRX), Lisboa: Fim de Século, 231 pp. ISBN: 978-972-574-286-4. (see also [here](https://www.researchgate.net/publication/338346248_Image_in_Science_and_Art))
-24.	Olga Pombo (ed.) (2018) [***Modelos e Imagens***](https://www.wook.pt/livro/modelos-e-imagens-olga-pombo/21821748?utm_source=paginasautores&utm_campaign=wookacontece&utm_medium=wookacontece), Lisboa: Fim de Século, 299 pp. ISBN: 978-972-754-287-1.
-25.	Olga Pombo; Ana Pato; Juan Redmond (eds) (2018) [***Epistemologia, Lógica e Linguagem***](https://cfcul.ciencias.ulisboa.pt/livros/epistemologia-logica-e-linguagem/), Lisboa: CFCUL, Series “Documenta”, vol. 11, 189 pp. ISBN: 78-989-8247-78-0.
-26.	Olga Pombo; Catarina Nabais; Sara Fuentes (eds.) (2019), [***CorpoIMAGEM. Representações do Corpo na Ciência e na Arte***](https://cfcul.ciencias.ulisboa.pt/livros/corpoimagem-representacoes-do-corpo-na-ciencia-e-na-arte/), Lisboa: Fim de Século, 249 pp. ISBN: 978-972-754-285-7 (see also [here](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?2043074))
-27.	Jens Alwood; Olga Pombo; Clara Renna; Giovanni Scarafile (eds.)(2020) [***Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a new Knowledge Model***](https://cfcul.ciencias.ulisboa.pt/livros/controversies-and-interdisciplinarity/), Amsterdam/Philadelphia: John Benjamin’s Publishing Company, series “Controversies. Ethics and Interdisciplinarity”, vol. 16, 279pp. DOI: https://doi.org/10.1075/cvs.16, ISBN: 978 90 272 0754 8; E-book: 978 90 272 6075 8 
-28.	Olga Pombo (ed.) (2021), Ciência, [***Racionalidade e Política. Ensaios (in)Atuais***](https://www.aletheia.pt/products/ciencia-racionalidade-e-politica-ensaios-inatuais), Lisboa: Aletheia, ISBN: 978-989-8906.
-29.	Olga Pombo (ed.) (2021), [***Regresso ao Protágoras, de Platão***](https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/Prota%CC%81goras_OP_2021.pdf),  Lisboa: Mariposa Azul, 227 pp. ISBN:978-972-8481-70-4
-30.	Olga Pombo, Klaus Gaertner, Jorge Jesuíno (eds.) (2023), [***Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century***](https://www.amazon.com/Interdisciplinary-Production-Reproduction-Scientific-Knowledge/dp/3031204042), Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, 309 pp. ISBN: 978-3-031-20404-3 DOI: https://doi.org/10.1007/978-3-031-20405-0
+12.	Olga Pombo; Catarina Nabais; Cristina Tavares; Manuel Valente Alves; Marco Pina; Pedro Silva; Ricardo Santos; Silvia Di Marco (eds.) (2011) ***CorpoIMAGEM - Representações do Corpo na Ciência e na Arte***,  Lisboa: Ciência Viva, 27 pp. (catalogue).
+13.	Olga Pombo; John Symons; Juan Manuel Torres (eds.) (2011) ***Otto Neurath and the Unity of Science***, Dordrecht/Heidelberg/ London/New York: Springer, 250 pp. ISBN: 978-94-007-0142-7.    DOI:10.1007/978-94-007-0143-4.
+14.	Olga Pombo; J. Cordovil (eds.) (2012) ***As Cartas de Problemática de António Sérgio dirigidas a um grupo de jovens amigos, alunos e alunas da Faculdade de Ciências***,  Lisboa: Fim de Século, 228 pp. ISBN: 978-972-754-294-9.
+15.	Olga Pombo; Shahid Rahman; John Symons; Juan Manuel Torres (eds.) (2012) ***Special Sciences and the Unity of Science***, Dordrecht/Heidelberg/London/New York: Springer, 299 pp. ISBN: 978-94-007-2029-9.DOI: 10.1007/978-94-007-2030-5. 
+16.	Olga Pombo; Marco Pina (eds.) (2012) ***Em torno de Darwin***,  Lisboa: Fim de Século, 187 pp. ISBN: 978-972-754-291-8.
+17.	Olga Pombo; António Guerreiro (eds.) (2012) ***Da Civilização da Palavra à Civilização da Imagem***, Lisboa: Fim de Século, 186 pp. ISBN: 978-972-754-293-2.
+18.	Olga Pombo; Nuno Melim (eds.) (2013) ***Rousseau e as Ciências***, Lisboa: CFCUL, 222 pp. ISBN: 978-989-8247-63-6.
+19.	Olga Pombo; Nuno Nabais (eds.) (2013) ***O Lugar da Filosofia da Ciência na Universidade de Lisboa***, Lisboa: CFCUL, 250 pp. ISBN: 978-989-8247-61-2.
+20.	Juan Redmond; Olga Pombo; Ángel Nepomuceno (eds) (2016) ***Epistemology, Knowledge and the Impact of Interaction***, series “Logic, Epistemology, and the Unity of Science”, vol. 38, Switzerland: Springer International Publishing, 554 pp. ISBN: 978-3-319-26504-9. DOI: 10.1007/978-3-319-26506-3.
+21.	Olga Pombo; Gil Costa (eds.) (2016) ***Philosophy of Science in the XXI Century: Challenges and Tasks***, Lisboa: CFCUL, 352 pp. ISBN: 978-989-8247-72-8.
+22.	Olga Pombo; Ricardo Santos (eds.) (2016) ***Afinal, o que é a Ciência? Relatório de um Projecto***, Lisboa: Ciência Viva, 122 pp. ISBN: 978-989-8247-70-4.
+23.	Olga Pombo; Paulo Castro (eds.) (2017) ***Debates da Filosofia da Ciência Contemporânea***, Lisboa: CFCUL, 392 pp. ISBN: 978-989-8247-75-9.
+24.	Olga Pombo (ed.) (2017) [***Image in Science and Art***](https://www.wook.pt/livro/image-in-science-and-art-olga-pombo/23416273?srsltid=AfmBOoo6Vyu70qLnUu6bvJ_hU4Lq9E6Eg3OY5Fn31N-CM0PbuaEUspRX), Lisboa: Fim de Século, 231 pp. ISBN: 978-972-574-286-4. (see also [here](https://www.researchgate.net/publication/338346248_Image_in_Science_and_Art))
+25.	Olga Pombo (ed.) (2018) [***Modelos e Imagens***](https://www.wook.pt/livro/modelos-e-imagens-olga-pombo/21821748?utm_source=paginasautores&utm_campaign=wookacontece&utm_medium=wookacontece), Lisboa: Fim de Século, 299 pp. ISBN: 978-972-754-287-1.
+26.	Olga Pombo; Ana Pato; Juan Redmond (eds) (2018) [***Epistemologia, Lógica e Linguagem***](https://cfcul.ciencias.ulisboa.pt/livros/epistemologia-logica-e-linguagem/), Lisboa: CFCUL, Series “Documenta”, vol. 11, 189 pp. ISBN: 78-989-8247-78-0.
+27.	Olga Pombo; Catarina Nabais; Sara Fuentes (eds.) (2019), [***CorpoIMAGEM. Representações do Corpo na Ciência e na Arte***](https://cfcul.ciencias.ulisboa.pt/livros/corpoimagem-representacoes-do-corpo-na-ciencia-e-na-arte/), Lisboa: Fim de Século, 249 pp. ISBN: 978-972-754-285-7 (see also [here](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?2043074))
+28.	Jens Alwood; Olga Pombo; Clara Renna; Giovanni Scarafile (eds.)(2020) [***Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a new Knowledge Model***](https://cfcul.ciencias.ulisboa.pt/livros/controversies-and-interdisciplinarity/), Amsterdam/Philadelphia: John Benjamin’s Publishing Company, series “Controversies. Ethics and Interdisciplinarity”, vol. 16, 279pp. DOI: https://doi.org/10.1075/cvs.16, ISBN: 978 90 272 0754 8; E-book: 978 90 272 6075 8 
+29.	Olga Pombo (ed.) (2021), Ciência, [***Racionalidade e Política. Ensaios (in)Atuais***](https://www.aletheia.pt/products/ciencia-racionalidade-e-politica-ensaios-inatuais), Lisboa: Aletheia, ISBN: 978-989-8906.
+30.	Olga Pombo (ed.) (2021), [***Regresso ao Protágoras, de Platão***](https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/Prota%CC%81goras_OP_2021.pdf),  Lisboa: Mariposa Azul, 227 pp. ISBN:978-972-8481-70-4
+31.	Olga Pombo, Klaus Gaertner, Jorge Jesuíno (eds.) (2023), [***Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century***](https://www.amazon.com/Interdisciplinary-Production-Reproduction-Scientific-Knowledge/dp/3031204042), Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, 309 pp. ISBN: 978-3-031-20404-3 DOI: https://doi.org/10.1007/978-3-031-20405-0
 
 
 ### Chapters 
@@ -359,7 +354,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 9.	Olg a Pombo (ed.) (2005), **Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset** (anthology with introduction and revised translation), *7º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 40 pp.  <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno7>  
 
 ### Publications at exhibition
-* Pombo, Olga (2019), **A Bioarte de Isa Duarte Ribeiro**, *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
+* Pombo, Olga (2019), [**A Bioarte de Isa Duarte Ribeiro**](file:///C:/Users/Olga%20Pombo/Downloads/ABioartedeIsaDuarteRibeiro%20(1).pdf), *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
 * Pombo, Olga (2004), **From Thomas More to Rousseau**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
 * Pombo, Olga (2004), **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
 * Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
