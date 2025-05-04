@@ -356,7 +356,8 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 9.	Olg a Pombo (ed.) (2005), **Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset** (anthology with introduction and revised translation), *7º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 40 pp.  <http://www.educ.fc.ul.pt/docentes/opombo/hfe/cadernos/index.htm#caderno7>  
 
 ### Publications at exhibition
-* Pombo, Olga (2019), [**A Bioarte de Isa Duarte Ribeiro**](file:///C:/Users/Olga%20Pombo/Downloads/ABioartedeIsaDuarteRibeiro%20(1).pdf), *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
+* Pombo, Olga (2019), [**A Bioarte de Isa Duarte Ribeiro**](file:///C:/Users/Olga%20Pombo/Downloads/ABioartedeIsaDuarteRibeiro%20(1).pdf), 
+*(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
 * Pombo, Olga (2004), **From Thomas More to Rousseau**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
 * Pombo, Olga (2004), **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
 * Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
