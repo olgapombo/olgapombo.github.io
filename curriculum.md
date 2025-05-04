@@ -371,8 +371,8 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
 ### Journal guest editor
-* Pombo, Olga (2015), **Axiomathes, Special Issue**, "Introduction to the special issue   Metaphysical and Epistemological Challenges: Papers from the 2013 Lisbon Conference", *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-* Pombo, Olga (2012), **Kairos. Journal of Philosophy & Science, Dossier: Leibniz**, "Brevis designatio meditationum de originibus gentium ductis potissimum ex indicio linguarum", *Kairos. Journal of Philosophy & Science*, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
+* Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
   
 ### Book series editor 
 * Director of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).  
