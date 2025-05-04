@@ -376,21 +376,32 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
   
 ### Book series editor 
 * Director of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
-	1) As cidades, os castelos e a onda: imagens, diagramas e metáforas entre 		Calvino, Escher e Bohr , by João Araújo, 2010; 2) Neuroaesthetics : can science 	explain art?, edited by Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010; 3) 	As Imagens com que a Ciência se Faz, edited by Olga Pombo, Silvia di Marco 		(eds), 2011; 4) Solaris: sistema beta pictoris. Ciclo de exposições 2004-2009, 		by Rodrigo Vilhena, 2011; 5) A colecção de desenho antigo da Faculdade de Belas 	Artes de Lisboa (1830-1935): tradição, formação e gosto, by Alberto Faria, 		2011; 6) Representações do corpo na ciência e na arte, edited by Cristina 		Azevedo Tavares, 2012; 7) Em torno de Darwin, edited by Olga Pombo, Marco Pina 		(eds), 2012; 8) Visível & enunciável, by Nuno Melim, 2012; 9) Da civilização da 	palavra à civilização da imagem, edited by Olga Pombo, António Guerreiro (eds), 	2012; 10) Image in science and art, edited by Olga Pombo, 2017; 11) Modelos e 		imagens, edited by Olga Pombo, 2018; 12) CorpoImagem : representações do corpo 		na ciência e na arte, edited by Olga Pombo, Catarina Pombo Nabais, Sara 		Fuentes, 2019.  
+	1) As cidades, os castelos e a onda: imagens, diagramas e metáforas entre 		Calvino, Escher e Bohr , by João Araújo, 2010;
+	2) Neuroaesthetics : can science explain art?, edited by Olga Pombo, Silvia Di 		Marco, Marco Pina (eds), 2010;
+	3) As Imagens com que a Ciência se Faz, edited by Olga Pombo, Silvia di Marco 		(eds), 2011;
+	4) Solaris: sistema beta pictoris. Ciclo de exposições 2004-2009, by Rodrigo 		Vilhena, 2011;
+	5) A colecção de desenho antigo da Faculdade de Belas Artes de Lisboa (1830-		1935): tradição, formação e gosto, by Alberto Faria, 2011;
+	6) Representações do corpo na ciência e na arte, edited by Cristina Azevedo 		Tavares, 2012;
+ 	7) Em torno de Darwin, edited by Olga Pombo, Marco Pina, 2012;
+  	8) Visível & enunciável, by Nuno Melim, 2012;
+  	9) Da civilização da palavra à civilização da imagem, edited by Olga Pombo, 		António Guerreiro (eds), 2012;
+  	10) Image in science and art, edited by Olga Pombo, 2017;
+  	11) Modelos e imagens, edited by Olga Pombo, 2018;
+        12) CorpoImagem : representações do corpo na ciência e na arte, edited by Olga 		Pombo, Catarina Pombo Nabais, Sara Fuentes, 2019.  
 * Director of the book series [**Cadernos de Filosofia da Ciência**](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: CFCUL (13 volumes published). (more info [here](https://cfcul.blogspot.com/p/cadernos-de-fc.html).
 	1. Ciência e Género. Quatro Textos de Quatro Mulheres, Teresa Levy, Clara 		Queiroz (eds), 2005,
 	2. Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros 			Inéditos, Augusto J. Franco de Oliveira (ed), 2006.
 	3. As Cartas de Problemática de António Sérgio, Olga Pombo, Manuel Beirão 		dos Reis, João Luís Cordovil (eds), 2006.
-	4.Electrodinâmica Estocástica: em busca da Física por detrás da Teoria 		        Quântica, Mário Gatta (ed), 2007.
-	5.Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès, Nuno Miguel 			Proença (ed), 2008.
-	6.Ciência, Psicanálise e Poética em torno de Gaston Bachelard, Ana 			Gaspar, 2008
-	7.Wittgenstein, a prova e a actividade matemática: uma introdução, Nuno 		Miguel Proença, 2008.
-	8.On Kuhns's Philosophy and its Legacy, Juan Manuel Torres (ed), 2010.
-	9.Cinco ensaios sobre Wittgenstein, João Esteves da Silva, 2010.
-	10.Henri Poincaré, Filósofo da Matemática, Augusto J. Franco de Oliveira 		(ed), 2010.
-	11.Poincaré's Philosophy of Mathematics: Intuition Experience Creativity, 		Ed. Hassan Tahiri, 2011.
-	12.Poincaré e a Física. Breve antologia de textos de Filosofia da Física 		de Henri Poincaré, Isabel Serra, María de Paz (eds), 2012
-	13.As intuições atomísticas (Ensaio de Classificação), Lídia Queiroz (ed), 		2015.
+	4. Electrodinâmica Estocástica: em busca da Física por detrás da Teoria 		Quântica, Mário Gatta (ed), 2007.
+	5. Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès, Nuno Miguel 			Proença (ed), 2008.
+	6. Ciência, Psicanálise e Poética em torno de Gaston Bachelard, Ana 			Gaspar, 2008
+	7. Wittgenstein, a prova e a actividade matemática: uma introdução, Nuno 		Miguel Proença, 2008.
+	8. On Kuhns's Philosophy and its Legacy, Juan Manuel Torres (ed), 2010.
+	9. Cinco ensaios sobre Wittgenstein, João Esteves da Silva, 2010.
+	10. Henri Poincaré, Filósofo da Matemática, Augusto J. Franco de Oliveira 		(ed), 2010.
+	11. Poincaré's Philosophy of Mathematics: Intuition Experience Creativity, 		Ed. Hassan Tahiri, 2011.
+	12. Poincaré e a Física. Breve antologia de textos de Filosofia da Física 		de Henri Poincaré, Isabel Serra, María de Paz (eds), 2012
+	13. As intuições atomísticas (Ensaio de Classificação), Lídia Queiroz (ed), 		2015.
 * Director of the book series **Documenta**, Lisboa: CFCUL (10 published volumes). 
 <https://cfcul.blogspot.com/p/coleccao-documenta.html>
 	1. Abduction and the Process of Scientific Discovery, Olga Pombo; Alexander 		Gerner (eds.), 2007
@@ -423,6 +434,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the international editorial board of the journal **Currículo, Cultura e Identidade**, Unesp. Sao Paulo, Brazil (since 2020)
 * Member of the scientific board of the journal [Interdisciplinaridade, GEPI - Grupo Estudos e Pesquisa em Interdisciplinaridade](https://revistas.pucsp.br/index.php/interdisciplinaridade/about/editorialTeam) (ISSN 2179-0094), PUC-SP, Brazil (since 2017).
 * Member of the scientific board of the journal [Omnia. Revista Interdisciplinar de Ciências e Artes](https://grei.pt/revista-omnia/) (ISSN 2183-8720), GREI, Faro (since 2015)
+* Member of the scientific board of the journal [Sol Nascente](https://www.ispsn.org/revista-sol-nascente), ISPSN, Angola (since 2013)
 * Member of the advisory board of the journal [Logos and Episteme. An International Journal of Epistemology](https://www.pdcnet.org/logos-episteme/Editorial-Team) (ISSN 2069-0533), Romania Academy (since 2010)
 * Member of the scientific board of the journal [RHV. An International Journal of Philosophy](https://revistas.uv.cl/index.php/RHV/about/editorialTeam), Instituto de Filosofia, Faculdade de Humanidades, Valparaiso, Chile
 * Member of the scientific board of the journal [Cuadernos de Lógica, Epistemologia y Lenguaje](https://www.collegepublications.co.uk/cuadernos/), College Publication, UK (since 2007)   
