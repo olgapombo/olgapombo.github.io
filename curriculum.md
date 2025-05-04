@@ -389,7 +389,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
   	11) *Modelos e imagens*, edited by Olga Pombo, 2018;
         12) *CorpoImagem : representações do corpo na ciência e na arte*, edited by 		Olga Pombo, Catarina Pombo Nabais, Sara Fuentes, 2019.
   	         
-* Direction of the book series [**Cadernos de Filosofia da Ciência**](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: CFCUL (13 volumes published). (more info [here](https://cfcul.blogspot.com/p/cadernos-de-fc.html)).
+* Direction of the book series [**Cadernos de Filosofia da Ciência**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: CFCUL (13 volumes published). (more info [here](https://cfcul.blogspot.com/p/cadernos-de-fc.html)).
 	1. *Ciência e Género. Quatro Textos de Quatro Mulheres*, Teresa Levy, Clara 		Queiroz (eds), 2005,
 	2. *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros 		Inéditos*, Augusto J. Franco de Oliveira (ed), 2006.
 	3. *As Cartas de Problemática de António Sérgio*, Olga Pombo, Manuel Beirão 		dos Reis, João Luís Cordovil (eds), 2006.
@@ -404,8 +404,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	12. *Poincaré e a Física. Breve antologia de textos de Filosofia da Física 		de Henri Poincaré", Isabel Serra, María de Paz (eds), 2012
 	13. *As intuições atomísticas (Ensaio de Classificação)*, Lídia Queiroz (ed), 		2015.
 
-* Direction of the book series **Documenta**, Lisboa: CFCUL (10 published volumes). 
-<https://cfcul.blogspot.com/p/coleccao-documenta.html>
+* Direction of the book series [**Documenta**](https://cfcul.blogspot.com/p/coleccao-documenta.html), Lisboa: CFCUL (10 published volumes). 
 	1. *Abduction and the Process of Scientific Discovery*, Olga Pombo; Alexander 		Gerner (eds.), 2007
 	2. *Lógica e Filosofia da Ciência*, Olga Pombo; Ángel Nepomuceno (eds.) 		2009, 
 	3. *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de 		Michel Foucault*, António Fernando Cascais, José Luís Câmara Leme e Nuno Nabais 	(eds.), 2009,
@@ -417,7 +416,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	9. *Philosophy of Science in the 21st Century. Challenges and Tasks*, Olga 		Pombo;  Gil Santos (eds.), 2016,
 	10. *Epistemologia, Lógica e Linguagem*, Olga Pombo, Ana Pato, Juan Redmond 		(eds), 2019
 
- * Director of the book series **Theses**, Lisboa: CFCUL (6 published volumes).  <https://cfcul.blogspot.com/p/publicacoes.html>
+ * Director of the book series [**Theses**](https://cfcul.blogspot.com/p/publicacoes.html), Lisboa: CFCUL (6 published volumes).  
 	1. *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da 
 	História e Filosofia das Ciências*, by Helena Abreu, 2007,
 	2. *A imagem-sensação: Deleuze e a pintura*, by Nuno Carvalho, 2009,
