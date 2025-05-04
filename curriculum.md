@@ -370,12 +370,12 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * *Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
 * Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
-### Journal guest editor
+### Journal' guest editor
 * Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 * Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
   
-### Book series editor 
-* Director of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
+### Book series  
+* Direction of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
 	1) As cidades, os castelos e a onda: imagens, diagramas e metáforas entre 		Calvino, Escher e Bohr , by João Araújo, 2010;
 	2) Neuroaesthetics : can science explain art?, edited by Olga Pombo, Silvia Di 		Marco, Marco Pina (eds), 2010;
 	3) As Imagens com que a Ciência se Faz, edited by Olga Pombo, Silvia di Marco 		(eds), 2011;
@@ -388,7 +388,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
   	10) Image in science and art, edited by Olga Pombo, 2017;
   	11) Modelos e imagens, edited by Olga Pombo, 2018;
         12) CorpoImagem : representações do corpo na ciência e na arte, edited by Olga 		Pombo, Catarina Pombo Nabais, Sara Fuentes, 2019.  
-* Director of the book series [**Cadernos de Filosofia da Ciência**](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: CFCUL (13 volumes published). (more info [here](https://cfcul.blogspot.com/p/cadernos-de-fc.html).
+* Direction of the book series [**Cadernos de Filosofia da Ciência**](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), Lisboa: CFCUL (13 volumes published). (more info [here](https://cfcul.blogspot.com/p/cadernos-de-fc.html).
 	1. Ciência e Género. Quatro Textos de Quatro Mulheres, Teresa Levy, Clara 		Queiroz (eds), 2005,
 	2. Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros 			Inéditos, Augusto J. Franco de Oliveira (ed), 2006.
 	3. As Cartas de Problemática de António Sérgio, Olga Pombo, Manuel Beirão 		dos Reis, João Luís Cordovil (eds), 2006.
@@ -402,7 +402,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	11. Poincaré's Philosophy of Mathematics: Intuition Experience Creativity, 		Ed. Hassan Tahiri, 2011.
 	12. Poincaré e a Física. Breve antologia de textos de Filosofia da Física 		de Henri Poincaré, Isabel Serra, María de Paz (eds), 2012
 	13. As intuições atomísticas (Ensaio de Classificação), Lídia Queiroz (ed), 		2015.
-* Director of the book series **Documenta**, Lisboa: CFCUL (10 published volumes). 
+* Direction of the book series **Documenta**, Lisboa: CFCUL (10 published volumes). 
 <https://cfcul.blogspot.com/p/coleccao-documenta.html>
 	1. Abduction and the Process of Scientific Discovery, Olga Pombo; Alexander 		Gerner (eds.), 2007
 	2. Lógica e Filosofia da Ciência, Olga Pombo; Ángel Nepomuceno (eds.) 			2009, 
