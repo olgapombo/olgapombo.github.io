@@ -363,12 +363,12 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Pombo, Olga (1996), **Nenhum Vento**, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
 	
-### Journals' editor
+### Journal editor
 * Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
 * *Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
 * Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
-### Journal' guest editor
+### Journal guest editor
 * Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 * Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
   
@@ -430,7 +430,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the scientific committee of the editorial series **Applied Ethics and Philosophical Anthropologies**, Milella Publishing House, Lecce, Italy (since 2024).
 
 
-### Journal boards 
+### Member of journal boards 
 
 * Member of the editorial board of the journal [***Latin American Human Rights Studies*** (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021) 
 * Member of the international editorial board of the journal ***Currículo, Cultura e Identidade***, Unesp. Sao Paulo, Brazil (since 2020)
