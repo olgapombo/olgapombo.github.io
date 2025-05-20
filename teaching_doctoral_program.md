@@ -20,8 +20,8 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 
 #### **[Master in “History and Philosophy of Science](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)**
 * [Philosophy of Scientific Knowledge](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) (2003-2004, 2005-2016)
-* **Epistemology and Philosophy of Science** (2005-2008)
-* [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2011-2016)
+* **Epistemology and Philosophy of Science** (2005-2010)
+* [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2009-2016)
 
 #### Minor in “History and Philosophy of Science” 
 * Science and Art (2009-2014) (sillabus [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
@@ -75,7 +75,8 @@ o	Experiences of Transversality (2007-2008)
 * Doctoral Program in “Contemporary Studies”, CEIS20 Universidade de Coimbra (2022).
 
 ### Master
-* Master Program on Bioethics, Faculdade de Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014). 
+* Master Program on Bioethics, Faculdade de Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014).
+* Master Program on Victimization of children and adolescents, Faculdade de Medicine, University of Lisbon (2007). 
 * Master and PhD Program on “Developmental Psychology”, Faculdade of Psicologia, University of Lisbon (2003.20044). 
 * Master Program on “Drawing”, Faculdade de Belas Artes, University of Lisbon (2003). 
 
