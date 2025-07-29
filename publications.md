@@ -212,7 +212,7 @@ https://revistas.ufg.br/lahrs/article/view/69398/36782 (full article **here**)
 8. Pombo, Olga (2020), **“Leibniz and the Idea of Universal Machine”**, *Mana Platform*, <https://mana.net/12861> 
 9. Pombo, Olga (2019), **“Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte”**, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. DOI https://doi.org/10.17990/RPF/2019_75_4_2155
 10.	Pombo, Olga (2018), **“Dilemas de la Ensenhanza de la Filosofia”** (Dilemmas of Teaching Philosophy”), *ArteFaCTos. Revista de Estudios sobre la Ciência y la Tecnologia*, Salamanca, Spain, vol. 7, nº 1, April, pp. 175-190. DOI: http://dx.doi.org/10.14201/art201871175190.
-11.	Pombo, Olga (2015), **"Introduction to the Axiomates special issue Metaphysical and Epistemological Challenges"**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). 
+11.	Pombo, Olga (2015), **"Metaphysical and Epistemological Challenges. Introduction to the Axiomates special issue"**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). 
 DOI: 10.1007/s10516-014-9264-5
 12.	Pombo, Olga (2014), **"Dispersão e Unidade: Para uma Poética da Simpatia"**, *Caderno Escolar*, Lisboa:  Escola Vitorino Nemésio, nº 13-14, 1: 30-41 (reprint). 
 13.	Pombo, Olga (2013),**”Epistemología de la Interdisciplinariedad. La Construcción de un nuevo Modelo de Comprensión”**, *Interdisciplina*, Mexico, vol. 1, nº 1, pp. 21-50.
@@ -220,15 +220,13 @@ DOI: http://dx.doi.org/10.22201/ceiich.24485705e.2013.1.46512
 14.	Pombo, Olga (2013), **“Comentário a 'Filósofos e Matemáticos' de José Sebastião e Silva”**, *Internacional Journal Delfim Santos Studies*, vol. 1, nº 1, pp. 256-260. ISSN: 2182-5653.
 15.	Pombo, Olga (2012), **“Conceptions of Intuition in Poincaré’s Philosophy of Mathematics”**, *Philosophy Study*, EUA, vol. 2, nº 6, July-August, pp 384-397. ISSN: 2159-5313. 
 16.	Pombo, Olga (2012), **“Brevíssima Apresentação da ‘Brevis Designatio’ de Leibniz"**, *Kairos. Journal of Philosophy & Science*, nº 4, pp. 121-126. ISSN: (print): 2182-2824.
-17.	Pombo, Olga (2011), **“Espinoza e a Linguagem”**, *InCID - Revista de Ciência da Informação e Documentação*, Ribeirão Preto, Brazil, vol. 2, nº 1, pp. 16-30.
-DOI:http://dx.doi.org/10.11606/; ISSN.2178-2075.v2i1p16-30
-19.	Pombo, Olga (2010), **“A Estátua de Glauco e a Escola”**, *Pensar a Escola*, nº 7, Lisboa: Escola Vitorino Nemésio, pp. 3-11. https://esad.edu.pt/ficheiros/revista/revista7.pdf (full article **here**)
+17.	Pombo, Olga (2011), **“Espinoza e a Linguagem”**, *InCID - Revista de Ciência da Informação e Documentação*, Ribeirão Preto, Brazil, vol. 2, nº 1, pp. 16-30; ISSN.2178-2075.v2i1p16-30; DOI:http://dx.doi.org/10.11606/
+18.	Pombo, Olga (2010), **“A Estátua de Glauco e a Escola”**, *Pensar a Escola*, nº 7, Lisboa: Escola Vitorino Nemésio, pp. 3-11. https://esad.edu.pt/ficheiros/revista/revista7.pdf (full article **here**)
 19.	Pombo, Olga (2009), **“Interdisciplinaridade e Transformações Epistemológicas Contemporâneas”**, *Olhares*, nº 1, NPPD- UNIJORGE, Brazil, pp. 7-10. ISSN: 2176-3291.
 20.	Pombo, Olga (2009), **“Linguagem e Conhecimento em Leibniz”**, *O que nos faz Pensar. Cadernos do Departamento de Filosofia da PUC*, Rio de Janeiro, Brazil, nº 26, pp. 9-29. ISSN: 0104-6675 
 21.	Pombo, Olga (2008), **“Epistemologia da Interdisciplinaridade**, *Ideação, Revista do Centro de Educação e Letras*, vol. 10, nº 1, Foz do Iguaçu: Edunioeste, Brazil, pp. 09-40. 
 DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
-22.	Pombo, Olga (2008), **“Elogio da Transmissão”**, *Pensar a Escola*, nº 6, Lisboa: Escola Vitorino Nemésio, pp. 29-36. ttps://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/elogiodatransmissao.pdf 
-(full article **here**)
+22.	Pombo, Olga (2008), **“Elogio da Transmissão”**, *Pensar a Escola*, nº 6, Lisboa: Escola Vitorino Nemésio, pp. 29-36. (**full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/elogiodatransmissao.pdf)**), 
 23.	Pombo, Olga (2007), **“A Escola como Memória do Futuro”**, *Revista Convergência Lusíada,  24, Número Especial. Centenário de Agostinho da Silva (1906-2006)*, Real Gabinete Português de Leitura do Rio de Janeiro, Brazil, pp. 281-291. ISNN: 1414-0381 
 24.	Pombo, Olga (2006), **“Práticas Interdisciplinares”**, *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249.ISSN: 1517-4522
 25.	Pombo, Olga (2006), **“Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”**, *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. 
