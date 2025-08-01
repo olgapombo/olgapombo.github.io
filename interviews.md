@@ -19,16 +19,16 @@
  *  [**Língua é Poder (Language is Power)**](https://arquivos.rtp.pt/conteudos/olga-pombo-e-guilherme-doliveira-martins/),  debate with the journalist Paula Moura Pinheiro (other participant: Guilherme d'Oliveira Martins), televison program  "Câmara Clara", RTP2, 15 July 2007. 
 
 
-## Televison and radio interviews
+## Televison and radio 
 
-* **O Bosão de Higgs**, participation on the television program "Prós e Contras",  moderated by the journalist Fatima Campos Ferreira, RTP1, 9 July 2012.  
+* **O Bosão de Higgs**, television program "Prós e Contras" RTP1, moderated by the journalist Fatima Campos Ferreira, 9 July 2012.  
 * **Imagem na Ciência e na Arte' Desvenda Corpo Humano (Image in Science and Art Unveils the Human Body)**, televison interview  by the journalist Lucia Alves, at the program “TV Ciência”, RTP1,  14 February 2011 ([here](<http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18022011.pdf))
 * **Sobre a Ciência (On Science)**, television interview by the journalist Vasco Trigo, at the program “Com Ciência”, RTP 1, 23 February 2011.
 *  **Sobre a Ideia de Enciclopédia (On the Idea of Encyclopaedia)**, television interview by the journalist Paula Moura Pinheiro, at the program "Câmara Clara",  RTP 2, 19 January 2010.
 * **Sobre Agostinho da Silva**, Radio interview, TSF, 13 February 2006
 * **A Politica da Educação (Politics of Education)**, radio interview, Rádio Paris-Lisboa, 25 October 2005.
-* **A Escola, A Recta e o Circulo (The School, the Straigt Line and the Circle** radio interview  by the journalist Paula Moura Pinheiro about the publication of my book, Rádio Paris-Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002.
-* **Livres e Iguais (Free and Equal)**, television program moderated by the journalist Paula Moura Pinheiro (other participants: Augusto Santos Silva (Minister of Education), Roberto Carneiro, José Pacheco and João Soeiro), RTP 2 channel, 20th and 22 June 2001.
+* **A Escola, A Recta e o Circulo (The School, the Straigt Line and the Circle)** radio interview  by the journalist Paula Moura Pinheiro about the publication of my book, Rádio Paris-Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002.
+* **Livres e Iguais (Free and Equal)**, television program moderated by the journalist Paula Moura Pinheiro (other participants: Augusto Santos Silva, Roberto Carneiro, José Pacheco and João Soeiro), RTP 2, 20 and 22 June 2001.
 * **A Situação da Educação em Portugal (Sitution of Portuguese Education)**, radio interview by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa, 20 June 2001.
 * **O Projecto Leibniziano de uma Mathesis Universalis (The Leibnizian Project of a Mathesis Universalis)**, radio interview by Luísa Costa Gomes, at the cycle “Leibniz, Filósofo, Matemático e Historiador. Leibniz nasceu há 350 anos”, Rádio Difusão Portuguesa, Lisboa, 6th July 1996.  
 * **Jean-Jacques Rousseau**, radio interview by Luísa Costa Gomes, Rádio Comercial, Lisboa, 6th May 1985.
