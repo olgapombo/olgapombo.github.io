@@ -36,7 +36,8 @@
   
 ## Newspaper, magazine and newsletter interviews
 
-* [**Três Perguntas a Olga Pombo àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem" (Three Questions to Olga Pombo, about the Book "From Word Civilization to Image Civilization")**](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf), *“Newsletter” of the FCUL*, 21 June, 2013. 
+* [**Três Perguntas a Olga Pombo àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem" (Three Questions to Olga Pombo, about the Book "From Word Civilization to Image Civilization")**](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf), *“Newsletter” of the FCUL*, 21 June, 2013.
+  
 *  [**Acerca do livro "Círculo dos Saberes"(About the book "the Circle of knowledges"**](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf), *Newsletter” of FCUL*, 24 October 2012. 
 * [**A Escola é o Lugar onde a Memória se faz Futuro (The School is the Place where Memory becomes the Future)**](https://www.apagina.pt/?aba=6&cat=566&doc=15080&mid=1), interview by the journalist Antonio Baldaia, * Jornal Página da Educação*,  inverno 2011, II, n.º 195, pp. 9-20. 
 * **Este Ensino só Precisa de um Bom Professor, Quadro e Giz (This Teaching only Needs a Good Teacher, a Black Board and a Chalk)**, interview by the journalist Clara Viana, *Jornal Público*, 24 June 2008. 
