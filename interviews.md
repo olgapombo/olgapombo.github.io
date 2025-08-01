@@ -1,7 +1,7 @@
 
 # Interviews
 
-###### [Online interviews](#Online-interviews) | [Televison and radio interviews](#Televison-and-radio-interviews) | [Newspaper and magazine interviews](#Newspaper-and-magazine-interviews) 
+###### [Online interviews](#Online-interviews) | [Televison and radio interviews](#Televison-and-radio-interviews) | [Magazine and newspaper interviews](#Magazine-and-newspaper-interviews) 
 
 ## Online interviews 
 
@@ -34,7 +34,7 @@
 * **Jean-Jacques Rousseau**, radio interview by Luísa Costa Gomes, Rádio Comercial, Lisboa, 6th May 1985.
 
   
-## Newspaper and magazine interviews
+## Magazine and newspaper interviews
 
 * [**Três Perguntas a Olga Pombo àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem" (Three Questions to Olga Pombo, about the Book "From Word Civilization to Image Civilization")**](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf), *“Newsletter” of the FCUL*, 21 June, 2013. 
 *  [**About the Book "Círculo dos Saberes"**](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf), *Newsletter” of FCUL*, 24 October 2012. 
