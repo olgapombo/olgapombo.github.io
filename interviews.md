@@ -42,7 +42,7 @@
 * **Este Ensino só Precisa de um Bom Professor, Quadro e Giz (This Teaching only Needs a Good Teacher, a Black Board and a Chalk)**, interview by the journalist Clara Viana, *Jornal Público*, 24 June 2008. 
 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op24062008.pdf>
 * **Ciência em Movimento. Os Nossos Neurónios. Cérebros Portugueses de que temos Orgulho (Science in Movement. Our Neurons. Portuguese Brains we are Proud of)**, interview by the journalist Helena Mendonça, *Diário de Notícias Magazine*, 18 May 2008 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18052008.pdf>
-* [**Fernando Gil, Filósofo do Conhecimento (Fernando Gil, Philosopher of Knowledge)**](http://webpages.fc.ul.pt/~ommartins/publicacoes%20opombo/fernandogil.htm), *Expresso*, suplemento *Actual*, p. 23, 25 March 2006
+* [**Fernando Gil, Filósofo do Conhecimento (Fernando Gil, Philosopher of Knowledge)**](http://webpages.fc.ul.pt/~ommartins/publicacoes%20opombo/fernandogil.htm), *Expresso*.*Actual*, 25 March 2006.
 * **O Que É e Não É Ciencia (What Science Is and Is Not)**, interview by the *Pós-graduation program in Teching methodology*, Universidade Federal de São Carlos, 2006 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op2006.pdf>
 * **About the Book "Interdisciplinaridade: Ambições e Limites”**, newsletter *Infociências* nº 142, 1 February 2005, pp. 12-14 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op122005.pdf>
 * Entrevista com Antonio Gonzales(ISPA), *Revista Ser*, 2004 [here](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/Entrevista%20Revista%20SER%20(Ispa).pdf)
