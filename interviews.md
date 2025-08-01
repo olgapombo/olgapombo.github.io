@@ -29,7 +29,7 @@
 * **A Politica da Educação (Politics of Education)**, radio interview, Rádio Paris-Lisboa, 25 October 2005.
 * **A Escola, A Recta e o Circulo (The School, the Straigt Line and the Circle)** radio interview  by the journalist Paula Moura Pinheiro about the publication of my book, Rádio Paris-Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002.
 * **Livres e Iguais (Free and Equal)**, television program moderated by the journalist Paula Moura Pinheiro (other participants: Augusto Santos Silva, Roberto Carneiro, José Pacheco and João Soeiro), RTP 2, 20 and 22 June 2001.
-* **A Situação da Educação em Portugal (Sitution of Portuguese Education)**, radio interview by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa, 20 June 2001.
+* **A Situação da Educação em Portugal (The situation of Portuguese education)**, radio interview by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa, 20 June 2001.
 * **O Projecto Leibniziano de uma Mathesis Universalis (The Leibnizian Project of a Mathesis Universalis)**, radio interview by Luísa Costa Gomes, at the cycle “Leibniz, Filósofo, Matemático e Historiador. Leibniz nasceu há 350 anos”, Rádio Difusão Portuguesa, Lisboa, 6th July 1996.  
 * **Jean-Jacques Rousseau**, radio interview by Luísa Costa Gomes, Rádio Comercial, Lisboa, 6th May 1985.
 
