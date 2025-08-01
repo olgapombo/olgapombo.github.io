@@ -371,3 +371,17 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 
 ## Sites and webpages
 
+* Crianças selvagens
+* Momentos da ideia de escola
+* Grandes matematicos
+* Artidculações da matematica
+* Representações da leitura
+* Autores
+* Recodar Agostinho da Silva
+* Lugares da Escola
+* Lugares da Filosofia
+* Apontamentos sobre utopia
+* Fernando Gil, filosofo do conhecimento
+* Jangada de Pedra
+* 
+
