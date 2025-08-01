@@ -40,7 +40,7 @@
   
 *  [**Acerca do livro "Círculo dos Saberes"(About the book "the Circle of knowledges"**](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf), *Newsletter” of FCUL*, 24 October 2012. 
 * [**A Escola é o Lugar onde a Memória se faz Futuro (The School is the Place where Memory becomes the Future)**](https://www.apagina.pt/?aba=6&cat=566&doc=15080&mid=1), interview by the journalist Antonio Baldaia, * Jornal Página da Educação*,  inverno 2011, II, n.º 195, pp. 9-20. 
-* **Este Ensino só Precisa de um Bom Professor, Quadro e Giz (This Teaching only Needs a Good Teacher, a Black Board and a Chalk)**, interview by the journalist Clara Viana, *Jornal Público*, 24 June 2008. 
+* **Este Ensino só Precisa de um Bom Professor, Quadro e Giz (This Teaching only Needs a Good Teacher, a Black Board and a Chalk)**, interview by the journalist Clara Viana, *Jornal Público*, 24 June 2008 
 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op24062008.pdf>
 * **Ciência em Movimento. Os Nossos Neurónios. Cérebros Portugueses de que temos Orgulho (Science in Movement. Our Neurons. Portuguese Brains we are Proud of)**, interview by the journalist Helena Mendonça, *Diário de Notícias Magazine*, 18 May 2008 <http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18052008.pdf>
 * [**Fernando Gil, Filósofo do Conhecimento (Fernando Gil, Philosopher of Knowledge)**](http://webpages.fc.ul.pt/~ommartins/publicacoes%20opombo/fernandogil.htm), *Expresso*.*Actual*, 25 March 2006.
