@@ -1,18 +1,6 @@
 # Publications
-###### [Online publications](#Online-publications) | [Dissertations](#Dissertations) | [Books (author)](#Books-author) | [Books (editor)](#Books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#Encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal editor](#Journals-editor) | [Journal guest editor](#Journals-guest-editor) | [Online publications Sites and webpages](#Online-publications-sites-and-webpages) 
+######  | [Dissertations](#Dissertations) | [Books (author)](#Books-author) | [Books (editor)](#Books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#Encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal editor](#Journals-editor) | [Journal guest editor](#Journals-guest-editor) | [Online publications Sites and webpages](#Online-publications-sites-and-webpages) 
 
-
-## Online publications
-
-* Pombo, Olga, **A Enciclopedia** - Hipertexto sobre o **[Projecto Enciclopedista](https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**, a **[Para uma História da Ideia de Enciclopedia](https://arquivo.pt/wayback/20091224025159/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm)** e a **[Enciclopedia filosófica](https://arquivo.pt/wayback/20091218065708/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)** (2009)
-
-* Pombo, Olga (ed) **[Lisbon Center for Image in Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)** - Image platform and archive intending to question the philosophical, scientific and artistic nature of image (2008)
-  
-* **[Protagoras](https://arquivo.pt/wayback/20140930093038/http://www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm)** - Hipertexto sobre o *Protagoras* de Platão, traduzido e comentado / Hypertext on Plato’s *Protagoras* full text, translated and commented (2002)
-
-*	Pombo, Olga (1995) **[Convite à Leitura de Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm)** - Hipertexto sobre Rousseau  
-
-* Pombo, Olga (1979), **[Biobibliografia de Jean-Jacques Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf)**
 
 
 ## Dissertations
@@ -371,9 +359,9 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 
 ## Online publications, sites and webpages
 
-* Pombo, Olga (2009), **[Projecto Enciclopedista](https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**,
-**[Para uma História da Ideia de Enciclopedia](https://arquivo.pt/wayback/20091224025159/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm)**, 
-**[Enciclopedia filosófica](https://arquivo.pt/wayback/20091218065708/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)** 
+* Pombo, Olga (2009), **Enciclopedia (Encyclopaedia)** - Hipertexto **[Projecto Enciclopedista](https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**,  
+**[Para uma História da Ideia de Enciclopedia](https://arquivo.pt/wayback/20091224025159/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm)**,   
+**[Enciclopedia filosófica](https://arquivo.pt/wayback/20091218065708/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)**   - Hypertexts on the encyclopaedic project, idea, history and specificity of philosophical projects.
 
 * Pombo, Olga (ed) (2008) **[Lisbon Center for Image in Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)** - Image platform and archive intending to question the philosophical, scientific and artistic nature of image.
   
