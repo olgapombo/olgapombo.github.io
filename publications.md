@@ -355,7 +355,7 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 
 * Pombo, Olga (2009), **A ideia de enciclopedia (The idea of encyclopaedia)** - Hypertext on the encyclopaedic project, its most significant historical developments and the specificity of philosophical encyclopaedia.
   
-> 1. **[O Projecto Enciclopedista (palavra, género e modalidades)] (https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**,  
+> 1. **[O Projecto Enciclopedista (palavra, género e modalidades)](https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**,  
 > 2. **[Para uma História da Ideia de Enciclopedia](https://arquivo.pt/wayback/20091224025159/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm)**,   
 > 3. **[Enciclopedia filosófica](https://arquivo.pt/wayback/20091218065708/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)**   
 
