@@ -49,11 +49,12 @@ title: Preprints
 
 ## Hypertexts
 
-* Pombo, Olga, Lugares da Escola (2003)
-<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html>
-* Pombo, Olga, Apontamentos sobre Utopia (2004)
-<http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm>
-* Pombo, Olga, [Representações da Leitura](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading next to each other.
+* Pombo, Olga, [**Lugares da Escola**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
+
+* Pombo, Olga, [**Apontamentos sobre Utopia**](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
+
+* Pombo, Olga, [Representações da Leitura (Representations of reading](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
+
  
 ## Webpages and videos 
 * Pombo, Olga (coord), corpoIMAGEM, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, put forward with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. The video is divided in 3 parts: 
