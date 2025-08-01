@@ -54,7 +54,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * 1988 - 2002 – Professor of the “Department of Education”, FCUL.
 * 1987 - 1996 - Member of the Scientific Council of the “Department of Education”, FCUL.  
 * 1986 – 1988 - Member of the Assembly of Representatives of FCUL.
-* 1984 - 1988 – Professor (assistant) of the “Department of Education” (selected by public contest), FCUL.
+* 1984 - 1988 – Professor (invited) of the “Department of Education” (selected by public contest), FCUL.
 * 1980 - 1984 – National Counsellor for the Teaching of Philosophy (selected by national public contest).
 * 1979 - 1980 - Stage Supervisor for the Teaching of Philosophy at D. Pedro V High School, Lisbon (by nomination).
 * 1979 - 1980 – Full Teacher of Philosophy of D. Pedro V High School, Lisbon.  
