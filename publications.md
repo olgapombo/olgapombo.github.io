@@ -280,7 +280,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 ## Book series editor
 
-* Director of the book series **A Imagem na Ciência e na Arte**, Lisbon: Fim de Século            - 12 volumes published: 
+* Director of the book series **A Imagem na Ciência e na Arte**, Lisbon: Fim de Século -           12 volumes published: 
 https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#imagem 
 >1. (2010)	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, by João Araújo;
 >2.	(2010) *Neuroaesthetics : Can Science explain Art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina;
@@ -295,8 +295,7 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 >11.	(2018) *Modelos e Imagens*, edited by Olga Pombo;
 >12.	(2019) *CorpoImagem : Representações do Corpo na Ciência e na Arte*, edited by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes.
          
-•	Director of the book series **[Cadernos de Filosofia da Ciência](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos)**, Lisbon: CFCUL
-13 volumes published: 
+•	Director of the book series **[Cadernos de Filosofia da Ciência](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos)**, Lisbon: CFCUL - 13 volumes published: 
 > 1. (2005) *Ciência e Género. Quatro Textos de Quatro Mulheres*, edited by Teresa Levy, Clara Queiroz;
 > 2. (2006) *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, edited by  Augusto J. Franco de Oliveira;
 > 3. (2006) *As Cartas de Problemática de António Sérgio*, edited by Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil;
@@ -311,8 +310,7 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 > 12. (2012)	*Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré*, edited by Isabel Serra, María de Paz;
 > 13. (2015) *As intuições atomísticas (Ensaio de Classificação)*, by Lídia Queiroz.
 
-* Director of the book series **[Documenta](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#documenta)**, Lisbon: CFCUL
-10 published volumes: 
+* Director of the book series **[Documenta](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#documenta)**, Lisbon: CFCUL - 10 published volumes: 
 > 1. (2007) *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo and Alexander Gerner;
 > 2. (2009) *Lógica e Filosofia da Ciência*, edited by Olga Pombo and Ángel Nepomuceno;
 > 3. (2009) *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, edited by António Fernando Cascais, José Luís Câmara Leme and Nuno Nabais;
@@ -324,8 +322,7 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 > 9. (2016) *Philosophy of Science in the 21st Century. Challenges and Tasks*, edited by Olga Pombo and Gil Santos;
 > 10. (2019) *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo, Ana Pato and Juan Redmond
  
-* Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL
-6 published volumes:
+* Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL - 6 published volumes:
 > 1.(2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu;
 > 2. (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho;
 > 3. (2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva
@@ -333,8 +330,7 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 > 5. (2010) *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard* by Ana Gaspar;
 > 6. (2015) *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon* by Sergio Hugo Menna
 
-* Co-editor (with Nathalie Gonthier) of the Springer book series **Interdisciplinary Evolution Research**
-5 published volumes:
+* Co-editor (with Nathalie Gonthier) of the Springer book series **Interdisciplinary Evolution Research** - 5 published volumes:
 > 1. (2014) *The Evolution of Social Communication in Primates. A multidisciplinary approach*, edited by Marco Pina, Natalie Gontier;
 > 2. (2015)	*Macroevolution. Explanation, Interpretation and Evidence*, edited by Emanuele Serrelli, Nathalie Gontier;
 > 3. (2015)	*Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity*, edited by Nathalie Gontier;
