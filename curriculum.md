@@ -1,7 +1,7 @@
 
 # Curriculum
 
-[Education] | [Research interests] | [Academic positions and responsabilties] | [Fellowships and research stays] | [Publications] | [] | [] | [] | [] || [] | []
+[Education and degrees] | [Research interests] | [Academic appointments, positions and responsabilties] | [Fellowships and research stays] | [Publications] | [] | [] | [] | [] || [] | []
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Aggregation degree in “History and Philosophy of Science” also by the University of Lisbon. 
 
@@ -78,7 +78,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * Research Fellow at the Zentrum für Literaturforshung (invited by Sigrid Weigel), Berlin, Germany (January - July 2005).
 * Research Fellow at UERJ and PUC-Rio de Janeiro (invited by Deborah Danowsky), Brazil (November 2007).
 * Research Fellow at Federal University of Latin-American Integration (UNILA), (invited by Carlos A. Dos Santos), Foz do Iguaçu, Brazil (December 2010).
-* Research Fellow at Goias Federal University (invited by Wagner Sanz) and University Sagrado Coração - Bauru/SP, Brazil (October 2012).
+* Research Fellow at Goias Federal University (invited by Wagner Sanz), Brazil (October 2012).
 * Research Fellow at the Dipartimento di Ingegneria dell'Innovazione and Dipartimeno di Studi Umanistici, Lecce University (invited by Giovanni Scarafille), Italy (May 2014).
 * Research Fellow at “Centro studi sulla natura, l’umano e l’unità del pensiero” (invited by Luciano Boi), Accademia Vivarium novum, Roma, Italy (October – Novembre 2019).
 --
