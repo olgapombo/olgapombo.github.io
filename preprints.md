@@ -49,32 +49,37 @@ title: Preprints
 
 ## Hypertexts
 
-* Pombo, Olga, [**Lugares da Escola**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
+* Pombo, Olga, [**Lugares da Escola (Places of School**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
 
-* Pombo, Olga, [**Apontamentos sobre Utopia**](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
+* Pombo, Olga, [**Apontamentos sobre Utopia (Notes on Utopia**](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
 
-* Pombo, Olga, [Representações da Leitura (Representations of reading](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
+* Pombo, Olga, [**Representações da Leitura (Representations of reading**](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
 
  
 ## Webpages and videos 
-* Pombo, Olga (coord), corpoIMAGEM, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, put forward with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. The video is divided in 3 parts: 
-1.	[Corpo PAISAGEM](http:// Lisboncisa.fc.ul.pt/videos/v33.htm) 
-2.	[CorpoFRAGMENTO](http:// Lisboncisa.fc.ul.pt/videos/v33b.htm)
-3.	[CorpoALGORITMO](http:// Lisboncisa.fc.ul.pt/videos/v33c.htm) 
+* Pombo, Olga (coord), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, put forward with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
+The video is divided in 3 parts: 
+1.	[**Corpo PAISAGEM (Body Landscape**](http:// Lisboncisa.fc.ul.pt/videos/v33.htm) 
+2.	[**Corpo FRAGMENTO (Body Fragment)**](http:// Lisboncisa.fc.ul.pt/videos/v33b.htm)
+3.	[**Corpo ALGORITMO (Body Algorithm)**](http:// Lisboncisa.fc.ul.pt/videos/v33c.htm) 
 
-* Pombo, Olga, Recordar Agostinho da Silva: 10 anos Depois  (1999)
+* Pombo, Olga, **Recordar Agostinho da Silva: 10 anos Depois**  (1999)
 http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm
 
 
 # Work in Progress
 Recolha de trabalhos, a maioria realizados por alunos de licenciatura das cadeiras de "História e Filosofia da Educação" e "Seminário Temático" que leccionei na Faculdade de Ciências da Universidade de Lisboa entre os anos e  1992-2006 e 1999-2004. A seleccão, orientação e revisão, bem assim como o enquadramento e edição dos trabalhos assinados pelos alunos (e, em cada caso, devidamente identificados) é da minha responsabilidade.   
 
-* [Crianças Selvagens](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
-* [Momentos da Ideia de Escola](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm) 
-* [Autores](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/autores.htm>) 
-* [Grandes Matemáticos](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/matematicos.htm)  
-* [Articulações da Matemática](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)
-* [Crianças Selvagens](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004     
+* [**Crianças Selvagens**](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
+  
+* [**Momentos da Ideia de Escola**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm)
+  
+* [Autores](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/autores.htm>)
+  
+* [**Grandes Matemáticos**](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/matematicos.htm)
+
+* [**Articulações da Matemática**](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)
+  
 
 
 
