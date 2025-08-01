@@ -359,17 +359,17 @@ https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCU
 
 ## Online publications, sites and webpages
 
-* Pombo, Olga (2009), **Enciclopedia (Encyclopaedia)** - Hipertexto **[Projecto Enciclopedista](https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**,  
+* Pombo, Olga (2009), **Enciclopedia (Encyclopaedia)** - **[Projecto Enciclopedista](https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**,  
 **[Para uma História da Ideia de Enciclopedia](https://arquivo.pt/wayback/20091224025159/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm)**,   
-**[Enciclopedia filosófica](https://arquivo.pt/wayback/20091218065708/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)**   - Hypertexts on the encyclopaedic project, idea, history and specificity of philosophical projects.
+**[Enciclopedia filosófica](https://arquivo.pt/wayback/20091218065708/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)**   - Hypertexts on the idea of encyclopaedia, on its history and on the specificity of philosophical encyclopaedic projects.
 
 * Pombo, Olga (ed) (2008) **[Lisbon Center for Image in Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)** - Image platform and archive intending to question the philosophical, scientific and artistic nature of image.
   
-* Pombo, Olga (ed) (2002) **[Protagoras](https://arquivo.pt/wayback/20140930093038/http://www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm)** - Hipertexto sobre o *Protagoras* de Platão, traduzido e comentado / Hypertext on Plato’s *Protagoras*, translated and commented.
+* Pombo, Olga (ed) (2002) **[Protagoras](https://arquivo.pt/wayback/20140930093038/http://www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm)** - Hypertext on Plato’s *Protagoras*, translated and commented.
 
-*	Pombo, Olga (1995) **[Convite à Leitura de Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm)** - Hipertexto sobre Rousseau  
+*	Pombo, Olga (1995) **[Convite à Leitura de Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm)** - Hypertext on Rousseau  
 
-* Pombo, Olga (1979), **[Biobibliografia de Jean-Jacques Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf)**
+* Pombo, Olga (1979), **[Biobibliografia de Jean-Jacques Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf)** - Webpage on Rousseau's biobibliography 
 
 * Crianças selvagens
 * Momentos da ideia de escola
