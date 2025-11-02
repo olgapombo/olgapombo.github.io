@@ -270,7 +270,7 @@ https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illi
 
 ## Room texts at exhibitions
 
-* Pombo, Olga (2019) **A Bioarte de Isa Duarte Ribeiro**, (per)cursos exhibition by Isa Duarte Ribeiro, Mora: Casa da Cultura.
+* Pombo, Olga (2019) **[A Bioarte de Isa Duarte Ribeiro](https://www.researchgate.net/publication/338476516_A_Bioarte_de_Isa_Duarte_Ribeiro_BioArt_of_Isa_Duarte_Ribeiro)**, (per)cursos exhibition by Isa Duarte Ribeiro, Mora: Casa da Cultura.
 * Pombo, Olga (2004) **From Thomas More to Rousseau**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
 * Pombo, Olga (2004) **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
 Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
