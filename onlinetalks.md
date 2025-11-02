@@ -37,7 +37,7 @@
 * **La théorie leibnizienne de la pensée aveugle en tant que perspective sur quelques des apories linguistiques de la modernité**, invited speaker at the “International colloquium Readings of Modernity”, Franco-Portuguese Institut, Lisboa, 27 May 1987.
 * **Leibniz e o problema de uma língua universal: apresentação de uma investigação**, invited talk at the cycle "Theses" of the Portuguese Society of Philosophy, Lisboa, 3 June 1987.  
 * **Epistémologie et formation des enseignants**, « XII Conférence de L'Association pour la Formation des Enseignants en Europe », Berlim University, Germany, 8 September 1987.
-* **Leibniz e a Língua Alemã**,  "Encontro de Professores de Alemão", Faculty of Letters, University of Lisbon, 14 February 1987.
+* **Leibniz e a Língua Alemã (Leibniz and the German languge)**,  "Encontro de Professores de Alemão", Faculty of Letters, University of Lisbon, 14 February 1987.
 * **Meio é a mensagem: Mc Luhan e as novas tecnologias**, invited speaker at the "Computer week", Department of Education, FCUL, University of Lisbon, 12 January 1987.  
 * **Leibnizian strategies for the semantical foundation of the universal language**, “V Internationaler Leibniz Kongress“, Hannover, Germany, 16 November 1988.
 * **Notas sobre as instituições da Filosofia**, invited speaker at the colloquium "Philosophy face to technological culture", Associação dos Professores de Filosofia, Aula Magna of the Rectory of the University of Lisbon, 22 January 1988.
