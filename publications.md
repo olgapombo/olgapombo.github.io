@@ -280,8 +280,8 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 ## Book series editor
 
-* Director of the book series **A Imagem na Ciência e na Arte**, Lisbon: Fim de Século -           12 volumes published: 
-https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#imagem 
+* Director of the book series **[A Imagem na Ciência e na Arte](https://www.researchgate.net/publication/338476516_A_Bioarte_de_Isa_Duarte_Ribeiro_BioArt_of_Isa_Duarte_Ribeiro)**, Lisbon: Fim de Século -           12 volumes published: 
+X 
 >1. (2010)	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, by João Araújo;
 >2.	(2010) *Neuroaesthetics : Can Science explain Art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina;
 >3.	(2011)*As Imagens com que a Ciência se Faz*, edited by Olga Pombo, Silvia di Marco;
