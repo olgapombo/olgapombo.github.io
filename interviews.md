@@ -37,6 +37,7 @@
   
 ## Newspaper, magazine and newsletter interviews
 
+* **Olga Pombo, Pensare vuol dire allargare i confini**, with Giovanni Scarafile, Avvenire, p. A-22, 29 Maggio 2022 **[here (https://www.avvenire.it/agora/cultura/olga-pombo-pensare-vuol-dire-allargare-i-confini_60782)]**
 * [**Três Perguntas a Olga Pombo àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem" (Three Questions to Olga Pombo, about the Book "From Word Civilization to Image Civilization")**](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf), *Newsletter of FCUL*, 21 June, 2013.
   
 *  [**Acerca do livro "Círculo dos Saberes"(About the book "the Circle of knowledges"**](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf), *Newsletter of FCUL*, 24 October 2012. 
