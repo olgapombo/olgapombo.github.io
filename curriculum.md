@@ -446,7 +446,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 
 ### Consultancy 
 
-* International panels and committees
+**International panels and committees**
    
 * Member of the international selection panel for the Institut Universitaire de France, selection de la promotion, Paris, 2009 and 2010. 
 * Member of the international selection panel of the University Paris-Sorbonne for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2015.
@@ -458,7 +458,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the International Advisory Committee of the FCT Center for Interdisciplinary Studies of the University of Coimbra (2023-2024) and (2025-2028).
 
 
-* European Commission Programs VI-VII and Horizon 2020:  
+**European Commission Programs VI-VII and Horizon 2020**  
 
 •	Expert for Raising Public Awareness of Science and Technology, 2001.  
 •	Expert for Improving the Human Research Potential and the Socio-Economic Knowledge, 2001-2002.  
@@ -476,7 +476,8 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 •	Expert for H2020 FET-OPEN - Novel Ideas for radically new technologies - research projects, 2014; 2016; 2017. 
 •	Expert for Horizon-EIC-2021-PATHFINDEROPEN-01, 2021.
 
-* National Selection Panels
+
+**National Selection Panels**
 
 •	Member of the selection panel for the “Instituto Portugues do Livro e da Leitura” (1992-1994) 
 •	Member of the selection panel for the prize “Tradução Científica e Técnica em Língua Portuguesa” (2003, 2004-2005) 
