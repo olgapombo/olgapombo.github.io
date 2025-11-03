@@ -21,6 +21,7 @@
 
 ## Televison and radio 
 
+*•	Sobre a Curiosidade (On Curiosity), television interview by the journalist Luis Castro, at the program “Sociedade civil”, RTP 2 (gravado a 9 de setembro 2025), 9 and 10 October 2025. 
 * **O Bosão de Higgs**, television program "Prós e Contras" RTP1, moderated by the journalist Fatima Campos Ferreira, 9 July 2012.  
 * **Imagem na Ciência e na Arte' Desvenda Corpo Humano (Image in Science and Art Unveils the Human Body)**, televison interview  by the journalist Lucia Alves, at the program “TV Ciência”, RTP1,  14 February 2011 ([here](<http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18022011.pdf))
 * **Sobre a Ciência (On Science)**, television interview by the journalist Vasco Trigo, at the program “Com Ciência”, RTP 1, 23 February 2011.
