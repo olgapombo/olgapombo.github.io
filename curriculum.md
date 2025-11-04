@@ -1,7 +1,7 @@
 
 # Curriculum
 
-[Education and degrees] | [Research interests] | [Academic appointments, positions and responsabilties] | [Fellowships and research stays] | [Publications] | [Consultancy] | [] | [] | [] || [] | []
+[Education and degrees] | [Research interests] | [Academic appointments, positions and responsabilties] | [Fellowships and research stays] | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Consultancy] | [**Media mentions**] | [**Honours**] | [Languages]
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Aggregation degree in “History and Philosophy of Science” also by the University of Lisbon. 
 
