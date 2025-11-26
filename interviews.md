@@ -36,15 +36,15 @@
   
 ## Press interviews
 
-* [**Olga Pombo, Pensare vuol dire allargare i confini**] (https://www.avvenire.it/agora/cultura/olga-pombo-pensare-vuol-dire-allargare-i-confini_60782), presented by Giovanni Scarafile, Avvenire, 29 Maggio 2022, p. A-22 
-* [**Três Perguntas a Olga Pombo àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem"**](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf), (About the Book "From Word Civilization to Image Civilization"),*Newsletter of FCUL*, 21 June, 2013.
-*  [**Entrevista com Olga Pombo acerca do seu livro "Círculo dos Saberes"**](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf)(Interview with Olga Pombo about her book "the Circle of knowledges", *Newsletter of FCUL*, 24 October 2012. 
+* [**Pensare vuol dire allargare i confini**] (https://www.avvenire.it/agora/cultura/olga-pombo-pensare-vuol-dire-allargare-i-confini_60782), presented by Giovanni Scarafile, Avvenire, 29 Maggio 2022, p. A-22 
+* [**Três Perguntas àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem"**](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf), (About the Book "From Word Civilization to Image Civilization"),*Newsletter of FCUL*, 21 June, 2013.
+*  [**Entrevista acerca do livro "Círculo dos Saberes"**](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf)(Interview about the book "the Circle of knowledges", *Newsletter of FCUL*, 24 October 2012. 
 * [**A Escola é o Lugar onde a Memória se faz Futuro** (The School is the Place where Memory becomes the Future)](https://www.apagina.pt/?aba=6&cat=566&doc=15080&mid=1), interview by the journalist Antonio Baldaia, *Jornal Página da Educação*,   2011, II, n.º 195, pp. 9-20. 
 * **Ciência em Movimento. Os Nossos Neurónios. Cérebros Portugueses de que temos Orgulho (Science in Movement. Our Neurons. Portuguese Brains we are Proud of)**, interview by the journalist Helena Mendonça, *Diário de Notícias Magazine*, 18 May 2008 [here](http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18052008.pdf)
 * **Este Ensino só Precisa de um Bom Professor, Quadro e Giz (This Teaching only Needs a Good Teacher, a Black Board and a Chalk)**, interview by the journalist Clara Viana, *Jornal Público*, 24 June 2008 [here](http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op24062008.pdf)
 * [**Fernando Gil, Filósofo do Conhecimento (Fernando Gil, Philosopher of Knowledge)**](http://webpages.fc.ul.pt/~ommartins/publicacoes%20opombo/fernandogil.htm), *Expresso. Actual*, 25 March 2006.
 * **O Que É e Não É Ciencia (What Science Is and Is Not)**, interview by the *Pós-graduation program in Teching Methodology*, Universidade Federal de São Carlos, 2006 [here](http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op2006.pdf)
 * **Entrevista a Olga Pombo a respeito do seu livro ‘Interdisciplinaridade: Ambições e Limites (About the Book "Interdisciplinaridade: Ambições e Limites”**, *Infociências* nº 142, 1 February 2005, pp. 12-14 [here](http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op122005.pdf)
-* [**Entrevista a Olga Pombo**](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/Entrevista%20Revista%20SER%20(Ispa).pdf) with Antonio Gonzales (ISPA), *Revista Ser*, 2004 
+* [**Entrevista à *Revista Ser***](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/Entrevista%20Revista%20SER%20(Ispa).pdf) with Antonio Gonzales (ISPA), *Revista Ser*, 2004 
 * **Persistência da Memória (Memory Persistence)**, interview by the journalist Daniel Branco, *Jornal de Letras*, 8 January 2003. 
 * **Que Escola Queremos para os Nossos Filhos (What School do We Want for Our Children)**, interview (with Paulo Feytor-Pinto) by the journalist Paula Moura Pinheiro, *Magazine Elle*, 158, November 2001, pp. 140-148. 
