@@ -5,7 +5,7 @@
 
 ## Online interviews 
 
-* [**À Conversa com Olga Pombo (A conversation with Olga Pombo)**](https://www.youtube.com/watch?v=EA0UJBqb4RE), interview conducted by Rui Remígio, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 16 October 2025. ([link](https://www.youtube.com/watch?v=EA0UJBqb4RE))
+* [**À Conversa com Olga Pombo (A conversation with Olga Pombo)**](https://www.youtube.com/watch?v=EA0UJBqb4RE), interview conducted by Rui Remígio, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 16 October 2025. 
 *	[**Philosopher Olga Pombo**](https://www.youtube.com/watch?v=oOZaGbF3aLs&feature=youtu.be), online interview with John Symos, "Contemporary Philosophy - Global Conversations", Mana Platform, 7 July 2020.
 * [**Interdisciplinaridade (Interdisciplinarity)**](https://www.youtube.com/watch?v=HJdyKZbsZes), online interview with Helena Esser, Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (PPGIDH), Universidade Federal de Goias, Brazil, 14 August, 2020. 
 * [**Philosophers Share their Advice and Hopes with Philosophy Students**](https://www.youtube.com/watch?v=GKzPtLdQMBM),online interviews with John Symons, "Contemporary Philosophy - Global Conversations",  Mana Platform, 2020.
