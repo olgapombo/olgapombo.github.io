@@ -21,7 +21,7 @@
 *  **Sobre a Curiosidade (On Curiosity)**, television interview by the journalist Luis Castro, at the RTP2 program “Sociedade civil” (gravado a 9 de setembro 2025), 9 and 10 October 2025.
 *  [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 program "Vamos beber um café e falar sobre isso", television interview by the journalist José Navarro de Andrade, 24 January 2022.  
 * **O Bosão de Higgs**, television program "Prós e Contras" RTP1, moderated by the journalist Fatima Campos Ferreira, 9 July 2012.  
-* **Imagem na Ciência e na Arte' Desvenda Corpo Humano (Image in Science and Art Unveils the Human Body)**, televison interview  by the journalist Lucia Alves, at the RTP1 program “TV Ciência”, 14 February 2011 ([here](<http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18022011.pdf))
+* **Imagem na Ciência e na Arte' Desvenda Corpo Humano (Image in Science and Art Unveils the Human Body)**, televison interview  by the journalist Lucia Alves, at the RTP1 program “TV Ciência”, 14 February 2011 ([here](http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18022011.pdf)
 * **Sobre a Ciência (On Science)**, television interview by the journalist Vasco Trigo, at the RTP1 program “Com Ciência”,  23 February 2011.
 *  **Sobre a Ideia de Enciclopédia (On the Idea of Encyclopaedia)**, television interview by the journalist Paula Moura Pinheiro, at the RTP2 program "Câmara Clara",  19 January 2010.
 *   [**Língua é Poder (Language is Power)**](https://arquivos.rtp.pt/conteudos/olga-pombo-e-guilherme-doliveira-martins/),  televison program  "Câmara Clara", with the journalist Paula Moura Pinheiro (other participant: Guilherme d'Oliveira Martins), RTP2, 15 July 2007. 
