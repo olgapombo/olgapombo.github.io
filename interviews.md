@@ -37,7 +37,7 @@
 ## Press interviews
 
 * [**Pensare vuol dire allargare i confini**] (https://www.avvenire.it/agora/cultura/olga-pombo-pensare-vuol-dire-allargare-i-confini_60782), presented by Giovanni Scarafile, Avvenire, 29 Maggio 2022, p. A-22 
-* [**Três Perguntas àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem"**](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf), (About the Book "From Word Civilization to Image Civilization"),*Newsletter of FCUL*, 21 June, 2013.
+* [**Três Perguntas àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem"**(About the Book "From Word Civilization to Image Civilization")](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf),*Newsletter of FCUL*, 21 June, 2013.
 *  [**Entrevista acerca do livro "Círculo dos Saberes"**](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf)(Interview about the book "the Circle of knowledges", *Newsletter of FCUL*, 24 October 2012. 
 * [**A Escola é o Lugar onde a Memória se faz Futuro** (The School is the Place where Memory becomes the Future)](https://www.apagina.pt/?aba=6&cat=566&doc=15080&mid=1), interview by the journalist Antonio Baldaia, *Jornal Página da Educação*,   2011, II, n.º 195, pp. 9-20. 
 * **Ciência em Movimento. Os Nossos Neurónios. Cérebros Portugueses de que temos Orgulho (Science in Movement. Our Neurons. Portuguese Brains we are Proud of)**, interview by the journalist Helena Mendonça, *Diário de Notícias Magazine*, 18 May 2008 [here](http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op18052008.pdf)
