@@ -5,7 +5,7 @@
 
 ## Online interviews 
 
-* [**À Conversa com Olga Pombo (A Conversation with Olga Pombo)**](https://www.youtube.com/watch?v=EA0UJBqb4RE), interview conducted by Rui Remígio, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 16 October 2025 (link)
+* [**À Conversa com Olga Pombo (A Conversation with Olga Pombo)**](https://www.youtube.com/watch?v=EA0UJBqb4RE), interview conducted by Rui Remígio, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 16 October 2025.
 * [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 TV program "Vamos beber um café e falar sobre isso", interview with journalist José Navarro de Andrade, 24 January 2022 (on the second edition of the book ["Interdisciplinarity. Ambitions and Limits"](https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites))
 *	[**Philosopher Olga Pombo**](https://www.youtube.com/watch?v=oOZaGbF3aLs&feature=youtu.be), online interview with John Symos, "Contemporary Philosophy - Global Conversations", Mana Platform, 7 July 2020.
 * [**Interdisciplinaridade (Interdisciplinarity)**](https://www.youtube.com/watch?v=HJdyKZbsZes), online interview with Helena Esser, Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (PPGIDH), Universidade Federal de Goias, Brazil, 14 August, 2020. 
