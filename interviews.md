@@ -5,7 +5,6 @@
 
 ## Online interviews 
 
-* [**Pensare vuol dire Allargare i Confini**](https://www.avvenire.it/agora/pagine/pensare-vuol-dire-allargare-i-confini), Avvenire, 29 Maggio 2022, p.A 22 (presented by Giovanni Scarafile). 
 * [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 TV program "Vamos beber um café e falar sobre isso", interview with journalist José Navarro de Andrade, 24 January 2022 (on the second edition of the book ["Interdisciplinarity. Ambitions and Limits"](https://www.aletheia.pt/products/interdisciplinaridade-ambicoes-e-limites))
 *	[**Philosopher Olga Pombo**](https://www.youtube.com/watch?v=oOZaGbF3aLs&feature=youtu.be), online interview with John Symos, "Contemporary Philosophy - Global Conversations", Mana Platform, 7 July 2020.
 * [**Interdisciplinaridade (Interdisciplinarity)**](https://www.youtube.com/watch?v=HJdyKZbsZes), online interview with Helena Esser, Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (PPGIDH), Universidade Federal de Goias, Brazil, 14 August, 2020. 
@@ -38,9 +37,8 @@
   
 ## Newspaper, magazine and newsletter interviews
 
-* **Olga Pombo, Pensare vuol dire allargare i confini**, with Giovanni Scarafile, Avvenire, p. A-22, 29 Maggio 2022 **[here (https://www.avvenire.it/agora/cultura/olga-pombo-pensare-vuol-dire-allargare-i-confini_60782)]**
+* **Olga Pombo, Pensare vuol dire allargare i confini**, presented by Giovanni Scarafile, Avvenire, 29 Maggio 2022, p. A-22 **[here (https://www.avvenire.it/agora/cultura/olga-pombo-pensare-vuol-dire-allargare-i-confini_60782)]**
 * [**Três Perguntas a Olga Pombo àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem" (Three Questions to Olga Pombo, about the Book "From Word Civilization to Image Civilization")**](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf), *Newsletter of FCUL*, 21 June, 2013.
-  
 *  [**Acerca do livro "Círculo dos Saberes"(About the book "the Circle of knowledges"**](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op24102012.pdf), *Newsletter of FCUL*, 24 October 2012. 
 * [**A Escola é o Lugar onde a Memória se faz Futuro (The School is the Place where Memory becomes the Future)**](https://www.apagina.pt/?aba=6&cat=566&doc=15080&mid=1), interview by the journalist Antonio Baldaia, *Jornal Página da Educação*,   2011, II, n.º 195, pp. 9-20. 
 * **Este Ensino só Precisa de um Bom Professor, Quadro e Giz (This Teaching only Needs a Good Teacher, a Black Board and a Chalk)**, interview by the journalist Clara Viana, *Jornal Público*, 24 June 2008 
