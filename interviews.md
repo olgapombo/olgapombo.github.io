@@ -16,7 +16,7 @@
      4.	[**A Enciclopedia e a Internet (The Encyclopaedia and the Internet**)](https://www.youtube.com/watch?v=bLyV4bwh8sM)
 
 
-## Televison and radio 
+## Televison and radio interviews
 
 *  **Sobre a Curiosidade (On Curiosity)**, television interview by the journalist Luis Castro, at the RTP2 program “Sociedade civil” (gravado a 9 de setembro 2025), 9 and 10 October 2025.
 *  [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 program "Vamos beber um café e falar sobre isso", television interview by the journalist José Navarro de Andrade, 24 January 2022.  
