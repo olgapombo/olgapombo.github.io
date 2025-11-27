@@ -52,7 +52,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 
 ## Leadership and governance roles at FCUL 
 
-* 2014 – 2017 - *Proponent, founder and first [Program-Director*](https://phd-fctas.campus.ciencias.ulisboa.pt/director-do-programa/) of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
+* 2014 – 2017 - *Proponent, founder and first [Program-Director]*(https://phd-fctas.campus.ciencias.ulisboa.pt/director-do-programa/) of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
 * 2011-2015 - *Co-founder and Co-coordinator* of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
 * 2007 - 2012 - *President of the “Department of History and Philosophy of Sciences”*, FCUL (elected 27 September 2007 until 3 July 2009, re-elected the 3rd July 2009 until 3 July 2012).
 * 2007- 2012 - Member of the Scientific Council of FCUL.  
