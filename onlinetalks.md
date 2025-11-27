@@ -63,6 +63,7 @@
 * **Da classificação dos seres à classificação dos saberes**, invited speaker at the colloquium "Classification", put forward by Biblioteca Nacional de Lisboa, 21 October 1997.  
 * **Palavra, pecado e redenção. O lugar do pai na língua mãe**, invited speaker at the "XII Colóquio de Psicanálise. O Mito e a Psicanálise", Faculdade de Psicologia, University of Lisbon, 12-13 March 1999. 
 * **The Program of Unified Science by Neurath and Leibniz**, invited speaker at the “Institut für Philosophie”, Vienna University, Austria, 20 September 1999.
+* **Sobre a emergência da universidade mundial electrónica. Notas à margem da conferência de Parker Rossman**, talk presented at the Colloquium "From the Idea of University to the University of Lisbon", Rectory of the University of Lisbon, 30 November 1999.  nao
 * **Knowledge as encyclopaedia. Unity and transversality**, invited speaker to the Institut Wiener Kreis and Vienna University Conference “Concepts of Knowledge and Economic Thought by and on Otto Neurath and Joseph Popper-Lynkeus”, Zentrum für Überfakultäre Forschung, Vienna University, Austria, 3-5 May 2000.  
 * **Hobbes's thesis of the arbitrariness of the sign**, Annual Meeting of the “Henry Sweet Society for the History of Linguistic Ideas”, held at the Edinburgh University, UK, 20-23 September 2000.
 * **Biblioteca. A alma da escola**, invited speaker at the Coloquium "Bibliotecas e Novas Tecnologias", organized by Câmara Municipal de Lisboa, Forum Lisboa, 11-13 Oct 2000.  
