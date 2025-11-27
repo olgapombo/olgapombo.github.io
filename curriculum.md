@@ -38,28 +38,36 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 
 ## Academic appointments, positions and responsabilities 
 
-* 2016 - ongoing - Professor (retired with collaboration agreement) of the “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
-* 2014 – 2017 - Proponent and first Program-Director of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
-* 2011-2015 Founder and Coordinator (with Ana Simões) of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
-* 2009 – 2016 - Professor with Aggregation of the “Department of History and Philosophy of Sciences”, FCUL, since the 9th June 2009 up until retirement, the 1st January 2016. 
-* 2007 - 2012 - President of the “Department of History and Philosophy of Sciences”, FCUL (elected 27 September 2007 until 3 July 2009, re-elected the 3rd July 2009 until 3 July 2012).
-* 2007- 2012 - Member of the Scientific Council of FCUL.  
-* 2007 – 2012 - Member of the Coordination Council of FCUL.
-* 2007 - 2009 – Professor (with definitive nomination) of the “Department of History and Philosophy of Sciences”, FCUL, since its creation 1st August 2007.
-* 2003 - 2017 - [Director of the  “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL)](https://cfcul.ciencias.ulisboa.pt/equipa/olga-pombo/) since its foundation (2003) until my retirement (2017).
-* 2003 - Founder of the  “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL) 
-* 2002 - 2007 - Professor (with definitive nomination) of the “Department of Education”, FCUL, since the 26th March 2003. 
-* 1998 -2007 - Member of the Scientific Commission of the “Department of Education”, FCUL. 
-* 1996 -1998 - Member of the Pedagogical Council of the “Department of Education”, FCUL.
-* 1988 - 2002 – Professor of the “Department of Education”, FCUL.
-* 1987 - 1996 - Member of the Scientific Council of the “Department of Education”, FCUL.  
-* 1986 – 1988 - Member of the Assembly of Representatives of FCUL.
-* 1984 - 1988 – Professor (invited) of the “Department of Education” (selected by public contest), FCUL.
+* 2016 - ongoing - *Professor with Habilitation retired* with [collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
+* 2009 – 2016 - *Professor with Habilitation*, “Department of History and Philosophy of Sciences”, FCUL (since the 9th June 2009 up until retirement, the 1st January 2016). 
+* 2007¬–2009 – *Professor (tenured)*, Department of History and Philosophy of Science, FCUL (since its founding on 1 August 2007)
+* 2002 - 2007 - *Professor (tenured)*, “Department of Education”, FCUL (since 26th March 2003). 
+* 1988 - 2002 – *Professor* of the “Department of Education”, FCUL.
+* 1984 - 1988 – *Assistant Professor* of the “Department of Education” (appointed via public contest), FCUL.
 * 1980 - 1984 – National Counsellor for the Teaching of Philosophy (selected by national public contest).
 * 1979 - 1980 - Stage Supervisor for the Teaching of Philosophy at D. Pedro V High School, Lisbon (by nomination).
 * 1979 - 1980 – Full Teacher of Philosophy of D. Pedro V High School, Lisbon.  
 * 1973 - 1979 – Aggregated Teacher of Philosophy of D. Pedro V High School, Lisbon.
 * 1970 - 1972 – Assistant Teacher of Philosophy and History at M. Amália Vaz de Carvalho High School, Lisbon.
+
+* 
+* 1987 - 1996 - Member of the Scientific Council of the “Department of Education”, FCUL.  
+* 1986 – 1988 - Member of the Assembly of Representatives of FCUL.
+
+
+
+## Leadership and Governance Roles at FCUL 
+
+* 2014 – 2017 - Proponent and first Program-Director of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
+* 2011-2015 Founder and Coordinator (with Ana Simões) of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
+* 2007 - 2012 - President of the “Department of History and Philosophy of Sciences”, FCUL (elected 27 September 2007 until 3 July 2009, re-elected the 3rd July 2009 until 3 July 2012).
+* 2007- 2012 - Member of the Scientific Council of FCUL.  
+* 2007 – 2012 - Member of the Coordination Council of FCUL.
+* 2003 - 2017 - [Director of the  “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL)](https://cfcul.ciencias.ulisboa.pt/equipa/olga-pombo/) since its foundation (2003) until my retirement (2017).
+* 2003 - Founder of the  “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL) 
+* 1998 -2007 - Member of the Scientific Commission of the “Department of Education”, FCUL. 
+* 1996 -1998 - Member of the Pedagogical Council of the “Department of Education”, FCUL.
+
 
 ## Fellowships and research stays abroad
 
