@@ -52,6 +52,8 @@
 * **Wilkins and Leibniz on knowledge organization**, invited speaker to the international conference “John Wilkins: Language, Religion and Science”, St. Peters College, Oxford, UK, 8-11 Sepember 1990.  
 * **The place of the ‘Dissertatio de Stylo Philosophico Nizolii’ in the leibnizian praise of the German Language**, “International Conference Italy and Europe in Renaissance Linguistics”, Istituto di Studi Rinascimentali, Ferrara, Italy, 20-24 March 1991.
 * **A Matemática e o trabalho de "dar a ver"**, keynote speaker (closing lecture) at the "Encontro Nacional de Professores de Matemática (ProfMat)", Associação de Professores de Matemática, Alves Martins High School, Viseu, 4-7 November 1992.
+* **Problemas e perspectivas da interdisciplinaridade**, talk presented at the Symposium "Novas Perspectivas no Ensino das Ciências e da Matemática", Calouste Gulbenkian Foundation, 23-25 June 1993.  
+* **Integração interdisciplinar. Categorias de análise**, with Teresa Levy and Henrique Guimarães, talk presented at the Symposium "Novas Perspectivas no Ensino das Ciências e da Matemática", Calouste Gulbenkian Foundation, 23-25 June 1993.  
 * **A proximidade do ensino da filosofia à própria essência do ensino**, invited speaker at the colloquium «Ensino da Filosofia e Filosofia do Ensino», Department of Philosophy, Faculty of Letters, University of Lisbon, 24-25 November 1994.    
 * **Leibniz's Preface to Nizolius and the polemics on philosophical style**, keynote speaker to the “Institute for Advanced Studies da Hebrew University of Jerusalem”, Israel, 6 April 1995.
 * **A Ideia de arbitrariedade na filosofia da linguagem de Hobbes**, invited speaker at the colloquium "Hobbes and the Leviatan", Faculty of Sciences Sociais e Humanas, New University of Lisbon,18 May 1995.  
@@ -102,7 +104,9 @@
 * **Interdisciplinaridade em arte**, invited speaker at the “I Congresso Internacional Investigação em Arte”, Calouste Gulbenkian Foundation, 18 May 2009.    
 * **Interdisciplinary changes for the study of emergent phenomena**, invited speaker to the “Arrábida Meetings”, promoted by the Complexity Sciences Institute (ICC), Mosteiro da Arrábida, Portugal, 7-9 July 2009. ([here](https://vimeo.com/5788444)) 
 * **Image in science and art**, invited speaker at the Workshop "Imag(in)ing the Nanoscale", Maison des Sciences de l' Homme, Paris, France, 5-6 October 2009.
-* **Reason and computing, from Lull to Leibniz**, invited speaker (closing conference) at the “V Iberic Journey”, put forward by the Project “Universal Logics and Unity of Science”, FCUL, Lisboa, 25-26 February 2010. 
+* **Reason and computing, from Lull to Leibniz**, invited speaker (closing conference) at the “V Iberic Journey”, put forward by the Project “Universal Logics and Unity of Science”, FCUL, Lisboa, 25-26 February 2010.
+* **Apresentação de um projecto. Da palavra à imagem**, plenary talk at the International Colloquium «Da Civilização da Palavra à Civilização da Imagem», organized in the context of the Project “Image in science and Art”, Franco-Portuguese Institute, Lisboa, 10-11 May 2010.  
+* **Matemática e Lógica em H. Poincaré**, talk presented at the CFCUL “Poincaré. Philosopher of Science”, FCUL, Lisboa, 23 June 2010  
 * **Science and art. Variations upon a common ground**, Keynote Speaker (closing conference) at the international colloquium “Nomadic 09-10”, Rektorship of the Oporto University, Oporto, 25 March 2010. 
 * **Three roots for Leibniz's contribution to the computational conception of reason**, conference at the “6th Conference on Computability in Europe”, CIE 2010, Ponta Delgada, Azores, Portugal, 2 July 2010.  
 * **Models and representations of knowledge organization**, invited speaker to the “European Conference on Complex Systems - ECCS'10 Lisboa, ISCTE - Lisbon University Institute, Lisboa; 13 September 2010. (**see [here](http://vimeo.com/15233007)**).
@@ -209,20 +213,16 @@
 * **Bachelard: epistemólogo e pedagogo**, "Interdisciplinar Seminar on Bachelard", FCUL, 4 May 1988.  
 * **Reforma e critérios de legitimação curricular**, Colloquium "Reforma do Sistema Educativo", Department of Education, FCUL, 24 June 1988.  
 * **Epistemologia e matemática: algumas observações**, invited speaker at Prof. Luís Saraiva seminar, FCUL, 29 November 1988
-* **Linguagem e escola: os lugares da filosofia**, invited speaker at the colloquium "Reason and Critique", "Associação dos Professores de Filosofia", Rectory of the University of Coimbra, 11 February 1989.  
 * **Um diálogo interdisciplinar**, invited speaker at the seminar "O Curriculum no Ensino, o Programa na Formação Profissional", FCUL, Lisboa, 18 December 1990.  
 * **Epistemologia e ensino das ciências**, invited speaker at the "IV Encontro Regional de Lisboa e Zona Sul", Natural History Museum and FCUL, 23-25 May 1991.  
 * **Porquê a interdisciplinaridade?**,  Seminar "O que é a Interdisciplinaridade?", put forward by "Project Mathesis", Department of Education, FCUL,  Lisboa, 12 June 1991.  
-* **Para um modelo reflexivo de formação de professores**,  Seminar "O Ensino Superior e a Formação de Professores em Portugal", Calouste Gulbenkian Foundation, 21-22 January 1993.  
-* **Problemas e perspectivas da interdisciplinaridade**,  Symposium "Novas Perspectivas no Ensino das Ciências e da Matemática", Calouste Gulbenkian Foundation, 23-25 June 1993.  
-* **Integração interdisciplinar. Categorias de análise**, with Teresa Levy and Henrique Guimarães,  Symposium "Novas Perspectivas no Ensino das Ciências e da Matemática", Calouste Gulbenkian Foundation, 23-25 June 1993.  
+* **Para um modelo reflexivo de formação de professores**,  Seminar "O Ensino Superior e a Formação de Professores em Portugal", Calouste Gulbenkian Foundation, 21-22 January 1993.   
 * **A interdisciplinaridade como exigência curricular**, invited speaker at the "Primeira Conferência sobre Interdisciplinaridade no Ensino: Reflexões e Práticas sobre a Área Escola", Auditório Eng. Eurico de Melo, St. Tirso, 6 May 1994.  
 * **Estaremos a caminho para uma escola de sucesso?**, invited speaker at the "Encontro Regional de Professores de Matemática", Forum da Maia, 13 September 1995.
 * **A interdisciplinaridade no ensino e na investigação**, invited speaker at the "Ciclo de Interdisciplinaridade. Saber de Risco Sísmico com o Mínimo de Risco Ambiental", FCUL, Lisboa, 19 December 1996. 
 * **Recordar Agostinho da Silva: 10 anos depois**, "Ciclo de Conferências Agostinho da Silva", FCUL, Lisboa, 17 December 1998.
-* **Notas à margem do projecto "Escolas Inclusivas"**,  2ª Sessão do "Ciclo de Conferências Agostinho da Silva", FCUL, 4 May 1999.  
-* **Sobre a emergência da universidade mundial electrónica. Notas à margem da conferência de Parker Rossman**, Colloquium "From the Idea of University to the University of Lisbon", Rectory of the University of Lisbon, 30 November 1999.  
-* **Curriculum: critérios de legitimação**, invited speaker at the "Jornadas Pedagógicas do Pinhal", Centro de Formação do Pinhal, Municipal Auditorium of Proença-a-Nova, 23 March 2000.    
+* **Notas à margem do projecto "Escolas Inclusivas"**,  2ª Sessão do "Ciclo de Conferências Agostinho da Silva", FCUL, 4 May 1999.   
+* **Curriculum: critérios de legitimação**, invited speaker at the "Jornadas Pedagógicas do Pinhal", Centro de Formação do Pinhal, Municipal Auditorium of Proença-a-Nova, 23 March 2000.   
 * **A escola como memória do futuro**, invited speaker Colloquium "Homenagem a Agostinho da Silva", organized by Associação Agostinho da Silva, Sala do Arquivo, Paços do Concelho, Lisboa, 14-15 February 2001. 
 * **Da autoridade ao autoritarismo**, invited speaker Seminário "Autoridade, Responsabilidade e Indisciplina nas Escolas", organized by Associação Nacional dos Professores do Ensino Secundário, University School of Communication, Lisboa, 15 -16 February 2001.  
 * **Hipertexto como limite da ideia de enciclopédia**, Seminário do Projecto Enciclopédia e Hipertexto, FCUL, 4 December 2002.      
@@ -238,8 +238,6 @@
 * **Diários gráficos como instrumento de conhecimento**, invited talk by the Project “Espaços do Desenho”, Fábrica de Braço de Prata, Lisboa, 12 March 2009.  
 * **Diderot, D' Alembert e o movimento enciclopedista**, invited speaker at the Câmara Municipal de Oeiras, “Ciclo de Conferencias sobre o Iluminismo”, Oeiras, 22 April 2009.
 * * **Afinal, o que é a escola?**, invited speaker at the “Conferências de  Lisboa / Lições Abertas” (Org. Rui Tavares), Câmara Municipal de  Lisboa,  Lisboa, 25 June 2009. 
-* **Apresentação de um projecto**, plenary talk at the International Colloquium «Da Civilização da Palavra à Civilização da Imagem», organized in the context of the Project “Image in science and Art”, Franco-Portuguese Institute, Lisboa, 10 - 11 May 2010.  
-* **Matemática e Lógica em H. Poincaré**, Project “Poincaré. Philosopher of Science”, FCUL, Lisboa, 23 June 2010.  
 * **Acerca da verdade**, invited talk at the National Etics Commission, Parque da Saúde, Lisboa, 5 November 2010. 
 * **Ciência e interdisciplinaridade**, invited speaker at “Jornadas interdisciplinares 2011”, put forward by the Students Association of Psychology and Educational Sciences of the University of Coimbra, Coimbra, 22 March 2011.
 * **O livro como extravagância**, invited speaker at the “Jornadas Kantianas”, put forward by the Oporto Association, Lisboa, 16 March 2012.  
@@ -262,6 +260,13 @@
 * **O Princípio Responsabilidade (1979) de Hans Jonas (filosofia, ética, futuro e ecologia (The Principle of Responsibility (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 11 March 2025.
 * **Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência (You have to change your life (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 1 April 2025.
 * **Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (About the New (2014) by Boris Groys. Philosophy, Novelty, Creation**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 6 May 2025.
+* **Da civilização oral á civilização da escrita. "A musa aprende a escrever" de Havelock**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 7 outubro 2005 
+* **Homero, Protágoras e Sócrates. Poesia, retórica e dialéctica**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 4 novembro 2025-
+* **Platão e Aristóteles. Diálogo, argumento e racionalidade. Verdade e democracia**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 2 dezembro 2025
+* **Instituições da escrita 1. Escola e universidade. O desafio das tecnologias do conhecimento**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 6 janeiro 2026
+* **Instituições da escrita 2. Livro e biblioteca. A digitalização e o futuro do livro**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 5 fevereiro 2026
+* **Instituições da escrita 3. Enciclopédia. De Plinio á Internet**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 3 março 2026
+* **Da civilização da palavra a civilização da imagem**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 5 maio 2026
 
 
 ## Debates and round tables
