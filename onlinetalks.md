@@ -35,12 +35,12 @@
 
 * **The leibnizian theory of the representativity of the sign**,  “IV Internationale Konferenz zur Geschichte der Sprachwissenschaften”, Trier, Germany, 26 August 1987.  
 * **La théorie leibnizienne de la pensée aveugle en tant que perspective sur quelques des apories linguistiques de la modernité**, invited speaker at the “International colloquium Readings of Modernity”, Franco-Portuguese Institut, Lisboa, 27 May 1987.
+* **Meio é a mensagem: Mc Luhan e as novas tecnologias**, invited speaker at the "Computer week", Department of Education, FCUL, University of Lisbon, 12 January 1987.
+* **Leibniz e a Língua Alemã (Leibniz and the German Language)**,  "Encontro de Professores de Alemão", Faculty of Letters, University of Lisbon, 14 February 1987.
 * **Leibniz e o problema de uma língua universal: apresentação de uma investigação**, invited talk at the cycle "Theses" of the Portuguese Society of Philosophy, Lisboa, 3 June 1987.  
 * **Epistémologie et formation des enseignants**, « XII Conférence de L'Association pour la Formation des Enseignants en Europe », Berlim University, Germany, 8 September 1987.
-* **Leibniz e a Língua Alemã (Leibniz and the German Language)**,  "Encontro de Professores de Alemão", Faculty of Letters, University of Lisbon, 14 February 1987.
-* **Meio é a mensagem: Mc Luhan e as novas tecnologias**, invited speaker at the "Computer week", Department of Education, FCUL, University of Lisbon, 12 January 1987.  
+* **Notas sobre as instituições da Filosofia**, invited speaker at the colloquium "Philosophy face to technological culture", Associação dos Professores de Filosofia, Aula Magna of the Rectory of the University of Lisbon, 22 January 1988. 
 * **Leibnizian strategies for the semantical foundation of the universal language**, “V Internationaler Leibniz Kongress“, Hannover, Germany, 16 November 1988.
-* **Notas sobre as instituições da Filosofia**, invited speaker at the colloquium "Philosophy face to technological culture", Associação dos Professores de Filosofia, Aula Magna of the Rectory of the University of Lisbon, 22 January 1988.
 * **Projecto epistemológico de Bachelard**, invited speaker at the Faculdade of Letters of the University of Lisbon, 12 January 1989.   
 * **Linguagem e escola: os lugares da filosofia**, invited speaker at the colloquium "Reason and Critique", "Associação dos Professores de Filosofia", Rectory of the University of Coimbra, 11 February 1989.  
 * **Filosofia e método**, keynote speaker at the Colloquium "Filosofia e História da Filosofia", Faculty of Letters, University of Lisbon, 12-13 April 1989.
@@ -112,7 +112,8 @@
 * **Unity of science and encyclopaedia: Idea and configurations. Philosophical dialogue**, closing conference at the “International Conference in Honor of Marcelo Dascal's Forty Years of Academic Scholarship”, Tel Aviv University, Gilman Building, Drachlis Hall, 11 November 2010. 
 * **Interdisciplinaridade: conceito, problemas e perspectivas (Interdisciplinarity: concept, problems and perspectives)**, Keynote speaker (opening conference) at “Seminário Latino-Americano sobre Interdisciplinaridade no Ensino de Ciências da Natureza”, Foz do Iguaçu, Paraná, Brazil, 08 - 11 December 2010.
 * **As Imagens com que a ciência se faz - Filosofia da imagem e filosofia da ciência**, invited speaker at the “3rd International Symposium of Philosophy of Science“, Évora University, 6 May 2011.
-* **Several concepts of intuition in Poincaré's philosophy of mathematics**, Symposium “Poincaré, Philosopher of science: a historical and philosophical approach, 14th Congress of Logic, Methodology and Philosophy of Science”, Nancy, France, 25 July 2011. * **Epistemologia da imagem científica**, invited speaker at the “Conferências de Historia e Filosofia das Ciências da SAHFC“, FCUL,  Lisboa, 27 October 2011. 
+* **Several concepts of intuition in Poincaré's philosophy of mathematics**, Symposium “Poincaré, Philosopher of science: a historical and philosophical approach, 14th Congress of Logic, Methodology and Philosophy of Science”, Nancy, France, 25 July 2011.
+* **Epistemologia da imagem científica**, invited speaker at the “Conferências de Historia e Filosofia das Ciências da SAHFC“, FCUL,  Lisboa, 27 October 2011. 
 * **What about Neurath's program of unity of science today?**, invited speaker to the colloquium "The Vienna Papers of Delfim Santos and the Philosophy of Science in Portugal / 75 anos de 'A situação valorativa do positivismo' de Delfim Santos", FCUL, Lisboa, 4 -5 November 2011.  
 * **Leibniz: Intuition and symbolism**, invited speaker at the “VI Iberic journeys / Logics, Language, Mind and Science”, held at Faculty of Philosophy, Complutense University of Madrid, 17-18 November 2011.  
 * **Les langues et les cultures textuelles de l'Europe**, invited speaker to the colloquium "À quoi l'Europe sert-elle encore ? Un débat entre l'Allemagne, la France et le Portugal", Calouste Gulbenkian Foundation in France, Paris, 2-3 Dec 2011.
@@ -191,8 +192,7 @@
 *	**Para uma “Cartografia do Conceito de Criação**, Keynote speaker at the International interdisciplinar colloquium Invention and Imagination, put forward by CHAM (Center of Humanities of the Universidade Nova de Lisboa), Universidade Nova de Lisboa, 14-16 de dezembro de 2023.
 *	 **Interdisciplinarity today. Both a fact and a project**, invited speaker at the Special Session “Re-Imagining the Human. Ethics, Expression, Interdisciplinary Approaches, and the Evolving Anthropological Landscape”, 25th World Congress of Philosophy, Roma, 1-8 agosto 2024.
 *	 **Alice e a pós-verdade (Alice and the post-truth)**, invited conference at the Faculty of Law, University of Lisbon, 14 March 2025
-*	****, Keynote speaker at the 6º Congresso Internacional de Filosofia, organized by  Sociedade Portuguesa de Filosofia, Faculdade de Letras da Universidade de Lisboa. 1, 2, 3  September, 2025. (foreseen)
-
+*	**Aporias do actual conceito de novo**, Keynote speaker at the 6º Congresso Internacional de Filosofia, organized by  Sociedade Portuguesa de Filosofia, Faculdade de Letras da Universidade de Lisboa. 1 - 3  September, 2025. 
 
 ## Public Talks 
 
@@ -303,6 +303,7 @@
 * **A base científica da medicina e a prática da medicina baseada na evidência**, participation, as commentator, at conference organized by the Research Centre for Criminal Law and Criminal Sciences, Faculdade de Direito, University of Lisbon, 16 April, 2021 (video conference)
 * **Les liens entre interdisciplinarités et valorisation scientifique par les médias audio-visuels**, participation, as animateur, at a round-table of the international colloquium “Interdisciplinarité(s)”, put forward by the Réseau National des Maisons des Sciences de L’Homme, University of Aix en Provence, France, 9-10 September, 2021.
 * **Direito: ciência, arte, cultura**, invited talk at a round table/debate put forward by the Instituto de Investigação Interdisciplinar do Direito da Faculdade de Direito da Universidade de Lisboa (IURIS/FDUL), Faculdade de Direito da Universidade de Lisboa,16 November 2023.
+* **Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior**,  invited  talk at the debate “Possíveis Estratégias para o futuro do Ensino Superior em Portugal. Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 de novembro 2025 [(vídeo)](https://www.engium.uminho.pt/eeum50)
 
 
 ##  Book presentations 
