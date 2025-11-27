@@ -50,7 +50,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * 1973 - 1979 – ªAggregated Teacher of Philosophy*, D. Pedro V High School, Lisbon.
 * 1970 - 1972 – *Assistant Teacher of Philosophy and History*, M. Amália Vaz de Carvalho High School, Lisbon.
 
-## Leadership and Governance Roles at FCUL 
+## Leadership and governance roles at FCUL 
 
 * 2014 – 2017 - *Proponent, founder and first [Program-Director*](https://phd-fctas.campus.ciencias.ulisboa.pt/director-do-programa/) of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
 * 2011-2015 - *Co-founder and Co-coordinator* of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
