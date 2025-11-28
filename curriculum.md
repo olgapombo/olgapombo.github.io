@@ -463,7 +463,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the International Advisory Committee of the FCT Center for Interdisciplinary Studies of the University of Coimbra (2023-2024) and (2025-2028).
 
 
-**European Commission FP VI, FP VII and Horizon 2020**  
+**European Commission FP6, FP7 and Horizon 2020**  
 
 * Expert for Raising Public Awareness of Science and Technology, 2001.  
 * Expert for Improving the Human Research Potential and the Socio-Economic Knowledge, 2001-2002.  
