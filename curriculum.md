@@ -38,7 +38,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
 
-## Academic appointments, positions and responsabilities 
+## Appointments, positions and responsabilities 
 
 * 2016 - ongoing - *Retired Professor with Habilitation* with [collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 * 2009 – 2016 - *Professor with Habilitation*, “Department of History and Philosophy of Sciences”, FCUL (since the 9th June 2009 up until retirement, the 1st January 2016). 
