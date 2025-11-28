@@ -1,7 +1,7 @@
 
 # Curriculum
 
-###### | [Academic profile](Academic-profile) | [Education and degrees](#Education-and-degrees)| [Academic appointments positions and responsabilities](#Academic-appointments-positions-and-responsabilities) | [Leadership and governance roles](#Leadership-and-governance-roles) | [Fellowships and research stays abroad](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Consultancy](#Consultancy) | [Media mentions](#Media-mentions) | [Honours](#Honours) | [Languages](#Languages)
+###### | [Academic profile](Academic-profile) | [Education and degrees](#Education-and-degrees)| [Academic appointments positions and responsabilities](#Academic-appointments-positions-and-responsabilities) | [Leadership and governance roles](#Leadership-and-governance-roles) | [Fellowships and research stays abroad](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Consultancy](#Consultancy) | [Honours](#Honours) | [Languages](#Languages)
 
 ## Academic profile
 
@@ -450,7 +450,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the editorial board of the journal ***Filosofia***, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
 
-### Consultancy 
+## Consultancy 
 
 **International panels and committees**
    
@@ -495,3 +495,16 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the selection panel for CFCUL post-doc grants in the scientific area of “Philosophy of Natural Sciences” (January 2016)
 * Member of the selection panel for PhD grants of the Doctoral Program on Philosophy of Science, Technology, Art and Society (FCTAS ), awarded in 2014, 2015, 2016 and 2017. 
 
+
+## Honours
+
+
+## Languages
+
+Portuguese – native
+English – excellent (fluent in reading and writing)
+French – excellent (fluent in reading and writing)
+Spanish – excellent (fluent in reading and oral expression)
+Italian – regular (iintermediate proficiency)
+Latin - translation skills of classical texts
+Greek - translation skills of classical texts
