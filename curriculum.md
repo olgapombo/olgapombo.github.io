@@ -1,7 +1,7 @@
 
 # Curriculum
 
-###### | [Academic profile](Academic-profile)  |  [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Media and Scholar Reception](#Media-and-scholar-reception)| |[Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
+###### | [Academic profile](Academic-profile)  |  [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Scholar and Media Reception](#Scholar-and-media-reception)| |[Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
 
 ## Academic Profile
 
@@ -495,7 +495,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the selection panel for PhD grants of the Doctoral Program on Philosophy of Science, Technology, Art and Society (FCTAS ), awarded in 2014, 2015, 2016 and 2017. 
 
 
-## Media and Scholar Reception
+## Scholar and Media Reception
 
 * António Guerreiro (1998), review of the book: "Olga Pombo, Leibniz e o Problema de uma Língua Universal*, Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997, 322 págs., in *Expresso – Cartaz*, 18.07.1998 
 * M.J.C. (2000), review of the book: "Olga Pombo, Quatro Textos Excêntricos: Hannah Arendt, Eric Weil, Bertrand Russell e Ortega y Gasset", Relógio d’Água, 2000, in *Expresso – Cartaz*, 02.09.2000
