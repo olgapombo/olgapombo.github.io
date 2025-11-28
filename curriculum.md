@@ -509,10 +509,10 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 
 ## Languages
 
-Portuguese – native
-English – excellent (fluent in reading and writing)
-French – excellent (fluent in reading and writing)
-Spanish – excellent (fluent in reading and oral expression)
-Italian – regular (iintermediate proficiency)
-Latin - translation skills of classical texts
-Greek - translation skills of classical texts
+* Portuguese – native
+* English – excellent (fluent in reading and writing)
+* French – excellent (fluent in reading and writing)
+* Spanish – excellent (fluent in reading and oral expression)
+* Italian – regular (iintermediate proficiency)
+* Latin - translation skills of classical texts
+* Greek - translation skills of classical texts
