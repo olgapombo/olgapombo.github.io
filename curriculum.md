@@ -496,23 +496,50 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the selection panel for PhD grants of the Doctoral Program on Philosophy of Science, Technology, Art and Society (FCTAS ), awarded in 2014, 2015, 2016 and 2017. 
 
 
-## Honours
+## Media Mentions
+
+**Reviews of Published Works** 
+
+* António Guerreiro (1998), review of the book: Olga Pombo, Leibniz e o Problema de uma Língua Universal, Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997, 322 págs., in Expresso – Cartaz, 18.07.1998 
+* M.J.C. (2000), review of the book: Olga Pombo, Quatro Textos Excêntricos: Hannah Arendt, Eric Weil, Bertrand Russell e Ortega y Gasset, Relógio d’Água, 2000, in Expresso – Cartaz, 02.09.2000
+* Linda Santos Costa (2002), review of the book: A Escola, a Recta e o Círculo, Lisboa: Relógio d’Água, 2002, in Público – Mil Folhas, 23.11.2002 (review article)
+* Marina Lopez (2007), review of the book: Olga Pombo, Unidade da Ciência. Programas, Figuras e Metáforas (Unity of Science. Programs, Figures and Metaphors), Lisboa: Duarte Reis, 2006, 340pp., in Devenires, VIII - Mexico (July, 2007) (link)
+* António Guerreiro (2011), review of the book:  Olga Pombo, Palavra e Esplendor do Mundo, Estudos sobre Leibniz, Lisboa: Fim de Seculo, 2010, 304pp., in Expresso, Actual, 05.02.2011.
+* José António Alves (2012), review of the book: Olga Pombo, Unidade da Ciência, Programas, Figuras E Metáforas, Lisboa: CFCUL/Gradiva, 2011, 344pp., in Revista Portuguesa de Filosofia, Vol. 68, Fasc. 1/2, pp. 353–357, 2012 (link)
+* António Guerreiro (2012), review of the book: Em Torno de Darwin, Lisboa:  Fim de Século, 2012, 192 pags, in Expresso – Actual, 12.05.2012
+* Julio Dnd (2013), review of the book: John Symons, Olga Pombo, Juan Manuel Torres (eds): Otto Neurath and the Unity of Science, Dordrecht: Springer, 264 pp, 2011 (Logic, Epistemology, and the Unity of Science, Vol. 18), in Book Inspections WorldPress, 07.07.2013, (link)
+* Marco Silva (2013), review of the book: Leibniz e o Problema de uma Língua Universal, Lisboa: Junta Portuguesa de Investigação Científica e Tecnológica (JNICT), 1997, in Argumentos, Vol. 5 (10), Fortaleza, Brazil (jul./dez. 2013), pp. 234-239. (link)
+* Thomas Uebel (2013), review of the book: John Symons, Olga Pombo, Juan Manuel Torres (eds): Otto Neurath and the Unity of Science, Dordrecht: Springer, 2012, 264pp, in Metascience, Springer Science, 22, pp. 481-484, 2013. DOI 10.1007/s11016-012-9711-0 (link)
+* Hinne Hettema (2013), review of the book: Olga Pombo, Juan Manuel Torres, John Symons, and Shahid Rahman (eds). Special Sciences and the Unity of Science, Dordrecht: Springer 2012, 299 pp, in Philosophy in Review Vol. XXXIII (4), pp. 315–317, 2013 ISBN 978–94–007–2029–9 (link)
+* David Ludwig (2015), review of the book: John Symons, Olga Pombo, and Juan Manuel Torres (eds.). 2011. Otto Neurath and the Unity of Science. Dordrecht: Springer, in Lato Sensu Revue de la Société de philosophie des sciences 2(1):14-16, DOI:10.20416/lsrsps.v2i1.163 (link)
+* Marcos António Pires, review of the book: Olga Pombo, O Insuportável Brilho da Escola, in Revista ISCI, Revista Científica do Instituto Saber Ciências Integradas, Brazil, Vol. 8(2), May 2021, ISSN 2446-8436 (link )
+
+
+**International Recognition**
+
+* Olga Pombo. La interdisciplinaridad o la rede actual del conocimiento, part of the online series Filósofas en La Historia: Escuela de filósofas. Filósofas ante la Ciencia y la Tecnologia”, directed by Paz Pérez Encinas, Departament of Philosophy, IES Aramo, Oviedo, Spain. The session was dedicated to a global presentation and discussion of Olga Pombo’s scientific work by two invited scholars on the 5th August 2023.(vídeo) (vídeo2)
+* Medina, Patricia; Pereira, M. Lustosa and Paiva, José Feijó (2019), Estudo da Ciência da Educação fundamentada na Interdisciplinaridade por Olga Pombo (Study of the Science of Education based on Interdisciplinarity by Olga Pombo: a review study), thematic study in RIAEE – Revista Ibero-Americana de Estudos em Educação, Araraquara, 14 (4), pp. 2287-2300, (out./dez.  2019).  e-ISSN: 1982-5587. 
+DOI: https://doi.org/10.21723/riaee.v14i4.12113
+* Shahid Rahman (2012), presentation of the book: Olga Pombo, O Círculo dos Saberes, Lisboa: CFCUL/Gradiva, 314pp, Thematic Study presented in a public session, FCUL, Lisbon, 29 October 2012. (link)
+
+
+## Honours, awards and public distinctions
 
 * *Inaugural holder of the Leopoldo Zea Latin-American Chair of Philosophy and Epistemology*, Federal University of Latin-American Integration (UNILA), Brazil (2010) [(link)](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/)
 * *Selected as one of the [100 Woman in Science](https://www.cienciaviva.pt/divulgacao-cientifica/mulheresnaciencia/dia-internacional-da-mulher/2016) by Ciencia Viva*, National Agency for Scientific and Technological Culture of Portugal (March, 2016).   [(Women in Science book)](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/), [(Olga Pombo’s page)](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295) 
 * *Member of the Honnorary Comission of the National Reading Plan*, 2017.
 * *Honorary Member of the International Association for the Study of Controversies* (IASC) (17 March 2020)
 * *What if virtue was not possible to be taught? Socrates and Protagoras in the homage to Prof. Dr. Olga Pombo*, tribute event organized by Prof. Inácio Valentim, ITSNI (Angola), with Profs. Aldo Dinucci (UFS), Bruno Drumond (USP), and Sérgio Sardi (PUCRS), 5 January 2022, (Video), [(Poster)](https://cfcul.ciencias.ulisboa.pt/noticias/e-se-a-virtude-nao-for-possivel-de-ser-ensinada-socrates-e-protagoras-na-homenagem-a-prof-a-dr-a-olga-pombo-cfcul/)
-* *Essay tribute to Olga Pombo. An origin for the image?, by Pedro Caldas, Informe C3, Dossier Arte e Ciencia, vol. 14 (1): 67-84 (2022).
+* *Essay tribute to Olga Pombo. An origin for the image?*, by Pedro Caldas, Informe C3, Dossier Arte e Ciencia, vol. 14 (1): 67-84 (2022).
 * *Celebrating Women Who Inspire*, tribute event integrated in the “International Day of Women and Girls in Science”, organized by ARMA-Sci, Agrupamento de Escolas Gomes Teixeira, Câmara Municipal de Armamar, Centro Interpretativo da Mulher Duriense, 21 February 2024.
 
 
 ## Languages
 
-* Portuguese – native
-* English – excellent (fluent in reading and writing)
-* French – excellent (fluent in reading and writing)
-* Spanish – excellent (fluent in reading and oral expression)
-* Italian – regular (iintermediate proficiency)
-* Latin - translation skills of classical texts
-* Greek - translation skills of classical texts
+* *Portuguese* – native
+* *English* – excellent (fluent in reading and writing)
+* *French* – excellent (fluent in reading and writing)
+* *Spanish* – excellent (fluent in reading and oral expression)
+* *Italian* – regular (iintermediate proficiency)
+* *Latin* - translation skills of classical texts
+* *Greek* - translation skills of classical texts
