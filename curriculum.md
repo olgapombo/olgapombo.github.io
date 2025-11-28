@@ -3,7 +3,7 @@
 
 ###### | [Academic profile](Academic-profile)  |  [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
 
-## Academic profile
+## Academic Profile
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Hailitation degree in “History and Philosophy of Science” also by the University of Lisbon. 
 
@@ -27,7 +27,7 @@ She was invited to join the honour commission of the Portuguese “Reading Natio
 Recently,  she was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). 
 
   
-## Education and degrees
+## Education and Degrees
 
 * 2009 – *Habilitation (Aggregation) in "History and Philosophy of Science"*, University of Lisbon with the public lesson “*Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century*).
 * 1998 - *PhD in Philosophy of Education*, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “*Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge*).  
@@ -39,7 +39,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
 
-## Appointments, positions and responsabilities 
+## Appointments, Positions and Responsabilities 
 
 * 2017 - ongoing - *Professor with Habilitation* retired with ([collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 * 2009 – 2016 - *Professor with Habilitation*, “Department of History and Philosophy of Sciences”, FCUL (since the 9th June 2009 up until retirement, the 1st January 2017). 
@@ -53,7 +53,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * 1973 - 1979 – ªAggregated Teacher of Philosophy*, D. Pedro V High School, Lisbon.
 * 1970 - 1972 – *Assistant Teacher of Philosophy and History*, M. Amália Vaz de Carvalho High School, Lisbon.
 
-## Leadership and governance roles 
+## Leadership and Governance Roles 
 
 * 2014 – 2017 - *Proponent, founder and first [Program-Director](https://phd-fctas.campus.ciencias.ulisboa.pt/director-do-programa/)* of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
 * 2011-2015 - *Co-founder and Co-coordinator* of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
@@ -68,7 +68,7 @@ Recently,  she was  awarded  the Honorary membersip of the “International Asso
 * 1987 - 1996 - Member of the Scientific Council of the “Department of Education”, FCUL.  
 * 1986 – 1988 - Member of the Assembly of Representatives of FCUL.
 
-## Fellowships and research stays abroad
+## Fellowships and Research Stays Abroad
 
 * PhD fellowship awarded by the National Institute of Scientific Research (JNIC) (1989 – 1992).
 * PhD research stay at the Centre de Recherche Épistémologie Appliquée – CREA, University of Paris, France (1990-1991).
@@ -339,7 +339,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 50.	Pombo, Olga (1984), **Pedagogia por Objectivos / Pedagogia com Objectivos**, *Logos*, n.º 1, Lisboa: Filosofia Aberta, pp. 43-7 
 
 
-### Book reviews
+### Book Reviews
 1.	Pombo, Olga (2010), **A propósito de 'Relatividade e Física Clássica: Continuidade e Ruptura', apresentação de um livro de António Brotas**, *Gazeta de Física*, Vol. 33, nº 2, pp. 9-12.
 2.	Pombo, Olga (2008), **Todos os Homens por Natureza Desejam Conhecer**, in Barros Veloso, António, *Medicina e outras Coisas*, Lisboa: Gradiva, pp. 7-11. 
 3.	Pombo, Olga (1992), **Ana Luísa Janeira, 'Sistemas Epistémicos e Ciências: do Noviciado da Cotovia à Faculdade de Ciências de Lisboa” e José Lopes Ribeiro, 'O Edifício da Faculdade de Ciências. Quatro Séculos de Retratos Institucionais'**, *Revista de Educação*, vol. II, nº 1, Lisboa: DEFCUL, pp. 119-120.
@@ -347,7 +347,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 5.	Pombo, Olga (1984), **Herbert H. Knecht. ‘La Logique chez Leibniz’**, *Análise*, nº 1, Lisboa, Gec, pp. 231-239.
 
 
-### Scholar brochures 
+### Scholar Brochures 
  1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.), (1990) **Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
 2.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1991) , **Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
 3.	Olga Pombo (ed.) (1994), [**McLuhan. A Escola e os Media**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/1cad.jpg) (anthology of texts by M. McLuhan, translated and prefaced),*1º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 73 pp.
@@ -358,7 +358,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 11. Olga Pombo (ed.) (2001), [**Educar / Ensinar. Materiais de estudo**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/caderno6.jpg), (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), *6º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 84 pp.
 12. Olga Pombo (ed.) (2005), [**Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/capa1.jpg),(anthology with introduction and revised translation), *7º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 40 pp.  
 
-### Room texts for exhibitions
+### Room Texts for Exhibitions
 * Pombo, Olga (2019), [**A Bioarte de Isa Duarte Ribeiro**](https://www.researchgate.net/publication/338476516_A_Bioarte_de_Isa_Duarte_Ribeiro_BioArt_of_Isa_Duarte_Ribeiro), 
 *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
 * Pombo, Olga (2004), **From Thomas More to Rousseau**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
@@ -368,16 +368,16 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Pombo, Olga (1996), **Nenhum Vento**, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
 	
-### Journal editor
+### Journal Editor
 * Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
 * *Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
 * Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
-### Journal guest editor
+### Journal Guest Editor
 * Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 * Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
   
-### Book series  
+### Book Series  
 * Direction of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
 	1) *As cidades, os castelos e a onda: imagens, diagramas e metáforas entre Calvino, Escher e Bohr*, by João Araújo, 2010;
 	2) *Neuroaesthetics : can science explain art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010;
@@ -434,7 +434,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the scientific committee of the editorial series **Applied Ethics and Philosophical Anthropologies**, Milella Publishing House, Lecce, Italy (since 2024).
 
 
-### Member of journal boards 
+### Member of Journal Boards 
 
 * Member of the editorial board of the journal [***Latin American Human Rights Studies*** (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021). 
 * Member of the international editorial board of the journal ***Currículo, Cultura e Identidade***, Unesp. Sao Paulo, Brazil (since 2020)
@@ -453,7 +453,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 
 ## Consultancy 
 
-**International panels and committees**
+**International Selection Panels and Committees**
    
 * Member of the international selection panel for the Institut Universitaire de France, selection de la promotion, Paris, 2009 and 2010. 
 * Member of the international selection panel of the University Paris-Sorbonne for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2015.
@@ -465,7 +465,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the International Advisory Committee of the FCT Center for Interdisciplinary Studies of the University of Coimbra (2023-2024) and (2025-2028).
 
 
-**European Commission Programs VI-VII and Horizon 2020**  
+**European Commission FP VI, FP VII and Horizon 2020**  
 
 * Expert for Raising Public Awareness of Science and Technology, 2001.  
 * Expert for Improving the Human Research Potential and the Socio-Economic Knowledge, 2001-2002.  
@@ -517,7 +517,7 @@ DOI: https://doi.org/10.21723/riaee.v14i4.12113
 * Marcos António Pires, review of the book: Olga Pombo, O Insuportável Brilho da Escola, in Revista ISCI, Revista Científica do Instituto Saber Ciências Integradas, Brazil, Vol. 8(2), May 2021, ISSN 2446-8436 (link )
 
 
-## Honours, awards and public distinctions
+## Honours, Awards and Public Distinctions
 
 * *Inaugural holder of the Leopoldo Zea Latin-American Chair of Philosophy and Epistemology*, Federal University of Latin-American Integration (UNILA), Brazil (2010) [(link)](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/)
 * *Selected as one of the [100 Woman in Science](https://www.cienciaviva.pt/divulgacao-cientifica/mulheresnaciencia/dia-internacional-da-mulher/2016) by Ciencia Viva*, National Agency for Scientific and Technological Culture of Portugal (March, 2016).   [(Women in Science book)](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/), [(Olga Pombo’s page)](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295) 
