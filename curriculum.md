@@ -498,6 +498,14 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 
 ## Honours
 
+* *Inaugural holder of the Leopoldo Zea Latin-American Chair of Philosophy and Epistemology*, Federal University of Latin-American Integration (UNILA), Brazil (2010) [(link)](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/)
+* *Selected as one of the [100 Woman in Science](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/) by Ciencia Viva*, National Agency for Scientific and Technological Culture of Portugal (March, 2016).   [(Women in Science book)](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/), [(Olga Pombo’s page)](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295) 
+* *Member of the Honnorary Comission of the National Reading Plan*, 2017.
+* *Honorary Member of the International Association for the Study of Controversies* (IASC) (17 March 2020)
+* *What if virtue was not possible to be taught? Socrates and Protagoras in the homage to Prof. Dr. Olga Pombo*, tribute event organized by Prof. Inácio Valentim, ITSNI (Angola), with Profs. Aldo Dinucci (UFS), Bruno Drumond (USP), and Sérgio Sardi (PUCRS), 5 January 2022, (Video), [(Poster)](https://cfcul.ciencias.ulisboa.pt/noticias/e-se-a-virtude-nao-for-possivel-de-ser-ensinada-socrates-e-protagoras-na-homenagem-a-prof-a-dr-a-olga-pombo-cfcul/)
+* *Homenagem a Olga Pombo: Uma origem para a imagem?*, por Pedro Caldas (Essay tribute to Olga Pombo. An origin for the image?, by Pedro Caldas), Informe C3, Dossier Arte e Ciencia, vol. 14 (1): 67-84 (2022).
+* **Celebrating Women Who Inspire**, tribute event integrated in the “International Day of Women and Girls in Science”, organized by ARMA-Sci, Agrupamento de Escolas Gomes Teixeira, Câmara Municipal de Armamar, Centro Interpretativo da Mulher Duriense, 21 February 2024.
+
 
 ## Languages
 
