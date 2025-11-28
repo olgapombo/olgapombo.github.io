@@ -498,8 +498,6 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 
 ## Media Mentions
 
-**Reviews of Published Works** 
-
 * António Guerreiro (1998), review of the book: Olga Pombo, Leibniz e o Problema de uma Língua Universal, Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997, 322 págs., in Expresso – Cartaz, 18.07.1998 
 * M.J.C. (2000), review of the book: Olga Pombo, Quatro Textos Excêntricos: Hannah Arendt, Eric Weil, Bertrand Russell e Ortega y Gasset, Relógio d’Água, 2000, in Expresso – Cartaz, 02.09.2000
 * Linda Santos Costa (2002), review of the book: A Escola, a Recta e o Círculo, Lisboa: Relógio d’Água, 2002, in Público – Mil Folhas, 23.11.2002 (review article)
@@ -513,15 +511,9 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Thomas Uebel (2013), review of the book: John Symons, Olga Pombo, Juan Manuel Torres (eds): Otto Neurath and the Unity of Science, Dordrecht: Springer, 2012, 264pp, in Metascience, Springer Science, 22, pp. 481-484, 2013. DOI 10.1007/s11016-012-9711-0 (link)
 * Hinne Hettema (2013), review of the book: Olga Pombo, Juan Manuel Torres, John Symons, and Shahid Rahman (eds). Special Sciences and the Unity of Science, Dordrecht: Springer 2012, 299 pp, in Philosophy in Review Vol. XXXIII (4), pp. 315–317, 2013 ISBN 978–94–007–2029–9 (link)
 * David Ludwig (2015), review of the book: John Symons, Olga Pombo, and Juan Manuel Torres (eds.). 2011. Otto Neurath and the Unity of Science. Dordrecht: Springer, in Lato Sensu Revue de la Société de philosophie des sciences 2(1):14-16, DOI:10.20416/lsrsps.v2i1.163 (link)
-* Marcos António Pires, review of the book: Olga Pombo, O Insuportável Brilho da Escola, in Revista ISCI, Revista Científica do Instituto Saber Ciências Integradas, Brazil, Vol. 8(2), May 2021, ISSN 2446-8436 (link )
-
-
-**International Recognition**
-
-
 * Medina, Patricia; Pereira, M. Lustosa and Paiva, José Feijó (2019), Estudo da Ciência da Educação fundamentada na Interdisciplinaridade por Olga Pombo (Study of the Science of Education based on Interdisciplinarity by Olga Pombo: a review study), thematic study in RIAEE – Revista Ibero-Americana de Estudos em Educação, Araraquara, 14 (4), pp. 2287-2300, (out./dez.  2019).  e-ISSN: 1982-5587. 
 DOI: https://doi.org/10.21723/riaee.v14i4.12113
-
+* Marcos António Pires, review of the book: Olga Pombo, O Insuportável Brilho da Escola, in Revista ISCI, Revista Científica do Instituto Saber Ciências Integradas, Brazil, Vol. 8(2), May 2021, ISSN 2446-8436 (link )
 
 
 ## Honours, awards and public distinctions
