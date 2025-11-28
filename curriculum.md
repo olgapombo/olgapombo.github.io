@@ -1,7 +1,7 @@
 
 # Curriculum
 
-###### | [Academic profile](Academic-profile) | [Education and degrees](#Education-and-degrees)| [Academic appointments](#Academic-appointments-positions-and-responsabilities) | [Leadership and governance roles](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
+###### | [Academic profile](Academic-profile) | [Education and degrees](#Education-and-degrees)| [Appointments](#Academic-appointments-positions-and-responsabilities) | [Leadership and governance roles](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
 
 ## Academic profile
 
