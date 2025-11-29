@@ -184,12 +184,11 @@ Pombo, Olga (2013), **“Encyclopedia”**, in *Encyclopedia of Philosophy and t
 ## Articles
   
 1. Pombo, Olga et alii (2025), **“On imagination. Editorial”**, [*Aion. Journal of Philosophy and Science*](https://journals.ku.edu/aion), nº 2, pp. 1-5. 
-2.	Pombo, Olga (2024), **"Science et École chez Bachelard.  Discontinuité et Nouveauté"**, *Bachelard Studies / Études Bachelardiennes / Studi Bachelardiani*, nº 1-2, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, 
+2.	Pombo, Olga (2024), [**"Science et École chez Bachelard.  Discontinuité et Nouveauté"**](https://mimesisjournals.com/ojs/index.php/bachelardstudies/article/view/4961/3842), *Bachelard Studies / Études Bachelardiennes / Studi Bachelardiani*, nº 1-2, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, 
 DOI: [10.7413/2724-5470100](https://doi.org/10.7413/2724-5470100).
 3. Pombo, Olga et alii (2024), [**“On the Concept of Resistance. Editorial”**](https://journals.ku.edu/aion/article/view/23014/20807), *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. 
-4. Pombo, Olga et alii (2024), **“A fotografia entre a Ciência, a Arte e a Filosofia”**, *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16
-https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891
-5. Pombo, Olga (2021), [**"Curiosity and Science"** and **"Curiosidade e Ciência"**](https://electramagazine.fundacaoedp.pt/index.php/editions/edicao-12/curiosidade-e-ciencia), *Electra (bilingue)*, nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0, Doi: https://doi.org/10.5216/lahrs.v1.70672
+4. Pombo, Olga et alii (2024), [**“A fotografia entre a Ciência, a Arte e a Filosofia”**](https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891), *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16
+5. Pombo, Olga (2021), [**"Curiosity and Science"** and **"Curiosidade e Ciência"**](https://electramagazine.fundacaoedp.pt/index.php/editions/edicao-12/curiosidade-e-ciencia), *Electra (bilingue)*, nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0,Doi: https://doi.org/10.5216/lahrs.v1.70672
 6. Pombo, Olga (2021), [**“Interdisciplinaridade”**](https://revistas.ufg.br/lahrs/article/view/70672/37386), *Latin American Human Rights Studies (LAHRS)*, nº 1. ISNN: 2763-8162  
 DOI: <https://www.revistas.ufg.br/lahrs>
 7. Pombo, Olga (2021), **“Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania”**, *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162 
