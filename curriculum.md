@@ -7,7 +7,7 @@
 
 ## Opening Statement
 
-This academic curriculum vitae --- **Full CV** is provided **here** --- is more than a list of titles: it is a living archive, designed to be consulted by colleagues, students, institutions, and the wider public. Its structure aims to facilitate navigation and allow any eventual readers to find what may interest them most: 
+This curriculum vitae is not a full academic CV (**here**), It does not provide a complete list of titles and activities. It  aims to become a living archive, providing a selection of the more significatif titles, activities, designed to be consulted by colleagues, students, institutions, and the wider public. Its structure aims to facilitate navigation and allow any eventual readers to find what may interest them most: 
 * Publications in books, chapters, articles,
 * Interviews and media presence, reflecting the public reception of my work
 * Conference talks and recorded lectures, documenting moments of exchange and debate
