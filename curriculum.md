@@ -1,7 +1,7 @@
 
 # Curriculum
 
-###### | [Academic profile](Academic-profile)  |  [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Reception](#Scholar-and-media-reception)| |[Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
+###### | [Academic profile](Academic-profile)  |  [Opening Statement](#|Opening-statement) | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Reception](#Scholar-and-media-reception)| |[Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
 
 ## Academic Profile                                                         
 
@@ -26,7 +26,8 @@ She was honoured as the [Founder of the "Cátedra Leopoldo Zea of Philosophy and
 She was selected [one of the 100 women](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295&ano=2016&id_area=524) to be part of the [1st edition of the book "Women in Science"](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/) edited by the National Agency for the Scientific and Technological Culture - Ciencia Viva (2016). 
 She was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). She was invited to join the honour commission of the Portuguese “Reading National Plan” (PNL 2017), to be member of the Scientific Council of the “Réseau National des Maisons des Sciences de l'Homme” (Paris, 2015-2022), and to be President of the general assembly board of the [Portuguese Logic Society](https://spl.tecnico.ulisboa.pt/en/spl-english/) (2022-2025).  
 
-								         ************
+
+## Opening Statement
 
 This academic curriculum vitae --- **Full CV** is provided **here** --- is more than a list of titles: it is a living archive, designed to be consulted by colleagues, students, institutions, and the wider public. Its structure aims to facilitate navigation and allow any eventual readers to find what may interest them most: 
 * Publications in books, chapters, articles,
