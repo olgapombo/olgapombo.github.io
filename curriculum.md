@@ -1,19 +1,9 @@
 
 # Curriculum
 
-###### | [Opening statement](#Opening-statement) | [Academic Profile](#Academic-profile)  | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership Roles](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Scholar Reception](#Scholar-and-media-reception)| |[Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
+###### | [Academic Profile](#Academic-profile)  | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership Roles](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Scholar Reception](#Scholar-and-media-reception)| |[Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
 
 
-
-## Opening Statement
-
-This curriculum vitae is not a full academic CV **(here)**. More than a complete record of a professional career, it aims to provide a selection of the titles, activities, and works that I consider may have some interest. It is thus designed to be consulted by colleagues, students, institutions, and the wider public. Its structure aims to facilitate navigation and allow any eventual readers to find what may interest them most: 
-* Publications in books, chapters, articles,
-* Interviews and media presence, reflecting the public reception of my work
-* Conference talks and recorded lectures, documenting moments of exchange and debate
-* Teaching and supervision, showing my commitment to training new generations
-
-It  aims to become a living archive, a document of memory for the future. Over decades of research, teaching, publication, creation, organization and participation in national and international institutions, I have sought to make available, in an organized and accessible way, the full scope of my writtings, my work and activities.
 
 
 ## Academic Profile                                                         
