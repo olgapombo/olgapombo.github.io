@@ -1,7 +1,7 @@
 
 # Curriculum
 
-###### | [Opening statement](#Opening-statement) | [Academic Profile](Academic-profile)  |  [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Reception](#Scholar-and-media-reception)| |[Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
+###### | [Opening statement](#Opening-statement) | [Academic Profile](#Academic-profile)  |  [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Reception](#Scholar-and-media-reception)| |[Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
 
 
 
