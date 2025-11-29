@@ -123,6 +123,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 ## Publications
 
+
 ### Dissertations  
 * Pombo, Olga (1986) - [Leibniz e o Problema de uma Língua Universal](https://webpages.ciencias.ulisboa.pt/~ommartins/leibniz/leibnizcont.htm), Master dissertation in “Modern Philosophy” Faculty of Social and Human Sciences, New University of Lisbon)
 * Pombo, Olga (1998) - [Unidade da Ciência e Configuração Disciplinar dos Saberes. Contributos para uma Filosofia do Ensino](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/tese.htm), PhD dissertation in “History and Philosophy of Education”, University of Lisbon)
@@ -284,9 +285,11 @@ ISBN: 972-8695-06-3.
 96.	Pombo, Olga: Gaertner, Klaus; Jesuino, Jorge (2023), “**Introduction**”, in *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century*, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/ Heidelberg/ London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. ix-xvi. ISBN: 978-3-031-20404-3.
 97.	Pombo, Olga, “**For a cartography of the concept of creation**”, in Nuno Proença (ed.), *Invention and Imagination*, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming).
 
+
 ### Encyclopaedia Entries
 Pombo, Olga (2013), **Encyclopedia**, in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257.
 DOI: http://dx.doi.org/10.4135/9781452276052
+
 
 ### Articles 
 1.	Pombo, Olga (2024), **Science et École chez Bachelard.  Discontinuité et Nouveauté**, *Bachelard Studies*, nº 8, 1, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, DOI: 10.7413/2724-5470100
@@ -299,8 +302,7 @@ DOI: http://dx.doi.org/10.4135/9781452276052
 8.	Pombo, Olga (2020), **Leibniz and the Idea of Universal Machine**, *Mana Platform*, <https://mana.net/12861> 
 9.	Pombo, Olga (2019), **Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte**, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. DOI https: //doi.org/10.17990/RPF/2019_75_4_2155
 10.	Pombo, Olga (2018), **Dilemas de la Ensenhanza de la Filosofia (Dilemmas of Teaching Philosophy)**, *ArteFaCTos. Revista de Estudios sobre la Ciência y la Tecnologia*, Salamanca, Spain, vol. 7, nº 1, April, pp. 175-190. DOI: http://dx.doi.org/10.14201/art201871175190.
-11.	Pombo, Olga (2015), **Metaphysical and Epistemological Challenges**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). 
-DOI: 10.1007/s10516-014-9264-5
+11.	Pombo, Olga (2015), **Metaphysical and Epistemological Challenges**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). DOI: 10.1007/s10516-014-9264-5
 12.	Pombo, Olga (2014), **Dispersão e Unidade: Para uma Poética da Simpatia**, *Caderno Escolar*, Lisboa:  Escola Vitorino Nemésio, nº 13-14, 1: 30-41 (reprint). 
 13.	Pombo, Olga (2013),**Epistemología de la Interdisciplinariedad. La Construcción de un nuevo Modelo de Comprensión**, *Interdisciplina*, Mexico, vol. 1, nº 1, pp. 21-50.DOI: http://dx.doi.org/10.22201/ceiich.24485705e.2013.1.46512
 14.	Pombo, Olga (2013), **Comentário a 'Filósofos e Matemáticos' de José Sebastião e Silva**, *Internacional Journal Delfim Santos Studies*, vol. 1, nº 1, pp. 256-260. ISSN: 2182-5653.
@@ -377,9 +379,11 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * *Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
 * Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
+
 ### Journal Guest Editor
 * Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 * Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
+
   
 ### Book Series  
 * Direction of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
