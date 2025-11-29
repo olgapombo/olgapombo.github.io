@@ -44,7 +44,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 ## Appointments, Positions and Responsabilities 
 
-* 2017 - ongoing - *Professor with Habilitation* retired with ([collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
+* 2017 - ongoing - *Professor with Habilitation* (retitred with [collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 * 2009 – 2016 - *Professor with Habilitation*, “Department of History and Philosophy of Sciences”, FCUL (since the 9th June 2009 up until retirement, the 1st January 2017). 
 * 2007¬–2009 – *Professor Tenured*, Department of History and Philosophy of Science, FCUL (since its founding on 1 August 2007)
 * 2002 - 2007 - *Professor Tenured*, “Department of Education”, FCUL (since 26th March 2003). 
