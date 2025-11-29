@@ -3,7 +3,7 @@
 
 ###### | [Academic profile](Academic-profile)  |  [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [**Publications**] | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Reception](#Scholar-and-media-reception)| |[Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
 
-## Academic Profile
+## Academic Profile                                                         
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Hailitation degree in “History and Philosophy of Science” also by the University of Lisbon. 
 
@@ -14,7 +14,7 @@ She coordinated several research projects - "Encyclopedia and Hypertext" (1999-0
 
 In 2013, she created the FCT [Doctoral Program Philosophy of Science, Technology, Art and Society](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) of which she was the [first program director (PI)](https://phd-fctas.campus.ciencias.ulisboa.pt/director-do-programa/) until 2017, where she continued to lecture until 2024 and supervising several doctoral theses.
 
-She is the author and editor of numerous publications, [national](https://www.wook.pt/wookacontece/autores/autor?id=5779&srsltid=AfmBOoouFVLdylQPMd5_3hZRd1khnsq7Bje6fac26ZrvCgOrFjV5SmrA) and international, dedicated to several authors, namelly Leibniz (but also Hobbes, Spinoza, Rousseau, Hegel, Peirce, Poincaré, Neurath, Bachelard and Plato) and to her various research fields and areas of interest - namely, Epistemology and Philosophy of Science, Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Models, History and Philosophy of Language, History and Philosophy of Encyclopedia, Hypertext and Internet, History and Philosophy of School, Teaching, Museum, Library, Book, Reading. More recently, she dedicated to "Science and Art" whose teaching she has initiated in Portugal. 
+She is the author and editor of numerous publications, [national](https://www.wook.pt/wookacontece/autores/autor?id=5779&srsltid=AfmBOoouFVLdylQPMd5_3hZRd1khnsq7Bje6fac26ZrvCgOrFjV5SmrA) and [international](https://philpeople.org/profiles/olga-pombo), dedicated to several authors, namelly Leibniz (but also Hobbes, Spinoza, Rousseau, Hegel, Peirce, Poincaré, Neurath, Bachelard and Plato) and to her various research fields and areas of interest - namely, Epistemology and Philosophy of Science, Unity of Science, Interdisciplinarity, Cartography of Knowledge, Classification, Scientific Image, Scientific Models, History and Philosophy of Language, History and Philosophy of Encyclopedia, Hypertext and Internet, History and Philosophy of School, Teaching, Museum, Library, Book, Reading. More recently, she dedicated to "Science and Art" whose teaching she has initiated in Portugal. 
 
 She has been invited as visiting professor and keynote speaker at several institutions in Portugal and abroad such as University of Hannover (Germany), Zentrum für Literaturforshung Berlin (Germany), Institute for Advanced Studies of the Hebrew University of Jerusalem (Israel), Institut Universitaire Kurt Bösch (Switzerland), Vienna University (Austria), Oxford University (UK), Poznań University (Poland), University of Athens (Greece), São Paulo University (Brazil), Federal University of Latino-American Integration (Brazil), Federal University of Goias (Brazil), Pará University (Brazil), École des Mînes of Paris (France), Pisa University (Italy), University of Florence (Italy), Accademia Vivarium Novum Roma (Italy), Sevilla University (Spain), Universidad de Burgos (Spain), SPSN (Angola), Azores University (PT), University of Oporto (PT), University of Coimbra (PT). 
 
@@ -22,11 +22,20 @@ She is founding member of the “Société de Philosophie des Sciences” (Paris
 
 She founded and was chief-editor of the journal “Kairos. Journal of Philosophy & Science”, edited by CFCUL (2010-2014) and by De Gruyter (2015-2022) and she is  currently chief-editor of the journal [Aion. Journal of Philosophy and Science](https://journals.ku.edu/aion), edited by the University of Kansas, USA.
 
-She has served as external expert to the EU Marie Curie and Coimbra Ceis20 Research Center, XXXXXXXX
-
 She was honoured as the [Founder of the "Cátedra Leopoldo Zea of Philosophy and Epistemology"](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/), of the "Mercosul Advanced Studies Institut" of the Federal University of Latin-American Integration (UNILA), Brazil (2011). 
 She was selected [one of the 100 women](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295&ano=2016&id_area=524) to be part of the [1st edition of the book "Women in Science"](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/) edited by the National Agency for the Scientific and Technological Culture - Ciencia Viva (2016). 
-She was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). She was invited to join the honour commission of the Portuguese “Reading National Plan” (PNL 2017), to be member of the Scientific Council of the “Réseau National des Maisons des Sciences de l'Homme” (Paris, 2015-2022), to integrate the international scientific advisory board of the [CEIS20- Center for Interdisciplinary Studies](https://www.uc.pt/en/ceis20/centre-for-interdisciplinary-studies-ceis20/) at the University of Coimbra (2018-2024), and to be President of the general assembly board of the [Portuguese Logic Society](https://spl.tecnico.ulisboa.pt/en/spl-english/) (2022-2025).  She was object of a tribute event untitled [What if virtue is not possible to be taught? Socrates and Protagoras in tribute to Prof. Dr. Olga Pombo](https://www.facebook.com/ITPSNIB/videos/704392381189858), put forward at January 2022 by Prof. Inacio Valemtim (ITSNI, Angola).
+She was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). She was invited to join the honour commission of the Portuguese “Reading National Plan” (PNL 2017), to be member of the Scientific Council of the “Réseau National des Maisons des Sciences de l'Homme” (Paris, 2015-2022), and to be President of the general assembly board of the [Portuguese Logic Society](https://spl.tecnico.ulisboa.pt/en/spl-english/) (2022-2025).  
+
+								         ************
+
+This academic curriculum vitae --- **Full CV** is provided **here** --- is more than a list of titles: it is a living archive, designed to be consulted by colleagues, students, institutions, and the wider public. Its structure aims to facilitate navigation and allow any eventual readers to find what may interest them most: 
+* Publications in books, chapters, articles,
+* Interviews and media presence, reflecting the public reception of my work
+* Conference talks and recorded lectures, documenting moments of exchange and debate
+* Teaching and supervision, showing my commitment to training new generations
+
+More than a record of a career, this is a document of memory for the future. Over decades of research, teaching, creation, organization and participation in national and international institutions, I have sought to make available, in an organized and accessible way, the full scope of my writtings, my work and activities.
+
 
   
 ## Education and Degrees
