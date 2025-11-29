@@ -37,8 +37,8 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1986 - *Master in "Modern Philosophy”», Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "*Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language*).
 * 1982 - *Post-Graduation in "Modern Philosophy"*, Faculty of Human and Social Sciences, New University of Lisbon.
 * 1973 - *National Certified as Philosophy Teacher (State Examination*), Lisbon.
-* 1972 - 1973 – *National Classical Stage for the Teaching of Philosophy* (D. Pedro V School, Lisbon).
-* 1971 – *Licence Degress in "Philosophy"*, Faculty of Letters, University of Lisbon.
+* 1972 - 1973 – *Classical Stage for the Teaching of Philosophy* (D. Pedro V School, Lisbon).
+* 1971 – *Licence degress in "Philosophy"*, Faculty of Letters, University of Lisbon.
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
 
