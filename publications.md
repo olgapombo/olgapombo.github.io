@@ -51,7 +51,7 @@ DL: 56340/92.
 ISBN: 978-972-754-294-9.[(here)](https://aviagemdosargonautas.net/2012/04/29/cfcul-as-cartas-de-problematica-de-antonio-sergio-olga-pombo-e-joao-luis-cordovil-org/)
 16.	Olga Pombo; Shahid Rahman; John Symons; Juan Manuel Torres (eds.) (2012) **[Special Sciences and the Unity of Science](https://link.springer.com/book/10.1007/978-94-007-2030-5)**, Dordrecht/Heidelberg/London/New York: Springer, 299 pp., ISBN: 978-94-007-2029-9.; 
 DOI: 10.1007/978-94-007-2030-5. 
-17.	Olga Pombo; Marco Pina (eds.) (2012) **[Em torno de Darwin](https://www.wook.pt/livro/em-torno-de-darwin-marco-pina/12735819?srsltid=AfmBOooUJlkNPkxYQwyuhA9dLnO5j3I34un_OUmuUhVrpWgVQVLC-EaG) / On Darwin**,  Lisboa: Fim de Século, 187 pp. ISBN: 978-972-754-291-8.
+17.	Olga Pombo; Marco Pina (eds.) (2012) **[Em torno de Darwin](https://www.wook.pt/livro/em-torno-de-darwin-marco-pina/12735819?srsltid=AfmBOooUJlkNPkxYQwyuhA9dLnO5j3I34un_OUmuUhVrpWgVQVLC-EaG) / On Darwin**,  Lisboa: Fim de Século, 187 pp. ISBN: 978-972-754-291-8. (also [here](https://www.amazon.com.br/Torno-Darwin-Marco-Pina-Pombo/dp/9727542913))
 18.	Olga Pombo; António Guerreiro (eds.) (2012) **[Da Civilização da Palavra à Civilização da Imagem](https://www.wook.pt/livro/da-civilizacao-da-palavra-a-civilizacao-da-imagem-olga-pombo/15066641?srsltid=AfmBOooBxsXSn5EdbZrvIY7zDyYR_1v0fjyWqNypdDa_Zu3mSFwcY1YI) /From word civilization to Image Civilization**, Lisboa: Fim de Século, 186 pp., 
 ISBN: 978-972-754-293-2.
 19.	Olga Pombo; Nuno Melim (eds.) (2013) **[Rousseau e as Ciências](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?1865764&cl=en) /Rousseau and the Sciences** , Lisboa: CFCUL, 222 pp., ISBN: 978-989-8247-63-6.
