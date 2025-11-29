@@ -1,10 +1,10 @@
 ---
 title: Preprints
 ---
-# Preprints
+# Preprints, 
 
 
-## Preprints
+## Preprints, Work in Progress
 
 * **Filosofia e práticas discursivas no Protágoras de Platão**
 * **A infinitude da queda no 'Teeteto' de Platão**
