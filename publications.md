@@ -48,7 +48,7 @@ DL: 56340/92.
 12.	Olga Pombo; Catarina Nabais; Cristina Tavares; Manuel Valente Alves; Marco Pina; Pedro Silva; Ricardo Santos; Silvia Di Marco (eds.) (2011) [**CorpoIMAGEM - Uma exposição de Ciência e Arte / BodyIMAGE - An exhibition of Science and Art**](https://www.researchgate.net/publication/303053499_Roteiro_da_exposicao_corpoIMAGEM_Representacoes_do_Corpo_na_Ciencia_e_na_Arte),  Lisboa: Ciência Viva, 27 pp. (catalogue).
 13.	Olga Pombo; John Symons; Juan Manuel Torres (eds.) (2011) **[Otto Neurath and the Unity of Science](<https://link.springer.com/book/10.1007/978-94-007-0143-4>)**, Dordrecht/Heidelberg/ London/New York: Springer, 250 pp., ISBN: 978-94-007-0142-7. ; DOI: 10.1007/978-94-007-0143-4
 15.	Olga Pombo; João Cord. (eds.) (2012) **As Cartas de Problemática de António Sérgio dirigidas a um grupo de jovens amigos, alunos e alunas da Faculdade de Ciências**,  Lisboa: Fim de Século, 228 pp.
-ISBN: 978-972-754-294-9.
+ISBN: 978-972-754-294-9.[(here)](https://aviagemdosargonautas.net/2012/04/29/cfcul-as-cartas-de-problematica-de-antonio-sergio-olga-pombo-e-joao-luis-cordovil-org/)
 16.	Olga Pombo; Shahid Rahman; John Symons; Juan Manuel Torres (eds.) (2012) **[Special Sciences and the Unity of Science](https://link.springer.com/book/10.1007/978-94-007-2030-5)**, Dordrecht/Heidelberg/London/New York: Springer, 299 pp., ISBN: 978-94-007-2029-9.; 
 DOI: 10.1007/978-94-007-2030-5. 
 17.	Olga Pombo; Marco Pina (eds.) (2012) **[Em torno de Darwin](https://www.wook.pt/livro/em-torno-de-darwin-marco-pina/12735819?srsltid=AfmBOooUJlkNPkxYQwyuhA9dLnO5j3I34un_OUmuUhVrpWgVQVLC-EaG) / On Darwin**,  Lisboa: Fim de Século, 187 pp. ISBN: 978-972-754-291-8.
