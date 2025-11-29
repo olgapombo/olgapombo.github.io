@@ -46,11 +46,11 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 * 2017 - ongoing - *Professor with Habilitation* (retitred with [collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 * 2009 – 2016 - *Professor with Habilitation*, “Department of History and Philosophy of Sciences”, FCUL (since the 9th June 2009 up until retirement, the 1st January 2017). 
-* 2007¬–2009 – *Professor Tenured*, Department of History and Philosophy of Science, FCUL (since its founding on 1 August 2007)
+* 2007¬–2009 – *Professor Tenured*, "Department of History and Philosophy of Science", FCUL (since its founding on 1 August 2007)
 * 2002 - 2007 - *Professor Tenured*, “Department of Education”, FCUL (since 26th March 2003). 
 * 1988 - 2002 – *Professor* of the “Department of Education”, FCUL.
 * 1984 - 1988 – *Assistant Professor* of the “Department of Education” (appointed via public contest), FCUL.
-* 1980 - 1984 – *National Counsellor for the Teaching of Philosophy* (selected by national public contest).
+* 1980 - 1984 – *National Counsellor for the Teaching of Philosophy* (appointed via national public contest).
 * 1979 - 1980 - *Stage Supervisor for the Teaching of Philosophy*, D. Pedro V High School, Lisbon (by nomination).
 * 1979 - 1980 – *Full Teacher of Philosophy*, D. Pedro V High School, Lisbon.  
 * 1973 - 1979 – ªAggregated Teacher of Philosophy*, D. Pedro V High School, Lisbon.
