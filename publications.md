@@ -309,7 +309,7 @@ X
 > 12. (2012)	*Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré*, edited by Isabel Serra, María de Paz;
 > 13. (2015) *As intuições atomísticas (Ensaio de Classificação)*, by Lídia Queiroz.
 
-* Director of the book series **[Documenta](https://cfcul.blogspot.com/p/coleccao-documenta.html)**, Lisbon: CFCUL - 10 published volumes: 
+* Director of the book series **[Documenta](https://cfcul.blogspot.com/p/coleccao-documenta.html)**, Lisbon: CFCUL - 10 published volumes (see [**here**](https://cfcul.blogspot.com/p/publicacoes.html)]:
 > 1. (2007) *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo and Alexander Gerner;
 > 2. (2009) *Lógica e Filosofia da Ciência*, edited by Olga Pombo and Ángel Nepomuceno;
 > 3. (2009) *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, edited by António Fernando Cascais, José Luís Câmara Leme and Nuno Nabais;
