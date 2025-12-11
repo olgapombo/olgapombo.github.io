@@ -294,7 +294,7 @@ X
 >11.	(2018) *Modelos e Imagens*, edited by Olga Pombo;
 >12.	(2019) *CorpoImagem : Representações do Corpo na Ciência e na Arte*, edited by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes.
          
-•	Director of the book series **[Cadernos de Filosofia da Ciência](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos),,, [here](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm)**, Lisbon: CFCUL - 13 volumes published: 
+•	Director of the book series **[Cadernos de Filosofia da Ciência](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm)**, Lisbon: CFCUL - 13 volumes published: 
 > 1. (2005) *Ciência e Género. Quatro Textos de Quatro Mulheres*, edited by Teresa Levy, Clara Queiroz;
 > 2. (2006) *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, edited by  Augusto J. Franco de Oliveira;
 > 3. (2006) *As Cartas de Problemática de António Sérgio*, edited by Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil;
