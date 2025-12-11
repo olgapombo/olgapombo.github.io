@@ -220,8 +220,7 @@ ISSN: 1665-3319.
 27.	Pombo, Olga (2005), **“Interdisciplinaridade e Integração dos Saberes”**, *LIINC em Revista*, Brazil, vol. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186
  (**full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf)**)
 28.	Pombo, Olga (2005), **“A Escola como Memória”**, *Pensar a Escola*, nº 1, Lisboa: Escola Vitorino Nemésio, pp. 33-43.
-29.	Pombo, Olga (com Rui Canario)[**“Ivan Illich - Um Visionário que é Preciso Reler**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illich%20finalolga.pdf), *Aprender ao Longo da Vida*, nº 4 (May 2005), pp. 40-47 <http://www.direitodeaprender.com.pt/artigos/ivan-illich-um-visionario-que-e-preciso-reler>
-https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illich%20finalolga.pdf (full article **here**)
+29.	Pombo, Olga (com Rui Canario)[**“Ivan Illich - Um Visionário que é Preciso Reler**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illich%20finalolga.pdf), *Aprender ao Longo da Vida*, nº 4 (May 2005), pp. 40-47 
 30.	Pombo, Olga (2002), **“Vid klasyfikaciji buttia do klasyfikaciji znattia”** (From the Classification of Beings to the Classification of Knowledge), Ucranian translation by Serghii Wakulenko, *Zbirnyk Xarkivs'koho istoryko-filolohičnoho tovarystva*, Karkiv, Ucrain, vol. IX: pp. 33-52.  ISBN: 966-95465-8-3
 31.	Pombo, Olga (2001), **“Notas de Leitura à Margem de uma Antologia”**, *Philosophica* nº 16, DF-FLUL, Lisboa, pp. 135-140. ISSN: 0872-4784
 32.	Pombo, Olga (2000), **“Comunicação e Construção do Conhecimento”**, *Revista de Educação*, IX, n.º 1,  Lisboa: DEFCUL, pp. 5-25.
