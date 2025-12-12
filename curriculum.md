@@ -418,25 +418,25 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 
   
 ### Book Series Editor 
-* Direction of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
+* [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
 	1) *As cidades, os castelos e a onda: imagens, diagramas e metáforas entre Calvino, Escher e Bohr*, by João Araújo, 2010;
-	2) *Neuroaesthetics : can science explain art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010;
-	3) *As Imagens com que a Ciência se Faz*, edited by Olga Pombo, Silvia di Marco (eds), 2011;
+	2) *Neuroaesthetics : can science explain art?*, by Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010;
+	3) *As Imagens com que a Ciência se Faz*, by Olga Pombo, Silvia di Marco (eds), 2011;
 	4) *Solaris: sistema beta pictoris. Ciclo de exposições 2004-2009*, by Rodrigo Vilhena, 2011;
 	5) *A colecção de desenho antigo da Faculdade de Belas Artes de Lisboa (1830-1935): tradição, formação e gosto*, by Alberto Faria, 2011;
-	6) *Representações do corpo na ciência e na arte*, edited by Cristina Azevedo Tavares, 2012;
- 	7) *Em torno de Darwin*, edited by Olga Pombo, Marco Pina, 2012;
+	6) *Representações do corpo na ciência e na arte*, by Cristina Azevedo Tavares, 2012;
+ 	7) *Em torno de Darwin*, by Olga Pombo, Marco Pina (edrs), 2012;
   	8) *Visível & enunciável*, by Nuno Melim, 2012;
-  	9) *Da civilização da palavra à civilização da imagem*, edited by Olga Pombo, António Guerreiro (eds), 2012;
-  	10) *Image in science and art*, edited by Olga Pombo, 2017;
-  	11) *Modelos e imagens*, edited by Olga Pombo, 2018;
-    12) *CorpoImagem : representações do corpo na ciência e na arte*, edited by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes, 2019.
+  	9) *Da civilização da palavra à civilização da imagem*, by Olga Pombo, António Guerreiro (eds), 2012;
+  	10) *Image in science and art*, by Olga Pombo (ed), 2017;
+  	11) *Modelos e imagens*, by Olga Pombo (ed), 2018;
+    12) *CorpoImagem : representações do corpo na ciência e na arte*, by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes (eds), 2019.
   	         
 * Direction of the book series [**Cadernos de Filosofia da Ciência**](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm), Lisboa: CFCUL (13 volumes published). see also [**here**](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos) 
-	1. *Ciência e Género. Quatro Textos de Quatro Mulheres*, Teresa Levy, Clara Queiroz (eds), 2005,
-	2. *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, Augusto J. Franco de Oliveira (ed), 2006.
-	3. *As Cartas de Problemática de António Sérgio*, Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil (eds), 2006.
-	4. *Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica*, Mário Gatta (ed), 2007.
+	1. *Ciência e Género. Quatro Textos de Quatro Mulheres*, by Teresa Levy, Clara Queiroz (eds), 2005,
+	2. *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, by Augusto J. Franco de Oliveira (ed), 2006.
+	3. *As Cartas de Problemática de António Sérgio*, by Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil (eds), 2006.
+	4. *Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica*, by Mário Gatta (ed), 2007.
 	5. *Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès*, by Nuno Miguel Proença (ed), 2008.
 	6. *Ciência, Psicanálise e Poética em torno de Gaston Bachelard*, by Ana Gaspar, 2008
 	7. *Wittgenstein, a prova e a actividade matemática: uma introdução*, by Nuno Miguel Proença, 2008.
@@ -447,19 +447,19 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	12. *Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré", Isabel Serra, María de Paz (eds), 2012
 	13. *As intuições atomísticas (Ensaio de Classificação)*, Lídia Queiroz (ed), 2015.
 
-* Direction of the book series [**Documenta**](https://cfcul.blogspot.com/p/coleccao-documenta.html), Lisboa: CFCUL (10 published volumes). 
-	1. *Abduction and the Process of Scientific Discovery*, Olga Pombo; Alexander Gerner (eds.), 2007
-	2. *Lógica e Filosofia da Ciência*, Olga Pombo; Ángel Nepomuceno (eds.) 2009, 
-	3. *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, António Fernando Cascais, José Luís Câmara Leme e Nuno Nabais (eds.), 2009,
-	4. *Oficina de Filosofia das Ciências Sociais e Humanas*, Nuno Miguel Proença ; Marta Filipe Alexandre (eds.), 2009, 
-	5. *Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty*, Jean-Yves Mercury;  Nuno Nabais (eds.), 2009
-	6. *Lógica Universal e Unidade da Ciência*, Olga Pombo (ed.), 2011, 
-	7. *Rousseau e as Ciências*, Olga Pombo; Nuno Melim (eds.), 2013,
-	8. *Bachelard 50 ans après*, Zbigniew Kotowicz (ed), 2016
-	9. *Philosophy of Science in the 21st Century. Challenges and Tasks*, Olga Pombo;  Gil Santos (eds.), 2016,
-	10. *Epistemologia, Lógica e Linguagem*, Olga Pombo, Ana Pato, Juan Redmond (eds), 2019
+* [**Documenta**](https://cfcul.blogspot.com/p/coleccao-documenta.html), Lisboa: CFCUL (10 published volumes). 
+	1. *Abduction and the Process of Scientific Discovery*, by Olga Pombo; Alexander Gerner (eds.), 2007
+	2. *Lógica e Filosofia da Ciência*, by Olga Pombo; Ángel Nepomuceno (eds.) 2009, 
+	3. *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, by António Fernando Cascais, José Luís Câmara Leme e Nuno Nabais (eds.), 2009,
+	4. *Oficina de Filosofia das Ciências Sociais e Humanas*, by Nuno Miguel Proença; Marta Filipe Alexandre (eds.), 2009, 
+	5. *Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty*, by Jean-Yves Mercury;  Nuno Nabais (eds.), 2009
+	6. *Lógica Universal e Unidade da Ciência*, by Olga Pombo (ed.), 2011, 
+	7. *Rousseau e as Ciências*, by Olga Pombo; Nuno Melim (eds.), 2013,
+	8. *Bachelard 50 ans après*, by Zbigniew Kotowicz (ed), 2016
+	9. *Philosophy of Science in the 21st Century. Challenges and Tasks*, by Olga Pombo;  Gil Santos (eds.), 2016,
+	10. *Epistemologia, Lógica e Linguagem*, by Olga Pombo, Ana Pato, Juan Redmond (eds), 2019
 
- * Direction of the book series [**Theses**](https://cfcul.blogspot.com/p/publicacoes.html), Lisboa: CFCUL (6 published volumes).  
+ * [**Theses**](https://cfcul.blogspot.com/p/publicacoes.html), Lisboa: CFCUL (6 published volumes).  
 	1. *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências (Oparin's Theory on the Origin of Life: An Approach within the Framework of the History and Philosophy of Science*), by Helena Abreu, 2007,
 	2. *A imagem-sensação: Deleuze e a pintura (The image-sensation: Deleuze and painting)*, by Nuno Carvalho, 2009,
 	3. *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler (Metamorphosis of the concept of abduction in Peirce. The example of Kepler)*, by Ana Paula Silva, 2009.
@@ -469,16 +469,16 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
     7. *Contributos para a Compreensão do Sucesso da Cosmologia do Big Bang. Uma Análise Thematica à Luz de Gerald Holton (Contributions to Understanding the Success of Big Bang Cosmology. A Thematic Analysis in Light of Gerald Holton*), by João Barbosa, Lisboa: CFCUL, 2018
 
 * Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes).
-* 1.	The Evolution of Social Communication in Primates. A Multidisciplinary Approach, ed. Marco Pina, Natalie Gntier, 2014.
-*  2.	Macroevolution. Explanation, Interpretation and Evidence, Editors, Emanuele Serrelli, Nathalie Gontier, 2015
-*  3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, Editors, Nathalie Gontier, 2015
-*  4.	Cultural Phylogenetics. Concepts and Applications in Archaeology, Editors, Larissa Mendoza Straffon, 2016
-*  5.	Evolution of Primate Social Cognition, Editors: Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo, 2018
+* 1.	The Evolution of Social Communication in Primates. A Multidisciplinary Approach, by Marco Pina, Natalie Gntier (eds), 2014.
+*  2.	Macroevolution. Explanation, Interpretation and Evidence, by Emanuele Serrelli, Nathalie Gontier (ed), 2015
+*  3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, by Nathalie Gontier (ed), 2015
+*  4.	Cultural Phylogenetics. Concepts and Applications in Archaeology, by Larissa Mendoza Straffon (ed), 2016
+*  5.	Evolution of Primate Social Cognition, by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo (eds), 2018
 
-* Editor of the scholar brochures series [**Cadernos de História e Filosofia da Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)
+* [**Cadernos de História e Filosofia da Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)
   
 * 1.	*McLuhan. A Escola e os Media / McLuhan. School and Media* (anthology of texts by M. McLuhan, translated and prefaced, 1994
-*  2.	* Dois Textos sobre Educação. Hannah Arendt e Eric Weil / Two Texts on Education. Hannah Arendt and Eric Weil* (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 1995.
+*  2.	*Dois Textos sobre Educação. Hannah Arendt e Eric Weil / Two Texts on Education. Hannah Arendt and Eric Weil* (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 1995.
 * 3.	*A Invenção da Escola na Grécia. Materiais de Estudo / The Invention of School in Greece. Study Materials* (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 1996
 * 4.	*Museu de Alexandria (Museum of Alexandria)*,1997
 * 5.	*Utopia e Educação / Utopia and Education* (anthology of texts translated and commented), 1997
