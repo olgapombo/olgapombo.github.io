@@ -1,7 +1,7 @@
 
 # Curriculum
 
-###### | [Academic Profile](#Academic-profile)  | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership Roles](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy1](#Consultancy1) | [Publications](#Publications) | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Scholar Reception](#Scholar-and-media-reception) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
+###### | [Academic Profile](#Academic-profile)  | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Leadership Roles](#Leadership-and-governance-roles) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Publications](#Publications) | [**Research**] | [**Supervision**] | [**Teaching**] | [**Talks**] | [**Interviews**] | [Scholar Reception](#Scholar-and-media-reception) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages)
 
 
 
@@ -507,11 +507,11 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 
 **International Selection Panels and Committees**
    
-* Member of the international selection panel for the Institut Universitaire de France, selection de la promotion, Paris, 2009 and 2010. 
+* Member of the international selection panel for the Institut Universitaire de France, selection de la promotion, Paris, 2009 and 2010.
 * Member of the international selection panel of the University Paris-Sorbonne for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2015.
 * Member of the Scientific Council of the Réseau National des Maisons des Sciences de l'Homme (Paris, 2015-2022)
 * Member of the Scientific Council of the Maisons des Sciences de l'Homme Bordeaux (2016-2022).
-* Member of the international selection panel of the Agence National de Recherche (ANR) in the call “Institut Convergences”, Paris (2016; 2017; 2019). 
+* Member of the international selection panel of the Agence National de Recherche (ANR) in the call “Institut Convergences”, Paris (2016; 2017; 2019).
 * Member of the international selection panel of the University Paris-Sorbonne, for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2017.
 * Member of the Scientific Committee of the Centro Studi sulla Natura, L’Umano e l’Unità del Pensiero, Accademia Vivarium Novum, Roma (2018-2019).
 * Member of the International Advisory Committee of the FCT Center for Interdisciplinary Studies of the University of Coimbra (2023-2024) and (2025-2028).
