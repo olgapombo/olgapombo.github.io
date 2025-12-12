@@ -472,18 +472,18 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
   1.	The Evolution of Social Communication in Primates. A Multidisciplinary Approach, by Marco Pina, Natalie Gntier (eds), 2014.
   2.	Macroevolution. Explanation, Interpretation and Evidence, by Emanuele Serrelli, Nathalie Gontier (ed), 2015
   3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, by Nathalie Gontier (ed), 2015
-*  4.	Cultural Phylogenetics. Concepts and Applications in Archaeology, by Larissa Mendoza Straffon (ed), 2016
-*  5.	Evolution of Primate Social Cognition, by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo (eds), 2018
+  4.	Cultural Phylogenetics. Concepts and Applications in Archaeology, by Larissa Mendoza Straffon (ed), 2016
+  5.	Evolution of Primate Social Cognition, by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo (eds), 2018
 
 * [**Cadernos de História e Filosofia da Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)
   
-* 1.	*McLuhan. A Escola e os Media / McLuhan. School and Media* (anthology of texts by M. McLuhan, translated and prefaced, 1994
-*  2.	*Dois Textos sobre Educação. Hannah Arendt e Eric Weil / Two Texts on Education. Hannah Arendt and Eric Weil* (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 1995.
-* 3.	*A Invenção da Escola na Grécia. Materiais de Estudo / The Invention of School in Greece. Study Materials* (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 1996
-* 4.	*Museu de Alexandria (Museum of Alexandria)*,1997
-* 5.	*Utopia e Educação / Utopia and Education* (anthology of texts translated and commented), 1997
-* 6.	*Educar. Ensinar. Materiais de estudo / Educate. Teaching. Study Materials* (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), (2001)
-* 7.	*Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset /Three Texts on Education for a Difficult World* (anthology with introduction and revised translation, (2005)
+   1.	*McLuhan. A Escola e os Media / McLuhan. School and Media* (anthology of texts by M. McLuhan, translated and prefaced, 1994
+   2.	*Dois Textos sobre Educação. Hannah Arendt e Eric Weil / Two Texts on Education. Hannah Arendt and Eric Weil* (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 1995.
+   3.	*A Invenção da Escola na Grécia. Materiais de Estudo / The Invention of School in Greece. Study Materials* (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 1996
+   4.	*Museu de Alexandria (Museum of Alexandria)*,1997
+   5.	*Utopia e Educação / Utopia and Education* (anthology of texts translated and commented), 1997
+   6.	*Educar. Ensinar. Materiais de estudo / Educate. Teaching. Study Materials* (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), (2001)
+   7.	*Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset /Three Texts on Education for a Difficult World* (anthology with introduction and revised translation, (2005)
 
 
 ### Journal Editor
