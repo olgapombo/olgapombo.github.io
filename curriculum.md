@@ -460,30 +460,30 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	10. *Epistemologia, Lógica e Linguagem*, Olga Pombo, Ana Pato, Juan Redmond (eds), 2019
 
  * Direction of the book series [**Theses**](https://cfcul.blogspot.com/p/publicacoes.html), Lisboa: CFCUL (6 published volumes).  
-	1. *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências*, by Helena Abreu, 2007,
-	2. *A imagem-sensação: Deleuze e a pintura*, by Nuno Carvalho, 2009,
-	3. *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler*, by Ana Paula Silva, 2009.
-	4. *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave*, by Cláudia Ribeiro, 2009,
-	5. *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard*, by Ana Gaspar, 2010, 
-	6. *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon*, by Sergio Hugo Menna, 2015
- 7. Barbosa, João, *Contributos para a Compreensão do Sucesso da Cosmologia do Big Bang. Uma Análise Thematica à Luz de Gerald Holton (Contributions to Understanding the Success of Big Bang Cosmology. A Thematic Analysis in Light of Gerald Holton*), Lisboa: CFCUL, 2018
+	1. *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências (Oparin's Theory on the Origin of Life: An Approach within the Framework of the History and Philosophy of Science*), by Helena Abreu, 2007,
+	2. *A imagem-sensação: Deleuze e a pintura (The image-sensation: Deleuze and painting)*, by Nuno Carvalho, 2009,
+	3. *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler (Metamorphosis of the concept of abduction in Peirce. The example of Kepler)*, by Ana Paula Silva, 2009.
+	4. *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave (Unobservable electrons and invisible stars. On the problem of realism in science: Bas C. van Fraasen versus Alan Musgrave)*, by Cláudia Ribeiro, 2009,
+	5. *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard (Between Concept and Image: The Place of Psychoanalysis in the Work of Gaston Bachelard)*, by Ana Gaspar, 2010, 
+	6. *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon (Machines, Geniuses, and Men in the Construction of Knowledge. A Heuristic Interpretation of Francis Bacon's Inductive Method)*, by Sergio Hugo Menna, 2015
+    7. *Contributos para a Compreensão do Sucesso da Cosmologia do Big Bang. Uma Análise Thematica à Luz de Gerald Holton (Contributions to Understanding the Success of Big Bang Cosmology. A Thematic Analysis in Light of Gerald Holton*), by João Barbosa, Lisboa: CFCUL, 2018
 
 * Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes).
-  1.	The Evolution of Social Communication in Primates. A Multidisciplinary Approach, ed. Marco Pina, Natalie Gntier, 2014.
-  2.	Macroevolution. Explanation, Interpretation and Evidence, Editors, Emanuele Serrelli, Nathalie Gontier, 2015
-  3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, Editors, Nathalie Gontier, 2015
-  4.	Cultural Phylogenetics. Concepts and Applications in Archaeology, Editors, Larissa Mendoza Straffon, 2016
-  5.	Evolution of Primate Social Cognition, Editors: Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo, 2018
+* 1.	The Evolution of Social Communication in Primates. A Multidisciplinary Approach, ed. Marco Pina, Natalie Gntier, 2014.
+*  2.	Macroevolution. Explanation, Interpretation and Evidence, Editors, Emanuele Serrelli, Nathalie Gontier, 2015
+*  3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, Editors, Nathalie Gontier, 2015
+*  4.	Cultural Phylogenetics. Concepts and Applications in Archaeology, Editors, Larissa Mendoza Straffon, 2016
+*  5.	Evolution of Primate Social Cognition, Editors: Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo, 2018
 
 * Editor of the scholar brochures series [**Cadernos de História e Filosofia da Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)
   
 * 1.	*McLuhan. A Escola e os Media / McLuhan. School and Media* (anthology of texts by M. McLuhan, translated and prefaced, 1994
-2.	*Dois Textos sobre Educação. Hannah Arendt e Eric Weil / Two Texts on Education. Hannah Arendt and Eric Weil* (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 1995.
-3.	*A Invenção da Escola na Grécia. Materiais de Estudo / The Invention of School in Greece. Study Materials* (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 1996
-4.	*Museu de Alexandria (Museum of Alexandria)*,1997
-5.	*Utopia e Educação / Utopia and Education* (anthology of texts translated and commented), 1997
-6.	*Educar. Ensinar. Materiais de estudo / Educate. Teaching. Study Materials* (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), (2001)
-7.	*Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset /Three Texts on Education for a Difficult World* (anthology with introduction and revised translation, (2005)
+*  2.	* Dois Textos sobre Educação. Hannah Arendt e Eric Weil / Two Texts on Education. Hannah Arendt and Eric Weil* (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 1995.
+* 3.	*A Invenção da Escola na Grécia. Materiais de Estudo / The Invention of School in Greece. Study Materials* (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 1996
+* 4.	*Museu de Alexandria (Museum of Alexandria)*,1997
+* 5.	*Utopia e Educação / Utopia and Education* (anthology of texts translated and commented), 1997
+* 6.	*Educar. Ensinar. Materiais de estudo / Educate. Teaching. Study Materials* (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), (2001)
+* 7.	*Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset /Three Texts on Education for a Difficult World* (anthology with introduction and revised translation, (2005)
 
 
 ### Journal Editor
