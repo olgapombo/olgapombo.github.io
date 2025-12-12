@@ -435,8 +435,9 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	5. *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard*, by Ana Gaspar, 2010, 
 	6. *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon*, by Sergio Hugo Menna, 2015
 
-* Editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes).
-* Editor of the scholar brochures series [**Cadernos de História e Filosofia da Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)  
+* Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes).
+* Editor of the scholar brochures series [**Cadernos de História e Filosofia da Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)
+  
 * Member of the editorial board of the book series [**Interdisciplinarité, Sciences et Humanités**](https://www.istegroup.com/fr/collection/interdisciplinarite-sciences-et-humanites/), ISTE Science Publishing, UK (since 2017).
 * Member of the editorial board of the book series [**Processos Formativos**](http://www.editorafi.org/serieprocessosformativos), Editora FI, Porto Alegre, Brazil. 
 * Member of the scientific committee of the editorial series **Applied Ethics and Philosophical Anthropologies**, Milella Publishing House, Lecce, Italy (since 2024).
