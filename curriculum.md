@@ -124,18 +124,18 @@ She was  awarded  the Honorary membersip of the “International Association for
 ## Consultancy1
 
 **International Selection Panels and Committees**
-*Member of the international selection panel for the Institut Universitaire de France, selection de la promotion, Paris, 2009 and 2010.
-*Member of the international selection panel of the University Paris-Sorbonne for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2015.
-*Member of the Scientific Council of the Réseau National des Maisons des Sciences de l'Homme (Paris, 2015-2022)
-*Member of the Scientific Council of the Maisons des Sciences de l'Homme Bordeaux (2016-2022).
-*Member of the international selection panel of the Agence National de Recherche (ANR) in the call “Institut Convergences”, Paris (2016; 2017; 2019).
-*Member of the international selection panel of the University Paris-Sorbonne, for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2017.
-*Member of the Scientific Committee of the Centro Studi sulla Natura, L’Umano e l’Unità del Pensiero, Accademia Vivarium Novum, Roma (2018-2019).
-*Member of the International Advisory Committee of the FCT Center for Interdisciplinary Studies of the University of Coimbra (2023-2024) and (2025-2028).
+* Member of the international selection panel for the Institut Universitaire de France, selection de la promotion, Paris, 2009 and 2010.
+* Member of the international selection panel of the University Paris-Sorbonne for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2015.
+* Member of the Scientific Council of the Réseau National des Maisons des Sciences de l'Homme (Paris, 2015-2022)
+* Member of the Scientific Council of the Maisons des Sciences de l'Homme Bordeaux (2016-2022).
+* Member of the international selection panel of the Agence National de Recherche (ANR) in the call “Institut Convergences”, Paris (2016; 2017; 2019).
+* Member of the international selection panel of the University Paris-Sorbonne, for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2017.
+* Member of the Scientific Committee of the Centro Studi sulla Natura, L’Umano e l’Unità del Pensiero, Accademia Vivarium Novum, Roma (2018-2019).
+* Member of the International Advisory Committee of the FCT Center for Interdisciplinary Studies of the University of Coimbra (2023-2024) and (2025-2028).
 
 **European Commission FP6, FP7 and Horizon 2020**
-*Expert for Raising Public Awareness of Science and Technology, 2001.
-*Expert for Improving the Human Research Potential and the Socio-Economic Knowledge, 2001-2002.
+* Expert for Raising Public Awareness of Science and Technology, 2001.
+* Expert for Improving the Human Research Potential and the Socio-Economic Knowledge, 2001-2002.
 *Expert for Marie Curie Intra-European Fellowships, 2002, 2004.
 *Expert for Research Training Networks in the Economic, Social and Human Sciences (ECO-SOC), 2003, 2007.
 *Expert for Science and Society. European Science Week, 2003.
