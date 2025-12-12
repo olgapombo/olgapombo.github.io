@@ -386,7 +386,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
 
   
-### Book Series  
+### Book Series Editor 
 * Direction of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
 	1) *As cidades, os castelos e a onda: imagens, diagramas e metáforas entre Calvino, Escher e Bohr*, by João Araújo, 2010;
 	2) *Neuroaesthetics : can science explain art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010;
