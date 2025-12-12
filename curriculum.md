@@ -416,17 +416,6 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Pombo, Olga (2003), **Enciclopédia, Hipertexto e Condição Humana**, *A Condição Humana* exhibition by Rodrigo Vilhena, Lisboa.
 * Pombo, Olga (1996), **Nenhum Vento**, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
-	
-### Journal Editor
-* Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
-* *Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
-* Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
-
-
-### Journal Guest Editor
-* Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-* Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
-
   
 ### Book Series Editor 
 * Direction of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
@@ -441,7 +430,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
   	9) *Da civilização da palavra à civilização da imagem*, edited by Olga Pombo, António Guerreiro (eds), 2012;
   	10) *Image in science and art*, edited by Olga Pombo, 2017;
   	11) *Modelos e imagens*, edited by Olga Pombo, 2018;
-        12) *CorpoImagem : representações do corpo na ciência e na arte*, edited by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes, 2019.
+    12) *CorpoImagem : representações do corpo na ciência e na arte*, edited by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes, 2019.
   	         
 * Direction of the book series [**Cadernos de Filosofia da Ciência**](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm), Lisboa: CFCUL (13 volumes published). see also [**here**](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos) 
 	1. *Ciência e Género. Quatro Textos de Quatro Mulheres*, Teresa Levy, Clara Queiroz (eds), 2005,
@@ -477,13 +466,35 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	4. *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave*, by Cláudia Ribeiro, 2009,
 	5. *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard*, by Ana Gaspar, 2010, 
 	6. *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon*, by Sergio Hugo Menna, 2015
+ 7. Barbosa, João, *Contributos para a Compreensão do Sucesso da Cosmologia do Big Bang. Uma Análise Thematica à Luz de Gerald Holton (Contributions to Understanding the Success of Big Bang Cosmology. A Thematic Analysis in Light of Gerald Holton*), Lisboa: CFCUL, 2018
 
 * Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes).
+  1.	The Evolution of Social Communication in Primates. A Multidisciplinary Approach, ed. Marco Pina, Natalie Gntier, 2014.
+  2.	Macroevolution. Explanation, Interpretation and Evidence, Editors, Emanuele Serrelli, Nathalie Gontier, 2015
+  3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, Editors, Nathalie Gontier, 2015
+  4.	Cultural Phylogenetics. Concepts and Applications in Archaeology, Editors, Larissa Mendoza Straffon, 2016
+  5.	Evolution of Primate Social Cognition, Editors: Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo, 2018
+
 * Editor of the scholar brochures series [**Cadernos de História e Filosofia da Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)
   
-* Member of the editorial board of the book series [**Interdisciplinarité, Sciences et Humanités**](https://www.istegroup.com/fr/collection/interdisciplinarite-sciences-et-humanites/), ISTE Science Publishing, UK (since 2017).
-* Member of the editorial board of the book series [**Processos Formativos**](http://www.editorafi.org/serieprocessosformativos), Editora FI, Porto Alegre, Brazil. 
-* Member of the scientific committee of the editorial series **Applied Ethics and Philosophical Anthropologies**, Milella Publishing House, Lecce, Italy (since 2024).
+* 1.	*McLuhan. A Escola e os Media / McLuhan. School and Media* (anthology of texts by M. McLuhan, translated and prefaced, 1994
+2.	*Dois Textos sobre Educação. Hannah Arendt e Eric Weil / Two Texts on Education. Hannah Arendt and Eric Weil* (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 1995.
+3.	*A Invenção da Escola na Grécia. Materiais de Estudo / The Invention of School in Greece. Study Materials* (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 1996
+4.	*Museu de Alexandria (Museum of Alexandria)*,1997
+5.	*Utopia e Educação / Utopia and Education* (anthology of texts translated and commented), 1997
+6.	*Educar. Ensinar. Materiais de estudo / Educate. Teaching. Study Materials* (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), (2001)
+7.	*Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset /Three Texts on Education for a Difficult World* (anthology with introduction and revised translation, (2005)
+
+
+### Journal Editor
+* Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
+* *Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
+* Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
+
+
+### Journal Guest Editor
+* Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
 
 
 ### Member of Journal Boards 
@@ -502,6 +513,10 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the editorial board of the journal ***Revista de Educação***, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
 * Member of the editorial board of the journal ***Filosofia***, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
+**Member of Book Series Editorial Boards**
+* Processos Formativos, Editora FI, Porto Alegre, Brazil (editorial board since 2017)
+* Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
+* Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
 
 
 ## Scholar and Media Reception
