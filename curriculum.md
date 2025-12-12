@@ -121,6 +121,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Short-Term Fellowship at CNRS Besançon Observatory (invited by Sarah Carvallo), France (October 2022)
 
 
+
 ## Consultancy
 
 **International Selection Panels and Committees**
@@ -151,7 +152,6 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Expert for Horizon-EIC-2021-PATHFINDEROPEN-01, 2021.
 
 **National Selection Panels**
-* Member of the selection panel for the “Instituto Portugues do Livro e da Leitura” (1992-1994)
 * Member of the selection panel for the prize “Tradução Científica e Técnica em Língua Portuguesa” (2003, 2004-2005)
 *  the selection panel for the “Olimpíadas Nacionais de Filosofia” organized by the Portuguese Society of Philosophy (2012-2013)
 * Member of the selection panel for the Philosophical Essay Prize (14th edition) organized by the Portuguese Society of Philosophy (2021)
@@ -160,6 +160,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Member of the selection panel for CFCUL grants on “Science and Technology Management”, awarded in 2014 (February) and 2015 (March, July and November)
 * Member of the selection panel for CFCUL post-doc grants in the scientific area of “Philosophy of Natural Sciences” (January 2016)
 * Member of the selection panel for PhD grants of the Doctoral Program on Philosophy of Science, Technology, Art and Society (FCTAS ), awarded in 2014, 2015, 2016 and 2017.
+
 
 
 
