@@ -334,7 +334,7 @@ DOI: http://dx.doi.org/10.4135/9781452276052
 
 
 ### Articles 
-1.  Pombo, Olga et alii (2025), [“**On imagination. Editorial**”](https://journals.ku.edu/aion/article/view/24799/22086), Aion. Journal of Philosophy and Science, nº 2, pp. 1-3.
+1.  Pombo, Olga et alii (2025), [“**On imagination. Editorial Introduction**”](https://journals.ku.edu/aion/article/view/24799/22086), Aion. Journal of Philosophy and Science, nº 2, pp. 1-3.
 2.	Pombo, Olga (2024), [**Science et École chez Bachelard.  Discontinuité et Nouveauté**](https://mimesisjournals.com/ojs/index.php/bachelardstudies/article/view/4961/3842), *Bachelard Studies*, nº 8, 1, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, DOI: 10.7413/2724-5470100
 3.	Pombo, Olga et alii (2024), [**On the Concept of Resistance. Editorial Introduction**](https://journals.ku.edu/aion/article/view/23014/20807), *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. https://journals.ku.edu/aion/article/view/23014/20807
 4.	Pombo, Olga et alii (2024), **A fotografia entre a Ciência, a Arte e a Filosofia**, *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16, https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891
