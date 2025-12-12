@@ -121,7 +121,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Short-Term Fellowship at CNRS Besançon Observatory (invited by Sarah Carvallo), France (October 2022)
 
 
-## Consultancy1
+## Consultancy
 
 **International Selection Panels and Committees**
 * Member of the international selection panel for the Institut Universitaire de France, selection de la promotion, Paris, 2009 and 2010.
@@ -502,51 +502,6 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the editorial board of the journal ***Revista de Educação***, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
 * Member of the editorial board of the journal ***Filosofia***, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
-
-## Consultancy 
-
-**International Selection Panels and Committees**
-   
-* Member of the international selection panel for the Institut Universitaire de France, selection de la promotion, Paris, 2009 and 2010.
-* Member of the international selection panel of the University Paris-Sorbonne for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2015.
-* Member of the Scientific Council of the Réseau National des Maisons des Sciences de l'Homme (Paris, 2015-2022)
-* Member of the Scientific Council of the Maisons des Sciences de l'Homme Bordeaux (2016-2022).
-* Member of the international selection panel of the Agence National de Recherche (ANR) in the call “Institut Convergences”, Paris (2016; 2017; 2019).
-* Member of the international selection panel of the University Paris-Sorbonne, for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2017.
-* Member of the Scientific Committee of the Centro Studi sulla Natura, L’Umano e l’Unità del Pensiero, Accademia Vivarium Novum, Roma (2018-2019).
-* Member of the International Advisory Committee of the FCT Center for Interdisciplinary Studies of the University of Coimbra (2023-2024) and (2025-2028).
-
-
-**European Commission FP6, FP7 and Horizon 2020**  
-
-* Expert for Raising Public Awareness of Science and Technology, 2001.  
-* Expert for Improving the Human Research Potential and the Socio-Economic Knowledge, 2001-2002.  
-* Expert for Marie Curie Intra-European Fellowships, 2002, 2004.  
-* Expert for Research Training Networks in the Economic, Social and Human Sciences (ECO-SOC), 2003, 2007.  
-* Expert for Science and Society. European Science Week, 2003.    
-* Expert for Marie Curie Fellowships for Early-Stage Training and Transfer of Knowledge, 2003, 2004, 2005, 2006, 2007, 2010, 2011. 
-* Expert for Human Resources and Mobility Programa (ECO-SOC), 2004, 2006, 2007
-* Expert for Marie Curie International Research Staff Exchange Scheme (IRSES), 2008, 2009.
-* Expert for the Research Executive Agency (REA), FP7-PEOPLE-2010-IOF, IEF, IIF, 2010, 2011
-* Vice chair for Marie Curie Individual Fellowships (Eco-SOC), IEF- IOF- IIF, 2012. 
-* Independent Observer for FP7-PEOPLE, IRSES, 2013
-* Expert for H2020- Marie Skłodowska Curie Action-IF-2014ST- ECO-SOC, 2014, 2015.
-* Expert for H2020 - Science with and for Society (SEAC) 2015.
-* Expert for H2020 FET-OPEN - Novel Ideas for radically new technologies - research projects, 2014; 2016; 2017. 
-* Expert for Horizon-EIC-2021-PATHFINDEROPEN-01, 2021.
-
-
-**National Selection Panels**
-
-* Member of the selection panel for the “Instituto Portugues do Livro e da Leitura” (1992-1994) 
-* Member of the selection panel for the prize “Tradução Científica e Técnica em Língua Portuguesa” (2003, 2004-2005) 
-* Member of the selection panel for the “Olimpíadas Nacionais de Filosofia” organized by the Portuguese Society of Philosophy (2012-2013)
-* Member of the selection panel for the Philosophical Essay Prize (14th edition) organized by the Portuguese Society of Philosophy (2021)   
-* Member of the selection panel for CFCUL post-doc grants in the scientific area of “Science and Art” (March 2015) 
-* Member of the selection panel for CFCUL post-doc grants in the scientific area of “Unity of Science and Interdisciplinarity” (April 2015) 
-* Member of the selection panel for CFCUL grants on “Science and Technology Management”, awarded in 2014 (February) and 2015 (March, July and November) 
-* Member of the selection panel for CFCUL post-doc grants in the scientific area of “Philosophy of Natural Sciences” (January 2016)
-* Member of the selection panel for PhD grants of the Doctoral Program on Philosophy of Science, Technology, Art and Society (FCTAS ), awarded in 2014, 2015, 2016 and 2017. 
 
 
 ## Scholar and Media Reception
