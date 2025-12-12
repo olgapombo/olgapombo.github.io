@@ -408,13 +408,13 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 12. Olga Pombo (ed.) (2005), [**Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/capa1.jpg),(anthology with introduction and revised translation), *7º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 40 pp.  
 
 ### Room Texts for Exhibitions
-1. Pombo, Olga (2019), [**A Bioarte de Isa Duarte Ribeiro**](https://www.researchgate.net/publication/338476516_A_Bioarte_de_Isa_Duarte_Ribeiro_BioArt_of_Isa_Duarte_Ribeiro), 
+	1. Pombo, Olga (2019), [**A Bioarte de Isa Duarte Ribeiro**](https://www.researchgate.net/publication/338476516_A_Bioarte_de_Isa_Duarte_Ribeiro_BioArt_of_Isa_Duarte_Ribeiro), 
 *(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
-2. Pombo, Olga (2004), **From Thomas More to Rousseau**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-3. Pombo, Olga (2004), **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-* Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-* Pombo, Olga (2003), **Enciclopédia, Hipertexto e Condição Humana**, *A Condição Humana* exhibition by Rodrigo Vilhena, Lisboa.
-* Pombo, Olga (1996), **Nenhum Vento**, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
+	2. Pombo, Olga (2004), **From Thomas More to Rousseau**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+	3. Pombo, Olga (2004), **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+	4. Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+	5. Pombo, Olga (2003), **Enciclopédia, Hipertexto e Condição Humana**, *A Condição Humana* exhibition by Rodrigo Vilhena, Lisboa.
+	6. Pombo, Olga (1996), **Nenhum Vento**, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
   
 ### Book Series Editor 
