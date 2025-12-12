@@ -183,8 +183,8 @@ Pombo, Olga (2013), **“Encyclopedia”**, in *Encyclopedia of Philosophy and t
 
 ## Articles
   
-1. Pombo, Olga et alii (2025), **“On imagination. Editorial”**, [*Aion. Journal of Philosophy and Science*](https://journals.ku.edu/aion), nº 2, pp. 1-5. 
-2.	Pombo, Olga (2024), [**"Science et École chez Bachelard.  Discontinuité et Nouveauté"**](https://mimesisjournals.com/ojs/index.php/bachelardstudies/article/view/4961/3842), *Bachelard Studies / Études Bachelardiennes / Studi Bachelardiani*, nº 1-2, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, 
+1. Pombo, Olga et alii (2025), **“On imagination. Editorial”**, [*Aion. Journal of Philosophy and Science*](https://journals.ku.edu/aion), nº 2, pp. 1-3.
+2. Pombo, Olga (2024), [**"Science et École chez Bachelard.  Discontinuité et Nouveauté"**](https://mimesisjournals.com/ojs/index.php/bachelardstudies/article/view/4961/3842), *Bachelard Studies / Études Bachelardiennes / Studi Bachelardiani*, nº 1-2, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, 
 DOI: [10.7413/2724-5470100](https://doi.org/10.7413/2724-5470100).
 3. Pombo, Olga et alii (2024), [**“On the Concept of Resistance. Editorial”**](https://journals.ku.edu/aion/article/view/23014/20807), *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. 
 4. Pombo, Olga et alii (2024), [**“A fotografia entre a Ciência, a Arte e a Filosofia”**](https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891), *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16
