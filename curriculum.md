@@ -287,7 +287,7 @@ ISBN: 972-8695-06-3.
 
 
 ### Encyclopaedia Entries
-Pombo, Olga (2013), **Encyclopedia**, in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257.
+1. Pombo, Olga (2013), **Encyclopedia**, in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257.
 DOI: http://dx.doi.org/10.4135/9781452276052
 
 
