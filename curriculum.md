@@ -56,7 +56,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1973 - 1979 – ªAggregated Teacher of Philosophy*, D. Pedro V High School, Lisbon.
 * 1970 - 1972 – *Assistant Teacher of Philosophy and History*, M. Amália Vaz de Carvalho High School, Lisbon.
 
-## Leadership and Governance Roles 
+## Academic Responsibilities 
 
 * 2014 – 2017 - *Proponent, founder and first [Program-Director](https://phd-fctas.campus.ciencias.ulisboa.pt/director-do-programa/)* of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
 * 2011-2015 - *Co-founder and Co-coordinator* of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
@@ -160,7 +160,6 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Member of the selection panel for CFCUL grants on “Science and Technology Management”, awarded in 2014 (February) and 2015 (March, July and November)
 * Member of the selection panel for CFCUL post-doc grants in the scientific area of “Philosophy of Natural Sciences” (January 2016)
 * Member of the selection panel for PhD grants of the Doctoral Program on Philosophy of Science, Technology, Art and Society (FCTAS ), awarded in 2014, 2015, 2016 and 2017.
-
 
 
 
@@ -337,10 +336,10 @@ DOI: http://dx.doi.org/10.4135/9781452276052
 ### Articles 
 1.  Pombo, Olga et alii (2025), [“**On imagination. Editorial**”](https://journals.ku.edu/aion/article/view/24799/22086), Aion. Journal of Philosophy and Science, nº 2, pp. 1-3.
 2.	Pombo, Olga (2024), [**Science et École chez Bachelard.  Discontinuité et Nouveauté**](https://mimesisjournals.com/ojs/index.php/bachelardstudies/article/view/4961/3842), *Bachelard Studies*, nº 8, 1, pp. 77-91. ISSN: 2724-5470, ISBN: 9791222317328, DOI: 10.7413/2724-5470100
-3.	Pombo, Olga et alii (2024), **On the Concept of Resistance. Editorial Introduction**, *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. https://journals.ku.edu/aion/article/view/23014/20807
+3.	Pombo, Olga et alii (2024), [**On the Concept of Resistance. Editorial Introduction**](https://journals.ku.edu/aion/article/view/23014/20807), *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. https://journals.ku.edu/aion/article/view/23014/20807
 4.	Pombo, Olga et alii (2024), **A fotografia entre a Ciência, a Arte e a Filosofia**, *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16, https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891
-5.	Pombo, Olga (2021), **Curiosity and Science /Curiosidade e Ciência**, *Electra* (bilingue), nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0
-6.	Pombo, Olga (2021), **Interdisciplinaridade**, *Latin American Human Rights Studies (LAHRS)*, nº 1. ISNN: 2763-8162 <https://www.revistas.ufg.br/lahrs>
+5.	Pombo, Olga (2021), [**Curiosity and Science /Curiosidade e Ciência**](https://electramagazine.fundacaoedp.pt/index.php/editions/edicao-12/curiosidade-e-ciencia), *Electra* (bilingue), nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0
+6.	Pombo, Olga (2021), [**Interdisciplinaridade**](https://revistas.ufg.br/lahrs/article/view/70672), *Latin American Human Rights Studies (LAHRS)*, nº 1. ISNN: 2763-8162 <https://www.revistas.ufg.br/lahrs>
 7.	Pombo, Olga (2021), [**Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania**](https://www.revistas.ufg.br/lahrs/article/view/69398), *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162, (full article [here](https://revistas.ufg.br/lahrs/article/view/69398/36782)
 8.	Pombo, Olga (2020), **Arbitrary Claim Difficulties. One example**, *Mana Platform*, <https://mana.net/11085>
 9.	Pombo, Olga (2020), **Leibniz and the Idea of Universal Machine**, *Mana Platform*, <https://mana.net/12861> 
