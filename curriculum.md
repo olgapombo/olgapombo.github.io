@@ -469,9 +469,9 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
     7. *Contributos para a Compreensão do Sucesso da Cosmologia do Big Bang. Uma Análise Thematica à Luz de Gerald Holton (Contributions to Understanding the Success of Big Bang Cosmology. A Thematic Analysis in Light of Gerald Holton*), by João Barbosa, Lisboa: CFCUL, 2018
 
 * Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes).
-* 1.	The Evolution of Social Communication in Primates. A Multidisciplinary Approach, by Marco Pina, Natalie Gntier (eds), 2014.
-*  2.	Macroevolution. Explanation, Interpretation and Evidence, by Emanuele Serrelli, Nathalie Gontier (ed), 2015
-*  3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, by Nathalie Gontier (ed), 2015
+  1.	The Evolution of Social Communication in Primates. A Multidisciplinary Approach, by Marco Pina, Natalie Gntier (eds), 2014.
+  2.	Macroevolution. Explanation, Interpretation and Evidence, by Emanuele Serrelli, Nathalie Gontier (ed), 2015
+  3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, by Nathalie Gontier (ed), 2015
 *  4.	Cultural Phylogenetics. Concepts and Applications in Archaeology, by Larissa Mendoza Straffon (ed), 2016
 *  5.	Evolution of Primate Social Cognition, by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo (eds), 2018
 
