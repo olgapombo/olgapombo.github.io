@@ -241,7 +241,7 @@ ISSN: 1665-3319.
 (https://cfcul.mcmlxxvi.net/textos/OP.%20A%20Funcao%20Exemplar%20A.%20Sergio_.pdf), *Revista de Educação*, n.º 1, Lisboa: DEFCUL, pp. 97-99. 
 52.	Pombo, Olga (1985), **“Linguagem e Verdade em Hobbes” (Language and Truth in Hobbes)**, *Filosofia* n.º 1, Lisboa: Gec, pp. 45-61. (link [Philpapers](https://philpapers.org/rec/POMLEV))
 40.	Pombo, Olga (1985), **“Mudar a Escola, Mudar a Educação” (Changing School, Changing Education)**, *Animador* n.º 1, Lisboa: MAD, pp. 12-16. DL: 2859 13/4/84
-50.	Pombo, Olga (1984), [**"Pedagogia por Objectivos / Pedagogia com Objectivos. Pedagogy by Objectives / Pedagogy with Objectives")**](https://people.web.uma.pt/jesusvazfernandes/TCPCC/8_Por_ou_com_objectivos.pdf), *Logos*, n.º 1, Lisboa: Filosofia Aberta, pp. 43-72. 
+50.	Pombo, Olga (1984), [**"Pedagogia por Objectivos / Pedagogia com Objectivos. Pedagogy by Objectives / Pedagogy with Objectives")**](https://people.web.uma.pt/jesusvazfernandes/TCPCC/8_Por%20ou%20com%20objectivos.pdf), *Logos*, n.º 1, Lisboa: Filosofia Aberta, pp. 43-72. 
 
 
 ## Book reviews
