@@ -192,53 +192,54 @@ DOI: [10.7413/2724-5470100](https://doi.org/10.7413/2724-5470100).
 6.  Pombo, Olga (2021), [**Curiosity and Science**](https://electramagazine.fundacaoedp.pt/index.php/en/editions/issue-12/curiosity-and-science), *Electra (English version)*, nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0,Doi: https://doi.org/10.5216/lahrs.v1.70672
 7. Pombo, Olga (2021), [**“Interdisciplinaridade/Interdisciplinarity”**](https://revistas.ufg.br/lahrs/article/view/70672/37386), *Latin American Human Rights Studies (LAHRS)*, nº 1. ISNN: 2763-8162, DOI: <https://www.revistas.ufg.br/lahrs>
 8. Pombo, Olga (2021), [**“Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania”**](https://revistas.ufg.br/lahrs/article/view/69398), *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162
-9. Pombo, Olga (2021), [**“Leibniz and the Idea of Universal Machine”**](https://mana.net/wp-content/uploads/2021/01/Leibniz-and-universal-machine-Mana-Platform.pdf), *Mana Platform. Articles and Essays*, nº 13, pp.1-18 (see also [**here**](https://mana.net/12861)
-10. Pombo, Olga (2020), [**“Arbitrary Claim Difficulties. One example"**](https://mana.net/wp-content/uploads/2020/11/Arbitrary-Claim-Difficulties-Mana-Platform.pdf), *Mana Platform. Articles and Essays*, nº 11, pp. 1-15 (see also [**here**](https://mana.net/11085) 
-11. Pombo, Olga (2019), **“Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte”**, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. DOI https://doi.org/10.17990/RPF/2019_75_4_2155
-12.	Pombo, Olga (2018), **“Dilemas de la Ensenhanza de la Filosofia”** (Dilemmas of Teaching Philosophy”), *ArteFaCTos. Revista de Estudios sobre la Ciência y la Tecnologia*, Salamanca, Spain, vol. 7, nº 1, April, pp. 175-190. DOI: http://dx.doi.org/10.14201/art201871175190.
-13.	Pombo, Olga (2015), **"Metaphysical and Epistemological Challenges. Introduction to the Axiomates special issue"**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). 
+9. Pombo, Olga (2021), [**“Leibniz and the Idea of Universal Machine”**](https://mana.net/wp-content/uploads/2021/01/Leibniz-and-universal-machine-Mana-Platform.pdf), *Mana Platform. Articles and Essays*, nº 13, pp.1-18 (see also [**here**](https://mana.net/12861))
+10. Pombo, Olga (2020), [**“Arbitrary Claim Difficulties. One example"**](https://mana.net/wp-content/uploads/2020/11/Arbitrary-Claim-Difficulties-Mana-Platform.pdf), *Mana Platform. Articles and Essays*, nº 11, pp. 1-15 (see also [**here**](https://mana.net/11085))
+11. Pombo, Olga (2019), **“Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte”**, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. 
+DOI https://doi.org/10.17990/RPF/2019_75_4_2155
+13.	Pombo, Olga (2018), **“Dilemas de la Ensenhanza de la Filosofia”** (Dilemmas of Teaching Philosophy”), *ArteFaCTos. Revista de Estudios sobre la Ciência y la Tecnologia*, Salamanca, Spain, vol. 7, nº 1, April, pp. 175-190. DOI: http://dx.doi.org/10.14201/art201871175190.
+14.	Pombo, Olga (2015), **"Metaphysical and Epistemological Challenges. Introduction to the Axiomates special issue"**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). 
 DOI: 10.1007/s10516-014-9264-5
-14.	Pombo, Olga (2014), **"Dispersão e Unidade: Para uma Poética da Simpatia"**, *Caderno Escolar*, Lisboa:  Escola Vitorino Nemésio, nº 13-14, 1: 30-41 (reprint). 
-15.	Pombo, Olga (2013),**”Epistemología de la Interdisciplinariedad. La Construcción de un nuevo Modelo de Comprensión”**, *Interdisciplina*, Mexico, vol. 1, nº 1, pp. 21-50.
+15.	Pombo, Olga (2014), **"Dispersão e Unidade: Para uma Poética da Simpatia"**, *Caderno Escolar*, Lisboa:  Escola Vitorino Nemésio, nº 13-14, 1: 30-41 (reprint). 
+16.	Pombo, Olga (2013),**”Epistemología de la Interdisciplinariedad. La Construcción de un nuevo Modelo de Comprensión”**, *Interdisciplina*, Mexico, vol. 1, nº 1, pp. 21-50.
 DOI: http://dx.doi.org/10.22201/ceiich.24485705e.2013.1.46512
-16.	Pombo, Olga (2013), **“Comentário a 'Filósofos e Matemáticos' de José Sebastião e Silva”**, *Internacional Journal Delfim Santos Studies*, vol. 1, nº 1, pp. 256-260. ISSN: 2182-5653.
-17.	Pombo, Olga (2012), **“Conceptions of Intuition in Poincaré’s Philosophy of Mathematics”**, *Philosophy Study*, EUA, vol. 2, nº 6, July-August, pp 384-397. ISSN: 2159-5313. 
-18.	Pombo, Olga (2012), **“Brevíssima Apresentação da ‘Brevis Designatio’ de Leibniz"**, *Kairos. Journal of Philosophy & Science*, nº 4, pp. 121-126. ISSN: (print): 2182-2824.
-19.	Pombo, Olga (2011), **“Espinoza e a Linguagem”**, *InCID - Revista de Ciência da Informação e Documentação*, Ribeirão Preto, Brazil, vol. 2, nº 1, pp. 16-30; ISSN.2178-2075.v2i1p16-30; DOI:http://dx.doi.org/10.11606/
-20.	Pombo, Olga (2010), **“A Estátua de Glauco e a Escola”**, *Pensar a Escola*, nº 7, Lisboa: Escola Vitorino Nemésio, pp. 3-11. https://esad.edu.pt/ficheiros/revista/revista7.pdf (full article **here**)
-21.	Pombo, Olga (2009), **“Interdisciplinaridade e Transformações Epistemológicas Contemporâneas”**, *Olhares*, nº 1, NPPD- UNIJORGE, Brazil, pp. 7-10. ISSN: 2176-3291.
-22.	Pombo, Olga (2009), **“Linguagem e Conhecimento em Leibniz”**, *O que nos faz Pensar. Cadernos do Departamento de Filosofia da PUC*, Rio de Janeiro, Brazil, nº 26, pp. 9-29. ISSN: 0104-6675 
-23.	Pombo, Olga (2008), **“Epistemologia da Interdisciplinaridade**, *Ideação, Revista do Centro de Educação e Letras*, vol. 10, nº 1, Foz do Iguaçu: Edunioeste, Brazil, pp. 09-40. 
+17.	Pombo, Olga (2013), **“Comentário a 'Filósofos e Matemáticos' de José Sebastião e Silva”**, *Internacional Journal Delfim Santos Studies*, vol. 1, nº 1, pp. 256-260. ISSN: 2182-5653.
+18.	Pombo, Olga (2012), **“Conceptions of Intuition in Poincaré’s Philosophy of Mathematics”**, *Philosophy Study*, EUA, vol. 2, nº 6, July-August, pp 384-397. ISSN: 2159-5313. 
+19.	Pombo, Olga (2012), **“Brevíssima Apresentação da ‘Brevis Designatio’ de Leibniz"**, *Kairos. Journal of Philosophy & Science*, nº 4, pp. 121-126. ISSN: (print): 2182-2824.
+20.	Pombo, Olga (2011), **“Espinoza e a Linguagem”**, *InCID - Revista de Ciência da Informação e Documentação*, Ribeirão Preto, Brazil, vol. 2, nº 1, pp. 16-30; ISSN.2178-2075.v2i1p16-30; DOI:http://dx.doi.org/10.11606/
+21.	Pombo, Olga (2010), **“A Estátua de Glauco e a Escola”**, *Pensar a Escola*, nº 7, Lisboa: Escola Vitorino Nemésio, pp. 3-11. https://esad.edu.pt/ficheiros/revista/revista7.pdf (full article **here**)
+22.	Pombo, Olga (2009), **“Interdisciplinaridade e Transformações Epistemológicas Contemporâneas”**, *Olhares*, nº 1, NPPD- UNIJORGE, Brazil, pp. 7-10. ISSN: 2176-3291.
+23.	Pombo, Olga (2009), **“Linguagem e Conhecimento em Leibniz”**, *O que nos faz Pensar. Cadernos do Departamento de Filosofia da PUC*, Rio de Janeiro, Brazil, nº 26, pp. 9-29. ISSN: 0104-6675 
+24.	Pombo, Olga (2008), **“Epistemologia da Interdisciplinaridade**, *Ideação, Revista do Centro de Educação e Letras*, vol. 10, nº 1, Foz do Iguaçu: Edunioeste, Brazil, pp. 09-40. 
 DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
-24.	Pombo, Olga (2008), **“Elogio da Transmissão”**, *Pensar a Escola*, nº 6, Lisboa: Escola Vitorino Nemésio, pp. 29-36. (**full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/elogiodatransmissao.pdf)**), 
-25.	Pombo, Olga (2007), **“A Escola como Memória do Futuro”**, *Revista Convergência Lusíada,  24, Número Especial. Centenário de Agostinho da Silva (1906-2006)*, Real Gabinete Português de Leitura do Rio de Janeiro, Brazil, pp. 281-291. ISNN: 1414-0381 
-26.	Pombo, Olga (2006), **“Práticas Interdisciplinares”**, *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249.ISSN: 1517-4522
-27.	Pombo, Olga (2006), **“Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”**, *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. 
+25.	Pombo, Olga (2008), **“Elogio da Transmissão”**, *Pensar a Escola*, nº 6, Lisboa: Escola Vitorino Nemésio, pp. 29-36. (**full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/elogiodatransmissao.pdf)**), 
+26.	Pombo, Olga (2007), **“A Escola como Memória do Futuro”**, *Revista Convergência Lusíada,  24, Número Especial. Centenário de Agostinho da Silva (1906-2006)*, Real Gabinete Português de Leitura do Rio de Janeiro, Brazil, pp. 281-291. ISNN: 1414-0381 
+27.	Pombo, Olga (2006), **“Práticas Interdisciplinares”**, *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249.ISSN: 1517-4522
+28.	Pombo, Olga (2006), **“Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”**, *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. 
 ISSN: 1665-3319.
-28.	Pombo, Olga (2005), **“Interdisciplinaridade e Integração dos Saberes”**, *LIINC em Revista*, Brazil, vol. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186
+29.	Pombo, Olga (2005), **“Interdisciplinaridade e Integração dos Saberes”**, *LIINC em Revista*, Brazil, vol. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186
  (**full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf)**)
-29.	Pombo, Olga (2005), **“A Escola como Memória”**, *Pensar a Escola*, nº 1, Lisboa: Escola Vitorino Nemésio, pp. 33-43.
-30.	Pombo, Olga (com Rui Canario)[**“Ivan Illich - Um Visionário que é Preciso Reler**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illich%20finalolga.pdf), *Aprender ao Longo da Vida*, nº 4 (May 2005), pp. 40-47 
-31.	Pombo, Olga (2002), **“Vid klasyfikaciji buttia do klasyfikaciji znattia”** (From the Classification of Beings to the Classification of Knowledge), Ucranian translation by Serghii Wakulenko, *Zbirnyk Xarkivs'koho istoryko-filolohičnoho tovarystva*, Karkiv, Ucrain, vol. IX: pp. 33-52.  ISBN: 966-95465-8-3
-32.	Pombo, Olga (2001), **“Notas de Leitura à Margem de uma Antologia”**, *Philosophica* nº 16, DF-FLUL, Lisboa, pp. 135-140. ISSN: 0872-4784
-33.	Pombo, Olga (2000), **“Comunicação e Construção do Conhecimento”**, *Revista de Educação*, IX, n.º 1,  Lisboa: DEFCUL, pp. 5-25.
-34.	Pombo, Olga (1999), **“Unidade das Ciências e Configuração Disciplinar dos Saberes: Contributo para uma Filosofia do Ensino”**, *Revista de Educação*, VIII, n.º 1, Lisboa: DEFCUL, pp. 170-174.
-35.	Pombo, Olga (1998), **"La Théorie Leibnizienne de la Pensée Aveugle en tant que Perspective sur quelques-unes des Apories Linguistiques de la Modernité"**, *Cahiers Ferdinand Saussure*, Switzerland, nº 51, pp. 63-75.  ISBN: 978-2-600-05861-2
-36.	Pombo, Olga (1998), **“Da Classificação dos Seres à Classificação dos Saberes”**, *Leituras. Revista da Biblioteca Nacional de Lisboa*, n.º 2, Primavera, pp. 19-33. 
-37.	Pombo, Olga (1998), **“A Escola, a Recta e o Círculo”**, *Educação e Matemática*, n.º 50, Lisboa: APM, pp. 3-10. DL: 72011/93.
-38.	Pombo, Olga (1997), **“Problemas e Perspectivas da Interdisciplinaridade”**, *Forma. Revista do Centro de Formação Sebastião da Gama*, n.º 1, Porto, pp. 11-23 (reprint)
-39.	Pombo, Olga (1996), **“Hannah Arendt ou as Virtudes da Excentricidade”**, *Revista de Educação*, V, n.º 2, Lisboa: DEFCUL, pp. 120-132.  
-40.	Pombo, Olga (1995), **“A Proximidade do Ensino da Filosofia à própria Essência do Ensino”**, *Philosophica* nº 6, DF-FLUL, Lisboa, pp. 15-27. ISSN: 0872-4784
-41.	Pombo, Olga (1994), **“Problemas e Perspectivas da Interdisciplinaridade”**, *Revista de Educação*, IV, n.º 1/2, Lisboa: DEFCUL, pp. 3-11. 
-42.	Pombo, Olga (1993), **“Reorganização Curricular e Área Escola: Limites e Virtualidades de uma Reforma”**, *Educação e Matemática*, n.º 25, Lisboa: DEFCUL, pp. 3-8. DL: 72011/93
-43.	Pombo, Olga (1993), **“A Interdisciplinaridade como Problema Epistemológico e Exigência Curricular”**, *Revista Inovação*, vol. 6, n.º 2, Lisboa, pp. 173-180. ISSN: 0871-2221 
-44.	Pombo, Olga (1993), **“Para um Modelo reflexivo de Formação de Professores”**, *Revista de Educação*, vol. III, n.º 2, Lisboa: DEFCUL, pp. 37-45. 
-45.	Pombo, Olga (1991), **“Nas Origens da Semiologia: a Teoria do Pensamento Cego em Leibniz”**, *Argumento*, vol. I, n. 1, Lisboa: Cosmos, pp. 17-25. ISSN: 0871-7494.
-46.	Pombo, Olga (1991), **"Do Texto no Ensino da Filosofia:  Algumas Questões"**, *Boletim Informativo*, nº 15, Lisboa: Ministério da Educação e Cultura, pp. 13-23.
-47.	Pombo, Olga (1990), **“Comparative lines between Leibniz's Theory of Language and Spinoza's Reflexions on Language Themes”**, *Studia Spinozana*, Konigshausen & Neumann, Germany, vol. 6, pp. 147-177. ISSN: 0179-3896
-48.	Pombo, Olga (1989), **“Eticidade / Racionalidade na Comunicação e Ensino do Conhecimento Científico”**, *CTS. Revista de Ciência, Tecnologia e Sociedade*, Lisboa: Associação de Ciência e Tecnologia para o Desenvolvimento, n.º 10 (Ética e Investigação Científica), October/December, pp. 76-81. ISSN: 0870-7642. 
-49.	Pombo, Olga (1986), **“A Função Exemplar na ‘IX Carta de Problemática’ de António Sérgio”**, *Revista de Educação*, n.º 1, Lisboa: DEFCUL, pp. 97-99. 
-50.	Pombo, Olga (1985), **“Linguagem e Verdade em Hobbes”**, *Filosofia* n.º 1, Lisboa: Gec, pp. 45-61. 
+30.	Pombo, Olga (2005), **“A Escola como Memória”**, *Pensar a Escola*, nº 1, Lisboa: Escola Vitorino Nemésio, pp. 33-43.
+31.	Pombo, Olga (com Rui Canario)[**“Ivan Illich - Um Visionário que é Preciso Reler**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illich%20finalolga.pdf), *Aprender ao Longo da Vida*, nº 4 (May 2005), pp. 40-47 
+32.	Pombo, Olga (2002), **“Vid klasyfikaciji buttia do klasyfikaciji znattia”** (From the Classification of Beings to the Classification of Knowledge), Ucranian translation by Serghii Wakulenko, *Zbirnyk Xarkivs'koho istoryko-filolohičnoho tovarystva*, Karkiv, Ucrain, vol. IX: pp. 33-52.  ISBN: 966-95465-8-3
+33.	Pombo, Olga (2001), **“Notas de Leitura à Margem de uma Antologia”**, *Philosophica* nº 16, DF-FLUL, Lisboa, pp. 135-140. ISSN: 0872-4784
+34.	Pombo, Olga (2000), **“Comunicação e Construção do Conhecimento”**, *Revista de Educação*, IX, n.º 1,  Lisboa: DEFCUL, pp. 5-25.
+35.	Pombo, Olga (1999), **“Unidade das Ciências e Configuração Disciplinar dos Saberes: Contributo para uma Filosofia do Ensino”**, *Revista de Educação*, VIII, n.º 1, Lisboa: DEFCUL, pp. 170-174.
+36.	Pombo, Olga (1998), **"La Théorie Leibnizienne de la Pensée Aveugle en tant que Perspective sur quelques-unes des Apories Linguistiques de la Modernité"**, *Cahiers Ferdinand Saussure*, Switzerland, nº 51, pp. 63-75.  ISBN: 978-2-600-05861-2
+37.	Pombo, Olga (1998), **“Da Classificação dos Seres à Classificação dos Saberes”**, *Leituras. Revista da Biblioteca Nacional de Lisboa*, n.º 2, Primavera, pp. 19-33. 
+38.	Pombo, Olga (1998), **“A Escola, a Recta e o Círculo”**, *Educação e Matemática*, n.º 50, Lisboa: APM, pp. 3-10. DL: 72011/93.
+39.	Pombo, Olga (1997), **“Problemas e Perspectivas da Interdisciplinaridade”**, *Forma. Revista do Centro de Formação Sebastião da Gama*, n.º 1, Porto, pp. 11-23 (reprint)
+40.	Pombo, Olga (1996), **“Hannah Arendt ou as Virtudes da Excentricidade”**, *Revista de Educação*, V, n.º 2, Lisboa: DEFCUL, pp. 120-132.  
+41.	Pombo, Olga (1995), **“A Proximidade do Ensino da Filosofia à própria Essência do Ensino”**, *Philosophica* nº 6, DF-FLUL, Lisboa, pp. 15-27. ISSN: 0872-4784
+42.	Pombo, Olga (1994), **“Problemas e Perspectivas da Interdisciplinaridade”**, *Revista de Educação*, IV, n.º 1/2, Lisboa: DEFCUL, pp. 3-11. 
+43.	Pombo, Olga (1993), **“Reorganização Curricular e Área Escola: Limites e Virtualidades de uma Reforma”**, *Educação e Matemática*, n.º 25, Lisboa: DEFCUL, pp. 3-8. DL: 72011/93
+44.	Pombo, Olga (1993), **“A Interdisciplinaridade como Problema Epistemológico e Exigência Curricular”**, *Revista Inovação*, vol. 6, n.º 2, Lisboa, pp. 173-180. ISSN: 0871-2221 
+45.	Pombo, Olga (1993), **“Para um Modelo reflexivo de Formação de Professores”**, *Revista de Educação*, vol. III, n.º 2, Lisboa: DEFCUL, pp. 37-45. 
+46.	Pombo, Olga (1991), **“Nas Origens da Semiologia: a Teoria do Pensamento Cego em Leibniz”**, *Argumento*, vol. I, n. 1, Lisboa: Cosmos, pp. 17-25. ISSN: 0871-7494.
+47.	Pombo, Olga (1991), **"Do Texto no Ensino da Filosofia:  Algumas Questões"**, *Boletim Informativo*, nº 15, Lisboa: Ministério da Educação e Cultura, pp. 13-23.
+48.	Pombo, Olga (1990), **“Comparative lines between Leibniz's Theory of Language and Spinoza's Reflexions on Language Themes”**, *Studia Spinozana*, Konigshausen & Neumann, Germany, vol. 6, pp. 147-177. ISSN: 0179-3896
+49.	Pombo, Olga (1989), **“Eticidade / Racionalidade na Comunicação e Ensino do Conhecimento Científico”**, *CTS. Revista de Ciência, Tecnologia e Sociedade*, Lisboa: Associação de Ciência e Tecnologia para o Desenvolvimento, n.º 10 (Ética e Investigação Científica), October/December, pp. 76-81. ISSN: 0870-7642. 
+50.	Pombo, Olga (1986), **“A Função Exemplar na ‘IX Carta de Problemática’ de António Sérgio”**, *Revista de Educação*, n.º 1, Lisboa: DEFCUL, pp. 97-99. 
+51.	Pombo, Olga (1985), **“Linguagem e Verdade em Hobbes”**, *Filosofia* n.º 1, Lisboa: Gec, pp. 45-61. 
 40.	Pombo, Olga (1985), **“Mudar a Escola, Mudar a Educação”**, *Animador* n.º 1, Lisboa: MAD, pp. 12-16. DL: 2859 13/4/84
 50.	Pombo, Olga (1984), **“Pedagogia por Objectivos / Pedagogia com Objectivos”**, *Logos*, n.º 1, Lisboa: Filosofia Aberta, pp. 43-72. 
 
