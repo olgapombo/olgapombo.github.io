@@ -215,7 +215,7 @@ DOI: http://dx.doi.org/10.22201/ceiich.24485705e.2013.1.46512
 27.	Pombo, Olga (2006), **“Práticas Interdisciplinares”**, *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249.ISSN: 1517-4522
 28.	Pombo, Olga (2006), [**“Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”**](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/palabrapecadoyredencion.pdf), *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. 
 ISSN: 1665-3319.
-29.	Pombo, Olga (2005), **“Interdisciplinaridade e Integração dos Saberes”**, *LIINC em Revista*, Brazil, vol. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186
+29.	Pombo, Olga (2005), [**“Interdisciplinaridade e Integração dos Saberes”**](https://revista.ibict.br/liinc/article/view/3082/7363), *LIINC em Revista*, Brazil, vol. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186
  (**full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf)**)
 30.	Pombo, Olga (2005), **“A Escola como Memória”**, *Pensar a Escola*, nº 1, Lisboa: Escola Vitorino Nemésio, pp. 33-43.
 31.	Pombo, Olga (com Rui Canario)[**“Ivan Illich - Um Visionário que é Preciso Reler**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illich%20finalolga.pdf), *Aprender ao Longo da Vida*, nº 4 (May 2005), pp. 40-47 
