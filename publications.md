@@ -280,7 +280,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 ## Book series editor
 
 * Director of the book series **[A Imagem na Ciência e na Arte](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO)**, Lisbon: Fim de Século -           12 volumes published: 
-X 
+ 
 >1. (2010)	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, by João Araújo;
 >2.	(2010) *Neuroaesthetics : Can Science explain Art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina;
 >3.	(2011)*As Imagens com que a Ciência se Faz*, edited by Olga Pombo, Silvia di Marco;
@@ -295,6 +295,7 @@ X
 >12.	(2019) *CorpoImagem : Representações do Corpo na Ciência e na Arte*, edited by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes.
          
 •	Director of the book series **[Cadernos de Filosofia da Ciência](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm)**, Lisbon: CFCUL - 13 volumes published: 
+
 > 1. (2005) *Ciência e Género. Quatro Textos de Quatro Mulheres*, edited by Teresa Levy, Clara Queiroz;
 > 2. (2006) *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, edited by  Augusto J. Franco de Oliveira;
 > 3. (2006) *As Cartas de Problemática de António Sérgio*, edited by Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil;
@@ -310,6 +311,7 @@ X
 > 13. (2015) *As intuições atomísticas (Ensaio de Classificação)*, by Lídia Queiroz.
 
 * Director of the book series **[Documenta](https://cfcul.blogspot.com/p/coleccao-documenta.html)**, Lisbon: CFCUL - 10 published volumes:
+  
 > 1. (2007) *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo and Alexander Gerner;
 > 2. (2009) *Lógica e Filosofia da Ciência*, edited by Olga Pombo and Ángel Nepomuceno;
 > 3. (2009) *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, edited by António Fernando Cascais, José Luís Câmara Leme and Nuno Nabais;
@@ -322,7 +324,8 @@ X
 > 10. (2019) *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo, Ana Pato and Juan Redmond
  
 * Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL - 6 published volumes (see [**here**](https://cfcul.blogspot.com/p/publicacoes.html)]:
-> 1.(2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu;
+  
+> 1. (2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu;
 > 2. (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho;
 > 3. (2009) *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler* by Ana Paula Silva
 > 4. (2009), *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave* by Cláudia Ribeiro;
