@@ -323,7 +323,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 > 9. (2016) *Philosophy of Science in the 21st Century. Challenges and Tasks*, edited by Olga Pombo and Gil Santos;
 > 10. (2019) *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo, Ana Pato and Juan Redmond
  
-* Director of the book series **[Theses](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis)**, Lisbon: CFCUL - 6 published volumes (see [**here**](https://cfcul.blogspot.com/p/publicacoes.html)]:
+* Director of the book series **[Theses](https://cfcul.blogspot.com/p/publicacoes.html)**)(https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis), Lisbon: CFCUL - 6 published volumes:
   
 > 1. (2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu;
 > 2. (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho;
