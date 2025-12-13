@@ -213,7 +213,7 @@ DOI: http://dx.doi.org/10.22201/ceiich.24485705e.2013.1.46512
 25.	Pombo, Olga (2008), [**“Elogio da Transmissão”**](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/elogiodatransmissao.pdf), *Pensar a Escola*, nº 6, Lisboa: Escola Vitorino Nemésio, pp. 29-36.  
 26.	Pombo, Olga (2007), [**“A Escola como Memória do Futuro”**](https://cfcul.mcmlxxvi.net/textos/OP%20-%20A%20Escola%20como%20Memoria%20do%20Futuro.pdf), *Revista Convergência Lusíada,  24, Número Especial. Centenário de Agostinho da Silva (1906-2006)*, Real Gabinete Português de Leitura do Rio de Janeiro, Brazil, pp. 281-291. ISNN: 1414-0381 
 27.	Pombo, Olga (2006), **“Práticas Interdisciplinares”**, *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249.ISSN: 1517-4522
-28.	Pombo, Olga (2006), **“Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”**, *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. 
+28.	Pombo, Olga (2006), [**“Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”**](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/palabrapecadoyredencion.pdf), *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. 
 ISSN: 1665-3319.
 29.	Pombo, Olga (2005), **“Interdisciplinaridade e Integração dos Saberes”**, *LIINC em Revista*, Brazil, vol. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186
  (**full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf)**)
