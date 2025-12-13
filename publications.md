@@ -250,7 +250,7 @@ ISSN: 1665-3319.
 * Pombo, Olga (2010), **A propósito de 'Relatividade e Física Clássica: Continuidade e Ruptura', apresentação de um livro de António Brotas**, Gazeta de Física, Vol. 33, nº 2, pp. 9-12.
 * Pombo, Olga (2008), **Todos os Homens por Natureza Desejam Conhecer**, in Barros Veloso, António, Medicina e outras Coisas, Lisboa: Gradiva, pp. 7-11.
 * Pombo, Olga (1992), **Ana Luísa Janeira, 'Sistemas Epistémicos e Ciências: do Noviciado da Cotovia à Faculdade de Ciências de Lisboa” e José Lopes Ribeiro, 'O Edifício da Faculdade de Ciências. Quatro Séculos de Retratos Institucionais'**, Revista de Educação, vol. II, nº 1, Lisboa: DEFCUL, pp. 119-120.
-* Pombo, Olga (1991), **Agostinho da Silva, ‘Educação de Portugal’**, Revista de Educação, vol. II, n.º 1, Lisboa: DEFCUL, pp. 110-115.
+* Pombo, Olga (1991), [**Agostinho da Silva, ‘Educação de Portugal’**](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/recensao.htm), Revista de Educação, vol. II, n.º 1, Lisboa: DEFCUL, pp. 110-115.
 * Pombo, Olga (1984), **Herbert H. Knecht. ‘La Logique chez Leibniz’**, Análise, nº 1, Lisboa, Gec, pp. 231-239.
 
 
