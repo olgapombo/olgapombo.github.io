@@ -228,9 +228,9 @@ ISSN: 1665-3319.
 38.	Pombo, Olga (1998), [**“A Escola, a Recta e o Círculo”**](https://em.apm.pt/index.php/em/article/view/734/730), *Educação e Matemática*, n.º 50, Lisboa: APM, pp. 3-10. DL: 72011/93.
 39.	Pombo, Olga (1997), **“Problemas e Perspectivas da Interdisciplinaridade”**, *Forma. Revista do Centro de Formação Sebastião da Gama*, n.º 1, Porto, pp. 11-23 (reprint)
 40.	Pombo, Olga (1996), **“Hannah Arendt ou as Virtudes da Excentricidade”**, *Revista de Educação*, V, n.º 2, Lisboa: DEFCUL, pp. 120-132.  
-41.	Pombo, Olga (1995), **“A Proximidade do Ensino da Filosofia à própria Essência do Ensino”**, *Philosophica* nº 6, DF-FLUL, Lisboa, pp. 15-27. ISSN: 0872-4784
-42.	Pombo, Olga (1994), **“Problemas e Perspectivas da Interdisciplinaridade”**, *Revista de Educação*, IV, n.º 1/2, Lisboa: DEFCUL, pp. 3-11. 
-43.	Pombo, Olga (1993), **“Reorganização Curricular e Área Escola: Limites e Virtualidades de uma Reforma”**, *Educação e Matemática*, n.º 25, Lisboa: DEFCUL, pp. 3-8. DL: 72011/93
+41.	Pombo, Olga (1995), [**“A Proximidade do Ensino da Filosofia à própria Essência do Ensino”**](https://www.pdcnet.org/collection/fshow?id=philosophica_1995_0003_0006_0015_0027&pdfname=philosophica_1995_0003_0006_0015_0027.pdf&file_type=pdf), *Philosophica* nº 6, DF-FLUL, Lisboa, pp. 15-27. ISSN: 0872-4784 (link [PhilDoc](https://www.pdcnet.org/philosophica/content/philosophica_1995_0003_0006_0015_0027)).
+42.	Pombo, Olga (1994), [**“Problemas e Perspectivas da Interdisciplinaridade (Problems and Perspectives of Interdisciplinarity"**](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/problemasperspectivas.pdf), *Revista de Educação*, IV, n.º 1/2, Lisboa: DEFCUL, pp. 3-11. 
+43.	Pombo, Olga (1993), [**“Reorganização Curricular e Área Escola: Limites e Virtualidades de uma Reforma (Curricular Reorganization and the School Area: Limits and Potential of a Reform)”**](https://em.apm.pt/index.php/em/article/view/344/337), *Educação e Matemática*, n.º 25, Lisboa: DEFCUL, pp. 3-8. DL: 72011/93
 44.	Pombo, Olga (1993), **“A Interdisciplinaridade como Problema Epistemológico e Exigência Curricular”**, *Revista Inovação*, vol. 6, n.º 2, Lisboa, pp. 173-180. ISSN: 0871-2221 
 45.	Pombo, Olga (1993), **“Para um Modelo reflexivo de Formação de Professores”**, *Revista de Educação*, vol. III, n.º 2, Lisboa: DEFCUL, pp. 37-45. 
 46.	Pombo, Olga (1991), **“Nas Origens da Semiologia: a Teoria do Pensamento Cego em Leibniz”**, *Argumento*, vol. I, n. 1, Lisboa: Cosmos, pp. 17-25. ISSN: 0871-7494.
