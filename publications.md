@@ -198,7 +198,7 @@ DOI: [10.7413/2724-5470100](https://doi.org/10.7413/2724-5470100).
 DOI https://doi.org/10.17990/RPF/2019_75_4_2155
 13.	Pombo, Olga (2018), **“Dilemas de la Ensenhanza de la Filosofia”** (Dilemmas of Teaching Philosophy”), *ArteFaCTos. Revista de Estudios sobre la Ciência y la Tecnologia*, Salamanca, Spain, vol. 7, nº 1, April, pp. 175-190. DOI: http://dx.doi.org/10.14201/art201871175190.
 14.	Pombo, Olga (2015), **"Metaphysical and Epistemological Challenges. Introduction to the Axiomates special issue"**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). 
-DOI: 10.1007/s10516-014-9264-5
+DOI: [10.1007/s10516-014-9264-5](https://www.researchgate.net/publication/338349473_Pombo_Olga_Dispersao_e_Unidade_para_uma_Poetica_da_Simpatia_Dispersion_and_Unity_Towards_a_Poetics_of_Sympathy_in_Lara_M_L_G_Smit_J_W_Orgs_Temas_de_Pesquisa_em_Ciencia_da_Informacao_no_Brasil_Sao_Paul)
 15.	Pombo, Olga (2014), **"Dispersão e Unidade: Para uma Poética da Simpatia"**, *Caderno Escolar*, Lisboa:  Escola Vitorino Nemésio, nº 13-14, 1: 30-41 (reprint). 
 16.	Pombo, Olga (2013),**”Epistemología de la Interdisciplinariedad. La Construcción de un nuevo Modelo de Comprensión”**, *Interdisciplina*, Mexico, vol. 1, nº 1, pp. 21-50.
 DOI: http://dx.doi.org/10.22201/ceiich.24485705e.2013.1.46512
