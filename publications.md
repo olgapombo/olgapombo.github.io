@@ -189,13 +189,11 @@ DOI: [10.7413/2724-5470100](https://doi.org/10.7413/2724-5470100).
 3. Pombo, Olga et alii (2024), [**“On the Concept of Resistance. Editorial”**](https://journals.ku.edu/aion/article/view/23014/20807), *Aion. Journal of Philosophy and Science*, nº1, pp. 1-5. 
 4. Pombo, Olga et alii (2024), [**“A fotografia entre a Ciência, a Arte e a Filosofia”**](https://ojs.letras.up.pt/index.php/RL/article/view/14498/12891), *Revelar. Revista de Estudos da Fotografia e Imagem*, vol. 7-8, pp. 13-16
 5. Pombo, Olga (2021), [**Curiosidade e Ciência"**](https://electramagazine.fundacaoedp.pt/index.php/editions/edicao-12/curiosidade-e-ciencia), *Electra*, nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0,Doi: https://doi.org/10.5216/lahrs.v1.70672
-6. [**Curiosity and Science**](https://electramagazine.fundacaoedp.pt/index.php/en/editions/issue-12/curiosity-and-science), *Electra (English version)*, nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0,Doi: https://doi.org/10.5216/lahrs.v1.70672
+6.  Pombo, Olga (2021), [**Curiosity and Science**](https://electramagazine.fundacaoedp.pt/index.php/en/editions/issue-12/curiosity-and-science), *Electra (English version)*, nº 12, pp. 167-180. ISNN: 2184-2018, ISBN: 978-989-54964-4-0,Doi: https://doi.org/10.5216/lahrs.v1.70672
 7. Pombo, Olga (2021), [**“Interdisciplinaridade/Interdisciplinarity”**](https://revistas.ufg.br/lahrs/article/view/70672/37386), *Latin American Human Rights Studies (LAHRS)*, nº 1. ISNN: 2763-8162, DOI: <https://www.revistas.ufg.br/lahrs>
 8. Pombo, Olga (2021), [**“Homens ou Cidadãos. A propósito da Chamada “Educação para a Cidadania”**](https://revistas.ufg.br/lahrs/article/view/69398), *Latin American Human Rights Studies Journal (LAHRS)*, vol.1. ISNN: 2763-8162 
-https://revistas.ufg.br/lahrs/article/view/69398/36782 (full article **here**)
-<https://www.revistas.ufg.br/lahrs/article/view/69398>  (journal with the article pdf)
-9. Pombo, Olga (2020), **“Arbitrary Claim Difficulties. One example"**, *Mana Platform*, <https://mana.net/11085>
-10. Pombo, Olga (2020), **“Leibniz and the Idea of Universal Machine”**, *Mana Platform*, <https://mana.net/12861> 
+9. Pombo, Olga (2020), [**“Arbitrary Claim Difficulties. One example"**](https://mana.net/wp-content/uploads/2020/11/Arbitrary-Claim-Difficulties-Mana-Platform.pdf), *Mana Platform* (<https://mana.net/11085>) 
+10. Pombo, Olga (2020), [**“Leibniz and the Idea of Universal Machine”**](https://mana.net/12861), *Mana Platform* (<https://mana.net/12861>). 
 11. Pombo, Olga (2019), **“Modelos. Um Lugar quase Imperceptível da relação Ciência e Arte”**, *Revista Portuguesa de Filosofia*, vol. 75, nº 4, pp. 2155-2170. DOI https://doi.org/10.17990/RPF/2019_75_4_2155
 12.	Pombo, Olga (2018), **“Dilemas de la Ensenhanza de la Filosofia”** (Dilemmas of Teaching Philosophy”), *ArteFaCTos. Revista de Estudios sobre la Ciência y la Tecnologia*, Salamanca, Spain, vol. 7, nº 1, April, pp. 175-190. DOI: http://dx.doi.org/10.14201/art201871175190.
 13.	Pombo, Olga (2015), **"Metaphysical and Epistemological Challenges. Introduction to the Axiomates special issue"**, *Axiomathes*, vol. 25, nº 1: 1-3 (March). 
