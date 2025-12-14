@@ -167,8 +167,8 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 
 ### Dissertations  
-* Pombo, Olga (1986) - [Leibniz e o Problema de uma Língua Universal](https://webpages.ciencias.ulisboa.pt/~ommartins/leibniz/leibnizcont.htm), Master dissertation in “Modern Philosophy” Faculty of Social and Human Sciences, New University of Lisbon)
-* Pombo, Olga (1998) - [Unidade da Ciência e Configuração Disciplinar dos Saberes. Contributos para uma Filosofia do Ensino](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/tese.htm), PhD dissertation in “History and Philosophy of Education”, University of Lisbon)
+* Pombo, Olga (1986) - *Leibniz e o Problema de uma Língua Universal*, Master dissertation in “Modern Philosophy” Faculty of Social and Human Sciences, New University of Lisbon) ([table of contents](https://webpages.ciencias.ulisboa.pt/~ommartins/leibniz/leibnizcont.htm))
+* Pombo, Olga (1998) - *Unidade da Ciência e Configuração Disciplinar dos Saberes. Contributos para uma Filosofia do Ensino*, PhD dissertation in “History and Philosophy of Education”, University of Lisbon) ([summary](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/tese.htm))
 
 
 ### Books (Author)
