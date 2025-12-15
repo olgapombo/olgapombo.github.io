@@ -520,7 +520,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 
 
 
-### Scholar and Media Reception
+## Scholar and Media Reception
 
 * António Guerreiro (1998), review of the book: ["Olga Pombo, Leibniz e o Problema de uma Língua Universal](https://arquivo.pt/wayback/20081022125858/http:/aeiou.primeirasedicoes.expresso.pt/ed1342/c251.asp), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997, 322 págs., in *Expresso – Cartaz*, 18.07.1998 
 * M.J.C. (2000), review of the book: "Olga Pombo, Quatro Textos Excêntricos: Hannah Arendt, Eric Weil, Bertrand Russell e Ortega y Gasset", Relógio d’Água, 2000, in *Expresso – Cartaz*, 02.09.2000
@@ -539,7 +539,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Marcos António Pires, review of the book: ["Olga Pombo, O Insuportável Brilho da Escola"](https://www.isciweb.com.br/revista/2374), in *Revista ISCI, Revista Científica do Instituto Saber Ciências Integradas*, Brazil, Vol. 8(2), May 2021, ISSN 2446-8436 [(link)](https://www.isciweb.com.br/revista/2374)
 
 
-### Honours, Awards and Public Distinctions
+## Honours, Awards and Public Distinctions
 
 * *Inaugural holder of the Leopoldo Zea Latin-American Chair of Philosophy and Epistemology*, Federal University of Latin-American Integration (UNILA), Brazil (2010) [(link)](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/)
 * *Selected as one of the [100 Woman in Science](https://www.cienciaviva.pt/divulgacao-cientifica/mulheresnaciencia/dia-internacional-da-mulher/2016) by Ciencia Viva*, National Agency for Scientific and Technological Culture of Portugal (March, 2016).   [(Women in Science book)](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/), [(Olga Pombo’s page)](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295) 
@@ -551,7 +551,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * *Celebrating Women Who Inspire*, tribute event integrated in the “International Day of Women and Girls in Science”, organized by ARMA-Sci, Agrupamento de Escolas Gomes Teixeira, Câmara Municipal de Armamar, Centro Interpretativo da Mulher Duriense, 21 February 2024.
 
 
-### Languages
+
 ## Languages
 
 * *Portuguese* – native
