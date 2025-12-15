@@ -519,6 +519,85 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
 
 
+
+### Research 
+
+**Research Units**
+* Founder of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL), a research unit funded by the Portuguese Foundation for Science and Technology (FCT), in 2003.
+* Scientific coordinator of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL), since 2003 up to January 2017.
+* Integrated Member of the “Research Center for Philosophy of Science of the University of Lisbon” (CFCUL) (2003-2024)
+* Collaborator of the “Center of Philosophy University of Lisbon”, Faculdade de Letras, University of Lisbon (1996-2002).
+* Integrated member of the “Research Center in Education” (CIEFCUL), Faculdade de Ciencias, University of Lisbon (1994 - 2003)
+
+**Coordination of Research Projects**
+* Coordinator and PI of the FCT Research Project “From Encyclopedia to Hypertext>, POCTI/FIL/36357/2000 (1999-2002).
+* Coordinator and PI of the FCT Research Project “Scientific Culture. Conceptual Migrations and Social Contaminations”  POCTI/FIL/48133/2002 (2003-2006).
+* Coordinator an PI of the FCT International Research Project “Image in Science and Art”, PTDC/EAT/64201/2006, (2007-2012).
+* Coordinator and PI of the International Research Project “Universal Logics and Unity of Science” (CFCUL/University of Sevilla), funded by CRUP-Acções integradas, (2008-2010), 
+* Coordinator and PI of the International Research Project “Abduction and Scientific Discovery”, CFCUL/Madrid Complutense University, funded by CRUP-Acções integradas, (2010-2012).
+* Coordinator and PI of the International Research Project “Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention”, CFCUL / University of Sevilla, funded by CRUP-Acções integradas, (2012-2013).
+* Co-coordinator of the International Research Project “p” (2012), AppEEL - Applied Evolutionary Epistemology Lab, funded by the John Templeton Foundation
+* Coordinator of the CFCUL project “Plato’s Protagoras” (2012-2014) 
+* Coordinator of the CFCUL project “Rousseau and the Sciences” (2012) 
+* Coordinator and PI of the Project “Afinal o que é a Ciência? / After all, what is Science?”, funded by Ciência Viva (National Agency for the Defense of the Scientific and Technological Culture), (2013-2014) 
+
+**Leadership of Research Groups (RG) and Thematic Lines (TL)**
+* Head of the CFCUL Research Group (RG) “Unity of Science”, (2013-2015
+* Head of the CFCUL Research Group (RG) “Epistemology and Methodology” (2015/March 2016).
+* Head of the CFCUL Thematic Line (TL) “Unity of Science and Interdisciplinarity” (2015-2016) (link)
+* Head of the CFCUL Transversal Interdisciplinary Pole (PIT) “Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities” (2017- 2022). (link)
+
+**Associate Researcher and Project Team Member**
+* Co-founder (with Joâo Lopes Alves, Zaza Carneiro de Moura, Ana Figueiredo and Filomena Mölder) of the research project Jean-Jacques Rousseau, Portuguese Society for Philosophy (1977 - 1979).
+* Co-founder (with Teresa Levy and Henrique Guimarães) of the research project Mathesis, Calouste Gulbenkian Foundation (1989-1995) (link)
+* Member of the International Research Project "Leibniz the Polemicist", Institute for Advanced Studies, Hebrew University of Jerusalem, Israel (head by Marcelo Dascal) (1994-1998).
+* Member of the research project O Ensino na Faculdade de Ciencias (Teaching at the FCUL), CIE-FCUL (head by Maria Odete Valente) (1995-1998).
+* Member of the integrated research project, A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais (The University of Lisbon. From the Idea of University to Institutional Practices), Rectory of the University of Lisbon (head by Maria Odete Valente) (1997-1999).
+* Associated Researcher of the International Project « La Science dans ses Contextes», Maison de Sciences Humaines du Nord-Pas de Calais, Université de Lille III, France (head by Shahid Rahman) (2004-2006).
+* Associated Researcher of the international project «Le Rôle de la Micro-Histoire», Université de Lille III, France (head by Shahid Rahman) (2006-2008).
+* Associated Researcher of the international project «La Contextualization des Catégories de la Pensée Scientifique» Université de Lille III, France (head by Shahid Rahman), (2006-2008).
+* Associated Researcher of the international project «Logiques de la Ficcion», Université de Lille III, France (head by Shahid Rahman) (2006-2008).
+* Member of the research project Poincaré Filósofo da Ciência, (Poincaré: Philosopher of Science) CFCUL, FCT (head by António Franco Oliveira) (2007-2010).
+* Member of the research project Problemas Filosóficos da Física Quântica (Philosophical Problems of Quantum Physics), CFCUL, FCT (head by José Croca) (2007-2010).
+* Associated Researcher of the research project “Imag(in)ing the Nano-scale: Interactions between Science and Art”, University of Bergen, Centre for the Studies of the Sciences and Humanities (head by Rasmus Tore Slaattelid), (2009-2011).
+* Associated Researcher of the international project - FP7, European Union, “Observatory Nano” (head by Mark Morrison (2009-2011).
+* Member of the research project The Vienna Papers of Delfim Santos and the Philosophy of Science in Portugal, CFCUL (head by Filipe D. Santos) (2011-2012).
+* Member of the Lisbon Applied Evolutionary Epistemology Lab, CFCUL (head by Nathalie Gontier)(2012-2016).
+* Member of the Science, Art, Philosophy Lab (Sap-Lab), CFCUL (head by Catarina Nabais) (2014 – 2022) (link).
+* Member of the management council of the Cost Action INTREPID - Interdisciplinarity in research programming and funding cycles, EU Framework Program Horizon 2020 (2015-2017).
+* Member of the international project “Complejidad y filosofía natural en el cruce de arte y Ciência / Complexity and Natural Philosophy in the crossing of art and science”, PAPIIT, Mexico (head by María Antonia González Valerio) (2015-2017).
+
+
+## **Scientific Societies**
+
+* Member of the Board of Directors, Associação Bento de Jesus Caraça (2025–present)
+* Member of the General Assembly Board, Sociedade Portuguesa de Lógica (2025–present)
+* President of the General Assembly Board, Sociedade Portuguesa de Lógica (2022–2025)
+* Founding Member, Sociedade Portuguesa de Lógica (established January 2022)
+* Founding Member, Société de Philosophie des Sciences, France (2002)
+* Member of the Advisory Board, International Association for the Study of Controversies (IASC) (2016–present)
+* Member of the Administrative Board, Société de Philosophie des Sciences (2012–2015)
+* Member, Association for Interdisciplinary Studies (AIS), USA (since 2019)
+* Member, AMONET – Associação Portuguesa de Mulheres Cientistas, Lisbon, Portugal (since 2019)
+* Member, Associação Bento de Jesus Caraça, Lisbon (2018–present)
+* Member, SWIP CH – Scientific Society for Women in Philosophy, Switzerland (since 2017)
+* Member, Association Computability in Europe (CiE), Leeds, UK (since 2016)
+* Member, International Association for the Study of Controversies (IASC) (since 2014)
+* Member, European Philosophy of Science Association (EPSA), Austria (2000)
+* Member, Associação Agostinho da Silva, Lisbon, Portugal (since 1996)
+* Member, Société d’Histoire et d’Épistémologie des Sciences du Langage (S.H.E.S.L.), Paris, France (1990)
+* Member, Henry Sweet Society for the History of Linguistic Ideas, Oxford, UK (since 1989)
+* Member, Gesellschaft Studienkreis der Sprachwissenschaft, Münster, Germany (since 1987)
+* Member of the Directory Board, Sociedade Portuguesa de Filosofia, Lisbon (1983–1999)
+* Member, Sociedade Portuguesa de Filosofia, Lisbon (since its foundation in 1977)
+
+**Networks**
+ * Member, [RED Iberoamericana Leibniz](http://leibniz.es/red-iberoamericana-leibniz), Granada, Spain (2003–present)  
+ * Member, [POND Network – Philosophy of Science Around the Mediterranean](https://pondposmed.wordpress.com/) (2017–present) 
+ * Member, [International Research Network “Système d'Information en Philosophie des Sciences” (SIPS)](https://mshe.univ-fcomte.fr/sips), coordinated by Thierry Martin (2007–2020) 
+ * Member of the Scientific Committee, Système d’Information en Philosophie des Sciences (SIPS), under the direction of Thierry Martin and the coordination of the Centre de Documentation et de Bibliographie Philosophique, Maison des Sciences de l’Homme Claude-Nicolas Ledoux (UMS 27), France (2008–2010)
+
+
 ## Scholar and Media Reception
 
 * António Guerreiro (1998), review of the book: ["Olga Pombo, Leibniz e o Problema de uma Língua Universal](https://arquivo.pt/wayback/20081022125858/http:/aeiou.primeirasedicoes.expresso.pt/ed1342/c251.asp), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997, 322 págs., in *Expresso – Cartaz*, 18.07.1998 
