@@ -498,7 +498,6 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 
 
 ### Member of Journal Boards 
-
 * Member of the editorial board of the journal [***Latin American Human Rights Studies*** (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021). 
 * Member of the international editorial board of the journal ***Currículo, Cultura e Identidade***, Unesp. Sao Paulo, Brazil (since 2020)
 * Member of the scientific board of the journal [***Interdisciplinaridade, GEPI - Grupo Estudos e Pesquisa em Interdisciplinaridade***](https://revistas.pucsp.br/index.php/interdisciplinaridade/about/editorialTeam) (ISSN 2179-0094), PUC-SP, Brazil (since 2017).
@@ -513,7 +512,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the editorial board of the journal ***Revista de Educação***, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
 * Member of the editorial board of the journal ***Filosofia***, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
-**Member of Book Series Editorial Boards**
+### Member of Book Series Editorial Boards
 * Processos Formativos, Editora FI, Porto Alegre, Brazil (editorial board since 2017)
 * Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
@@ -537,6 +536,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * David Ludwig (2015), review of the book: "John Symons, Olga Pombo, and Juan Manuel Torres (eds.). 2011. Otto Neurath and the Unity of Science". Dordrecht: Springer, in *Lato Sensu Revue de la Société de Philosophie des Sciences* 2(1):14-16, DOI:10.20416/lsrsps.v2i1.163 [(link)](https://www.researchgate.net/publication/304698273_Compte-rendu_Otto_Neurath_and_the_Unity_of_Science)
 * Medina, Patricia; Pereira, M. Lustosa; Paiva, José Feijó, [Estudo da ciência da educação fundamentada na interdisciplinaridade por Olga Pombo: study of the science of education based on interdisciplinarity by Olga Pombo: a review study](https://periodicos.fclar.unesp.br/iberoamericana/article/view/12113/8771), RIAEE – Revista Ibero-Americana de Estudos em Educação, Araraquara, 14 (4), pp. 2287-2300 (out/dez,2019), e-ISSN: 1982-5587. DOI: https://doi.org/10.21723/riaee.v14i4.12113
 * Marcos António Pires, review of the book: ["Olga Pombo, O Insuportável Brilho da Escola"](https://www.isciweb.com.br/revista/2374), in *Revista ISCI, Revista Científica do Instituto Saber Ciências Integradas*, Brazil, Vol. 8(2), May 2021, ISSN 2446-8436 [(link)](https://www.isciweb.com.br/revista/2374)
+
 
 
 ## Honours, Awards and Public Distinctions
