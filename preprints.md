@@ -71,7 +71,7 @@ The video is divided in 3 parts:
 2.	[**Corpo FRAGMENTO (Body Fragment)**](http:// Lisboncisa.fc.ul.pt/videos/v33b.htm)
 3.	[**Corpo ALGORITMO (Body Algorithm)**](http:// Lisboncisa.fc.ul.pt/videos/v33c.htm) 
 
-* Pombo, Olga, [**Fernando Gil. Filosofo do conhecimento](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
+* Pombo, Olga, [**Fernando Gil. Filosofo do conhecimento**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
 
 * Pombo, Olga, [**Recordar Agostinho da Silva: 10 anos Depois**](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  (1999)
 
