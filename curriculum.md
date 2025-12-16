@@ -396,6 +396,16 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 5.	Pombo, Olga (1984), **Herbert H. Knecht. ‘La Logique chez Leibniz’**, *Análise*, nº 1, Lisboa, Gec, pp. 231-239.
 
 
+### Room Texts for Exhibitions
+* 1. Pombo, Olga (2019), [**A Bioarte de Isa Duarte Ribeiro**](https://www.researchgate.net/publication/338476516_A_Bioarte_de_Isa_Duarte_Ribeiro_BioArt_of_Isa_Duarte_Ribeiro), 
+*(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
+* 2. Pombo, Olga (2004), **From Thomas More to Rousseau**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+* 3. Pombo, Olga (2004), **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+* 4. Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
+* 5. Pombo, Olga (2003), **Enciclopédia, Hipertexto e Condição Humana**, *A Condição Humana* exhibition by Rodrigo Vilhena, Lisboa.
+* 6. Pombo, Olga (1996), **Nenhum Vento**, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
+
+
 ### Scholar Brochures 
  1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.), (1990) **Boletim Bibliográfico I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 44162.
 2.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1991) , **Boletim Bibliográfico II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 30 pp. DL: 51942/91.
@@ -407,18 +417,24 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 11. Olga Pombo (ed.) (2001), [**Educar / Ensinar. Materiais de estudo**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/caderno6.jpg), (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), *6º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 84 pp.
 12. Olga Pombo (ed.) (2005), [**Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/capa1.jpg),(anthology with introduction and revised translation), *7º Caderno de História e Filosofia da Educação*, Lisboa: DEFCUL, 40 pp.  
 
-### Room Texts for Exhibitions
-* 1. Pombo, Olga (2019), [**A Bioarte de Isa Duarte Ribeiro**](https://www.researchgate.net/publication/338476516_A_Bioarte_de_Isa_Duarte_Ribeiro_BioArt_of_Isa_Duarte_Ribeiro), 
-*(per)cursos* exhibition  by Isa Duarte Ribeiro, Mora: Casa da Cultura. 
-* 2. Pombo, Olga (2004), **From Thomas More to Rousseau**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-* 3. Pombo, Olga (2004), **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-* 4. Pombo, Olga (2004), **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, *Islands of Utopia exhibition*, Lisboa: Livraria Ler Devagar. 
-* 5. Pombo, Olga (2003), **Enciclopédia, Hipertexto e Condição Humana**, *A Condição Humana* exhibition by Rodrigo Vilhena, Lisboa.
-* 6. Pombo, Olga (1996), **Nenhum Vento**, *Olhares Soltos* exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
-  
+
+## Editorial activity
+
+
+### Journal Editor
+* Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
+* Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
+* Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
+
+
+### Journal Guest Editor
+* Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
+
+
 ### Book Series Editor 
-* [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
+* Direction of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
 	1) *As cidades, os castelos e a onda: imagens, diagramas e metáforas entre Calvino, Escher e Bohr*, by João Araújo, 2010;
 	2) *Neuroaesthetics : can science explain art?*, by Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010;
 	3) *As Imagens com que a Ciência se Faz*, by Olga Pombo, Silvia di Marco (eds), 2011;
@@ -432,7 +448,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
   	11) *Modelos e imagens*, by Olga Pombo (ed), 2018;
     12) *CorpoImagem : representações do corpo na ciência e na arte*, by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes (eds), 2019.
   	         
-* Direction of the book series [**Cadernos de Filosofia da Ciência**](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm), Lisboa: CFCUL (13 volumes published). see also [**here**](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos) 
+* Direction of the book series [**Cadernos de Filosofia da Ciência**](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm), Lisboa: CFCUL (13 volumes published). see also [**here**](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos)
 	1. *Ciência e Género. Quatro Textos de Quatro Mulheres*, by Teresa Levy, Clara Queiroz (eds), 2005,
 	2. *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, by Augusto J. Franco de Oliveira (ed), 2006.
 	3. *As Cartas de Problemática de António Sérgio*, by Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil (eds), 2006.
@@ -447,7 +463,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	12. *Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré", Isabel Serra, María de Paz (eds), 2012
 	13. *As intuições atomísticas (Ensaio de Classificação)*, Lídia Queiroz (ed), 2015.
 
-* [**Documenta**](https://cfcul.blogspot.com/p/coleccao-documenta.html), Lisboa: CFCUL (10 published volumes). 
+* Direction of the book series [**Documenta**](https://cfcul.blogspot.com/p/coleccao-documenta.html), Lisboa: CFCUL (10 published volumes). 
 	1. *Abduction and the Process of Scientific Discovery*, by Olga Pombo; Alexander Gerner (eds.), 2007
 	2. *Lógica e Filosofia da Ciência*, by Olga Pombo; Ángel Nepomuceno (eds.) 2009, 
 	3. *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, by António Fernando Cascais, José Luís Câmara Leme e Nuno Nabais (eds.), 2009,
@@ -459,7 +475,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 	9. *Philosophy of Science in the 21st Century. Challenges and Tasks*, by Olga Pombo;  Gil Santos (eds.), 2016,
 	10. *Epistemologia, Lógica e Linguagem*, by Olga Pombo, Ana Pato, Juan Redmond (eds), 2019
 
- * [**Theses**](https://cfcul.blogspot.com/p/publicacoes.html), Lisboa: CFCUL (6 published volumes).  
+ * Direction of the book series [**Theses**](https://cfcul.blogspot.com/p/publicacoes.html), Lisboa: CFCUL (6 published volumes).  
 	1. *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências (Oparin's Theory on the Origin of Life: An Approach within the Framework of the History and Philosophy of Science*), by Helena Abreu, 2007,
 	2. *A imagem-sensação: Deleuze e a pintura (The image-sensation: Deleuze and painting)*, by Nuno Carvalho, 2009,
 	3. *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler (Metamorphosis of the concept of abduction in Peirce. The example of Kepler)*, by Ana Paula Silva, 2009.
@@ -474,27 +490,6 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
   3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, by Nathalie Gontier (ed), 2015
   4.	Cultural Phylogenetics. Concepts and Applications in Archaeology, by Larissa Mendoza Straffon (ed), 2016
   5.	Evolution of Primate Social Cognition, by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo (eds), 2018
-
-* [**Cadernos de História e Filosofia da Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm) (7 published volumes)
-  
-   1.	*McLuhan. A Escola e os Media / McLuhan. School and Media* (anthology of texts by M. McLuhan, translated and prefaced, 1994
-   2.	*Dois Textos sobre Educação. Hannah Arendt e Eric Weil / Two Texts on Education. Hannah Arendt and Eric Weil* (anthology of texts by Hannah Arendt and Eric Weil, translated and prefaced), 1995.
-   3.	*A Invenção da Escola na Grécia. Materiais de Estudo / The Invention of School in Greece. Study Materials* (anthology of texts on the history of Athens’ educational institutions, translated and prefaced), 1996
-   4.	*Museu de Alexandria (Museum of Alexandria)*,1997
-   5.	*Utopia e Educação / Utopia and Education* (anthology of texts translated and commented), 1997
-   6.	*Educar. Ensinar. Materiais de estudo / Educate. Teaching. Study Materials* (anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), (2001)
-   7.	*Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset /Three Texts on Education for a Difficult World* (anthology with introduction and revised translation, (2005)
-
-
-### Journal Editor
-* Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
-* Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
-* Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
-
-
-### Journal Guest Editor
-* Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-* Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
 
 
 ### Member of Journal Boards 
@@ -511,6 +506,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the editorial board of the journal ***Argumento. Revista Quadrimestral de Filosofia***, edited by Editora Cosmos, Lisboa (1990-1993).  
 * Member of the editorial board of the journal ***Revista de Educação***, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
 * Member of the editorial board of the journal ***Filosofia***, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
+
 
 ### Member of Book Series Editorial Boards
 * Processos Formativos, Editora FI, Porto Alegre, Brazil (editorial board since 2017)
