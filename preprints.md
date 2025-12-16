@@ -4,40 +4,7 @@ title: Preprints
 # Preprints, 
 
 
-## Preprints, Work in Progress
 
-* **Filosofia e práticas discursivas no Protágoras de Platão**
-* **A infinitude da queda no 'Teeteto' de Platão**
-* **Por que é que Rousseau não é um utopista mas parece?**
-* **Homens ou cidadãos. Rousseau e os direitos humanos**
-* **As ciências das formas e as formas das ciências**
-* **Cartografias do conhecimento e desafios contemporaneos**
-* **Mapas disciplinares e cartografias do saber**
-* **O valor cognitivo da árvore**
-* **Magia e esplendor dos livros**
-* **Oralidade, escrita e tecnologia**
-* **A leitura no mundo de ontem e no mundo de amanhã**
-* **Os lugares da ciência e da filosofia**
-* **Da universidade medieval a´ universidade mundial electrónica**
-* **Escolas, museus e bibliotecas**
-* **De Plínio à internet / Enciclopédia e internet**
-* **Filosofia e matemática – Da mathesis universalis a Lewis Carroll**
-* **Filosofia, matemática e língua natural**
-* **O que é isso do pensamento cego?**
-* **Leibniz e a ideia de máquina matemática**,
-* **O Lugar de Leibniz na História da Lógica**,
-* **Por que não somos ainda leibnizianos**
-* **Ciencia, tecnociencia e pseudo ciencia**
-* **Descontinuidade e novidade em Bachelard**
-* **Mistérios da Criação**
-* **Para uma Cartografia do Conceito de Criação**
-* **On creation in science and art**
-* **Ciência e Arte (interacções, aproximações e distancias)**
-* **Science and art. Variations upon a common ground**
-* **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**
-* **Model’ s nearness to the work of art**
-* **A imagem na ciencia e e na arte**
-* **Imagem e diagrama**
 
 ## Hypertexts, PowerPoints and webpages 
 ## Power points
@@ -97,7 +64,40 @@ Recolha de trabalhos, a maioria realizados por alunos de licenciatura das cadeir
 * [**Articulações da Matemática** (Articulations of Mathematics)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)
   
 
+## Preprints, Work in Progress
 
+* **Filosofia e práticas discursivas no Protágoras de Platão**
+* **A infinitude da queda no 'Teeteto' de Platão**
+* **Por que é que Rousseau não é um utopista mas parece?**
+* **Homens ou cidadãos. Rousseau e os direitos humanos**
+* **As ciências das formas e as formas das ciências**
+* **Cartografias do conhecimento e desafios contemporaneos**
+* **Mapas disciplinares e cartografias do saber**
+* **O valor cognitivo da árvore**
+* **Magia e esplendor dos livros**
+* **Oralidade, escrita e tecnologia**
+* **A leitura no mundo de ontem e no mundo de amanhã**
+* **Os lugares da ciência e da filosofia**
+* **Da universidade medieval a´ universidade mundial electrónica**
+* **Escolas, museus e bibliotecas**
+* **De Plínio à internet / Enciclopédia e internet**
+* **Filosofia e matemática – Da mathesis universalis a Lewis Carroll**
+* **Filosofia, matemática e língua natural**
+* **O que é isso do pensamento cego?**
+* **Leibniz e a ideia de máquina matemática**,
+* **O Lugar de Leibniz na História da Lógica**,
+* **Por que não somos ainda leibnizianos**
+* **Ciencia, tecnociencia e pseudo ciencia**
+* **Descontinuidade e novidade em Bachelard**
+* **Mistérios da Criação**
+* **Para uma Cartografia do Conceito de Criação**
+* **On creation in science and art**
+* **Ciência e Arte (interacções, aproximações e distancias)**
+* **Science and art. Variations upon a common ground**
+* **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**
+* **Model’ s nearness to the work of art**
+* **A imagem na ciencia e e na arte**
+* **Imagem e diagrama**
 
 
 
