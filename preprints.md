@@ -50,13 +50,13 @@ title: Preprints
 ## Hypertexts
 
 * Pombo, Olga (2009), **A Ideia de Enciclopedia (The Idea of Encyclopaedia)** - Hypertext on the encyclopaedic project, its most significant historical developments and the specificity of philosophical encyclopaedia.
-  1. [O Projecto Enciclopedista. Palavra, género e modalidades (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
-  2. [Para uma História da Ideia de Enciclopedia (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
-  3. [Enciclopedia filosófica (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
+  1. [**O Projecto Enciclopedista. Palavra, género e modalidades** (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
+  2. [**Para uma História da Ideia de Enciclopedia (For the History of the Idea of Encyclopaedia**](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
+  3. [**Enciclopedia filosófica (Philosophical Encyclopaedia)**](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
 
-* Pombo, Olga, [**Lugares da Escola (Places of School**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
+* Pombo, Olga, [**Lugares da Escola (Places of School)**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
 
-* Pombo, Olga, [**Apontamentos sobre Utopia (Notes on Utopia**](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
+* Pombo, Olga, [**Apontamentos sobre Utopia (Notes on Utopia)**](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
 
 
 ## Image Platforms 
