@@ -1,15 +1,15 @@
----
-title: Hypertexts, PowerPoints and webpages
----
 
-## Power points
+## Webpages, PowerPoints, Hypertexts, Image platforms, 
+
+
+### Power points
 
 •	Pombo, Olga, [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (power-point 2013) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) or [here](http://slideplayer.com.br/slide/1263976) (with text transcription) 
 
 •	Pombo, Olga, [**Lugares da Filosofia**](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm) (power-point 2005) 
 
 
-## Hypertexts
+### Hypertexts
 
 * Pombo, Olga (2009), **A Ideia de Enciclopedia (The Idea of Encyclopaedia)** - Hypertext on the encyclopaedic project, its most significant historical developments and the specificity of philosophical encyclopaedia.
   1. [**O Projecto Enciclopedista. Palavra, género e modalidades** (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
@@ -25,14 +25,14 @@ title: Hypertexts, PowerPoints and webpages
 * Pombo, Olga, [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
 
 
-## Image Platforms 
+### Image Platforms 
 
 •	Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) - Image platform and archive intending to question the philosophical, scientific and artistic nature of image.
 
 * Pombo, Olga, [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
 
 
-## Webpages and videos 
+### Webpages and videos 
 * Pombo, Olga (coord), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, put forward with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
 The video is divided in 3 parts: 
 1.	[**Corpo PAISAGEM. Body Landscape](http://Lisboncisa.fc.ul.pt/videos/v33.htm)** 
@@ -45,7 +45,7 @@ The video is divided in 3 parts:
 
 * Pombo, Olga, [**Biobibliografia de Jean-Jacques Rousseau**](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) - Webpage on Rousseau's biobibliography (1979)
 
-## Work in Progress
+### Work in Progress
 (Recolha de trabalhos, a maioria realizados por alunos de licenciatura das cadeiras de "História e Filosofia da Educação" e "Seminário Temático" que leccionei na Faculdade de Ciências da Universidade de Lisboa entre os anos e  1992-2006 e 1999-2004. A seleccão, orientação e revisão, bem assim como o enquadramento e edição dos trabalhos assinados pelos alunos (e, em cada caso, devidamente identificados) é da minha responsabilidade.   
 
 * [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
