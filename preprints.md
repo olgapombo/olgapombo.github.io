@@ -49,13 +49,21 @@ title: Preprints
 
 ## Hypertexts
 
+* Pombo, Olga (2009), **A Ideia de Enciclopedia (The Idea of Encyclopaedia)** - Hypertext on the encyclopaedic project, its most significant historical developments and the specificity of philosophical encyclopaedia.
+* 	[O Projecto Enciclopedista. Palavra, género e modalidades (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
+* 	[Para uma História da Ideia de Enciclopedia (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
+* 	[Enciclopedia filosófica (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
+
 * Pombo, Olga, [**Lugares da Escola (Places of School**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
 
 * Pombo, Olga, [**Apontamentos sobre Utopia (Notes on Utopia**](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
 
+
+## Image Platforms 
+
 * Pombo, Olga, [**Representações da Leitura (Representations of reading**](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
 
- 
+
 ## Webpages and videos 
 * Pombo, Olga (coord), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, put forward with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
 The video is divided in 3 parts: 
@@ -63,11 +71,11 @@ The video is divided in 3 parts:
 2.	[**Corpo FRAGMENTO (Body Fragment)**](http:// Lisboncisa.fc.ul.pt/videos/v33b.htm)
 3.	[**Corpo ALGORITMO (Body Algorithm)**](http:// Lisboncisa.fc.ul.pt/videos/v33c.htm) 
 
-* Pombo, Olga, **Recordar Agostinho da Silva: 10 anos Depois**  (1999)
-http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm
+* Pombo, Olga, [**Fernando Gil. Filosofo do conhecimento](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
 
+* Pombo, Olga, [**Recordar Agostinho da Silva: 10 anos Depois**](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  (1999)
 
-# Work in Progress
+## Work in Progress
 Recolha de trabalhos, a maioria realizados por alunos de licenciatura das cadeiras de "História e Filosofia da Educação" e "Seminário Temático" que leccionei na Faculdade de Ciências da Universidade de Lisboa entre os anos e  1992-2006 e 1999-2004. A seleccão, orientação e revisão, bem assim como o enquadramento e edição dos trabalhos assinados pelos alunos (e, em cada caso, devidamente identificados) é da minha responsabilidade.   
 
 * [**Crianças Selvagens**](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
