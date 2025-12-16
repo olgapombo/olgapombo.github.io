@@ -61,7 +61,7 @@ title: Preprints
 
 ## Image Platforms 
 
-* Pombo, Olga, [**Representações da Leitura** (Representations of reading](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
+* Pombo, Olga, [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) (image platform) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
 
 
 ## Webpages and videos 
