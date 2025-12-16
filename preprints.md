@@ -1,5 +1,5 @@
 
-## Webpages, PowerPoints, Hypertexts, Image platforms, 
+## Online Publications and Projects 
 
 
 ### Power points
@@ -18,15 +18,14 @@
  
 * Pombo, Olga (ed) (2002) [**Plato's Protagoras](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm) - Hypertext on Plato’s "Protagoras", translated and commented.
 
-* Pombo, Olga (1995) [**Convite à Leitura de Rousseau**](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm) - Hypertext on Rousseau
+* Pombo, Olga (1995) [**Convite à Leitura de Rousseau**(Invitation to read Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm) - Hypertext on Rousseau
 
 * Pombo, Olga, [**Lugares da Escola** (Places of School)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
 
 * Pombo, Olga, [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
 
 
-### Image Platforms 
-
+### Image Platforms and Archives
 * Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) - Image platform and archive intending to question the philosophical, scientific and artistic nature of image.
 
 * Pombo, Olga, [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
@@ -41,9 +40,9 @@ The video is divided in 3 parts:
 
 * Pombo, Olga, [**Fernando Gil. Filosofo do conhecimento**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
 
-* Pombo, Olga, [**Recordar Agostinho da Silva: 10 anos Depois**](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  (1999)
+* Pombo, Olga, [**Recordar Agostinho da Silva: 10 anos Depois**(•	Remembering Agostinho da Silva: Ten Years Later)](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  (1999)
 
-* Pombo, Olga, [**Biobibliografia de Jean-Jacques Rousseau**](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) - Webpage on Rousseau's biobibliography (1979)
+* Pombo, Olga, [**Biobibliografia de Jean-Jacques Rousseau**(•	Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) - Webpage on Rousseau's biobibliography (1979)
 
 ### Work in Progress
 (Recolha de trabalhos, a maioria realizados por alunos de licenciatura das cadeiras de "História e Filosofia da Educação" e "Seminário Temático" que leccionei na Faculdade de Ciências da Universidade de Lisboa entre os anos e  1992-2006 e 1999-2004. A seleccão, orientação e revisão, bem assim como o enquadramento e edição dos trabalhos assinados pelos alunos (e, em cada caso, devidamente identificados) é da minha responsabilidade.   
@@ -54,44 +53,44 @@ The video is divided in 3 parts:
   
 * [Autores](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/autores.htm>)
   
-* [**Grandes Matemáticos** (Great Mathematitians)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/matematicos.htm)
+* [**Grandes Matemáticos** (Great Mathematicians)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/matematicos.htm)
 
 * [**Articulações da Matemática** (Articulations of Mathematics)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)
   
 
-## Preprints
+## Preprints and Draft Papers
 
-* **Filosofia e práticas discursivas no Protágoras de Platão**
-* **A infinitude da queda no 'Teeteto' de Platão**
-* **Por que é que Rousseau não é um utopista mas parece?**
-* **As ciências das formas e as formas das ciências**
-* **Cartografias do conhecimento e desafios contemporaneos**
-* **Mapas disciplinares e cartografias do saber**
-* **O valor cognitivo da árvore**
-* **Magia e esplendor dos livros**
-* **Oralidade, escrita e tecnologia**
-* **A leitura no mundo de ontem e no mundo de amanhã**
-* **Os lugares da ciência e da filosofia**
-* **Da universidade medieval a´ universidade mundial electrónica**
-* **Escolas, museus e bibliotecas**
-* **De Plínio à internet / Enciclopédia e internet**
-* **Filosofia e matemática – Da mathesis universalis a Lewis Carroll**
-* **Filosofia, matemática e língua natural**
-* **O que é isso do pensamento cego?**
-* **Leibniz e a ideia de máquina matemática**,
-* **O Lugar de Leibniz na História da Lógica**,
-* **Por que não somos ainda leibnizianos**
-* **Ciência, tecnociência e pseudo ciência**
-* **Tempo descontinuo e novidade em Bachelard**
-* **Mistérios da Criação**
-* **Para uma Cartografia do Conceito de Criação**
-* **On creation in science and art**
-* **Ciência e Arte (interacções, aproximações e distancias)**
+* **Filosofia e práticas discursivas no Protágoras de Platão**(Philosophy and Discursive Practices in Plato’s Protagoras)
+* **A infinitude da queda no 'Teeteto' de Platão**(The Infinitude of the Fall in Plato’s Theaetetus)
+* **Por que é que Rousseau não é um utopista mas parece?**(Why Rousseau Is Not a Utopian but Seems to Be)
+* **As ciências das formas e as formas das ciências**(The Sciences of Forms and the Forms of Sciences)
+* **Cartografias do conhecimento e desafios contemporaneos**(Cartographies of Knowledge and Contemporary Challenges)
+* **Mapas disciplinares e cartografias do saber**(Disciplinary Maps and Cartographies of Knowledge)
+* **O valor cognitivo da árvore**(The Cognitive Value of the Tree)
+* **Magia e esplendor dos livros**(Magic and Splendor of Books)
+* **Oralidade, escrita. Uma eloquente revolução tecnológica**(Orality, Writing. An eloquent technological revolution)
+* **A leitura no mundo de ontem e no mundo de amanhã**(Reading in the World of Yesterday and Tomorrow)
+* **Os lugares da ciência e da filosofia**(The Places of Science and Philosophy)
+* **Da universidade medieval a´ universidade mundial electrónica**(From the Medieval University to the Global Electronic University)
+* **Escolas, museus e bibliotecas**(Schools, Museums, and Libraries)
+* **De Plínio à internet / Enciclopédia e internet**(From Pliny to the Internet/Encyclopaedia and Internet)
+* **Filosofia e matemática – Da mathesis universalis a Lewis Carroll**(Philosophy and Mathematics – From *Mathesis Universalis* to LewisCarroll) 
+* **Filosofia, matemática e língua natural**(Philosophy, Mathematics, and Natural Language)
+* **O que é isso do pensamento cego?**(What Is it the Blind Thought?)
+* **Leibniz e a ideia de máquina matemática**(Leibniz and the Idea of a Mathematical Machine),
+* **O Lugar de Leibniz na História da Lógica** (Leibniz’s Place in the History of Logic),
+* **Por que não somos ainda leibnizianos**(Why We Are Not Yet Leibnizians)
+* **Ciência, tecnociência e pseudo ciência**(Science, Technoscience, and Pseudoscience)
+* **Tempo descontinuo e novidade em Bachelard**(Discontinuous Time and Novelty in Bachelard)
+* **Mistérios da Criação**(The Mysteries of Creation)
+* **Towards a Cartography of the Concept of Creation**,
+* **Creation in Science and Art**
+* **Ciência e Arte (interacções, aproximações e distancias)**(Science and Art: Interactions, Approaches, and Distances)
 * **Science and art. Variations upon a common ground**
-* **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**
-* **Model’ s nearness to the work of art**
-* **A imagem na ciencia e e na arte**
-* **Imagem e diagrama**
+* **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**(Science and Art: Admirable Affinities and Sublime Differences)
+* **Model’s nearness to the work of art**
+* **A imagem na ciencia e e na arte**(Image in Science and Art)
+* **Imagem e diagrama**(Image and Diagram)
 
 
 
