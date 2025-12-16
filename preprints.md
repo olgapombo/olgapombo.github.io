@@ -53,6 +53,10 @@ title: Preprints
   1. [**O Projecto Enciclopedista. Palavra, género e modalidades** (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
   2. [**Para uma História da Ideia de Enciclopedia** (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
   3. [**Enciclopedia filosófica** (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
+ 
+* Pombo, Olga (ed) (2002) [**Plato's Protagoras](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm) - Hypertext on Plato’s "Protagoras", translated and commented.
+
+* Pombo, Olga (1995) [**Convite à Leitura de Rousseau**](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm) - Hypertext on Rousseau
 
 * Pombo, Olga, [**Lugares da Escola** (Places of School)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
 
@@ -61,7 +65,9 @@ title: Preprints
 
 ## Image Platforms 
 
-* Pombo, Olga, [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm) Trata-se de coleccionar e colocar, ao lado umas das outras, representações (pictóricas) da leitura / The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
+•	Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) - Image platform and archive intending to question the philosophical, scientific and artistic nature of image.
+
+* Pombo, Olga, [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
 
 
 ## Webpages and videos 
@@ -75,10 +81,12 @@ The video is divided in 3 parts:
 
 * Pombo, Olga, [**Recordar Agostinho da Silva: 10 anos Depois**](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  (1999)
 
+* Pombo, Olga, [**Biobibliografia de Jean-Jacques Rousseau**](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) - Webpage on Rousseau's biobibliography (1979)
+
 ## Work in Progress
 Recolha de trabalhos, a maioria realizados por alunos de licenciatura das cadeiras de "História e Filosofia da Educação" e "Seminário Temático" que leccionei na Faculdade de Ciências da Universidade de Lisboa entre os anos e  1992-2006 e 1999-2004. A seleccão, orientação e revisão, bem assim como o enquadramento e edição dos trabalhos assinados pelos alunos (e, em cada caso, devidamente identificados) é da minha responsabilidade.   
 
-* [**Crianças Selvagens** (Wild Children](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
+* [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
   
 * [**Momentos da Ideia de Escola** (Moments of the Idea of Scholl)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm)
   
