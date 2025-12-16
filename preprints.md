@@ -1,12 +1,7 @@
 ---
-title: Preprints
+title: Hypertexts, PowerPoints and webpages
 ---
-# Preprints, 
 
-
-
-
-## Hypertexts, PowerPoints and webpages 
 ## Power points
 
 •	Pombo, Olga, [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (power-point 2013) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) or [here](http://slideplayer.com.br/slide/1263976) (with text transcription) 
@@ -51,7 +46,7 @@ The video is divided in 3 parts:
 * Pombo, Olga, [**Biobibliografia de Jean-Jacques Rousseau**](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) - Webpage on Rousseau's biobibliography (1979)
 
 ## Work in Progress
-Recolha de trabalhos, a maioria realizados por alunos de licenciatura das cadeiras de "História e Filosofia da Educação" e "Seminário Temático" que leccionei na Faculdade de Ciências da Universidade de Lisboa entre os anos e  1992-2006 e 1999-2004. A seleccão, orientação e revisão, bem assim como o enquadramento e edição dos trabalhos assinados pelos alunos (e, em cada caso, devidamente identificados) é da minha responsabilidade.   
+(Recolha de trabalhos, a maioria realizados por alunos de licenciatura das cadeiras de "História e Filosofia da Educação" e "Seminário Temático" que leccionei na Faculdade de Ciências da Universidade de Lisboa entre os anos e  1992-2006 e 1999-2004. A seleccão, orientação e revisão, bem assim como o enquadramento e edição dos trabalhos assinados pelos alunos (e, em cada caso, devidamente identificados) é da minha responsabilidade.   
 
 * [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
   
@@ -64,12 +59,11 @@ Recolha de trabalhos, a maioria realizados por alunos de licenciatura das cadeir
 * [**Articulações da Matemática** (Articulations of Mathematics)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)
   
 
-## Preprints, Work in Progress
+## Preprints
 
 * **Filosofia e práticas discursivas no Protágoras de Platão**
 * **A infinitude da queda no 'Teeteto' de Platão**
 * **Por que é que Rousseau não é um utopista mas parece?**
-* **Homens ou cidadãos. Rousseau e os direitos humanos**
 * **As ciências das formas e as formas das ciências**
 * **Cartografias do conhecimento e desafios contemporaneos**
 * **Mapas disciplinares e cartografias do saber**
@@ -87,8 +81,8 @@ Recolha de trabalhos, a maioria realizados por alunos de licenciatura das cadeir
 * **Leibniz e a ideia de máquina matemática**,
 * **O Lugar de Leibniz na História da Lógica**,
 * **Por que não somos ainda leibnizianos**
-* **Ciencia, tecnociencia e pseudo ciencia**
-* **Descontinuidade e novidade em Bachelard**
+* **Ciência, tecnociência e pseudo ciência**
+* **Tempo descontinuo e novidade em Bachelard**
 * **Mistérios da Criação**
 * **Para uma Cartografia do Conceito de Criação**
 * **On creation in science and art**
