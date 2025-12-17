@@ -16,19 +16,19 @@
   2. [**Para uma História da Ideia de Enciclopedia** (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
   3. [**Enciclopedia filosófica** (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
  
+* Pombo, Olga (2004), [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
+
 * Pombo, Olga (ed) (2002) [**Plato's Protagoras](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm) - Hypertext on Plato’s "Protagoras", translated and commented.
 
 * Pombo, Olga (1995) [**Convite à Leitura de Rousseau**(Invitation to read Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm) - Hypertext on Rousseau
-
-* Pombo, Olga, [**Lugares da Escola** (Places of School)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
-
-* Pombo, Olga, [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
 
 
 ### Image platforms and archives
 * Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) - Image platform and archive intending to question the philosophical, scientific and artistic nature of image.
 
-* Pombo, Olga, [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
+* Pombo, Olga (2006), [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
+
+* Pombo, Olga (2003), [**Lugares da Escola** (Places of School)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
 
 
 ### Webpages and videos 
@@ -39,14 +39,16 @@ The video is divided in 3 parts:
   2.	[**Corpo FRAGMENTO. Body Fragment](http://Lisboncisa.fc.ul.pt/videos/v33b.htm)**
   3.	[**Corpo ALGORITMO. Body Algorithm](http://Lisboncisa.fc.ul.pt/videos/v33c.htm)** 
 
-* Pombo, Olga, [**Fernando Gil. Filosofo do conhecimento**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
+* Pombo, Olga (2006), [**Fernando Gil. Filosofo do conhecimento**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
 
-* Pombo, Olga, [**Recordar Agostinho da Silva: 10 anos Depois**(•	Remembering Agostinho da Silva: Ten Years Later)](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  (1999)
+* Pombo, Olga (1999), [**Recordar Agostinho da Silva: 10 anos Depois**(•	Remembering Agostinho da Silva: Ten Years Later)](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  
 
-* Pombo, Olga, [**Biobibliografia de Jean-Jacques Rousseau**(•	Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) - Webpage on Rousseau's biobibliography (1979)
+* Pombo, Olga (1989), [**Biobibliografia de Jean-Jacques Rousseau**(•	Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) - Webpage on Rousseau's biobibliography (1979)
+
 
 ### Curated student works  
-(Selection of works, most of them produced by undergraduate students in the courses “History and Philosophy of Education” and “Thematic Seminar,” which I taught at the Faculty of Sciences of the University of Lisbon between 1992–2006 and 1999–2004. The selection, guidance, supervision, and revision, as well as the contextualization and editing of the works signed by the students (each duly identified), were under my responsibility).
+
+*Selection of works, most of them produced by undergraduate students in the courses “History and Philosophy of Education” and “Thematic Seminar,” which I taught at the Faculty of Sciences of the University of Lisbon between 1992–2006 and 1999–2004. The selection, guidance, supervision, and revision, as well as the contextualization and editing of the works signed by the students (each duly identified), were under my responsibility*.
 
 * [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
   
