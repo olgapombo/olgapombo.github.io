@@ -25,7 +25,7 @@
 * Pombo, Olga, [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
 
 
-### Image platforms and rrchives
+### Image platforms and archives
 * Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) - Image platform and archive intending to question the philosophical, scientific and artistic nature of image.
 
 * Pombo, Olga, [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
