@@ -379,8 +379,8 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * Jangada de Pedra
 
 
-## Preprints and draft papers 
-(Manuscripts, conference papers and ongoing working work that have circulated among colleagues. They were disseminated but not formally published. 
+## Preprints and working papers  
+(Manuscripts, conference papers, articles in preparatiin, Working papers drafts published. 
 * **Filosofia e práticas discursivas no Protágoras de Platão** (Philosophy and Discursive Practices in Plato’s Protagoras)
 * **A infinitude da queda no 'Teeteto' de Platão** (The Infinitude of the Fall in Plato’s Theaetetus)
 * **Por que é que Rousseau não é um utopista mas parece?** (Why Rousseau Is Not a Utopian but Seems to Be)
