@@ -408,6 +408,6 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * **Ciência e Arte. Interacções, aproximações e distancias**/Science and Art: Interactions, Approaches, and Distances (conference paper)
 * **Science and art. Variations upon a common ground** (conference paper)
 * **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**/Science and Art: Admirable Affinities and Sublime Difference (conference paper)
-* **Model’s nearness to the work of art**(unpublished manuscript)
+* **Model’s nearness to the work of art** (unpublished manuscript)
 * **A imagem na ciencia e e na arte**/Image in Science and Art (conference paper)
 * **Imagem e diagrama**/Image and Diagram (unpublished manuscript)
