@@ -4,9 +4,9 @@
 
 ### Web presentations
 
-•	Pombo, Olga, [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (power-point 2013) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) or [here](http://slideplayer.com.br/slide/1263976) (with text transcription) 
+* Pombo, Olga, [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (power-point 2013) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) or [here](http://slideplayer.com.br/slide/1263976) (with text transcription) 
 
-•	Pombo, Olga, [**Lugares da Filosofia**](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm) (power-point 2005) 
+* Pombo, Olga, [**Lugares da Filosofia**](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm) (power-point 2005) 
 
 
 ### Hypertexts
@@ -39,6 +39,7 @@ The video is divided in 3 parts:
   2.	[**Corpo FRAGMENTO. Body Fragment](http://Lisboncisa.fc.ul.pt/videos/v33b.htm)**
   3.	[**Corpo ALGORITMO. Body Algorithm](http://Lisboncisa.fc.ul.pt/videos/v33c.htm)** 
 
+
 * Pombo, Olga (2006), [**Fernando Gil. Filosofo do conhecimento**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
 
 * Pombo, Olga (1999), [**Recordar Agostinho da Silva: 10 anos Depois**(Remembering Agostinho da Silva: Ten Years Later)](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  
@@ -53,8 +54,6 @@ The video is divided in 3 parts:
 * [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
   
 * [**Momentos da Ideia de Escola** (Moments of the Idea of Scholl)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm)
-  
-* [Autores](<https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/autores.htm>)
   
 * [**Grandes Matemáticos** (Great Mathematicians)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/matematicos.htm)
 
