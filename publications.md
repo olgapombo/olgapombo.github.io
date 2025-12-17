@@ -1,5 +1,5 @@
 # Publications 
-######  | [Dissertations](#Dissertations) | [Books (author)](#Books-author) | [Books (editor)](#Books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#Encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal editor](#Journals-editor) | [Journal guest editor](#Journals-guest-editor) | [Online publications, sites and webpages](#Online-publications-sites-and-webpages) | [Preprints and working papers](#Preprints-and-working-papers)
+######  | [Dissertations](#Dissertations) | [Books (author)](#Books-author) | [Books (editor)](#Books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#Encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal editor](#Journals-editor) | [Journal guest editor](#Journals-guest-editor) | [Preprints and working papers](#Preprints-and-working-papers)
 
 
 
@@ -351,32 +351,6 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * Pombo, Olga (2015), **[Axiomathes, Special Issue - Metaphysical and Epistemological Challenges](https://www.researchgate.net/publication/279325568_Metaphysical_and_Epistemological_Challenges_special_issue)**: Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 * Pombo, Olga (2012), **[Kairos. Journal of Philosophy & Science - Dossier Leibniz](https://arquivo.pt/wayback/20150416225706/http://kairos.fc.ul.pt/numeros-anteriores-2/)**, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824 **(more info [here](https://sciendo.com/journal/KJPS?content-tab=editorial-board&top-tab=top-cited))**
 
-
-## Online publications, sites and webpages
-
-* Pombo, Olga (2009), **A ideia de enciclopedia (The idea of encyclopaedia)** - Hypertext on the encyclopaedic project, its most significant historical developments and the specificity of philosophical encyclopaedia.
-  
-> 1. **[O Projecto Enciclopedista (palavra, género e modalidades)](https://arquivo.pt/wayback/20091224030600/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm)**,  
-> 2. **[Para uma História da Ideia de Enciclopedia](https://arquivo.pt/wayback/20091224025159/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm)**,   
-> 3. **[Enciclopedia filosófica](https://arquivo.pt/wayback/20091218065708/http://www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)**   
-
-* Pombo, Olga (ed) (2008) **[Lisbon Center for Image in Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)** - Image platform and archive intending to question the philosophical, scientific and artistic nature of image.
-  
-* Pombo, Olga (ed) (2002) **[Protagoras](https://arquivo.pt/wayback/20140930093038/http://www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm)** - Hypertext on Plato’s *Protagoras*, translated and commented.
-
-*	Pombo, Olga (1995) **[Convite à Leitura de Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm)** - Hypertext on Rousseau  
-
-* Pombo, Olga (1979), **[Biobibliografia de Jean-Jacques Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf)** - Webpage on Rousseau's biobibliography 
-
-* Apontamentos sobre utopia
-* * Recordar Agostinho da Silva
-* Fernando Gil, filosofo do conhecimento
-
-* 
-* * Representações da leitura
-* Lugares da Escola
-* Lugares da Filosofia
-* Jangada de Pedra
 
 
 ## Preprints and working papers  
