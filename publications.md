@@ -380,34 +380,34 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 
 ## Preprints and working papers  
-* **Filosofia e práticas discursivas no Protágoras de Platão**/Philosophy and Discursive Practices in Plato’s Protagoras (conference paper)
+* **Filosofia e práticas discursivas no Protágoras de Platão**/Philosophy and Discursive Practices in Plato’s Protagoras (working paper)
 * **A infinitude da queda no 'Teeteto' de Platão**/The Infinitude of the Fall in Plato’s Theaetetus (conference paper)
 * **Por que é que Rousseau não é um utopista mas parece?**/Why Rousseau Is Not a Utopian but Seems to Be (conference paper)
 * **As ciências das formas e as formas das ciências**/The Sciences of Forms and the Forms of Sciences (conference paper)
-* **Cartografias do conhecimento e desafios contemporaneos**/Cartographies of Knowledge and Contemporary Challenges (unpublished manuscript)
-* **Mapas disciplinares e cartografias do saber** (Disciplinary Maps and Cartographies of Knowledge (unpublished manuscript)
+* **Cartografias do conhecimento e desafios contemporaneos**/Cartographies of Knowledge and Contemporary Challenges (working paper)
+* **Mapas disciplinares e cartografias do saber** (Disciplinary Maps and Cartographies of Knowledge (working paper)
 * **O valor cognitivo da árvore**/The Cognitive Value of the Tree (conference paper)
-* **Magia e esplendor dos livros**/Magic and Splendor of Books (unpublished manuscript)
-* **Oralidade, escrita. Uma eloquente revolução tecnológica**/Orality, Writing. An eloquent technological revolution (unpublished manuscript)
-* **A leitura no mundo de ontem e no mundo de amanhã**/Reading in the World of Yesterday and Tomorrow (unpublished manuscript)
-* **Os lugares da ciência e da filosofia**/The Places of Science and Philosophy 	(unpublished manuscript)
+* **Magia e esplendor dos livros**/Magic and Splendor of Books (working paper)
+* **Oralidade, escrita. Uma eloquente revolução tecnológica**/Orality, Writing. An eloquent technological revolution (working paper)
+* **A leitura no mundo de ontem e no mundo de amanhã**/Reading in the World of Yesterday and Tomorrow (working paper)
+* **Os lugares da ciência e da filosofia**/The Places of Science and Philosophy 	(working paper)
 * **Da universidade medieval a´ universidade mundial electrónica**/From the Medieval University to the Global Electronic University (unpublished manuscript))
 * **Escolas, museus e bibliotecas**/Schools, Museums, and Libraries (unpublished manuscript)
 * **De Plínio à internet / Enciclopédia e internet**/From Pliny to the Internet/Encyclopaedia and Internet (unpublished manuscript),
 * **Filosofia e matemática – Da mathesis universalis a Lewis Carroll** (Philosophy and Mathematics – From Mathesis Universalis to LewisCarroll (conference paper)
-* **Filosofia, matemática e língua natural**/Philosophy, Mathematics, and Natural Language (unpublished manuscript))
-* **O que é isso do pensamento cego?**/What Is it the Blind Thought? (unpublished manuscript))
-* **Leibniz e a ideia de máquina matemática**/Leibniz and the Idea of a Mathematical Machine (unpublished manuscript)),
+* **Filosofia, matemática e língua natural**/Philosophy, Mathematics, and Natural Language (working paper)
+* **O que é isso do pensamento cego?**/What Is it the Blind Thought? (unpublished manuscript)
+* **Leibniz e a ideia de máquina matemática**/Leibniz and the Idea of a Mathematical Machine (unpublished manuscript),
 * **O Lugar de Leibniz na História da Lógica**/Leibniz’s Place in the History of Logic (conference paper),
-* **Por que não somos ainda leibnizianos**/Why We Are Not Yet Leibnizians (conference paper)
-* **Ciência, tecnociência e pseudo ciência**/Science, Technoscience, and Pseudoscience (unpublished manuscript),
-* **Descontiniudade e novidade em Bachelard** (Discontinuity of Time and Novelty in Bachelard (unpublished manuscript),
+* **Por que não somos ainda leibnizianos**/Why We Are Not Yet Leibnizians (unpublished manuscript)
+* **Ciência, tecnociência e pseudo ciência**/Science, Technoscience, and Pseudoscience (working paper),
+* **Descontiniudade e novidade em Bachelard** (Discontinuity of Time and Novelty in Bachelard (working paper),
 * **Mistérios da Criação**/The Mysteries of Creation (conference paper)
 * **Towards a Cartography of the Concept of Creation** (conference paper),
-* **On Creation in Science and Art** (unpublished manuscript),
+* **On Creation in Science and Art** (working paper),
 * **Ciência e Arte. Interacções, aproximações e distancias**/Science and Art: Interactions, Approaches, and Distances (conference paper)
 * **Science and art. Variations upon a common ground** (conference paper)
 * **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**/Science and Art: Admirable Affinities and Sublime Difference (conference paper)
-* **Model’s nearness to the work of art** (unpublished manuscript)
-* **A imagem na ciencia e e na arte**/Image in Science and Art (conference paper)
-* **Imagem e diagrama**/Image and Diagram (unpublished manuscript)
+* **Model’s nearness to the work of art** (working paper)
+* **A imagem na ciencia e e na arte**/Image in Science and Art (unpublished manuscript)
+* **Imagem e diagrama**/Image and Diagram (working paper)
