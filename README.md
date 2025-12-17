@@ -11,5 +11,5 @@
 * [Teaching / Doctoral Program FCTAS](teaching_doctoral_program.md)
 * [Supervision](supervision.md)
 * [Online Publications and Projects](online-publications-and-projects.md)
-* [Preprints](preprints.md)
+* [Online Publications and Projects](preprints.md)
 
