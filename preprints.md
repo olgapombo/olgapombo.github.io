@@ -4,9 +4,9 @@
 
 ### Web presentations
 
-* Pombo, Olga, [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (power-point 2013) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) with text transcription) 
+* Pombo, Olga (2013), [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) with text transcription) 
 
-* Pombo, Olga, [**Lugares da Filosofia**](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm) (power-point 2005) 
+* Pombo, Olga (2005), [**Lugares da Filosofia**](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm)  
 
 
 ### Hypertexts
