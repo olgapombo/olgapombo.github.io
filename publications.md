@@ -368,17 +368,14 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 * Pombo, Olga (1979), **[Biobibliografia de Jean-Jacques Rousseau](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf)** - Webpage on Rousseau's biobibliography 
 
-* Crianças selvagens
-* Momentos da ideia de escola
-* Grandes matematicos
-* Artidculações da matematica
-* Representações da leitura
-* Autores
-* Recodar Agostinho da Silva
+* Apontamentos sobre utopia
+* * Recordar Agostinho da Silva
+* Fernando Gil, filosofo do conhecimento
+
+* 
+* * Representações da leitura
 * Lugares da Escola
 * Lugares da Filosofia
-* Apontamentos sobre utopia
-* Fernando Gil, filosofo do conhecimento
 * Jangada de Pedra
 
 
