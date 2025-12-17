@@ -4,7 +4,7 @@
 
 ### Web presentations
 
-* Pombo, Olga (2013), [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) with text transcription) 
+* Pombo, Olga (2013), [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/), Power-point on the History of Portuguse discoveries (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) with text transcription) 
 
 * Pombo, Olga (2005), [**Lugares da Filosofia**](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm)  
 
@@ -18,7 +18,7 @@
  
 * Pombo, Olga (2004), [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
 
-* Pombo, Olga (ed) (2002) [**Plato's Protagoras](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm) - Hypertext on Plato’s "Protagoras", translated and commented.
+* Pombo, Olga (ed) (2002) [**Plato's Protagoras**](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm) - Hypertext on Plato’s "Protagoras", translated and commented.
 
 * Pombo, Olga (1995) [**Convite à Leitura de Rousseau**(Invitation to read Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm) - Hypertext on Rousseau
 
