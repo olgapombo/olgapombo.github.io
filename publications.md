@@ -355,7 +355,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 ## Preprints and working papers 
 
-This section gathers manuscripts and conference papers. Many of these ongoing working papers have circulated among colleagues but none has been formally published. 
+*This section gathers manuscripts and conference papers. Many of these ongoing working papers have circulated among colleagues but none has been formally published*. 
 
 * **Filosofia e práticas discursivas no Protágoras de Platão**/Philosophy and Discursive Practices in Plato’s Protagoras (working paper)
 * **A infinitude da queda no 'Teeteto' de Platão**/The Infinitude of the Fall in Plato’s Theaetetus (conference paper)
