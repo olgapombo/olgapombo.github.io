@@ -59,39 +59,8 @@ The video is divided in 3 parts:
 * [**Articulações da Matemática** (Articulations of Mathematics)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)
   
 
-## Preprints and draft papers
 
-* **Filosofia e práticas discursivas no Protágoras de Platão**(Philosophy and Discursive Practices in Plato’s Protagoras)
-* **A infinitude da queda no 'Teeteto' de Platão**(The Infinitude of the Fall in Plato’s Theaetetus)
-* **Por que é que Rousseau não é um utopista mas parece?**(Why Rousseau Is Not a Utopian but Seems to Be)
-* **As ciências das formas e as formas das ciências**(The Sciences of Forms and the Forms of Sciences)
-* **Cartografias do conhecimento e desafios contemporaneos**(Cartographies of Knowledge and Contemporary Challenges)
-* **Mapas disciplinares e cartografias do saber**(Disciplinary Maps and Cartographies of Knowledge)
-* **O valor cognitivo da árvore**(The Cognitive Value of the Tree)
-* **Magia e esplendor dos livros**(Magic and Splendor of Books)
-* **Oralidade, escrita. Uma eloquente revolução tecnológica**(Orality, Writing. An eloquent technological revolution)
-* **A leitura no mundo de ontem e no mundo de amanhã**(Reading in the World of Yesterday and Tomorrow)
-* **Os lugares da ciência e da filosofia**(The Places of Science and Philosophy)
-* **Da universidade medieval a´ universidade mundial electrónica**(From the Medieval University to the Global Electronic University)
-* **Escolas, museus e bibliotecas**(Schools, Museums, and Libraries)
-* **De Plínio à internet / Enciclopédia e internet**(From Pliny to the Internet/Encyclopaedia and Internet)
-* **Filosofia e matemática – Da mathesis universalis a Lewis Carroll**(Philosophy and Mathematics – From *Mathesis Universalis* to LewisCarroll) 
-* **Filosofia, matemática e língua natural**(Philosophy, Mathematics, and Natural Language)
-* **O que é isso do pensamento cego?**(What Is it the Blind Thought?)
-* **Leibniz e a ideia de máquina matemática**(Leibniz and the Idea of a Mathematical Machine),
-* **O Lugar de Leibniz na História da Lógica** (Leibniz’s Place in the History of Logic),
-* **Por que não somos ainda leibnizianos**(Why We Are Not Yet Leibnizians)
-* **Ciência, tecnociência e pseudo ciência**(Science, Technoscience, and Pseudoscience)
-* **Tempo descontinuo e novidade em Bachelard**(Discontinuous Time and Novelty in Bachelard)
-* **Mistérios da Criação**(The Mysteries of Creation)
-* **Towards a Cartography of the Concept of Creation**,
-* **Creation in Science and Art**
-* **Ciência e Arte (interacções, aproximações e distancias)**(Science and Art: Interactions, Approaches, and Distances)
-* **Science and art. Variations upon a common ground**
-* **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**(Science and Art: Admirable Affinities and Sublime Differences)
-* **Model’s nearness to the work of art**
-* **A imagem na ciencia e e na arte**(Image in Science and Art)
-* **Imagem e diagrama**(Image and Diagram)
+
 
 
 
