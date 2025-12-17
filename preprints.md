@@ -2,7 +2,7 @@
 ## Online Publications and Projects 
 
 
-### Web Presentations
+### Web presentations
 
 •	Pombo, Olga, [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/) (power-point 2013) (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) or [here](http://slideplayer.com.br/slide/1263976) (with text transcription) 
 
@@ -25,7 +25,7 @@
 * Pombo, Olga, [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
 
 
-### Image Platforms and Archives
+### Image platforms and rrchives
 * Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) - Image platform and archive intending to question the philosophical, scientific and artistic nature of image.
 
 * Pombo, Olga, [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
@@ -44,7 +44,7 @@ The video is divided in 3 parts:
 
 * Pombo, Olga, [**Biobibliografia de Jean-Jacques Rousseau**(•	Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) - Webpage on Rousseau's biobibliography (1979)
 
-### Work in Progress
+### Work in progress
 (Selection of works, most of them produced by undergraduate students in the courses “History and Philosophy of Education” and “Thematic Seminar,” which I taught at the Faculty of Sciences of the University of Lisbon between 1992–2006 and 1999–2004. The selection, guidance, supervision, and revision, as well as the contextualization and editing of the works signed by the students (each duly identified), were under my responsibility).
 
 * [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
@@ -58,7 +58,7 @@ The video is divided in 3 parts:
 * [**Articulações da Matemática** (Articulations of Mathematics)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)
   
 
-## Preprints and Draft Papers
+## Preprints and draft papers
 
 * **Filosofia e práticas discursivas no Protágoras de Platão**(Philosophy and Discursive Practices in Plato’s Protagoras)
 * **A infinitude da queda no 'Teeteto' de Platão**(The Infinitude of the Fall in Plato’s Theaetetus)
