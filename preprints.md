@@ -45,7 +45,7 @@ The video is divided in 3 parts:
 
 * Pombo, Olga, [**Biobibliografia de Jean-Jacques Rousseau**(•	Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) - Webpage on Rousseau's biobibliography (1979)
 
-### Work in progress
+### Curated student works  
 (Selection of works, most of them produced by undergraduate students in the courses “History and Philosophy of Education” and “Thematic Seminar,” which I taught at the Faculty of Sciences of the University of Lisbon between 1992–2006 and 1999–2004. The selection, guidance, supervision, and revision, as well as the contextualization and editing of the works signed by the students (each duly identified), were under my responsibility).
 
 * [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
