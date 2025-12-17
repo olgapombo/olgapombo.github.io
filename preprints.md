@@ -4,7 +4,7 @@
 
 ### Web presentations
 
-* Pombo, Olga (2013), [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/), Power-point on the History of Portuguse discoveries (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) with text transcription) 
+* Pombo, Olga (2013), [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/), power-point on some episodes of the Portuguese History (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) with text transcription) 
 
 * Pombo, Olga (2005), [**Lugares da Filosofia**](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm)  
 
