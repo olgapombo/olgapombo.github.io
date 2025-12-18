@@ -200,6 +200,7 @@
 *	 **Alice e a pós-verdade (Alice and the post-truth)**, invited conference at the Faculty of Law, University of Lisbon, 14 March 2025
 *	**Aporias do actual conceito de novo**, Keynote speaker at the 6º Congresso Internacional de Filosofia, organized by  Sociedade Portuguesa de Filosofia, Faculdade de Letras da Universidade de Lisboa. 1 - 3  September, 2025. 
 
+
 ## Public Talks 
 
 * **Deriva a partir de Rousseau**, Portuguese Philosophy Society,  Lisboa, 24 May 1979. 
@@ -239,7 +240,7 @@
 * **Interacções arte e ciência**, invited speaker at the “Conversas na Aldeia Global - A Ciência não Morde”, put forward by the Oeiras Municipal Council, Biblioteca Municipal de Oeiras, Oeiras, 20 November 2008.  
 * **Diários gráficos como instrumento de conhecimento**, invited talk by the Project “Espaços do Desenho”, Fábrica de Braço de Prata, Lisboa, 12 March 2009.  
 * **Diderot, D' Alembert e o movimento enciclopedista**, invited speaker at the Câmara Municipal de Oeiras, “Ciclo de Conferencias sobre o Iluminismo”, Oeiras, 22 April 2009.
-* * **Afinal, o que é a escola?**, invited speaker at the “Conferências de  Lisboa / Lições Abertas” (Org. Rui Tavares), Câmara Municipal de  Lisboa,  Lisboa, 25 June 2009. 
+* **Afinal, o que é a escola?**, invited speaker at the “Conferências de  Lisboa / Lições Abertas” (Org. Rui Tavares), Câmara Municipal de  Lisboa,  Lisboa, 25 June 2009. 
 * **Acerca da verdade**, invited talk at the National Etics Commission, Parque da Saúde, Lisboa, 5 November 2010. 
 * **Ciência e interdisciplinaridade**, invited speaker at “Jornadas interdisciplinares 2011”, put forward by the Students Association of Psychology and Educational Sciences of the University of Coimbra, Coimbra, 22 March 2011.
 * **O livro como extravagância**, invited speaker at the “Jornadas Kantianas”, put forward by the Oporto Association, Lisboa, 16 March 2012.  
@@ -364,7 +365,6 @@
 * **Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century**, edited by Olga Pombo, K. Gaertner, J. Jesuíno (eds.) (2023), Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, presentation of the book by Olga Pombo at the international symposium “Interdisciplining Knowledge: Humanities, Sciences and Culture”, organized by the Centre for Interdisciplinary Studies of the University of Coimbra in partnership with the Municipality of Coimbra, Casa da Cidadania da Língua, Coimbra, 6-7 December 2023.
 
 
-
 ## **Dissemination talks** 
 
 * **A Matemática da “Alice no País das Maravilhas”**, invited talk at the Almada High School, Almada, 5 May 2025.
@@ -379,7 +379,7 @@
 * **Celebrar McLuhan. Escola e currículo na sociedade de informação**, invited talk at the Sebastião e Silva High School, Oeiras, 4 April 2010.
 * **Lugares da escola**, invited talk at the Prof. Herculano de Carvalho High School, 4 May 2010.
 * **Afinal o que é a escola?**, invited talk at the Vitorino Nemésio High School,  Lisboa, 26 November 2009.
-* [**Desafios da escola hoje**](<https://becre-esct.blogspot.com/2010/04/escola-o-ensino-instrucao-segundo-olga.html>), invited talk at the Almada High School, Almada, 28 April 2010.
+* **Desafios da escola hoje**, invited talk at the Almada High School, Almada, 28 April 2010. ([here](https://becre-esct.blogspot.com/2010/04/escola-o-ensino-instrucao-segundo-olga.html))
 * **A construção do conhecimento científico**, invited talk at the "Science Week", Colégio Moderno, Lisboa, 20 April 2007.
 * **Elogio da transmissão**, invited talk at the Vitorino Nemésio High School, Lisboa, 24 January 2007.
 * **A bola de neve da interdisciplinaridade**, invited talk at the Miguel Torga High School, Casal de São Brás, 13 April 2005.
