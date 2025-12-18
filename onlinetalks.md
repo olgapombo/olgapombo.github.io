@@ -103,7 +103,7 @@
 * **Operativity and representativity of the sign in Leibniz**, plenary lecture to the Internacional Workshop on Diagramatic Thought, promoted by the FCT Project “Image in Science and Art”, FCUL, Lisboa, 24 March 2009.
 * **Ciência e crença. Uma relação delicada**, invited talk at the “Conference Cycle - Darwin e a Revolução Darwiniana,“  New University of Lisbon,  Lisboa, 1st April 2009 ([here](http://elearning.fct.unl.pt/darwin04-video03.html)).
 * **Darwin e a Ilustração Científica**, invited talk in the context of the project “A Imagem na Ciência e na Arte”, in collaboration with Ciência Viva, Knowledge Pavilion, Lisboa 21 -22 April 2009. (**[here](http://www.cvtv.pt/imagens/index.asp?id_video=293)**)
-* **Interdisciplinaridade em arte**, invited speaker at the “I Congresso Internacional Investigação em Arte”, Calouste Gulbenkian Foundation, 18 May 2009.    
+* **Interdisciplinaridade em arte**, invited speaker at the “I Congresso Internacional Investigação em Arte”, Calouste Gulbenkian Foundation, 18 May 2009. 
 * **Interdisciplinary changes for the study of emergent phenomena**, invited speaker to the “Arrábida Meetings”, promoted by the Complexity Sciences Institute (ICC), Mosteiro da Arrábida, Portugal, 7-9 July 2009. ([here](https://vimeo.com/5788444)) 
 * **Image in science and art**, invited speaker at the Workshop "Imag(in)ing the Nanoscale", Maison des Sciences de l' Homme, Paris, France, 5-6 October 2009.
 * **Reason and computing, from Lull to Leibniz**, invited speaker (closing conference) at the “V Iberic Journey”, put forward by the Project “Universal Logics and Unity of Science”, FCUL, Lisboa, 25-26 February 2010.
