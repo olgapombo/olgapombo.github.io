@@ -1,7 +1,7 @@
 
 # Talks 
 
-###### [Online talks](#Online-talks) | [Scientific conferences](#Scientific-conferences) | [Public talks](#Public-talks) | [Debates and round tables](#Debates-and-round-tables) | [Book presentations](#Book-presentations) | [Dissemination talks](#Dissemination-talks)
+###### [Online talks](#Online-talks) | [Conferences](#Conferences) | [Public talks](#Public-talks) | [Debates and round tables](#Debates-and-round-tables) | [Book presentations](#Book-presentations) | [Dissemination talks](#Dissemination-talks)
 
 ## Online talks
 
@@ -32,7 +32,7 @@
 * [**Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior**](https://www.engium.uminho.pt/eeum50/), (**Truth and Speed: Two Concepts for Thinking About the Future of Higher Education**), invited talk at the debate “Possíveis Estratégias para o futuro do Ensino Superior em Portugal. Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 novembro 2025 
 
   
-## Scientific conferences 
+## Conferences 
 
 * **The leibnizian theory of the representativity of the sign**,  “IV Internationale Konferenz zur Geschichte der Sprachwissenschaften”, Trier, Germany, 26 August 1987.  
 * **La théorie leibnizienne de la pensée aveugle en tant que perspective sur quelques des apories linguistiques de la modernité**, invited speaker at the “International colloquium Readings of Modernity”, Franco-Portuguese Institut, Lisboa, 27 May 1987.
