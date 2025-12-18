@@ -1,9 +1,9 @@
 
 # Talks 
 
-###### [Online talks](#Online-talks) | [Conferences](#Conferences) | [Public talks](#Public-talks) | [Debates and round tables](#Debates-and-round-tables) | [Book presentations](#Book-presentations) | [Dissemination talks](#Dissemination-talks)
+###### [Online conferences and talks](#Online-conferences-and-talks) | [Conferences](#Conferences) | [Public talks](#Public-talks) | [Debates and round tables](#Debates-and-round-tables) | [Book presentations](#Book-presentations) | [Dissemination talks](#Dissemination-talks)
 
-## Online talks
+## Online conferences and talks  
 
 * [**Filosofia, Física e a Unidade da Ciência**](https://www.youtube.com/watch?v=BYRnpdQxbhU) (**Philosophy, Physics and the Unity of Science**), Conference Cycle “Física sem Fronteiras", Portuguese Physics Society and Physics Department of the Universitdade do Porto, Oporto, 7 May 2005.
 * **Darwin and the Scientific Illustration**, research project “Image in Science and Art” in collaboration with Ciência Viva, Knowledge Pavilion, Lisbon, 21-22 April 2009 ([here](http://www.cvtv.pt/imagens/index.asp?id_video=293)).
