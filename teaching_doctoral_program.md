@@ -1,7 +1,7 @@
 # Teaching
 
 
-###### [Doctoral Program FCTAS](#Doctoral-program-fctas-ul) | [PhD-HPS-FCUL] | [Master HPS-FCUL] | [] | [Teaching abroad](teaching-and-lecturing-abroad)
+###### [Doctoral Program FCTAS](#Doctoral-program-fctas-ul) | [PhD-HPS-FCUL] | [Master HPS-FCUL] | [] | [Teaching and lecturing abroad](teaching-and-lecturing-abroad)
 
 
 ## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
