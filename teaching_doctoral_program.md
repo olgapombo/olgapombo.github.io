@@ -33,8 +33,7 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Philosophy of science (2001-2002) 
 
 #### Undergraduate Courses - Cultural, Social and Ethical Training 
-* [Themes and Problems in Epistemology and Philosophy of Science](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf) (2003-2004, 2005-2006)
-* * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) - Opção livre FCUL (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
+* [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) - Opção livre FCUL (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
 * [Textos e Conceitos de Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
 * [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) 
 * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
