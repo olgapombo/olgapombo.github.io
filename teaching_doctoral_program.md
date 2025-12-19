@@ -13,7 +13,7 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Doctoral Seminar I, II, III (2015)
 * Doctoral seminar I, II, III, IV (2016)
 * Doctoral seminar I, II, III, IV, V (2017-2024)
-* Science and Art. Image Theories, Representation and Production of the Real (2014-2019) 
+* Science and Art. Image Theories, Representation and Production of the Real (participation in the lecturing)(2014-2019) 
 
 ## University of Lisbon, Faculty of Sciences  
 
@@ -43,10 +43,10 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 ### Department of Education FCUL 
 
 #### Master in “Science Teaching” 
-o	Epistemology and Science Teaching (1986-1987; 1988-1989) 
-o	Production, Circulation and Transmission of Scientific knowledge (1987-1988)  
-o	Philosophy of Education (1985-86; 1988-1989; 1994-1995; 2002-03) 
-o	Experiences of Transversality (2007-2008)  
+* Epistemology and Science Teaching (1986-1987; 1988-1989)
+* Production, Circulation and Transmission of Scientific knowledge (1987-1988)
+* Philosophy of Education (1985-86; 1988-1989; 1994-1995; 2002-03)
+* Experiences of Transversality (2007-2008)  
   
 ####  Undergraduate Courses 
 * Philosophy of Education (1985-86; 1988-1989)
