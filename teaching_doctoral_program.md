@@ -20,21 +20,22 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 ### Department of History and Philosophy of Science  
 
 #### Master in “History and Philosophy of Science - (leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
-* [Philosophy of Scientific Knowledge](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
+* [**Philosophy of Scientific Knowledge**](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
 * **Epistemology and Philosophy of Science** (2005-2010)
 * [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2009-2016)
 * **Themes and Problems in Philosophy of Science of the XX century** (20013-20014)
 
 #### Minor in “History and Philosophy of Science” 
-* Science and Art (2009-2014) (sillabus [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
-* Science and Culture (2011-2013) (also offered in General Studies)
-* [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Temas%20da%20Fil%20CC%20contemp.pdf) (2013-2014))
+* Science and Art (2009-2014) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
+* Science and Culture (2011-2013) (*also offered in General Studies*)
+* * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) *also offered as free option*
+* [Temas da filosofia da ciencia contemporanea] (https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Temas%20da%20Fil%20CC%20contemp.pdf) (*also offered as free option*) (2013-2014))
 
 #### Minor in "Biochemistry" (Department of Biochemistry)
 * Philosophy of science (2001-2002) 
 
 #### Undergraduate Courses - Cultural, Social and Ethical Training 
-* [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) - Opção livre FCUL (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
+* [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
 * [Textos e Conceitos de Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
 * [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) 
 * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
@@ -57,29 +58,29 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Thematic seminar (1999-2004) 
 
 #### Tutorials and stage advising 
-* Monograph Tutor of the Bachelor's License in “Teaching of Mathematics” (1985-88)
-* Stage advisor of the Bachelor's License in “Teaching of Mathematics” (1986-88) (1999-04)(2005-2006)
-* Stage advisor of the Bachelor's License in the “Teaching of Biology” (1994-96) (1998-99)
-* Stage advisor of the Bachelor's License in the “Teaching of Physics” (1996-97, 2006-2007) 
+* Monograph Tutor of the Bachelor's degree in “Teaching of Mathematics” (1985-88)
+* Stage advisor of the Bachelor's degree in “Teaching of Mathematics” (1986-88) (1999-04)(2005-2006)
+* Stage advisor of the Bachelor's degree in the “Teaching of Biology” (1994-96) (1998-99)
+* Stage advisor of the Bachelor's degree in the “Teaching of Physics” (1996-97, 2006-2007) 
 
 #### Continuing training courses 
-* Filosofia do conhecimento cientifico, para professores do ensino secundario, registo de acreditação CCPFC/ACC61744/10 (1st semester 2011-2012)
-* Ciencia e Arte, para professores do ensino secundario, registo de acreditação CCPFC/ACC-61355/09 (2nd semester 2011-2012)
+* Filosofia do conhecimento cientifico, Secondary School Teachers,  *Accreditation*: CCPFC/ACC61744/10 (1st semester 2011-2012)
+* Ciencia e Arte, Secondary School Teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
 
 ## Other universities in Portugal
  
 ### PhD
-* Doctoral Program in “Complexity Sciences”, invited faculty member of the joint academic program proposed by  ISCTE Lisbon University Institute and Faculty of Sciences, University of Lisbon (2006-2019).
-* Doctoral Program of the Gulbenkian Institute of Science (IGC) (2012).
-* Doctoral Program of the University of Oporto (2011).
+* Doctoral Program in “Complexity Sciences”, ISCTE Lisbon University Institute, and Faculty of Sciences, University of Lisbon (2006-2019).
+* Doctoral Program, Gulbenkian Institute of Science (IGC) (2012).
+* Doctoral Program, University of Oporto (2011).
 * Doctoral Program in “Contemporary Studies”, CEIS20 Universidade de Coimbra (2022).
 
 ### Master
-* Master Program on Bioethics, Faculdade de Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014).
-* Master Program on Victimization of children and adolescents, Faculdade de Medicine, University of Lisbon (2007). 
-* Master and PhD Program on “Developmental Psychology”, Faculdade of Psicologia, University of Lisbon (2003.20044). 
-* Master Program on “Drawing”, Faculdade de Belas Artes, University of Lisbon (2003). 
+* Master Program in Bioethics, Faculty of Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014).
+* Master Program on Victimization of children and adolescents, Faculty of Medicine, University of Lisbon (2007). 
+* Master and PhD Program on “Developmental Psychology”, Faculty of Psychology, University of Lisbon (2003-2004). 
+* Master Program on “Drawing”, Faculty of Fine Arts, University of Lisbon (2003). 
 
 ### Undergraduate courses 
 * “Philosophy and the Teaching of Philosophy”, Faculty of Social and Human Sciences, New University of Lisbon (1987-1988).
@@ -89,8 +90,8 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 
 ## Teaching and lecturing abroad 
 
-•	Visiting Professor, Scuola di alti studi: Natura naturans. "Della natura e della condizione umana: trasformazioni, problemi e prospettive”, organized by the “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Laboratorio Leopardi dell’Università di Roma La Sapienza”, “Laboratorio interdisciplinare della SISSA di Trieste”, “Scuola Normale Superiore di Pisa” and the  “Dipartimento di Fisica dell’Università di Pavia”, Villa Falconieri, Frascati (Rome), 27 Oct – 3 Nov 2019
-•	Visiting Professor, Federal University of Goiás, Brazil (October 2012)
-•	Visiting Professor, Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
-•	Visiting Professor, Portuguese School, Maputo, Mozambique (May 2006)
+* Visiting Professor, Scuola di alti studi: Natura naturans. "Della natura e della condizione umana: trasformazioni, problemi e prospettive”, organized by the “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Laboratorio Leopardi dell’Università di Roma La Sapienza”, “Laboratorio interdisciplinare della SISSA di Trieste”, “Scuola Normale Superiore di Pisa” and the  “Dipartimento di Fisica dell’Università di Pavia”, Villa Falconieri, Frascati (Rome), 27 Oct – 3 Nov 2019
+* Visiting Professor, Federal University of Goiás, Brazil (October 2012)
+* Visiting Professor, Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
+* Visiting Professor, Portuguese School, Maputo, Mozambique (May 2006)
 
