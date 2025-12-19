@@ -34,9 +34,9 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Philosophy of science (2001-2002) 
 
 #### Undergraduate Courses - Cultural, Social and Ethical Training 
-* Themes and Problems in Epistemology and Philosophy of Science (2003-2004, 2005-2006) 
+* [Themes and Problems in Epistemology and Philosophy of Science](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf) (2003-2004, 2005-2006)
 * [Textos e Conceitos de Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
-* [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) - Opção livre FCUL
+* [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) 
 * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
 
 
@@ -58,7 +58,7 @@ o	Experiences of Transversality (2007-2008)
 
 #### Tutorials and stage advising 
 * Monograph Tutor of the Bachelor's License in “Teaching of Mathematics” (1985-88)
-* Stage advisor of the Bachelor's License in the “Teaching of Mathematics” (1986-88) (1999-04)(2005-2006)
+* Stage advisor of the Bachelor's License in “Teaching of Mathematics” (1986-88) (1999-04)(2005-2006)
 * Stage advisor of the Bachelor's License in the “Teaching of Biology” (1994-96) (1998-99)
 * Stage advisor of the Bachelor's License in the “Teaching of Physics” (1996-97, 2006-2007) 
 
@@ -89,8 +89,8 @@ o	Experiences of Transversality (2007-2008)
 
 ## Teaching and lecturing abroad 
 
-* Visiting Professor at the “Scuola di alti studi: Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”, organized by the “Centro studi sulla natura, l’umano e l’unità del pensiero”, in partnership the “Accademia dei Lincei”, “Laboratorio Leopardi dell’Università di Roma La Sapienza”, “Laboratorio interdisciplinare della SISSA di Trieste”, “Scuola Normale Superiore di Pisa” and the  “Dipartimento di Fisica dell’Università di Pavia”, Villa Falconieri, Frascati (Roma), 27 ottobre - 3 novembre 2019
-* Visiting Professor at the Universidade Federal de Goiás, Brazil (October 2012).
-* Visiting Professor at the “Cátedra Latino-Americana Leopoldo Zea de Filosofia e Epistemologia da Ciência”, Federal University of Latin-American Integration, Brazil (December 2010 and August 2011).
-* Visiting Professor at the Portuguese School, Maputo, Mozambique (May 2006). 
+•	Visiting Professor, Scuola di alti studi: Natura naturans. "Della natura e della condizione umana: trasformazioni, problemi e prospettive”, organized by the “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Laboratorio Leopardi dell’Università di Roma La Sapienza”, “Laboratorio interdisciplinare della SISSA di Trieste”, “Scuola Normale Superiore di Pisa” and the  “Dipartimento di Fisica dell’Università di Pavia”, Villa Falconieri, Frascati (Rome), 27 Oct – 3 Nov 2019
+•	Visiting Professor, Federal University of Goiás, Brazil (October 2012)
+•	Visiting Professor, Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
+•	Visiting Professor, Portuguese School, Maputo, Mozambique (May 2006)
 
