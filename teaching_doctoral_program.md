@@ -29,13 +29,13 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Science and Art (2009-2014) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
 * Science and Culture (2011-2013) (*also offered in General Studies*)
 * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) 
-* [Temas da filosofia da ciencia contemporanea] (https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Temas%20da%20Fil%20CC%20contemp.pdf) (2013-2014))
+* [Temas da filosofia da ciencia contemporanea] (https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_temas%20da%20Fil%20CC%20contemp.pdf) (2013-2014))
 
 #### Minor in "Biochemistry" (Department of Biochemistry)
 * Philosophy of science (2001-2002) 
 
 #### Undergraduate Courses - Cultural, Social and Ethical Training 
-* [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
+* [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) -free opion (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
 * [Textos e Conceitos de Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
 * [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) 
 * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
