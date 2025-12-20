@@ -16,10 +16,10 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Science and Art. Image Theories, Representation and Production of the Real (participation in the lecturing)(2014-2019) 
 
 
-## University of Lisbon
+## University of Lisbon, Faculty of Sciences (FCUL)
 
-* #### Master in “History and Philosophy of Science - (leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)) 
-*University of Lisbon, Faculty of Sciences (FCUL) — Department of History and Philosophy of Science*
+* #### Master in “History and Philosophy of Science - (leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
+* Department of History and Philosophy of Science 
 
 > * [**Philosophy of Scientific Knowledge**](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
 > * **Epistemology and Philosophy of Science** (2005-2010)
@@ -29,10 +29,10 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 #### Minor in “History and Philosophy of Science” 
 University of Lisbon, Faculty of Sciences (FCUL) — Department of History and Philosophy of Science
 
-* Science and Art (2009-2014) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
-* Science and Culture (2011-2013) (*also offered in General Studies*)
-* [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) (*also offered as free option*)
-* [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014)) 
+> * **Science and Art** (2009-2014) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
+> * **Science and Culture** (2011-2013) (*also offered in General Studies*)
+> * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) (*also offered as free option*)
+> * [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014)) 
 
 #### Minor in "Biochemistry" (Department of Biochemistry)
 University of Lisbon, Faculty of Sciences (FCUL) — Department of Biochemistry
