@@ -16,9 +16,9 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Science and Art. Image Theories, Representation and Production of the Real (participation in the lecturing)(2014-2019) 
 
 
-### University of Lisbon
+## University of Lisbon
 
-## Master in “History and Philosophy of Science - (leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)) 
+#### Master in “History and Philosophy of Science - (leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)) 
 *University of Lisbon, Faculty of Sciences (FCUL) — Department of History and Philosophy of Science*
 
 * [**Philosophy of Scientific Knowledge**](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
