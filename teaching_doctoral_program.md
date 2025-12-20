@@ -4,9 +4,16 @@
 ###### [Doctoral Program FCTAS](#Doctoral-program-fctas-ul) | [PhD-HPS-FCUL] | [Master HPS-FCUL] | [Other teaching in Portugal](#Other-teaching-in-portugal) | [Teaching abroad](#Teaching-and-lecturing-abroad)
 
 
-## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
+## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/)
+
 Join International Doctoral Program funded by the Portuguese Foundation for Science and Technology (FCT),(2014-2024). 
-[FCTAS](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/)
+
+O Programa de Doutoramento Internacional em Filosofia da Ciência, Tecnologia, Arte e Sociedade foi aprovado pela Fundação para a Ciência e a Tecnologia no âmbito do concurso Programas de Doutoramento FCT 2013.
+
+Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da Ciência, Tecnologia, Arte e Sociedade conta com a participação de um corpo docente altamente especializado em diferentes áreas da Filosofia, das Ciências e das Artes. O PD-FCTAS foi proposto pela Professora Olga Pombo e por ela e dirigido até à minha aposentação em 2017, tendo sido posteriormente dirigido pela Professora Maria Fernanda Palma e posteriormente pela Prof. Cristina Tavares, com a participação das seguintes instituições
+[PD-FCTAS](https://phd-fctas.campus.ciencias.ulisboa.pt/)
+
+
 
 * Epistemology (2014-2016) 
 * Themes and Problems of Contemporary Philosophy of Science (2014-2016)
