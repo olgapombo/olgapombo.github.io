@@ -24,8 +24,8 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 
 >> * [**Philosophy of Scientific Knowledge**](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
 >> * **Epistemology and Philosophy of Science** (2005-2010)
->> [**Epistemology and Philosophy of Science of the XX century**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2009-2016)
->> **Themes and Problems in Philosophy of Science of the XX century** (20013-20014)
+>> * [**Epistemology and Philosophy of Science of the XX century**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2009-2016)
+>> * **Themes and Problems in Philosophy of Science of the XX century** (20013-20014)
 
 * #### Minor in History and Philosophy of Science (*Department of History and Philosophy of Science*)
 
