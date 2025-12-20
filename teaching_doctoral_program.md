@@ -34,8 +34,7 @@ Department of History and Philosophy of Science
 > * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) (*also offered as free option*)
 > * [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014)) 
 
-#### Minor in "Biochemistry" 
-Department of Biochemistry
+#### Minor in "Biochemistry" (*Department of Biochemistry*)
 
 > * **Philosophy of science** (2001-2004) 
 
