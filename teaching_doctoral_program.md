@@ -36,42 +36,42 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 
 #### Minor in Biochemistry (*Department of Biochemistry*)
 
-> * **Philosophy of science** (2001-2004) 
+* **Philosophy of science** (2001-2004) 
 
 #### Undergraduate Courses - Cultural, Social and Ethical Training (*University of Lisbon*)
 
-> * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
-> * [Textos e Conceitos de Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
-> * [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) 
-> * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
+* [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
+* [Textos e Conceitos de Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
+* [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) 
+* [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
 
 #### Master in Science Teaching (*Department of Education*) 
 
-> * **Epistemology and Science Teaching** (1986-1987; 1988-1989)
-> * **Production, Circulation and Transmission of Scientific knowledge** (1987-1988)
-> * **Philosophy of Education** (1985-86; 1988-1989; 1994-1995; 2002-03)
-> * **Experiences of Transversality** (2007-2008)  
+* **Epistemology and Science Teaching** (1986-1987; 1988-1989)
+* **Production, Circulation and Transmission of Scientific knowledge** (1987-1988)
+* **Philosophy of Education** (1985-86; 1988-1989; 1994-1995; 2002-03)
+* **Experiences of Transversality** (2007-2008)  
   
 ####  Undergraduate Courses (*Department of Education*)
 
-> * **Philosophy of Education** (1985-86; 1988-1989)
-> * **Observation and Analysis** (1984-1985; 1992-1993; 1994-1996) 
-> * **Interdisciplinary seminar** (1985-1989;1992-1993) 
-> * Interdisciplinarity, Science and Mathematics (1992-1994) 
-> * History and Philosophy of Education (1992-2006)
-> * Thematic seminar (1999-2004) 
+* **Philosophy of Education** (1985-86; 1988-1989)
+* **Observation and Analysis** (1984-1985; 1992-1993; 1994-1996) 
+* **Interdisciplinary seminar** (1985-1989;1992-1993) 
+* Interdisciplinarity, Science and Mathematics (1992-1994) 
+* History and Philosophy of Education (1992-2006)
+* Thematic seminar (1999-2004) 
 
 #### Tutorials and stage advising (*Department of Education*)
 
-> * Monograph Tutor of the Bachelor's degree in “Teaching of Mathematics” (1985-88)
-> * Stage advisor of the Bachelor's degree in “Teaching of Mathematics” (1986-88) (1999-04)(2005-2006)
-> * Stage advisor of the Bachelor's degree in the “Teaching of Biology” (1994-96) (1998-99)
-> * Stage advisor of the Bachelor's degree in the “Teaching of Physics” (1996-97, 2006-2007) 
+* Monograph Tutor of the Bachelor's degree in “Teaching of Mathematics” (1985-88)
+* Stage advisor of the Bachelor's degree in “Teaching of Mathematics” (1986-88) (1999-04)(2005-2006)
+* Stage advisor of the Bachelor's degree in the “Teaching of Biology” (1994-96) (1998-99)
+* Stage advisor of the Bachelor's degree in the “Teaching of Physics” (1996-97, 2006-2007) 
 
 #### Continuing training courses (*Department of Education*)
 
-> * **Filosofia do conhecimento cientifico**, secondary school teachers,  *Accreditation*: CCPFC/ACC61744/10 (1st semester 2011-2012)
-> * **Ciencia e Arte**, secondary school teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
+* **Filosofia do conhecimento cientifico**, secondary school teachers,  *Accreditation*: CCPFC/ACC61744/10 (1st semester 2011-2012)
+* **Ciencia e Arte**, secondary school teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
 
 ## Other teaching in Portugal
