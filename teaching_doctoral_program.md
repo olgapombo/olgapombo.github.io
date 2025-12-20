@@ -74,7 +74,7 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 > * **Ciencia e Arte**, secondary school teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
 
-## Other universities in Portugal
+## Other teaching in Portugal
  
 ### PhD 
 
@@ -86,7 +86,7 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 
 ### Master 
 
-* Master Program in **Informatics, Engineering and Computation**, of the Faculdade de Engenharia, Universidade do Porto (2020)
+* Master Program in **Informatics, Engineering and Computation**, Faculdade de Engenharia, Universidade do Porto (2020)
 * Master Program in **Bioethics**, Faculty of Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014).
 * Master Program on **Victimization of children and adolescents**, Faculty of Medicine, University of Lisbon (2007). 
 * Master and PhD Program on **Developmental Psychology**, Faculty of Psychology, University of Lisbon (2003-2004). 
