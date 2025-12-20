@@ -82,7 +82,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 * *Ciencia e Arte*, secondary school teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
 
-## Other teaching in Portugal
+## Other universities
  
 ### PhD 
 
@@ -105,7 +105,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 *	*Epistemology and Science Teaching*, University of Algarve (2003; 2004)
 
 
-## Teaching and lecturing abroad 
+## Lecturing abroad 
 
 * Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”, organized by “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Università di Roma La Sapienza”, “SISSA di Trieste”, “Scuola Normale Superiore di Pisa”, “Università di Pavia”, Accademia Vivarium Novum, Rome (October- November 2019)
 * Federal University of Goiás, Brazil (October 2012)
