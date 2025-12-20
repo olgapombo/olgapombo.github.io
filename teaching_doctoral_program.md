@@ -61,9 +61,9 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 > * **Philosophy of Education** (1985-86; 1988-1989)
 > * **Observation and Analysis** (1984-1985; 1992-1993; 1994-1996) 
 > * **Interdisciplinary seminar** (1985-1989;1992-1993) 
-> * **Interdisciplinarity, Science and Mathematics (1992-1994) 
-> * **History and Philosophy of Education** (1992-2006)
-> * **Thematic seminar** (1999-2004) 
+> * Interdisciplinarity, Science and Mathematics (1992-1994) 
+> * History and Philosophy of Education (1992-2006)
+> * Thematic seminar (1999-2004) 
 
 #### Tutorials and stage advising
 *ULisboa, FCUL - Department of Education*
