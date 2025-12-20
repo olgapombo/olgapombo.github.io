@@ -16,10 +16,10 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Science and Art. Image Theories, Representation and Production of the Real (participation in the lecturing)(2014-2019) 
 
 
-## University of Lisbon
+## University of Lisbon (ULisboa), Faculty of Sciences (FCUL)
 
 #### Master in “History and Philosophy of Science
-Faculty of Sciences, Department of History and Philosophy of Science) (leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
+*ULisboa, FCUL - Department of History and Philosophy of Science* (leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
 
 > * [**Philosophy of Scientific Knowledge**](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
 > * **Epistemology and Philosophy of Science** (2005-2010)
@@ -76,8 +76,8 @@ University of Lisbon, Faculty of Sciences (FCUL) - Department of Education
 #### Continuing training courses 
 University of Lisbon, Faculty of Sciences (FCUL) - Department of Education
 
-* **Filosofia do conhecimento cientifico**, Secondary School Teachers,  *Accreditation*: CCPFC/ACC61744/10 (1st semester 2011-2012)
-* **Ciencia e Arte**, Secondary School Teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
+> * **Filosofia do conhecimento cientifico**, Secondary School Teachers,  *Accreditation*: CCPFC/ACC61744/10 (1st semester 2011-2012)
+> * **Ciencia e Arte**, Secondary School Teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
 
 ## Other universities in Portugal
