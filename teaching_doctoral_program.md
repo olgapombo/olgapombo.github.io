@@ -48,7 +48,7 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 > * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
 
 
-#### Master in “Science Teaching” 
+#### Master in “Science Teaching” (Department of Education)
 *ULisboa, FCUL - Department of Education*
 
 > * **Epistemology and Science Teaching** (1986-1987; 1988-1989)
@@ -56,8 +56,7 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 > * **Philosophy of Education** (1985-86; 1988-1989; 1994-1995; 2002-03)
 > * **Experiences of Transversality** (2007-2008)  
   
-####  Undergraduate Courses 
-*ULisboa, FCUL - Department of Education*
+####  Undergraduate Courses (*Department of Education*)
 
 > * **Philosophy of Education** (1985-86; 1988-1989)
 > * **Observation and Analysis** (1984-1985; 1992-1993; 1994-1996) 
