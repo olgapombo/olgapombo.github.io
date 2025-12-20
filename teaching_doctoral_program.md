@@ -34,26 +34,25 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 > * [**Temas e Problemas de Epistemologia e Filosofia da Ciência**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) (*also offered as free option*)
 > * [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014)) 
 
-* #### Minor in Biochemistry (*Department of Biochemistry*)
+#### Minor in Biochemistry (*Department of Biochemistry*)
 
 > * **Philosophy of science** (2001-2004) 
 
-* #### Undergraduate Courses - Cultural, Social and Ethical Training (*University of Lisbon*)
+#### Undergraduate Courses - Cultural, Social and Ethical Training (*University of Lisbon*)
 
 > * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
 > * [Textos e Conceitos de Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
 > * [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) 
 > * [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
 
-
-* #### Master in Science Teaching (*Department of Education*) 
+#### Master in Science Teaching (*Department of Education*) 
 
 > * **Epistemology and Science Teaching** (1986-1987; 1988-1989)
 > * **Production, Circulation and Transmission of Scientific knowledge** (1987-1988)
 > * **Philosophy of Education** (1985-86; 1988-1989; 1994-1995; 2002-03)
 > * **Experiences of Transversality** (2007-2008)  
   
-* ####  Undergraduate Courses (*Department of Education*)
+####  Undergraduate Courses (*Department of Education*)
 
 > * **Philosophy of Education** (1985-86; 1988-1989)
 > * **Observation and Analysis** (1984-1985; 1992-1993; 1994-1996) 
@@ -62,14 +61,14 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 > * History and Philosophy of Education (1992-2006)
 > * Thematic seminar (1999-2004) 
 
-* #### Tutorials and stage advising (*Department of Education*)
+#### Tutorials and stage advising (*Department of Education*)
 
 > * Monograph Tutor of the Bachelor's degree in “Teaching of Mathematics” (1985-88)
 > * Stage advisor of the Bachelor's degree in “Teaching of Mathematics” (1986-88) (1999-04)(2005-2006)
 > * Stage advisor of the Bachelor's degree in the “Teaching of Biology” (1994-96) (1998-99)
 > * Stage advisor of the Bachelor's degree in the “Teaching of Physics” (1996-97, 2006-2007) 
 
-* #### Continuing training courses (*Department of Education*)
+#### Continuing training courses (*Department of Education*)
 
 > * **Filosofia do conhecimento cientifico**, secondary school teachers,  *Accreditation*: CCPFC/ACC61744/10 (1st semester 2011-2012)
 > * **Ciencia e Arte**, secondary school teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
@@ -83,7 +82,6 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 * Doctoral Program in **Complexity Sciences**, ISCTE Lisbon University Institute (2006-2019).
 * Doctoral Program, **Gulbenkian Institute of Science** (IGC) (2012).
 * Joint Doctoral Program of the Universities of Aveiro and Porto **New Paradigms in Information and Communication on Digital Platforms**, University of Oporto (2011)
-
 
 ### Master 
 
@@ -101,7 +99,7 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 
 ## Teaching and lecturing abroad 
 
-* Scuola di alti studi, “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Università di Roma La Sapienza”, “SISSA di Trieste”, “Scuola Normale Superiore di Pisa”, “Università di Pavia”, Accademia Vivarium novum, Villa Falconieri, Rome (October- November 2019)
+* Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”, organized by “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Università di Roma La Sapienza”, “SISSA di Trieste”, “Scuola Normale Superiore di Pisa”, “Università di Pavia”, Accademia Vivarium Novum, Rome (October- November 2019)
 * Federal University of Goiás, Brazil (October 2012)
 * Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
 * Portuguese School, Maputo, Mozambique (May 2006)
