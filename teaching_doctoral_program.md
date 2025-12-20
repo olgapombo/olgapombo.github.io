@@ -5,7 +5,7 @@
 
 
 ## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/)
-International PhD Program funded by the Portuguese Foundation for Science and Technology (FCT),(2014-2024). 
+Join International Doctoral Program funded by the Portuguese Foundation for Science and Technology (FCT),(2014-2024). 
 
 * Epistemology (2014-2016) 
 * Themes and Problems of Contemporary Philosophy of Science (2014-2016)
@@ -15,6 +15,7 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 * Doctoral seminar I, II, III, IV, V (2017-2024)
 * Science and Art. Image Theories, Representation and Production of the Real (participation in the lecturing)(2014-2019) 
 
+ 
 
 ## University of Lisbon, Faculty of Sciences 
 
@@ -77,12 +78,15 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
  
 ### PhD 
 
+* Doctoral Program in **Contemporary Studies**, CEIS20 Universidade de Coimbra (2019-2023)
 * Doctoral Program in **Complexity Sciences**, ISCTE Lisbon University Institute (2006-2019).
 * Doctoral Program, **Gulbenkian Institute of Science** (IGC) (2012).
-* Doctoral Program, University of Oporto (2011).
-* Doctoral Program in **Contemporary Studies**, CEIS20 Universidade de Coimbra (2022).
+* Joint Doctoral Program of the Universities of Aveiro and Porto **New Paradigms in Information and Communication on Digital Platforms**, University of Oporto (2011)
+
 
 ### Master 
+
+* Master Program in **Informatics, Engineering and Computation**, of the Faculdade de Engenharia, Universidade do Porto (2020)
 * Master Program in **Bioethics**, Faculty of Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014).
 * Master Program on **Victimization of children and adolescents**, Faculty of Medicine, University of Lisbon (2007). 
 * Master and PhD Program on **Developmental Psychology**, Faculty of Psychology, University of Lisbon (2003-2004). 
@@ -96,10 +100,10 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 
 ## Teaching and lecturing abroad 
 
-* Visiting Professor, Scuola di alti studi, “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Università di Roma La Sapienza”, “SISSA di Trieste”, “Scuola Normale Superiore di Pisa” and  “Università di Pavia”, Villa Falconieri, Rome (27 Oct – 3 Nov 2019)
-* Visiting Professor, Federal University of Goiás, Brazil (October 2012)
-* Visiting Professor, Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
-* Visiting Professor, Portuguese School, Maputo, Mozambique (May 2006)
-•	Visiting Professor, University Lille 3, France (January 2003)
-•	Visiting Professor, Viena University, Austria (September-October 1999)
+* Scuola di alti studi, “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Università di Roma La Sapienza”, “SISSA di Trieste”, “Scuola Normale Superiore di Pisa”, “Università di Pavia”, Accademia Vivarium novum, Villa Falconieri, Rome (October- November 2019)
+* Federal University of Goiás, Brazil (October 2012)
+* Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
+* Portuguese School, Maputo, Mozambique (May 2006)
+•	University Lille 3, France (January 2003)
+•	Viena University, Austria (September-October 1999)
 
