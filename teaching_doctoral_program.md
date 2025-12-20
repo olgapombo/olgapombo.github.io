@@ -18,13 +18,13 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 
 ## University of Lisbon
 
-#### Master in “History and Philosophy of Science - (leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)) 
+* #### Master in “History and Philosophy of Science - (leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf)) 
 *University of Lisbon, Faculty of Sciences (FCUL) — Department of History and Philosophy of Science*
 
-* [**Philosophy of Scientific Knowledge**](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
-* **Epistemology and Philosophy of Science** (2005-2010)
-* [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2009-2016)
-* **Themes and Problems in Philosophy of Science of the XX century** (20013-20014)
+> * [**Philosophy of Scientific Knowledge**](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
+> * **Epistemology and Philosophy of Science** (2005-2010)
+> * [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2009-2016)
+> * **Themes and Problems in Philosophy of Science of the XX century** (20013-20014)
 
 #### Minor in “History and Philosophy of Science” 
 University of Lisbon, Faculty of Sciences (FCUL) — Department of History and Philosophy of Science
