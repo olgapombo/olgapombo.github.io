@@ -19,7 +19,8 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 
 ## University of Lisbon, Faculty of Sciences 
 
-#### PhD in History and Philosophy of Science (*Department of History and Philosophy of Science*
+#### PhD in History and Philosophy of Science 
+(*Department of History and Philosophy of Science*)
 
 #### Master in History and Philosophy of Science (*Department of History and Philosophy of Science* - leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
 
@@ -28,7 +29,7 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 > * [**Epistemology and Philosophy of Science of the XX century**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2009-2016)
 > * **Themes and Problems in Philosophy of Science of the XX century** (20013-20014)
 
-##### Minor in History and Philosophy of Science (*Department of History and Philosophy of Science*)
+#### Minor in History and Philosophy of Science (*Department of History and Philosophy of Science*)
 
 > * **Science and Art** (2009-2014) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
 > * **Science and Culture** (2011-2013) (*also offered in General Studies Licence*)
