@@ -82,7 +82,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 * *Ciencia e Arte*, secondary school teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
 
-## Other universities
+## Other Universities
  
 ### PhD 
 
