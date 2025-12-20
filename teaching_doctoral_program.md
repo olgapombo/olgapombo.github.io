@@ -21,23 +21,23 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 #### Master in “History and Philosophy of Science
 Department of History and Philosophy of Science) (leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
 
-
 > * [**Philosophy of Scientific Knowledge**](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
 > * **Epistemology and Philosophy of Science** (2005-2010)
 > * [Epistemology and Philosophy of Science of the XX century](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2009-2016)
 > * **Themes and Problems in Philosophy of Science of the XX century** (20013-20014)
 
 #### Minor in “History and Philosophy of Science” 
-University of Lisbon, Faculty of Sciences (FCUL) — Department of History and Philosophy of Science
+Department of History and Philosophy of Science
 
 > * **Science and Art** (2009-2014) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
 > * **Science and Culture** (2011-2013) (*also offered in General Studies*)
 > * [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) (*also offered as free option*)
 > * [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014)) 
 
-#### Minor in "Biochemistry" (Department of Biochemistry)
-University of Lisbon, Faculty of Sciences (FCUL) — Department of Biochemistry
-* Philosophy of science (2001-2004) 
+#### Minor in "Biochemistry" 
+Department of Biochemistry
+
+> * **Philosophy of science** (2001-2004) 
 
 #### Undergraduate Courses - Cultural, Social and Ethical Training 
 University of Lisbon, Faculty of Sciences (FCUL)
@@ -51,20 +51,20 @@ University of Lisbon, Faculty of Sciences (FCUL)
 #### Master in “Science Teaching” 
 University of Lisbon, Faculty of Sciences (FCUL) - Department of Education
 
-* Epistemology and Science Teaching (1986-1987; 1988-1989)
-* Production, Circulation and Transmission of Scientific knowledge (1987-1988)
-* Philosophy of Education (1985-86; 1988-1989; 1994-1995; 2002-03)
-* Experiences of Transversality (2007-2008)  
+> * **Epistemology and Science Teaching** (1986-1987; 1988-1989)
+> * **Production, Circulation and Transmission of Scientific knowledge** (1987-1988)
+> * **Philosophy of Education** (1985-86; 1988-1989; 1994-1995; 2002-03)
+> * **Experiences of Transversality** (2007-2008)  
   
 ####  Undergraduate Courses 
 University of Lisbon, Faculty of Sciences (FCUL) - Department of Education
 
-* Philosophy of Education (1985-86; 1988-1989)
-* Observation and Analysis (1984-1985; 1992-1993; 1994-1996) 
-* Interdisciplinary seminar (1985-1989;1992-1993) 
-* Interdisciplinarity, Science and Mathematics (1992-1994) 
-* History and Philosophy of Education (1992-2006)
-* Thematic seminar (1999-2004) 
+> * **Philosophy of Education** (1985-86; 1988-1989)
+> * **Observation and Analysis** (1984-1985; 1992-1993; 1994-1996) 
+> * **Interdisciplinary seminar** (1985-1989;1992-1993) 
+> * **Interdisciplinarity, Science and Mathematics (1992-1994) 
+> * **History and Philosophy of Education** (1992-2006)
+> * **Thematic seminar** (1999-2004) 
 
 #### Tutorials and stage advising
 University of Lisbon, Faculty of Sciences (FCUL) - Department of Education
@@ -77,28 +77,28 @@ University of Lisbon, Faculty of Sciences (FCUL) - Department of Education
 #### Continuing training courses 
 University of Lisbon, Faculty of Sciences (FCUL) - Department of Education
 
-* Filosofia do conhecimento cientifico, Secondary School Teachers,  *Accreditation*: CCPFC/ACC61744/10 (1st semester 2011-2012)
-* Ciencia e Arte, Secondary School Teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
+* **Filosofia do conhecimento cientifico**, Secondary School Teachers,  *Accreditation*: CCPFC/ACC61744/10 (1st semester 2011-2012)
+* **Ciencia e Arte**, Secondary School Teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
 
 ## Other universities in Portugal
  
-### PhD Programs
+### PhD 
 
 * Doctoral Program in “Complexity Sciences”, ISCTE Lisbon University Institute, and Faculty of Sciences, University of Lisbon (2006-2019).
 * Doctoral Program, Gulbenkian Institute of Science (IGC) (2012).
 * Doctoral Program, University of Oporto (2011).
 * Doctoral Program in “Contemporary Studies”, CEIS20 Universidade de Coimbra (2022).
 
-### Master Programs
+### Master 
 * Master Program in Bioethics, Faculty of Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014).
 * Master Program on Victimization of children and adolescents, Faculty of Medicine, University of Lisbon (2007). 
 * Master and PhD Program on “Developmental Psychology”, Faculty of Psychology, University of Lisbon (2003-2004). 
 * Master Program on “Drawing”, Faculty of Fine Arts, University of Lisbon (2003). 
 
 ### Undergraduate courses 
-* “Philosophy and the Teaching of Philosophy”, Faculty of Social and Human Sciences, New University of Lisbon (1987-1988).
-* “Problems of Science Teaching”, University of Madeira (1988; 1989-1990, 1999)
+* **Philosophy and the Teaching of Philosophy**, Faculty of Social and Human Sciences, New University of Lisbon (1987-1988).
+* **Problems of Science Teaching**, University of Madeira (1988; 1989-1990, 1999)
 *	“Epistemology and Science Teaching”, University of Algarve (2003; 2004)
 
 
