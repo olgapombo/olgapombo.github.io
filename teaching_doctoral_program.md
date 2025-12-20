@@ -96,8 +96,10 @@ International PhD Program funded by the Portuguese Foundation for Science and Te
 
 ## Teaching and lecturing abroad 
 
-* Visiting Professor, Scuola di alti studi: Natura naturans. "Della natura e della condizione umana: trasformazioni, problemi e prospettive”, organized by the “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Laboratorio Leopardi dell’Università di Roma La Sapienza”, “Laboratorio interdisciplinare della SISSA di Trieste”, “Scuola Normale Superiore di Pisa” and the  “Dipartimento di Fisica dell’Università di Pavia”, Villa Falconieri, Frascati (Rome), 27 Oct – 3 Nov 2019
+* Visiting Professor, Scuola di alti studi, “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Università di Roma La Sapienza”, “SISSA di Trieste”, “Scuola Normale Superiore di Pisa” and  “Università di Pavia”, Villa Falconieri, Rome (27 Oct – 3 Nov 2019)
 * Visiting Professor, Federal University of Goiás, Brazil (October 2012)
 * Visiting Professor, Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
 * Visiting Professor, Portuguese School, Maputo, Mozambique (May 2006)
+•	Visiting Professor, University Lille 3, France (January 2003)
+•	Visiting Professor, Viena University, Austria (September-October 1999)
 
