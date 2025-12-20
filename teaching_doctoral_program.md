@@ -1,7 +1,7 @@
 # Teaching
 
 
-###### [Doctoral Program FCTAS](#Doctoral-program-fctas-ul) | [PhD-HPS-FCUL] | [Master HPS-FCUL] | [Other teaching in Portugal](#Other-teaching-in-portugal) | [Teaching abroad](#Teaching-and-lecturing-abroad)
+###### [Doctoral Program FCTAS](#Doctoral-program-fctas-ul) | [Faculty of Sciences University of Lisbon](#Faculty-of-sciences-university-of-lisbon) | [Other teaching](#Other-teaching-in-portugal) | [Teaching abroad](#Teaching-and-lecturing-abroad)
 
 
 ## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/)
@@ -25,7 +25,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 
  
 
-## University of Lisbon, Faculty of Sciences 
+## Faculty of Sciences University of Lisbon 
 
 
 #### Master in History and Philosophy of Science (*Department of History and Philosophy of Science* - leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
