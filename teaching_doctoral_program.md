@@ -40,10 +40,10 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 
 #### Undergraduate Courses - Cultural, Social and Ethical Training (*University of Lisbon*)
 
-* [Temas e Problemas de Epistemologia e Filosofia da Ciência](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
-* [Textos e Conceitos de Filosofia](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
-* [Análise do Discurso Científico](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) 
-* [Introdução à Hermenêutica](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
+* [*Temas e Problemas de Epistemologia e Filosofia da Ciência*](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2003-2006) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf))
+* [*Textos e Conceitos de Filosofia*](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/filosofia.htm)
+* [*Análise do Discurso Científico*](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/discurso.htm) 
+* [*Introdução à Hermenêutica*](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/heremeneutica.htm)
 
 #### Master in Science Teaching (*Department of Education*) 
 
