@@ -10,11 +10,11 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 
 O Programa de Doutoramento Internacional em Filosofia da Ciência, Tecnologia, Arte e Sociedade foi aprovado pela Fundação para a Ciência e a Tecnologia no âmbito do concurso Programas de Doutoramento FCT 2013.
 
-Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da Ciência, Tecnologia, Arte e Sociedade conta com a participação de um corpo docente altamente especializado em diferentes áreas da Filosofia, das Ciências e das Artes. O PD-FCTAS foi proposto pela Professora Olga Pombo e por ela e dirigido até à minha aposentação em 2017, tendo sido posteriormente dirigido pela Professora Maria Fernanda Palma e posteriormente pela Prof. Cristina Tavares, com a participação das seguintes instituições
+Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da Ciência, Tecnologia, Arte e Sociedade conta com a participação de um corpo docente altamente especializado em diferentes áreas da Filosofia, das Ciências e das Artes. O PD-FCTAS foi proposto pela Professora Olga Pombo e por ela e dirigido até à minha aposentação em 2017, tendo sido posteriormente dirigido pela Professora Maria Fernanda Palma e posteriormente pela Prof. Cristina Tavares, com a participação da Faculdade de Belas-Artes, Faculdade de Ciências, Faculdade de Direito, Faculdade de Letras, Instituto de Ciências Sociais e Instituto Superior Técnico – Universidade de Lisboa
+
 [PD-FCTAS](https://phd-fctas.campus.ciencias.ulisboa.pt/)
 
-
-
+**Courses Taught**
 * Epistemology (2014-2016) 
 * Themes and Problems of Contemporary Philosophy of Science (2014-2016)
 * Doctoral Seminar I and II (2014)
