@@ -22,17 +22,17 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 
 #### Master in History and Philosophy of Science (*Department of History and Philosophy of Science* - leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
 
-   > * [**Philosophy of Scientific Knowledge**](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
-   > * **Epistemology and Philosophy of Science** (2005-2010)
-   > * [**Epistemology and Philosophy of Science of the XX century**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2009-2016)
-   > * **Themes and Problems in Philosophy of Science of the XX century** (20013-20014)
+   * [**Philosophy of Scientific Knowledge**](https://webpages.ciencias.ulisboa.pt/~ommartins/fcc/index.html) )(2003-2004, 2005-2016)
+   * **Epistemology and Philosophy of Science** (2005-2010)
+   * [**Epistemology and Philosophy of Science of the XX century**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/epistemologia_filccs.htm) (2009-2016)
+   * **Themes and Problems in Philosophy of Science of the XX century** (20013-20014)
 
 #### Minor in History and Philosophy of Science (*Department of History and Philosophy of Science*)
 
-> * **Science and Art** (2009-2014) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
-> * **Science and Culture** (2011-2013) (*also offered in General Studies Licence*)
-> * [**Temas e Problemas de Epistemologia e Filosofia da Ciência**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) (*also offered as free option*)
-> * [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014)) 
+* **Science and Art** (2009-2014) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
+* **Science and Culture** (2011-2013) (*also offered in General Studies Licence*)
+* [**Temas e Problemas de Epistemologia e Filosofia da Ciência**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) (*also offered as free option*)
+* [Temas da filosofia da ciencia contemporanea](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014)) 
 
 #### Minor in Biochemistry (*Department of Biochemistry*)
 
