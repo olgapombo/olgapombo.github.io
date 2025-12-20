@@ -19,8 +19,7 @@ Join International Doctoral Program funded by the Portuguese Foundation for Scie
 
 ## University of Lisbon, Faculty of Sciences 
 
-#### PhD in History and Philosophy of Science 
-(*Department of History and Philosophy of Science*)
+#### PhD in History and Philosophy of Science (*Department of History and Philosophy of Science*)
 
 #### Master in History and Philosophy of Science (*Department of History and Philosophy of Science* - leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
 
