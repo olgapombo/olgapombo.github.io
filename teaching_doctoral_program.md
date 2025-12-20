@@ -1,7 +1,7 @@
 # Teaching
 
 
-###### [Doctoral Program FCTAS](#Doctoral-program-fctas-ul) | [Faculty of Sciences University of Lisbon](#Faculty-of-sciences-university-of-lisbon) | [Other teaching](#Other-teaching-in-portugal) | [Teaching abroad](#Teaching-and-lecturing-abroad)
+###### [Doctoral Program FCTAS](#Doctoral-program-fctas-ul) | [Faculty of Sciences University of Lisbon](#Faculty-of-sciences-university-of-lisbon) | [Other universities](#Other-universities) | [Lecturing abroad](#Lecturing-abroad)
 
 
 ## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/)
