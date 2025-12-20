@@ -107,11 +107,11 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 
 ## Teaching abroad 
 
-* Joint Doctoral Program in Science and Mathematics Education and in Science and Mathematics Teaching,  Universidade Federal do Pará, Brazil (2021).
-* Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”, organized by “Centro studi sulla natura, l’umano e l’unità del pensiero”,  “Accademia dei Lincei”, “Università di Roma La Sapienza”, “SISSA di Trieste”, “Scuola Normale Superiore di Pisa”, “Università di Pavia”, Accademia Vivarium Novum, Rome (October- November 2019)
+* Federal Universidade of Pará, Brazil (April 2021).
+* Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”, Accademia Vivarium Novum, Rome, Italy (October- November 2019)
 * Federal University of Goiás, Brazil (October 2012)
 * Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
 * Portuguese School, Maputo, Mozambique (May 2006)
-•	University Lille 3, France (January 2003)
-•	Viena University, Austria (September-October 1999)
+* University Lille 3, France (January 2003)
+* Viena University, Austria (September-October 1999)
 
