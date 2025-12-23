@@ -153,7 +153,7 @@
 * Coordinator of the international workshop **How to think Interdisciplinarity**, put forward by the CFCUL Thematic Line “Unity of Science and Interdisciplinarity”, 13 March 2015, Anfiteatro FCUL.
 * Member of the scientific board of the **14th International meeting Art and Technology (#14.ART):  Art and Human Development**, put forward by Aveiro University, 7-11 October 2015.
 * Coordinator of the international workshop **The Methodology of Case Studies. How to think Interdisciplinarity**, put forward by the CFCUL Thematic Line “Unity of Science and Interdisciplinarity”, held at FCUL, 4th December 2015.
-* Coordinator of the international workshop **Interdisciplinarity in Science: Theory and Practice**, put forward by the CFCUL Thematic Line “Unity of Science and Interdisciplinarity”, held at FCUL, 25 January 2016.
+* Coordinator of the international workshop [**Interdisciplinarity in Science: Theory and Practice**](https://www.youtube.com/watch?v=aYci76E6N7s), put forward by the CFCUL Thematic Line “Unity of Science and Interdisciplinarity”, held at FCUL, 25 January 2016.
 * Member of the scientific committee of the I International conference **Taboo – Transgression - Transcendence in Art and Science**, put forward by the Ionian University, Corfu, Greece, 20-21 May 2016.
 * Organizer of the international symposium **Between Truth and Transgression: The shifting nature of the scientific image** presented at the International Conference “Taboo – Transgression - Transcendence in Art and Science”, held at Ionian University, Corfu, Greece, 20-21 May 2016.
 * Member of the scientific committee of the **2th International Philosophy Congress**, put forward by the “Portuguese Society for Philosophy”, held at the University of Oporto, 8-9 September 2016.
@@ -168,7 +168,7 @@
 * Member of the scientific board of the IX international conference of the Spanish Society of Logic, **Methodology and Philosophy of Science (SLMFCE)**, put forward by University of Sevillha, held at Faculdad de Filosofia UNED, Madrid, 13-16 November 2018.
 * Member of the scientific commission of the international **Engels Colloquium:  on the 200 Years of his Birth**, put forward by Faculty of Letters, University of Lisbon, 16-17 November 2020.
 * Member of the scientific committee of the international colloquium **Interdisciplinarité(s)”: Ateliers**, put forward by the Réseau National des Maisons des Sciences de L’Homme, held at Université Aix en Provance, France, 9-10 September, 2021.
-•	Member of the organizing committee of the international colloquium **Photography in-between Science, Art and Philosophy**, put forward by CFCUL, FBAUL and IST of the University of Lisbon, held at Faculty of Fine Arts (FBAUL), Lisbon, 26 November, 2022.
+* Member of the organizing committee of the international colloquium **Photography in-between Science, Art and Philosophy**, put forward by CFCUL, FBAUL and IST of the University of Lisbon, held at Faculty of Fine Arts (FBAUL), Lisbon, 26 November, 2022.
 * Local Advisor of the **Biennial International Conference of the ISHPSSB (International Society for the History, Philosophy and Social Studies of Biology)**, held at the University of Porto, 20-25 July, 2025.
 
 
