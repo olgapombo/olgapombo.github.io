@@ -154,6 +154,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 **National Selection Panels**
 * Member of the selection panel for the prize “Tradução Científica e Técnica em Língua Portuguesa” (2003, 2004-2005)
 *  the selection panel for the “Olimpíadas Nacionais de Filosofia” organized by the Portuguese Society of Philosophy (2012-2013)
+* Member of the scientitic board of the "Olimpíadas Nacionais de Filosofia", organized by PROSOFOS (Associação para a Promoção da Filosofia), 7, 8 March 2014, Escola Secundária de Paços de Ferreira. 
 * Member of the selection panel for the Philosophical Essay Prize (14th edition) organized by the Portuguese Society of Philosophy (2021)
 * Member of the selection panel for CFCUL post-doc grants in the scientific area of “Science and Art” (March 2015)
 * Member of the selection panel for CFCUL post-doc grants in the scientific area of “Unity of Science and Interdisciplinarity” (April 2015)
