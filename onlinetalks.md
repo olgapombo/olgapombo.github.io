@@ -381,7 +381,7 @@
 * **Ciência e escola. Uma relação constitutiva**, invited talk at conference cycle “Knowledges in dialogue. Transdisciplinary crossings”, D. Dinis High School, Lisboa, 8 February 2020.
 * **Ciência e escola**, opening conference in the conference cycle “Looking for a better world: Science, Education and Humanism”, D. Dinis High School, Lisboa, 26 January 2019.
 * **Verdade, filosofia e ciência**, invited talk at the Philosophy Day put forward by the Department of Philosophy, Cacilhas-Tejo High School, Almada, 17 November 2016.
-* **Ciência, curriculo e interdisciplinaridade**, invited talk at Seminars “Science, Education and Democracy”, D. Dinis High School, Lisboa, 18 May 2016. ([program](https://cfcul.mcmlxxvi.net/divulgacao/actividades/2016/Programa_Ciencia_Educacao_Democracia.pdf)
+* **Ciência, curriculo e interdisciplinaridade**, invited talk at Seminars “Science, Education and Democracy”, D. Dinis High School, Lisboa, 18 May 2016. ([program](https://cfcul.mcmlxxvi.net/divulgacao/actividades/2016/Programa_Ciencia_Educacao_Democracia.pdf))
 * **Ciência e Arte. Proximidades e Distâncias**, invited talk, Escola Secundária António Damásio, 9 April 2015.
 * **A espantosa linguagem da matemática**, invited talk at the "Ciclo de Conferencias - Uma Escola Publica de Qualidade", António Damásio High School, Lisboa, 20 Janury 2015.
 * **Afinal, o que é a ciência?**, talk presented at the project "Afinal, o que é a ciência?", António Damásio High School, 9 January 2014. ([poster](https://cfcul.mcmlxxvi.net/projectos/oqueeaciencia/posters/Poster_OlgaPombo2.pdf))
