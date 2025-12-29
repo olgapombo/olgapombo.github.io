@@ -204,16 +204,16 @@
 * Coordinator of the workshop **Arte e Ciência como Criação. Em torno de Gaston Bachelard**, put forward by the CFCUL, held at FCUL, 26 January 2007. 
 * Coordinator of the workshop **Giordano Bruno morreu na fogueira em Fevereiro de 1600**, put forward by the CFCUL, held at FCUL, 14 February 2007.
 * Organizer of the national colloquium **Darwinismo versus Creacionismo: onde começa e acaba uma teoria cientifica?**, put forward by the CFCUL in collaboration with Centro de Biologia Ambiental (CBA), Sociedade Portuguesa de Ciências Naturais (SPCN), Central Library of FCUL and Livraria Escolar Editora, held at FCUL, March 2007.  
-* Organizer of the seminar **Aproximações ao Conceito de Imagem**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 2007-2011 (21 sessions).
-      > * **Aproximações ao Conceito de Imagem I. Deleuze e a imagem**, 7 May 2007.
-      > * **Aproximações ao Conceito de Imagem II. As imagens da arte**, 18 June 2007.
-      > * **Aproximações ao Conceito de Imagem III. As Imagens e as drogas**, 16 July 2007.
-      > *	**Aproximações ao Conceito de Imagem IV. Passagens**, put forward the FCT Project “Image in Science and Art”, held at FCUL, 24 September 2007.
-      > * Organizer of the seminar **Aproximações ao Conceito de Imagem V. Desenho cientifico e pensamento selvagem**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 8 October 2007. 
+* Coordinator of the seminar  **Aproximações ao Conceito de Imagem**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 2007-2011 (21 sessions).
+* Coordinator of the seminar  **Aproximações ao Conceito de Imagem I. Deleuze e a imagem**, 7 May 2007.
+>* **Aproximações ao Conceito de Imagem II. As imagens da arte**, 18 June 2007.
+> * **Aproximações ao Conceito de Imagem III. As Imagens e as drogas**, 16 July 2007.
+ > *	**Aproximações ao Conceito de Imagem IV. Passagens**, put forward the FCT Project “Image in Science and Art”, held at FCUL, 24 September 2007.
+ > * Organizer of the seminar **Aproximações ao Conceito de Imagem V. Desenho cientifico e pensamento selvagem**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 8 October 2007. 
 * Coordinator of the workshop **Os Lugares da Epistemologia e da Poética em Gaston Bachelard**, FCUL, 10 December 2007.
-      *	Organizer of the seminar **Aproximações ao Conceito de Imagem VI. Imagens da Natureza e natureza das imagens**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 18 February 2008. 
+> *	Organizer of the seminar **Aproximações ao Conceito de Imagem VI. Imagens da Natureza e natureza das imagens**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 18 February 2008. 
 * Co-organizer of the workshop **Os últimos dias de Giordano Bruno**, put forward by CFCUL in collaboration with the Teatro da Escola Politécnica and “Cátedra A Razão”, held at Escola Politécnica Theater, Lisbon, 19 February 2008.
-      * Organizer of the seminar **Aproximações ao Conceito de Imagem VII. Peirce e Frege**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 10 March 2008.
+> * Organizer of the seminar **Aproximações ao Conceito de Imagem VII. Peirce e Frege**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 10 March 2008.
 * Co-organizer of the workshop **Sobre Galileu**, put forward by CFCUL in collaboration with Teatro da Escola Politécnica and “Cátedra A Razão”, held Escola Politécnica Theater, Lisbon, 18 April 2008. 
 * Coordinator of the workshop **Introdução ao processamento e analise de imagem**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 4 and 8-10 September 2008. 
 * Coordinator of the workshop **A Ilustração Científica e a Construção do Conhecimento**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 4-5 December 2008. 
