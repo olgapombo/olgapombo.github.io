@@ -152,7 +152,6 @@
 * Member of the scientific board of the international colloquium **Knowledge and Colonial Science**, put forward by the CFCUL together with the Institute for Scientific Tropical Research, held at Fábrica Braço de Prata, Lisbon, 26-29 November 2013.
 * Coordinator of the **Second Lisbon International Conference: Philosophy of Science in the 21st century - Challenges and Tasks**, put forward by the CFCUL, held at FCUL, 4-6 December 2013.
 * Coordinator of the international symposium **Interdisciplinarity today: Scope and Application**, put forward by CFCUL Thematic line “Unity of Science and Interdisciplinarity”, held at FCUL, 14 December 2013 
-<http://uci.fc.ul.pt/sympLisbonICPOS.html>
 * Coordinator of the **VIII Iberic Journeys – Debates of Contemporary Philosophy**, put forward by the CFCUL project "Knowledge dynamics in the field of social sciences: abduction, intuition and invention", held at FCUL, Auditorium Tec Labs – Center of Innovation, 27-29 May 2014. 
 * Member of the scientific committee of the **1st International Portuguese Philosophy Congress**, put forward by the Portuguese Society for Philosophy, held at Calouste Gulbenkian Foundation, Lisbon, 5-6 September 2014.
 * Member of the scientific board of the **III Jornadas de Innovación Docente en la Enseñanza de la Filosofia / III Journeys of Innovation in the Teaching of Philosophy**, put forward by the Complutense Faculty of Philosophy, held at Complutense University of Madrid, October 2014.
