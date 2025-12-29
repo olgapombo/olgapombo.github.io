@@ -246,10 +246,10 @@
 * Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences held at FCUL, 2019 (4 sessions). 
 * Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2020 (3 sessions).
 * Organizer of the monthly talks “Philosophy at the Library”, put forward by the municipal library “Biblioteca-Espaço Cultural Cinema Europa”, Lisbon, 2024-2025 (14 sessions). 
-    * “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 9 January 2024.
-    * “Envelhecimento e Morte (On Aging and Death)”, by Jorge Correia Jesuino (with the participation of Olga Pombo and Nuno Oliveira), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 6 February 2024.
-    *	“Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 5 March 2024. 
-    *	“Sobre o conceito de Poder (On the concept of Power)”, by Nuno Oliveira (with the participation of Olga Pombo and Jorge Correia Jesuino), 2 April 2024. 
+    >* “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 9 January 2024.
+    >* “Envelhecimento e Morte (On Aging and Death)”, by Jorge Correia Jesuino (with the participation of Olga Pombo and Nuno Oliveira), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 6 February 2024.
+    > *	“Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 5 March 2024. 
+    > *	“Sobre o conceito de Poder (On the concept of Power)”, by Nuno Oliveira (with the participation of Olga Pombo and Jorge Correia Jesuino), 2 April 2024. 
     *	“O que é Pensar (On thinking)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 7 May 2024. 
     *	“O que é a Filosofia (On Philosophy)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 7 June 2024. 
 o	“O Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia (Plato’s Protagoras” (IV aC).  Philosophy, Reason, Virtue and Democracy”), by Olga Pombo (with the participation of Jorge Correia Jesuíno), 1 October 2024.
