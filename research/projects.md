@@ -248,18 +248,19 @@
 * Organizer of the monthly talks “Philosophy at the Library”, put forward by the municipal library “Biblioteca-Espaço Cultural Cinema Europa”, Lisbon, 2024-2025 (14 sessions). 
     >* “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 9 January 2024.
     >* “Envelhecimento e Morte (On Aging and Death)”, by Jorge Correia Jesuino (with the participation of Olga Pombo and Nuno Oliveira), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 6 February 2024.
-    > *	“Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 5 March 2024. 
-    > *	“Sobre o conceito de Poder (On the concept of Power)”, by Nuno Oliveira (with the participation of Olga Pombo and Jorge Correia Jesuino), 2 April 2024. 
-    *	“O que é Pensar (On thinking)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 7 May 2024. 
-    *	“O que é a Filosofia (On Philosophy)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 7 June 2024. 
-o	“O Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia (Plato’s Protagoras” (IV aC).  Philosophy, Reason, Virtue and Democracy”), by Olga Pombo (with the participation of Jorge Correia Jesuíno), 1 October 2024.
-o	"O Discurso do Método" (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will”), by Olga Pombo (with the participation of Jorge Correia Jesuíno), 5 November 2024.
-o	"O Discurso sobre a Origem da Desigualdade entre os Homens"" (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men"(1754). Philosophy, Fiction, Politics and Human Rights”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 3 December 2024.
-o	“A Alice no País das Maravilhas” (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature”), by Olga Pombo, 7 de Janeiro 2025.
-o	“Os Espaços Outros” (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces" (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 4 February 2025.
-o	“O Princípio Responsabilidade” (1979) de Hans Jonas (filosofia, ética, futuro e ecologia ("The Principle of Responsibility" (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 4 March 2025.
-o	“Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência ("You have to change your life" (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence”), by Jorge Correia Jesuíno, Nuno Oliveira and Olga Pombo), 1 April 2025.
-o	“Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (“About the New" (2014) by Boris Groys. Philosophy, Innovation, Creation”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 6 May 2025
+    >*	“Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 5 March 2024. 
+    >*	“Sobre o conceito de Poder (On the concept of Power)”, by Nuno Oliveira (with the participation of Olga Pombo and Jorge Correia Jesuino), 2 April 2024. 
+    >*	“O que é Pensar (On thinking)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 7 May 2024. 
+    >*	“O que é a Filosofia (On Philosophy)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 7 June 2024. 
+  > * "O Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia (Plato’s Protagoras” (IV aC).  Philosophy, Reason, Virtue and Democracy”), by Olga Pombo (with the participation of Jorge Correia Jesuíno), 1 October 2024.
+  > *"O Discurso do Método" (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will”), by Olga Pombo (with the participation of Jorge Correia Jesuíno), 5 November 2024.
+  > * "O Discurso sobre a Origem da Desigualdade entre os Homens"" (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men"(1754).
+    >* Philosophy, Fiction, Politics and Human Rights”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 3 December 2024.
+    >* “A Alice no País das Maravilhas” (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature”), by Olga Pombo, 7 de Janeiro 2025.
+    >* “Os Espaços Outros” (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces" (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 4 February 2025.
+    >* “O Princípio Responsabilidade” (1979) de Hans Jonas (filosofia, ética, futuro e ecologia ("The Principle of Responsibility" (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 4 March 2025.
+    >* “Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência ("You have to change your life" (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence”), by Jorge Correia Jesuíno, Nuno Oliveira and Olga Pombo), 1 April 2025.
+    >* “Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (“About the New" (2014) by Boris Groys. Philosophy, Innovation, Creation”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 6 May 2025
 
 
 
