@@ -387,8 +387,8 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * **Towards a cartography of the concept of creation in science and art**
 * **Creation in science and art. Comparative examples**
 * **Ciência e arte. Interacções, aproximações e distancias**/Science and art: interactions, approaches, and distances 
-* **Science and art. Variations upon a common ground** 
-* **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**/Science and art: admirable affinities and sublime difference 
-* **Model’s nearness to the work of art** 
-* **A imagem na ciencia e e na arte**/Image in science and art 
-* **Imagem e diagrama**/Image and diagram 
+* *Science and art. Variations upon a common ground** 
+* *Ciencia e arte. Afinidades admiráveis e diferenças sublimes**/Science and art: admirable affinities and sublime difference 
+* *Model’s nearness to the work of art** 
+* *A imagem na ciencia e e na arte**/Image in science and art 
+* *Imagem e diagrama**/Image and diagram 
