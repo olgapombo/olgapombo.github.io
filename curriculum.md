@@ -12,7 +12,7 @@ Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Mast
 
 Professor of Philosophy of Science at the Department of History and Philosophy of Science, Faculty of Sciences of the University of Lisbon (retired since 2017, with collaboration agreement), she was President of the Department since its foundation in 2007 up to 2012. 
 
-She created the “[Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL)](https://cfcul.ciencias.ulisboa.pt/) of which she was the [Director and Scientific Coordinator](https://cfcul.ciencias.ulisboa.pt/equipa/olga-pombo/) since its foundation in 2003 until 2017. 
+She created the “[Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL)](https://cfcul.ciencias.ulisboa.pt/) in 2003 of which she was the [Director and Scientific Coordinator](https://cfcul.ciencias.ulisboa.pt/equipa/olga-pombo/) since its foundation until 2017. 
 She coordinated several research projects - "Encyclopedia and Hypertext" (1999-02), "Scientific Culture. Conceptual Migrations and Social Contaminations" (2003-6), “Image in Science and Art” (2007-12), “Universal Logics and Unity of Science” (2008-10), “Abduction and Scientific Discovery” (2010-12), “Knowledge Dynamics in the field of Social Sciences (2012-13) - and was associated researcher in several other international projects.  
 
 In 2013, she created the FCT [Doctoral Program Philosophy of Science, Technology, Art and Society](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) of which she was the [first program director (PI)](https://phd-fctas.campus.ciencias.ulisboa.pt/director-do-programa/) until 2017, where she continued to lecture until 2024 and supervising several doctoral theses.
