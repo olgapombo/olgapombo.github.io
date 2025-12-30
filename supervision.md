@@ -1,6 +1,6 @@
 # Supervision 
 
-###### [Phd dissertations](#PhD-dissertations) | [Master dissertations](#Master-dissertations) | [Post-Docs research](#Post-docs-research) |[Doctoral students stages](#Doctoral-students-stages) | [Sabbatical research stays](#Sabbatical-research-stays) | [Academic committees](#Academic-committees)
+###### [Phd dissertations](#PhD-dissertations) | [Master dissertations](#Master-dissertations) | [Post-Docs researchers](#Post-docs-researchers) |[Doctoral students stages](#Doctoral-students-stages) | [Sabbatical research stays](#Sabbatical-research-stays) | [Academic committees](#Academic-committees)
 
 ## PhD dissertations
 
@@ -39,7 +39,7 @@ Ana Paula Soarez, **Imagem Naturalista. A Iconografia da Viagem Philosophica de 
 *	Diogo Miguel Silva da Cunha, **Processo e Realidade Social. Reconstrução do Núcleo Teórico da Sociologia Processual de Norberto Elias**, Master in “History and Philosophy of Science”, FCUL, 5th April 2021 (very good, unanimity).
 
 
-## Post-docs research 
+## Post-docs researchers 
 
 * Juan Manuel Torres, **The Influence of Genetics on Contemporary Thinking**, FCT Grant SFRH/BPD/17625/2004, CFCUL, 2009-2010.  
 * Nathalie Gontier, **An Investigation into the Different Applications of an Evolutionary Epistemological, Universal Symbiogenesis and Universal Punctuated Equilibrium Approach for Studies into the Origin and Evolution of Language and Culture**, FCT Grant SFRH/BPD/43519/2008, CFCUL, 2008-2009.  
