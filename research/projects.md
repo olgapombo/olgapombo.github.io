@@ -1,8 +1,8 @@
 ## Research 
-###### [Research Centers](#research-centers) | [Research Projects](#research-projects) | [Scientific Societies](#Scientific-societies) | [Networks](#networks) | [Journal Boards](#Journal-boards) | [Organization of Scientific Meetings](#organization-of-scientific-meetings)
+###### [Research centers](#research-centers) | [Research projects](#research-projects) | [Scientific societies](#Scientific-societies) | [Networks](#networks) | [Journal boards](#Journal-boards) | [Organization of scientific meetings](#organization-of-scientific-meetings)
 
 
-### Research Centers
+### Research centers
 
 * 2003 - Founder of  the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL), research unit financed by the Portuguese Foundation for Science and Technology (FCT).
 * 2003-20017 - Scientific coordinator of the **[Research Center for Philosophy of Science of the University of Lisbon” (CFCUL)](https://arquivo.pt/wayback/20140925030955/http://cfcul.fc.ul.pt/)**, since 2003 up to my retirement in January 2017.
@@ -11,7 +11,7 @@
 * 1994-2003 - Integrated member of the “Research Center in Education” (CIEFCUL), Faculdade de Ciencias, University of Lisbon 
 
 
-### Research Projects
+### Research projects
 
 #### Coordination (PI) of research projects and groups (RG)
 
@@ -84,7 +84,7 @@
 * Member of Scientific Committee of the **Système d’information en Philosophie des Sciences (SIPS)** directed by Thierry Martin and coordinated by the Centre de Documentation et de Bibliographie Philosophique, Maison des Sciences de l'Homme Claude-Nicolas Ledoux (UMS 27), France (2008-2010).  
 * Member of the **[POND Network - Philosophy of Science Around the Mediterranean](https://pondposmed.wordpress.com/)** (since 2017)
 
-### Journal Boards
+### Journal boards
 
 * Member of the editorial board of the journal [Latin American Human Rights Studies (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021).
 * Member of the international editorial board of the journal **Currículo, Cultura e Identidade**, Unesp. Sao Paulo, Brazil (since 2020)
@@ -100,7 +100,7 @@
 * Member of the editorial board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
 * Member of the editorial board of the journal **Filosofia**, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
-#### Book Series Editorial Boards
+#### Book series editorial boards
 
 * Processos Formativos, Editora FI, Porto Alegre, Brazil (editorial board since 2017)
 * Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
