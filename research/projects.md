@@ -286,6 +286,8 @@
     >* “Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (“About the New" (2014) by Boris Groys. Philosophy, Innovation, Creation”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 6 May 2025
 
 
+#### Science communication and outreach
+
 
 #### Exhibitions
 
