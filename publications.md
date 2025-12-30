@@ -362,33 +362,33 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 ###### This section gathers manuscripts and conference papers. Many of these ongoing working papers have circulated among colleagues but none has been formally published. 
 
-* **Filosofia e práticas discursivas no Protágoras de Platão**/Philosophy and Discursive Practices in Plato’s Protagoras 
-* **A infinitude da queda no 'Teeteto' de Platão**/The Infinitude of the Fall in Plato’s Theaetetus 
-* **Por que é que Rousseau não é um utopista mas parece?**/Why Rousseau Is Not a Utopian but Seems to Be 
-* **As ciências das formas e as formas das ciências**/The Sciences of Forms and the Forms of Sciences 
-* **Cartografias do conhecimento e desafios contemporaneos**/Cartographies of Knowledge and Contemporary Challenges 
+* **Filosofia e práticas discursivas no Protágoras de Platão**/Philosophy and discursive practices in Plato’s *Protagoras* 
+* **A infinitude da queda no 'Teeteto' de Platão**/The infinitude of the fall in Plato’s *Theaetetus* 
+* **Por que é que Rousseau não é um utopista mas parece?**/Why Rousseau is not an utopian but seems to be 
+* **As ciências das formas e as formas das ciências**/The sciences of forms and the forms of sciences 
+* **Cartografias do conhecimento e desafios contemporaneos**/Cartographies of knowledge and contemporary challenges 
 * **Mapas disciplinares e cartografias do saber** (Disciplinary Maps and Cartographies of Knowledge 
-* **O valor cognitivo da árvore**/The Cognitive Value of the Tree 
-* **Magia e esplendor dos livros**/Magic and Splendor of Books 
-* **Oralidade, escrita. Uma eloquente revolução tecnológica**/Orality, Writing. An eloquent technological revolution 
-* **A leitura no mundo de ontem e no mundo de amanhã**/Reading in the World of Yesterday and Tomorrow 
-* **Os lugares da ciência e da filosofia**/The Places of Science and Philosophy 
-* **Da universidade medieval a´ universidade mundial electrónica**/From the Medieval University to the Global Electronic University (unpublished manuscript))
-* **Escolas, museus e bibliotecas**/Schools, Museums, and Libraries 
-* **De Plínio à internet / Enciclopédia e internet**/From Pliny to the Internet/Encyclopaedia and Internet 
-* **Filosofia e matemática – Da mathesis universalis a Lewis Carroll** (Philosophy and Mathematics – From Mathesis Universalis to LewisCarroll 
-* **Filosofia, matemática e língua natural**/Philosophy, Mathematics, and Natural Language 
-* **O que é isso do pensamento cego?**/What Is it the Blind Thought? 
-* **Leibniz e a ideia de máquina matemática**/Leibniz and the Idea of a Mathematical Machine 
-* **O Lugar de Leibniz na História da Lógica**/Leibniz’s Place in the History of Logic
-* **Por que não somos ainda leibnizianos**/Why We Are Not Yet Leibnizians 
-* **Ciência, tecnociência e pseudo ciência**/Science, Technoscience, and Pseudoscience 
-* **Descontiniudade e novidade em Bachelard** (Discontinuity of Time and Novelty in Bachelard 
-* **Mistérios da Criação**/The Mysteries of Creation 
-* **Towards a Cartography of the Concept of Creation in Science and Art** 
-* **Ciência e Arte. Interacções, aproximações e distancias**/Science and Art: Interactions, Approaches, and Distances 
+* **O valor cognitivo da árvore**/The cognitive value of the tree 
+* **Magia e esplendor dos livros**/Magic and splendor of books 
+* **Oralidade, escrita. Uma eloquente revolução tecnológica**/Orality, writing. An eloquent technological revolution 
+* **A leitura no mundo de ontem e no mundo de amanhã**/Reading in the world of yesterday and tomorrow 
+* **Os lugares da ciência e da filosofia**/The places of science and philosophy 
+* **Da universidade medieval a´ universidade mundial electrónica**/From the medieval University to the global electronic University 
+* **Plínio  e a internet / Enciclopédia e internet**/Pliny and the internet/Encyclopaedia and internet 
+* **Filosofia e matemática – Da mathesis universalis a Lewis Carroll** (Philosophy and mathematics – From Mathesis Universalis to LewisCarroll 
+* **Filosofia, matemática e língua natural**/Philosophy, mathematics, and natural Language 
+* **O que é isso do pensamento cego?**/What Is it the blind thought? 
+* **Leibniz e a ideia de máquina matemática**/Leibniz and the idea of a mathematical machine 
+* **O Lugar de Leibniz na História da Lógica**/Leibniz’s place in the History of Logic
+* **Por que não somos ainda leibnizianos**/Why we are not yet Leibnizians 
+* **Ciência, tecnociência e pseudo ciência**/Science, technoscience, and pseudoscience 
+* **Descontinuidade do Tempo e novidade em Bachelard** (Time discontinuity and novelty in Bachelard 
+* **Mistérios da criação**/The mysteries of creation 
+* **Towards a cartography of the concept of creation in science and art**
+* **Creation in science and art. Comparative examples**
+* **Ciência e arte. Interacções, aproximações e distancias**/Science and art: interactions, approaches, and distances 
 * **Science and art. Variations upon a common ground** 
-* **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**/Science and Art: Admirable Affinities and Sublime Difference 
+* **Ciencia e arte. Afinidades admiráveis e diferenças sublimes**/Science and art: admirable affinities and sublime difference 
 * **Model’s nearness to the work of art** 
-* **A imagem na ciencia e e na arte**/Image in Science and Art 
-* **Imagem e diagrama**/Image and Diagram 
+* **A imagem na ciencia e e na arte**/Image in science and art 
+* **Imagem e diagrama**/Image and diagram 
