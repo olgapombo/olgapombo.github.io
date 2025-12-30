@@ -509,7 +509,7 @@ DOI: 10.48075/ri.v10i1.4141, ISSN: 1518-6911
 * Member of the editorial board of the journal ***Filosofia***, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
 
-### Member of Book Series Editorial Boards
+### Book Series Editorial Boards
 * Processos Formativos, Editora FI, Porto Alegre, Brazil (editorial board since 2017)
 * Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
