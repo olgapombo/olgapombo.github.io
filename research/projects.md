@@ -1,5 +1,5 @@
 ## Research 
-###### [Research centers](#research-centers) | [Research projects](#research-projects) | [Scientific societies](#Scientific-societies) | [Networks](#networks) | [Journal boards](#Journal-boards) | [Organization of scientific meetings](#organization-of-scientific-meetings)
+###### [Research centers](#research-centers) | [Research projects](#research-projects) | [Scientific societies](#Scientific-societies) | [Networks](#networks) | [Journal boards](#Journal-boards) | [Organization of scientific meetings](#organization-of-scientific-meetings) | [Other scientific meetings](#Other-scientific-meetings )   | [Science communication and outreach](#Science-communication-and-outreach)
 
 
 ### Research centers
