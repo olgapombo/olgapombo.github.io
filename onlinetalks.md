@@ -349,7 +349,7 @@
 * **Das sociedades humanas às sociedades artificiais**, presentation of the book authored by Porfírio Silva, Colégio Espírito Santo, Universidade de Évora, 6 May 2011.
 * **Solaris. Sistema Beta Pictoris**, presentation of the book edited de Rodrigo Vilhena (Lisboa: Fim de Século, Series “Image in Science and Art) together with José R. Croca and Catarina Nabais, Lisboa, Fábrica Braço de Prata Bookshop, 13 May 2011.
 * **Marie Skłodowska Curie - imagens de outra face**, presentation of the book authored by Raquel Gonçalves-Maia”, Colibri Editor, FCUL, 9 November 2011.
-* **As imagens com que a ciência se faz**, book edited by Olga Pombo and Silvia Di Marco (Lisboa: Fim de Século, series “Image in Science and Art). Presentation of the book by Palmira Fontes da Costa, Faculty of Sciences, University of Lisbon, 1 June 2011. ([poster](http://cfcul.fc.ul.pt/pdfs e powerpoints/AsImagensCCFaz.pdf))
+* **As imagens com que a ciência se faz**, book edited by Olga Pombo and Silvia Di Marco (Lisboa: Fim de Século, series “Image in Science and Art). Presentation of the book by Palmira Fontes da Costa, Faculty of Sciences, University of Lisbon, 1 June 2011. 
 * **Em torno de Darwin**, book edited by Olga Pombo and Marco Pina ( Lisboa: Fim de Século), presentation of the book by Olga Pombo, Marco Pina and Ricardo Santos, Lisboa, FNAC Vasco da Gama Bookshop, 19 April 2012.
 * **Em torno de Darwin**, book edited by Olga Pombo and Marco Pina (Lisboa: Fim de Século), presentation of the book by Olga Pombo, Marco Pina, Antonio Bracinha Vieira and Nuno Nabais,  Lisboa, Fabrica Braço de Prata Bookshop, 22 June 2012.
 * **Economia e interdisciplinaridade(s)**, presentation of the book authored by Victor Neves, Almedina Bookshop, Atrium Saldanha, Lisboa, 23 November 2012.
