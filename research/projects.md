@@ -86,8 +86,27 @@
 
 ### Journal Boards
 
+* Member of the editorial board of the journal [Latin American Human Rights Studies (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021).
+* Member of the international editorial board of the journal **Currículo, Cultura e Identidade**, Unesp. Sao Paulo, Brazil (since 2020)
+* Member of the scientific board of the journal Interdisciplinaridade, [GEPI - Grupo Estudos e Pesquisa em Interdisciplinaridade](https://revistas.pucsp.br/index.php/interdisciplinaridade/about/editorialTeam) (ISSN 2179-0094), PUC-SP, Brazil (since 2017).
+* Member of the scientific board of the journal [Omnia. Revista Interdisciplinar de Ciências e Artes](https://grei.pt/revista-omnia/) (ISSN 2183-8720), GREI, Faro (since 2015)
+* Member of the scientific board of the journal **Sol Nascente**, ISPSN, Angola (2013-2023)
+* Member of the advisory board of the journal [Logos and Episteme. An International Journal of Epistemology](https://www.pdcnet.org/logos-episteme/Editorial-Team) (ISSN 2069-0533), Romania Academy (since 2010)
+* Member of the scientific board of the journal [RHV. An International Journal of Philosophy](https://revistas.uv.cl/index.php/RHV/about/editorialTeam), Instituto de Filosofia, Faculdade de Humanidades, Valparaiso, Chile
+* Member of the scientific board of the journal [Cuadernos de Lógica, Epistemologia y Lenguaje](https://www.collegepublications.co.uk/cuadernos/), College Publication, UK (since 2007)
+*  Member of the editorial board of the journal [Contexto e Educação](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil (since 2006).
+* Member of the consulting board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (since 2000-2002).
+* Member of the editorial board of the journal **Argumento. Revista Quadrimestral de Filosofia**, edited by Editora Cosmos, Lisboa (1990-1993).
+* Member of the editorial board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
+* Member of the editorial board of the journal **Filosofia**, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
-  
+#### Book Series Editorial Boards
+
+* Processos Formativos, Editora FI, Porto Alegre, Brazil (editorial board since 2017)
+* Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
+* Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
+
+
 ### Organization of scientific meetings
 
 #### International scientific meetings
