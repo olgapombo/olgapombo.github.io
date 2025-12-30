@@ -1,5 +1,5 @@
 ## Research 
-###### [Research Centers](#research-centers) | [Research Projects](#research-projects) | [Scientific Societies](#Scientific-societies) | [Networks](#networks) | [Organization of scientific meetings](#organization-of-scientific-meetings)
+###### [Research Centers](#research-centers) | [Research Projects](#research-projects) | [Scientific Societies](#Scientific-societies) | [Networks](#networks) | [Journal Boards](#Journal-boards) | [Organization of scientific meetings](#organization-of-scientific-meetings)
 
 
 ### Research Centers
@@ -83,6 +83,9 @@
 * Member of the International Research Network, **[Système d'Information en Philosophie des Sciences](https://mshe.univ-fcomte.fr/sips)** (head by Thierry Martin (2007-2020). 
 * Member of Scientific Committee of the **Système d’information en Philosophie des Sciences (SIPS)** directed by Thierry Martin and coordinated by the Centre de Documentation et de Bibliographie Philosophique, Maison des Sciences de l'Homme Claude-Nicolas Ledoux (UMS 27), France (2008-2010).  
 * Member of the **[POND Network - Philosophy of Science Around the Mediterranean](https://pondposmed.wordpress.com/)** (since 2017)
+
+### Journal Boards
+
 
   
 ### Organization of scientific meetings
