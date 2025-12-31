@@ -134,7 +134,7 @@ PhD in “Education”, FCUL, 2008
 * Member (supervisor) of the jury for the PhD dissertation *Imagem Naturalista. A Iconografia da Viagem Philosophica de Alexandre Rodrigues Ferreira ao Brasil*, by Ana Paula Mendes de Sousa Suarez,  PhD in “Philosophy of Science, Technology, Art and Society”, speciality “Art and Science”, FCUL, 20 May 2025.
 
 
-### Master 
+### Master's theses committees
 
 * Member (supervisor) of the jury for the master dissertation *Processo e Realidade Social. Reconstrução do Núcleo Teórico da Sociologia Processual de Norberto Elias*, by Dr. Diogo Cunha, master in “History and Philosophy of Science”, FCUL (zoom session), 5 April 2021.
 * Member (supervisor) of the jury for the master dissertation O Problema da Demarcação enquanto Problema Central da Filosofia da Ciência by Victor Hugo Simões de Almeida, master in “History and Philosophy of Science”, FCUL, 6 December 2016.
