@@ -12,7 +12,7 @@
 *	João Barbosa, **Contributos para a Compreensão do Sucesso da Cosmologia do Big-Bang. Uma Análise Thematica à Luz de Gerald Holton**, PhD in History and Philosophy of Science, FCUL, January 2016, University of Lisbon (Very Good, unanimity).
 *	Silvio Filipe Varela de Sousa, **O Transcendental Geométrico e a Parecepto-Cognição**, (co-supervision), PhD in Philosophy, Faculty of Social and Human Sciences, New University of Lisbon  (Very good, unanimity)  March 2017 (Very Good, unanimity), FCT Grant SFRH/BD/60471/2009.
 *	Pedro Caldas, **O Cinema e a Ciência dos Processos**, PhD by the International FCT Doctoral Program in Philosophy of Science, Technology, Art and Society, FCUL, May 2023, University of Lisbon (Very Good, unanimity), PD-FCTAS grant - PD/BD/114319/2016.
-Ana Paula Soarez, **Imagem Naturalista. A Iconografia da Viagem Philosophica de Alexandre Rodrigues Ferreira ao Brasil**, International FCT Doctoral program in Philosophy of Science, Technology, Art and Society, FCUL, May 2023, University of Lisbon (Very Good, unanimity) PD-FCTAS PhD grant – PD /BD /128494/2017. 
+* Ana Paula Soarez, **Imagem Naturalista. A Iconografia da Viagem Philosophica de Alexandre Rodrigues Ferreira ao Brasil**, International FCT Doctoral program in Philosophy of Science, Technology, Art and Society, FCUL, May 2023, University of Lisbon (Very Good, unanimity) PD-FCTAS PhD grant – PD /BD /128494/2017. 
 *	Fernando Rua, **As Experiências de Pensamento como Objectos de Ficção / Thoughts Experiments as Fiction Objects**, International FCT Doctoral Program in Philosophy of Science, Technology, Art and Society, FCUL (2016 - ongoing)
 *	Marco Pina, **Impact of Social Factors on the Brain-Mind Development. An Interdisciplinary Analysis of Recent Contributions from the Evolutionary Sciences, Affective Sciences and Epigenetics to the Nature Debate**, International FCT Doctoral program in Philosophy of Science, Technology, Art and Society, FCUL, PD-FCTAS grant - PD/BD/114321/2016 (2016-2021).
 *	Ana Pato, **A Oposição entre Materialismo e Idealismo no Debate entre as Principais Interpretações da Mecânica Quântica**, International FCT Doctoral Program in Philosophy of Science, Technology, Art and Society, FCUL, PD-FCTAS grant - PD/BD/114320/2016. (2016-2020). 
@@ -62,7 +62,7 @@ Ana Paula Soarez, **Imagem Naturalista. A Iconografia da Viagem Philosophica de 
 * Matthieu Fontaine, **Existential Conjectures in Abductive Reasoning**, FCT Grant holder (SFRH/BDP/116494/2016), CFCUL, 2017- 2020.
 
 
-##  Doctoral students stages
+##  Doctoral students internships
 
 *	Remi Schorn, Pontific University Catolic South Rio Grande (PUC-RS), Brazil (March - July 2007). 
 *	Roseli Hickmann, Federal University South Rio Grande (UFRGS), Brazil (May - August 2007).
@@ -82,36 +82,36 @@ Ana Paula Soarez, **Imagem Naturalista. A Iconografia da Viagem Philosophica de 
 *	Rosangela Alemida Chaves, Faculdade de Filosofia, Federal University of Goias, Brazil (1 July- 31 July 2017).
 
 
-## Sabbatical research stays
+## Visiting Professors on sabbatical 
  
-*	Juan Manuel Torres, National University of Cuyo, Argentina, Fundação Gulbenkian grant, research stay at the CFCUL (October 2003-February 2004). 
-*	Marcelo Dascal, Tel-Aviv University, Israel, Fundação Gulbenkian grant, research stay at the CFCUL (March 2004 – June 2004). 
-*	Francisco J. Salguero Lamillar, University of Sevilla – Group on Logic, Language and Information, Spain, research stay at the CFCUL (October 2007 - December 2007). 
-*	Angel Nepomuceno, University of Sevilla – Group on Logic, Language and Information, Spain, research stay at the CFCUL (January 2007- April 2008). 
-*	Paula Ramos, UNESP - S. Paulo, Brazil, Capes grant, research stay at the CFCUL (September 2008- December 2008). 
-*	Rasmus Tore Slaattelid, University of Bergen, Centre for the Study of the Sciences and the Humanities, Norway, research stay at the CFCUL (2008-2009). 
-*	Rosana Monteiro, Federal University of Goiás, Brazil, Capes Grant, research stay at the CFCUL (September 2009-September 2010).  
-*	Fernando Soler, University of Sevilla, Group on Logic, language and information, Spain, research stay at the CFCUL (June - September 2010).  
-*	Jose Ernesto Calderón, National University of Cuyo, Argentina, research stay at the CFCUL (September - November 2010). 
-*	Emilio Gomez Caminero, University of Sevilla, Group on Logic, language and information, Spain, research stay at the CFCUL (June - October 2012).
-*	Giovanni Scarafile, University of Salento, Italy, Erasmus Mundus Grant, research stay at the CFCUL (September 2013).
-*	Sergio Hugo Menna, Federal University of Sergipe, Brazil, CAPES Grant, research stay at the CFCUL (November 2014 – November 2015).
-*	Wagner de Campos Sanz, Goiás University, Brazil, CAPES Grant, research stay at the CFCUL (December 2014 – March 2015).
-*	Lorenzo Baravalle, Federal University S. Paulo, Brazil, CAPES Grant, research stay at the CFCUL (May 11 – 7 July 2015).
-*	María Antonia González Valerio, Universidad Nacional Autónoma de México (UNAM), research stay at the CFCUL (April  - June 2016).
-*	Fernando Contreras Medina, Universidad de Sevilla, research stay at the CFCUL (April - September 2016).
-*	Fernando Contreras Medina, Universidad de Sevilla, research stay at the CFCUL (May - Setember 2017).
-*	Kelin Valeirão, Universidade Federal de Pelotas, Brazil, CAPES Grant, research stay at the CFCUL (November - December 2017).
-*	Sonia Schio, Universidade Federal de Pelotas, Brazil, CAPES Grant, research stay at the CFCUL (January 2018).
+*	Juan Manuel Torres, National University of Cuyo, Argentina, Fundação Gulbenkian grant, (October 2003-February 2004). 
+*	Marcelo Dascal, Tel-Aviv University, Israel, Fundação Gulbenkian grant,  (March 2004 – June 2004). 
+*	Francisco J. Salguero Lamillar, University of Sevilla – Group on Logic, Language and Information, Spain,  (October 2007 - December 2007). 
+*	Angel Nepomuceno, University of Sevilla – Group on Logic, Language and Information, Spain, (January 2007- April 2008). 
+*	Paula Ramos, UNESP - S. Paulo, Brazil, Capes grant (September 2008- December 2008). 
+*	Rasmus Tore Slaattelid, University of Bergen, Centre for the Study of the Sciences and the Humanities, Norway (2008-2009). 
+*	Rosana Monteiro, Federal University of Goiás, Brazil, Capes Grant (September 2009-September 2010).  
+*	Fernando Soler, University of Sevilla, Group on Logic, language and information, Spain (June - September 2010).  
+*	Jose Ernesto Calderón, National University of Cuyo, Argentina (September - November 2010). 
+*	Emilio Gomez Caminero, University of Sevilla, Group on Logic, language and information, Spain (June - October 2012).
+*	Giovanni Scarafile, University of Salento, Italy, Erasmus Mundus Grant (September 2013).
+*	Sergio Hugo Menna, Federal University of Sergipe, Brazil, CAPES Grant (November 2014 – November 2015).
+*	Wagner de Campos Sanz, Goiás University, Brazil, CAPES Grant, (December 2014 – March 2015).
+*	Lorenzo Baravalle, Federal University S. Paulo, Brazil, CAPES Grant, (May 11 – 7 July 2015).
+*	María Antonia González Valerio, Universidad Nacional Autónoma de México (UNAM), (April  - June 2016).
+*	Fernando Contreras Medina, Universidad de Sevilla, (April - September 2016).
+*	Fernando Contreras Medina, Universidad de Sevilla,  (May - Setember 2017).
+*	Kelin Valeirão, Universidade Federal de Pelotas, Brazil, CAPES Grant (November - December 2017).
+*	Sonia Schio, Universidade Federal de Pelotas, Brazil, CAPES Grant (January 2018).
 
 
 ## Academic committees
 
-### Agregation 
+### Aggregation juries
 
 * Member of the jury for the Aggregation by Prof. Doutor Nuno Miguel Ornelas Martins, Portuguese Universidade Católica de Lisbon, 19-20 September 2013.
 
-### PhD 
+### PhD defense committees
 
 * Member (arguing) of the jury for the PhD dissertation *Sobre a Tolerância. Contributos da Filosofia para a Educação*, by Master Isabel Aguilar Macedo, PhD in “Education and Development”, Faculty of Sciences e Tecnologia, New University of Lisbon, 2007.
 * Member (arguing) of the jury for the PhD dissertation *Nós. Do Encontro de Experiências à Construção de um Saber de Referência para a Coordenação de Acção Conjunta. Uma Voz para os Educadores*, by Dr. José Manuel Cravo Pombeiro Filipe, 
