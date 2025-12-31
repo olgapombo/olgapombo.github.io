@@ -206,7 +206,7 @@
 * Member of the organizing committee for the **First National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1978.
 * Member of the organizing committee for the **Second National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1979.
 * Member of the organizing committee for the **Third National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1980.
-* Member of the organizing committee of the conference **A Problemática das Licenciaturas em Ensino**, held at Rectorship of the University of Lisbon, 19-20, February, 1987.
+* Member of the organizing committee of the conference **A Problemática das Licenciaturas em Ensino**, held at Rectorship of the University of Lisbon, 19-20, February, 1986.
 * Member of the organizing commitee of the workshop **Investigação e Ensino**, held at FCUL, 20 February 1987.
 * Member of the organizing committee of the **Segundo Encontro Filosofia em Contextos Não-Filosóficos**, held at FCUL, June 1987.
 * Coordinator of the **Interdisciplinary Seminar on Bachelard**, held at FCUL, May 1988. 
@@ -214,12 +214,25 @@
 * Organizer with Teresa Levy and Henrique Guimaraes of the workshop **Interdisciplinarity and Environmental Education**, put forward by the Department of Education, held at FCUL, March 1991. 
 * Organizer with Teresa Levy and Henrique Guimaraes of the workshop **O que é a Interdisciplinaridade?**,  held at FCUL, March 1991. 
 * Organizer with Teresa Levy and Henrique Guimaraes of the **2nd Forum on Interdisciplinarity Experiences**, held at Marquês de Pombal High School, July 1991.
-* Coordinator of the conference series [**Encontros Agostinho da Silva**](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/index.htm), held at FCUL (1998-2000) (9 sessions)
-* Coordinator of the film cycle **Cinema e Educação /Film and Education**, held at FCUL (2000-2003) (5 sessions)
+
+
 * Co-organizer of the cycle of **Seminars of History and Philosophy of Sciences**, held at FCUL (2000-2003) (7 sessions)
 * Coordinator of the conference series **Conferences on Philosophy of Science**, put forward by the CFCUL, held FCUL (2004-2016).
 * Founder and coordinator of the [**Permanent Seminar on Philosophy of Science**](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), put forward by the CFCUL, held at FCUL (2004) (5 sessions).
 * Member of the organizing committee of the colloquium **Ainda nao doente. Contributos multidisciplinares para uma filosofia da Saude**, put forward by the CFCUL in collaboration with the Center for Bioethics of the Faculty of Medicine University of Lisbon and the Calouste Gulbenkian Foundation, held at Instituto de Ciências Sociais of the University of Lisbon (ICS), March 2004.
+* Founder and coordinator of the [“Permanent Seminar on Philosophy of Science”](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), in 2004 organized by the CFCUL, held at FCUL until 2020.
+> Permanent Seminar of Philosophy of Sciences, (2004) (5 sessions).
+> Permanent Seminar of Philosophy of Sciences, (2005-2013) (27 sessions).
+> Permanent Seminar of Philosophy of Sciences, 2014 (4 sessions).
+> Permanent Seminar of Philosophy of Sciences, 2015 (20 sessions).
+> Permanent Seminar of Philosophy of Sciences, 2016 (10 sessions).
+> Permanent Seminar of Philosophy of Sciences, 2017 (2 sessions).
+> Permanent Seminar of Philosophy of Sciences, 2018 (3 sessions)
+> Permanent Seminar of Philosophy of Sciences, 2019 (4 sessions)
+> Permanent Seminar of Philosophy of Sciences, 2020 (3 sessions) 
+
+
+
 * Coordinator of the **Permanent Seminar on Philosophy of Science**, put forward by the CFCUL, held at FCUL (2005-2013) (27 sessions). 
 * Coordinator of the workshop **Sobre o Indeterminismo / On Indeterminism**, put forward by the CFCUL, held at Lisbon Science Museum, 9 March 2005. 
 * Coordinator of the workshop **Como Pensar as Relações entre a História e a Filosofia das Ciências?**, put forward by the CFCUL, held at FCUL, 21 June 2006. 
