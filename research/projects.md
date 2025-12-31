@@ -277,7 +277,7 @@
 
 * Organizer of the monthly talks **“Philosophy at the Library”**, put forward by the municipal Library *Biblioteca-Espaço Cultural Cinema Europa*, Lisbon
   
-###### 2024 (6 sessions). 
+###### 2024 (6 sessions) 
 >* 9 January 2024 - “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes.
 >* 6 February 2024 - “Envelhecimento e Morte (On Aging and Death)”, by Jorge Correia Jesuino (with the participation of Olga Pombo and Nuno Oliveira).
 >*	5 March 2024 - “Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira). 
@@ -295,7 +295,7 @@
 >* 1 April 2025 - “Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência ("You have to change your life" (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence”), by Jorge Correia Jesuíno, Nuno Oliveira and Olga Pombo.
    >* 6 May 2025 - “Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (“About the New" (2014) by Boris Groys. Philosophy, Innovation, Creation”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira)
 
-###### 2025-2026 – Philosophy and Writing Institutions - 8 sessions:
+###### 2025-2026 – Philosophy and Writing - 8 sessions:
 * 7 October 2025: From Oral to Written Civilization Havelock’s The Muse Learns to Write, by Olga Pombo
 •	    4 November 2025: Poetry, Rhetoric and Dialectics: Homer, Protagoras and Socrates, by Olga Pombo 
 •	    2 December 2025: Dialogue, Argument and Rationality. Truth and Democracy:  Plato and Aristotle, by Olga Pombo
