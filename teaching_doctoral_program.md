@@ -37,10 +37,11 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 
 #### Minor in History and Philosophy of Science (*Department of History and Philosophy of Science*)
 
+* [*Temas e Problemas de Epistemologia e Filosofia da Ciência*](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) also offered as FCUL free option (2003–2007) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) (*also offered as free option*)
+* [*Temas da filosofia da ciencia contemporanea*](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014))
 * *Science and Art* (2009-2016) (*also offered in the licence of "General Studies"*) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
 * *Science and Culture* (2011-2013) (*also offered in the licence of "General Studies"*)
-* [*Temas e Problemas de Epistemologia e Filosofia da Ciência*](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) also offered as FCUL free option (2003–2007) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) (*also offered as free option*)
-* [*Temas da filosofia da ciencia contemporanea*](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014)) 
+
 
 #### Minor in Biochemistry (*Department of Biochemistry*)
 
