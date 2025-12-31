@@ -92,13 +92,12 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 * Doctoral Program, *Gulbenkian Institute of Science* (IGC) (2012).
 * Joint Doctoral Program of the Universities of Aveiro and Porto *New Paradigms in Information and Communication on Digital Platforms*, University of Oporto (2011)
 
-### Master 
+### Master Programs
 
-* Master Program in *Informatics, Engineering and Computation*, Faculdade de Engenharia, Universidade do Porto (2020)
-* Master Program in *Bioethics*, Faculty of Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014).
-* Master Program on *Victimization of children and adolescents*, Faculty of Medicine, University of Lisbon (2007). 
-* Master and PhD Program on *Developmental Psychology*, Faculty of Psychology, University of Lisbon (2003-2004). 
-* Master Program on *Drawing*, Faculty of Fine Arts, University of Lisbon (2003). 
+* Master in *Informatics, Engineering and Computation*, Faculdade de Engenharia, Universidade do Porto (2020)
+* Master  in *Bioethics*, Faculty of Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014). 
+* Master and PhD Program in *Developmental Psychology*, Faculty of Psychology, University of Lisbon (2003-2004). 
+* Master in *Drawing*, Faculty of Fine Arts, University of Lisbon (2003). 
 
 ### Undergraduate courses 
 * *Philosophy and the Teaching of Philosophy*,  New University of Lisbon, Faculty of Social and Human Sciences (1987-1988).
@@ -106,13 +105,13 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 *	*Epistemology and Science Teaching*, University of Algarve (2003; 2004)
 
 
-## Teaching abroad 
+## International teaching  
 
-* Federal Universidade of Pará, Brazil (April 2021).
-* Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”, Accademia Vivarium Novum, Rome, Italy (October- November 2019)
-* Federal University of Goiás, Brazil (October 2012)
-* Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
-* Portuguese School, Maputo, Mozambique (May 2006)
-* University Lille 3, France (January 2003)
-* Viena University, Austria (September-October 1999)
+* *Federal Universidade of Pará*, Brazil (April 2021).
+* *Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”*, Accademia Vivarium Novum, Rome, Italy (October- November 2019)
+* *Federal University of Goiás*, Brazil (October 2012)
+* Cátedra Latino-Americana Leopoldo Zea, *Federal University for Latin-American Integration*, Brazil (Dec 2010; Aug 2011)
+* *Portuguese School*, Maputo, Mozambique (May 2006)
+* *University Lille 3*, France (January 2003)
+* *Viena University*, Austria (September-October 1999)
 
