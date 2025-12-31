@@ -81,16 +81,16 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Research Fellow at the Philosophy Institut (invited by Manfred Walter), Hannover University, Germany (November 1989).
 * Research Fellow at Institute for Advanced Studies (invited by Marcelo Dascal), Hebrew University of Jerusalem, Israel (March - May 1995).
 * Research Fellow at Oxford University, Jesus College (invited by David Cram), Oxford, UK (March-June 1999).
-* Research Fellow at Institut für Philosophie (invited by Elisabeth Nemeth), Viena University, Austria (September-October 1999).
+* Guest Professor at Institut für Philosophie (invited by Elisabeth Nemeth), Viena University, Austria (September-October 1999).
 * Research Fellow at Institut Wiener Kreis and Zentrum für Überfakultäre Forschung (invited by Friedrich Stadler), Vienna University, Austria (May 2000).
-* Research Fellow at University Lille 3 (invited by Shahid Rahman), France (January 2003).
+* Guest Professor  at University Lille 3 (invited by Shahid Rahman), France (January 2003).
 * Research Fellow at Catholic University of Rio Grande do Sul and Caxias do Sul University, (invited by William de Siqueira Piauí), Porto Alegre, Brazil (June 2004).
 * Research Fellow at the Zentrum für Literaturforshung (invited by Sigrid Weigel), Berlin, Germany (January - July 2005).
 * Research Fellow at UERJ and PUC-Rio de Janeiro (invited by Deborah Danowsky), Brazil (November 2007).
-* Research Fellow at Federal University of Latin-American Integration (UNILA), (invited by Carlos A. Dos Santos), Foz do Iguaçu, Brazil (December 2010).
-* Research Fellow at Goias Federal University (invited by Wagner Sanz), Brazil (October 2012).
+* Guest Professor  at Federal University of Latin-American Integration (UNILA), (invited by Carlos A. Dos Santos), Foz do Iguaçu, Brazil (December 2010 and August 2011).
+* Guest Professor  at Goias Federal University (invited by Wagner Sanz), Brazil (October 2012).
 * Research Fellow at the Dipartimento di Ingegneria dell'Innovazione and Dipartimeno di Studi Umanistici, Lecce University (invited by Giovanni Scarafille), Italy (May 2014).
-* Research Fellow at “Centro studi sulla natura, l’umano e l’unità del pensiero” (invited by Luciano Boi), Accademia Vivarium novum, Roma, Italy (October – Novembre 2019).
+* Guest Professor at “Centro studi sulla natura, l’umano e l’unità del pensiero” (invited by Luciano Boi), Accademia Vivarium novum, Roma, Italy (October – Novembre 2019).
 * Short-Term Fellowship at Institut Universitaire Kurt Bosch, Suisse (awarded by Calouste Gulbenkian Foundation),  (September 1997)
 * Short-Term Fellowship at Edinburg University, UK (funded by CFCUL) (September 2000)
 * Short-Term Fellowship at Zentrum für Überfakultäre Forschung, Vienna University (invited by Elisabeth Nemeth), Austria (May 2000)
