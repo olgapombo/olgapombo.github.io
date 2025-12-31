@@ -215,104 +215,105 @@
 * Organizer with Teresa Levy and Henrique Guimaraes of the workshop **O que é a Interdisciplinaridade?**,  held at FCUL, March 1991. 
 * Organizer with Teresa Levy and Henrique Guimaraes of the **2nd Forum on Interdisciplinarity Experiences**, held at Marquês de Pombal High School, July 1991.
 
-
-* Co-organizer of the cycle of **Seminars of History and Philosophy of Sciences**, held at FCUL (2000-2003) (7 sessions)
-* Coordinator of the conference series **Conferences on Philosophy of Science**, put forward by the CFCUL, held FCUL (2004-2016).
-* Founder and coordinator of the [**Permanent Seminar on Philosophy of Science**](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), put forward by the CFCUL, held at FCUL (2004) (5 sessions).
+* Co-organizer of the series of **Seminars of History and Philosophy of Sciences**, held at FCUL (2000-2003) (7 sessions)
+* Coordinator of the series **Conferences on Philosophy of Science**, put forward by the CFCUL, held FCUL (2004-2016).
 * Member of the organizing committee of the colloquium **Ainda nao doente. Contributos multidisciplinares para uma filosofia da Saude**, put forward by the CFCUL in collaboration with the Center for Bioethics of the Faculty of Medicine University of Lisbon and the Calouste Gulbenkian Foundation, held at Instituto de Ciências Sociais of the University of Lisbon (ICS), March 2004.
-* Founder and coordinator of the **“Permanent Seminar on Philosophy of Science”**, organized by the CFCUL, held at FCUL, from 2014 until 2020.
-> * [Permanent Seminar of Philosophy of Sciences](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), (2004) (5 sessions).
+
+* Founder and coordinator of the **“Permanent Seminar on Philosophy of Science”**, organized by the CFCUL, held at FCUL, from 2004 until 2020.
+> * [Permanent Seminar of Philosophy of Science](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), (2004) (5 sessions).
 > * Permanent Seminar of Philosophy of Sciences, (2005-2013) (27 sessions).
 > * [Permanent Seminar of Philosophy of Sciences](https://cfcul.mcmlxxvi.net/Seminarios/seminariopermanentefc.php), (2014-2020) (46 sessions)
 
-* Coordinator of the **Permanent Seminar on Philosophy of Science**, put forward by the CFCUL, held at FCUL (2005-2013) (27 sessions). 
 * Coordinator of the workshop **Sobre o Indeterminismo / On Indeterminism**, put forward by the CFCUL, held at Lisbon Science Museum, 9 March 2005. 
 * Coordinator of the workshop **Como Pensar as Relações entre a História e a Filosofia das Ciências?**, put forward by the CFCUL, held at FCUL, 21 June 2006. 
 * Coordinator of the workshop **Ciência e Filosofia entre Rómulo de Carvalho e António Gedeão**, put forward by the CFCUL in the context of the “National Science and Technology Week”, held at FCUL, 24 November 2006.
 * Coordinator of the workshop **Arte e Ciência como Criação. Em torno de Gaston Bachelard**, put forward by the CFCUL, held at FCUL, 26 January 2007. 
-* Organizer of the national colloquium **Darwinismo versus Creacionismo: onde começa e acaba uma teoria cientifica?**, put forward by the CFCUL in collaboration with Centro de Biologia Ambiental (CBA), Sociedade Portuguesa de Ciências Naturais (SPCN), Central Library of FCUL and Livraria Escolar Editora, held at FCUL, March 2007.  
+* Organizer of the national colloquium **Darwinismo versus Creacionismo: onde começa e acaba uma teoria cientifica?**, put forward by the CFCUL in collaboration with Centro de Biologia Ambiental (CBA), Sociedade Portuguesa de Ciências Naturais (SPCN), Central Library of FCUL and Livraria Escolar Editora, held at FCUL, March 2007.
+   
 * Coordinator of the seminar series **Aproximações ao Conceito de Imagem**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 2007-2011 (21 sessions).
-  > * “Aproximações ao Conceito de Imagem I. Deleuze e a imagem”, 7 May 2007
-  > * “Aproximações ao Conceito de Imagem II. As imagens da arte, 18 June 2007.
-  > * “Aproximações ao Conceito de Imagem III. As Imagens e as drogas”, 16 July 2007.
-  > * “Aproximações ao Conceito de Imagem IV. Passagens”, 24 September 2007.
-  > * “Aproximações ao Conceito de Imagem V. Desenho cientifico e pensamento selvagem, 8 October 2007.
-  > * “Aproximações ao Conceito de Imagem VI. Imagens da Natureza e natureza das imagens, 18 February 2008.
-  > * Aproximações ao Conceito de Imagem VII. Peirce e Frege, 10 March 2008.
-  > * “Aproximações ao Conceito de Imagem VIII. As imagens em geologia e oceanografia, 7 April 2008.
-  > * “Aproximações ao Conceito de Imagem IX. Arte e Ciência no Século XX. A fotografia, 15 October 2009.~
-  > * “Aproximações ao Conceito de Imagem X. As imagens da arte. Visualização da informação, 16 November 2009
-  > * “Aproximações ao Conceito de Imagem XI. A imagens e os sistemas evolutivos, 10 December 2009.
-  > * “Aproximações ao Conceito de Imagem XII. Analogia e metáfora na representação grafica, 18 January 2010.
-  > * “Aproximações ao Conceito de Imagem XIII. Modelos de razionamento bioinspirados, 18 January 2010.
-  > * “Aproximações ao Conceito de Imagem XIV. O uso da imagem na Biomecânica Computacional , 18 February 2010.
-  > * “Aproximações ao Conceito de Imagem XV. O mapa como experiencia perceptiva, 22 March 2010.
-  > * “Aproximações ao Conceito de Imagem XVI. Observação, 12 April 2010.
-  > * “Aproximações ao Conceito de Imagem XVII. Corpo e imagem, 26 April 2010.
-  > * “Aproximações ao Conceito de Imagem XVIII. Indisciplinaridade no desenho, 24 May 2010.
-  > * “Aproximações ao Conceito de Imagem XIX. Evolução da arte, 7 June 2010.
-  > * “Aproximações ao Conceito de Imagem XX. Neurobiologia da arte, 14 June 2010.
-  > * “Aproximações ao Conceito de Imagem XXI. Neuroimagens, 16 December 2010.
+> * I. Deleuze e a imagem”, 7 May 2007
+> * II. As imagens da arte, 18 June 2007.
+> * III. As Imagens e as drogas”, 16 July 2007.
+> * IV. Passagens”, 24 September 2007.
+> * V. Desenho cientifico e pensamento selvagem, 8 October 2007.
+> * VI. Imagens da Natureza e natureza das imagens, 18 February 2008.
+> * VII. Peirce e Frege, 10 March 2008.
+> * VIII. As imagens em geologia e oceanografia, 7 April 2008.
+> * IX. Arte e Ciência no Século XX. A fotografia, 15 October 2009.
+> * X. As imagens da arte. Visualização da informação, 16 November 2009
+> * XI. A imagens e os sistemas evolutivos, 10 December 2009.
+> * XII. Analogia e metáfora na representação grafica, 18 January 2010.
+> * XIII. Modelos de razionamento bioinspirados, 18 January 2010.
+> * XIV. O uso da imagem na Biomecânica Computacional , 18 February 2010.
+> * XV. O mapa como experiencia perceptiva, 22 March 2010.
+> * XVI. Observação, 12 April 2010.
+> * XVII. Corpo e imagem, 26 April 2010.
+> * Indisciplinaridade no desenho, 24 May 2010.
+> * XIX. Evolução da arte, 7 June 2010.
+> * XX. Neurobiologia da arte, 14 June 2010.
+> * XXI. Neuroimagens, 16 December 2010.
 
-* Coordinator of the seminar  **Aproximações ao Conceito de Imagem I. Deleuze e a imagem**, 7 May 2007.
->* **Aproximações ao Conceito de Imagem II. As imagens da arte**, 18 June 2007.
-> * **Aproximações ao Conceito de Imagem III. As Imagens e as drogas**, 16 July 2007.
- > *	**Aproximações ao Conceito de Imagem IV. Passagens**, put forward the FCT Project “Image in Science and Art”, held at FCUL, 24 September 2007.
- > * Organizer of the seminar **Aproximações ao Conceito de Imagem V. Desenho cientifico e pensamento selvagem**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 8 October 2007. 
 * Coordinator of the workshop **Os Lugares da Epistemologia e da Poética em Gaston Bachelard**, FCUL, 10 December 2007.
-> *	Organizer of the seminar **Aproximações ao Conceito de Imagem VI. Imagens da Natureza e natureza das imagens**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 18 February 2008. 
-* Co-organizer of the workshop **Os últimos dias de Giordano Bruno**, put forward by CFCUL in collaboration with the Teatro da Escola Politécnica and “Cátedra A Razão”, held at Escola Politécnica Theater, Lisbon, 19 February 2008.
-> * Organizer of the seminar **Aproximações ao Conceito de Imagem VII. Peirce e Frege**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 10 March 2008.
-* Co-organizer of the workshop **Sobre Galileu**, put forward by CFCUL in collaboration with Teatro da Escola Politécnica and “Cátedra A Razão”, held Escola Politécnica Theater, Lisbon, 18 April 2008. 
 * Coordinator of the workshop **Introdução ao processamento e analise de imagem**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 4 and 8-10 September 2008. 
 * Coordinator of the workshop **A Ilustração Científica e a Construção do Conhecimento**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 4-5 December 2008. 
 * Coordinator of the workshop **As Imagens com que a Ciência se Faz**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 25 May 2009.
-* Organizer of the seminar “Aproximações ao Conceito de Imagem IX. Arte e Ciência no Século XX. A fotografia, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 15 October 2009.
-* Organizer of the seminar “Aproximações ao Conceito de Imagem X. As imagens da arte. Visualização da informação, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 16 November 2009.
-* Organizer of the seminar “Aproximações ao Conceito de Imagem XI. A imagens e os sistemas evolutivos, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 10 December 2009.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem XII. Analogia e metáfora na representação grafica, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 18 January 2010.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem XIII. Modelos de razionamento bioinspirados, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 18 January 2010.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem XIV. O uso da imagem na Biomecânica Computacional , put forward by the FCT Project “Image in Science and Art”, held at FCUL, 18 February 2010.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem XV. O mapa como experiencia perceptiva, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 22 March 2010.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem XVI. Observação, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 12 April 2010.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem XVII. Corpo e imagem, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 26 April 2010.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem XVIII. Indisciplinaridade no desenho, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 24 May 2010.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem XIX. Evolução da arte, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 7 June 2010.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem XX. Neurobiologia da arte, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 14 June 2010.
-•	Organizer of the seminar “Aproximações ao Conceito de Imagem XXI. Neuroimagens, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 16 December 2010.
 *	Organizer of the Jornadas de Pos-Graduação (postgraduated journeys) put forward by the Department of History and Philosophy of Science, held at FCUL, Lisbon, 31 March and 1 April 2011.  
 *	Coordinator of the seminar “Reading Whitehead”, held at FCUL, June-July 2011 (4 sessions). 
 *	Coordinator of the colloquium “O Lugar da Filosofia da Ciência na nova Universidade de Lisboa”, put forward by the CFCUL, held at Rectory of the University of Lisbon, January 2013. 
 *	Coordinator of the workshop “Qual é a diferença entre Ciência e Filosofia? / What’s the difference between Science and Philosophy? ”, put forward by CFCUL “AppEEL Lab” and the “Ciência Viva Agency Evolution Day”, held at Knowledge Pavilion, Lisbon, March 2013.
-*	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2014 (4 sessions).
-*	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2015 (20 sessions).
-*	Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2016 (10 sessions).
-* Coordinator of the Jornadas de Doutoramento, put forward by the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 7-8 June 2017.
-* Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2017. 
-* Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2018 (3 sessions) (on Bachelard and Z. Kotowicz memorial (29 May), on Niels Bohr (19 June), on Jean Piaget (9 October)).
-* Coordinator of the Jornadas de Doutoramento, put forward by the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 14-21 June 2018.
-* Coordinator of the Jornadas de Doutoramento, put forward by the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 9, 16, 23, 30 May 2019.
-* Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences held at FCUL, 2019 (4 sessions). 
-* Coordination of the CFCUL Permanent Seminar of Philosophy of Sciences, held at FCUL, 2020 (3 sessions).
-* Organizer of the monthly talks “Philosophy at the Library”, put forward by the municipal library “Biblioteca-Espaço Cultural Cinema Europa”, Lisbon, 2024-2025 (14 sessions). 
-    >* “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 9 January 2024.
-    >* “Envelhecimento e Morte (On Aging and Death)”, by Jorge Correia Jesuino (with the participation of Olga Pombo and Nuno Oliveira), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 6 February 2024.
-    >*	“Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 5 March 2024. 
-    >*	“Sobre o conceito de Poder (On the concept of Power)”, by Nuno Oliveira (with the participation of Olga Pombo and Jorge Correia Jesuino), 2 April 2024. 
-    >*	“O que é Pensar (On thinking)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 7 May 2024. 
-    >*	“O que é a Filosofia (On Philosophy)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira), 7 June 2024. 
-  > * "O Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia (Plato’s Protagoras” (IV aC).  Philosophy, Reason, Virtue and Democracy”), by Olga Pombo (with the participation of Jorge Correia Jesuíno), 1 October 2024.
-  > *"O Discurso do Método" (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will”), by Olga Pombo (with the participation of Jorge Correia Jesuíno), 5 November 2024.
-  > * "O Discurso sobre a Origem da Desigualdade entre os Homens"" (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men"(1754).
-    >* Philosophy, Fiction, Politics and Human Rights”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 3 December 2024.
-    >* “A Alice no País das Maravilhas” (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature”), by Olga Pombo, 7 de Janeiro 2025.
-    >* “Os Espaços Outros” (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces" (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 4 February 2025.
-    >* “O Princípio Responsabilidade” (1979) de Hans Jonas (filosofia, ética, futuro e ecologia ("The Principle of Responsibility" (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 4 March 2025.
-    >* “Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência ("You have to change your life" (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence”), by Jorge Correia Jesuíno, Nuno Oliveira and Olga Pombo), 1 April 2025.
-    >* “Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (“About the New" (2014) by Boris Groys. Philosophy, Innovation, Creation”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira), 6 May 2025
+
+* Coordinator of the *Jornadas de Doutoramento*, organized in the context of  the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 7-8 June 2017.
+* Coordinator of the *Jornadas de Doutoramento*, organized in the context of the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 14-21 June 2018.
+* Coordinator of the *Jornadas de Doutoramento*, organized in the context of  the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 9, 16, 23, 30 May 2019.
 
 
 #### Science communication and outreach
+
+* Coordinator of the conference series [**Encontros Agostinho da Silva**](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/index.htm), held at FCUL (1998-2000) (9 sessions)
+* Coordinator of the film cycle [**Cinema e Educação /Film and Education**](https://webpages.ciencias.ulisboa.pt/~ommartins/cinema/index.htm), held at FCUL (2000-2003) (5 sessions)
+* Coordinator of the workshop **Giordano Bruno morreu na fogueira em Fevereiro de 1600**, put forward by the CFCUL, held at FCUL, 14 February 2007. (some info [**here**](https://cfcul.mcmlxxvi.net/projectos/grandes%20figuras/actividades/2007/giordanobruno/)
+* Co-organizer of the workshop **Os últimos dias de Giordano Bruno**, put forward by CFCUL in collaboration with the Teatro da Escola Politécnica and “Cátedra A Razão”, held at Escola Politécnica Theater, Lisbon, 19 February 2008. (see [**here**](https://cfcul.mcmlxxvi.net/projectos/grandes%20figuras/actividades/2008/giordanobruno/))
+* Co-organizer of the workshop **Sobre Galileu**, put forward by CFCUL in collaboration with Teatro da Escola Politécnica and “Cátedra A Razão”, held Escola Politécnica Theater, Lisbon, 18 April 2008.
+
+* Organizer of the monthly talks **“Philosophy at the Library”**, put forward by the municipal Library *Biblioteca-Espaço Cultural Cinema Europa*, Lisbon
+  
+###### 2024 (6 sessions). 
+>* 9 January 2024 - “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes.
+>* 6 February 2024 - “Envelhecimento e Morte (On Aging and Death)”, by Jorge Correia Jesuino (with the participation of Olga Pombo and Nuno Oliveira).
+>*	5 March 2024 - “Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira). 
+>*	2 April 2024 - “Sobre o conceito de Poder (On the concept of Power)”, by Nuno Oliveira (with the participation of Olga Pombo and Jorge Correia Jesuino), . 
+>*	7 May 2024 - “O que é Pensar (On thinking)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira). 
+>*	7 June 2024 - “O que é a Filosofia (On Philosophy)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira).
+
+##### 2024-2025 - Monumental Texts - 8 sessions
+  > * 1 October 2024 - **O "Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia** (Plato’s Protagoras” (IV aC).  Philosophy, Reason, Virtue and Democracy”), by Olga Pombo (with the participation of Jorge Correia Jesuíno).
+  > *5 November 2024 -"O Discurso do Método" (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will”), by Olga Pombo (with the participation of Jorge Correia Jesuíno).
+  > * 3 December 2024 - "O Discurso sobre a Origem da Desigualdade entre os Homens"" (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men"(1754), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira)
+    >* 7 January 2025 - “A Alice no País das Maravilhas” (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature”), by Olga Pombo.
+    >* 4 February 2025 - “Os Espaços Outros” (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces" (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira).
+    >* 11 March 2025 - “O Princípio Responsabilidade” (1979) de Hans Jonas (filosofia, ética, futuro e ecologia ("The Principle of Responsibility" (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology”), by Olga Pombo, Jorge Correia Jesuíno and Nuno Oliveira.
+>* 1 April 2025 - “Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência ("You have to change your life" (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence”), by Jorge Correia Jesuíno, Nuno Oliveira and Olga Pombo.
+   >* 6 May 2025 - “Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (“About the New" (2014) by Boris Groys. Philosophy, Innovation, Creation”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira)
+
+###### 2025-2026 – Philosophy and Writing Institutions - 8 sessions:
+* 7 October 2025: From Oral to Written Civilization Havelock’s The Muse Learns to Write, by Olga Pombo
+•	    4 November 2025: Poetry, Rhetoric and Dialectics: Homer, Protagoras and Socrates, by Olga Pombo 
+•	    2 December 2025: Dialogue, Argument and Rationality. Truth and Democracy:  Plato and Aristotle, by Olga Pombo
+•	     6 January 2026: Institutions of Writing I: School and University – The Challenge of Knowledge Technologies, by Olga Pombo
+•	     5 February 2026: Instituições da escrita 2. Livro e biblioteca. A digitalização e o futuro do livro (Institutions of Writing II: Book and Library – Digitization and the Future of the Book), by Olga Pombo
+•	     3 March 2026: Instituições da escrita 3. Enciclopédia. De Plinio á Internet (Institutions of Writing III: Encyclopedia – From Pliny to the Internet) by Olga Pombo.
+•	     7 April 2026: S. Weil e H. Arendt. Trabalho e condição humana (Simone Weil and Hannah Arendt – Labour and the Human Condition) by Correia Jesuíno.
+•	     5 May 2026: Da civilização da palavra a civilização da imagem (From the Civilization of the Word to the Civilization of the Image) by Olga Pombo.
+
+* Organizer of the Seminar **A cultura integral do individuo de Bento de Jesus Caraça** (The Integral Culture of the Individual by Bento de Jesus Caraça), within the framework of the Associação Bento de Jesus Caraça, Lisbon, October 2025 - May 2026, 8 sessions:  
+* 9 October 2025 - Objecto e objectivo do texto. Questões metodológicas. Matemática e filosofia (Object and objective of the text. Methodological questions. Mathematics and philosophy, session led by Olga Pombo.
+* 13 November 2025 - Contexto e oportunidade do texto. O intelectual e o activista. Compreender e agir (Context and opportunity of the text. The intellectual and the activist. Understanding and acting), session led by Olga Pombo
+* 11 December 2025: Procura de um fundamento para os desenvolvimentos argumentativos posteriores. Progresso e contradição (Search for a foundation for subsequent argumentative developments. Progress and contradiction), session led by Olga Pombo
+* 8 January 2026: Analise dos argumentos políticos (Analysis of political arguments), session led by Olga Pombo
+* 12 February 2026: Analise dos argumentos históricos e económicos (Analysis of historical and economic arguments), session led by Olga Pombo
+* 12 March 2026: Tarefa para uma geração. Massas e elites (A task for a generation. Masses and elites), session led by Olga Pombo
+*  9 April 2026: Cultura e civilização. “O que é o homem culto?” (Culture and civilization. “What is a cultured person?”), session led by Olga Pombo
+* 14 May 2026: As várias dimensões do conceito de “cultura integral do individuo”. O que pode significar hoje o conceito de “cultura integral do individuo”? (Dimensions of the concept of “integral culture of the individual”. What could it mean today?), session led by Olga Pombo
 
 
 #### Exhibitions
