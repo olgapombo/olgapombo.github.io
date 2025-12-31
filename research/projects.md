@@ -221,26 +221,39 @@
 * Founder and coordinator of the [**Permanent Seminar on Philosophy of Science**](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), put forward by the CFCUL, held at FCUL (2004) (5 sessions).
 * Member of the organizing committee of the colloquium **Ainda nao doente. Contributos multidisciplinares para uma filosofia da Saude**, put forward by the CFCUL in collaboration with the Center for Bioethics of the Faculty of Medicine University of Lisbon and the Calouste Gulbenkian Foundation, held at Instituto de Ciências Sociais of the University of Lisbon (ICS), March 2004.
 * Founder and coordinator of the **“Permanent Seminar on Philosophy of Science”**, organized by the CFCUL, held at FCUL, from 2014 until 2020.
-> * [Permanent Seminar of Philosophy of Sciences]((https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html)), (2004) (5 sessions).
+> * [Permanent Seminar of Philosophy of Sciences](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), (2004) (5 sessions).
 > * Permanent Seminar of Philosophy of Sciences, (2005-2013) (27 sessions).
-> * [Permanent Seminar of Philosophy of Sciences](https://cfcul.mcmlxxvi.net/Seminarios/seminariopermanentefc.php), 2014 (4 sessions).
-> * Permanent Seminar of Philosophy of Sciences, 2015 (20 sessions).
-> * Permanent Seminar of Philosophy of Sciences, 2016 (10 sessions).
-> * Permanent Seminar of Philosophy of Sciences, 2017 (2 sessions).
-> * Permanent Seminar of Philosophy of Sciences, 2018 (3 sessions)
-> * Permanent Seminar of Philosophy of Sciences, 2019 (4 sessions)
-> * Permanent Seminar of Philosophy of Sciences, 2020 (3 sessions) 
-
-
+> * [Permanent Seminar of Philosophy of Sciences](https://cfcul.mcmlxxvi.net/Seminarios/seminariopermanentefc.php), (2014-2020) (46 sessions)
 
 * Coordinator of the **Permanent Seminar on Philosophy of Science**, put forward by the CFCUL, held at FCUL (2005-2013) (27 sessions). 
 * Coordinator of the workshop **Sobre o Indeterminismo / On Indeterminism**, put forward by the CFCUL, held at Lisbon Science Museum, 9 March 2005. 
 * Coordinator of the workshop **Como Pensar as Relações entre a História e a Filosofia das Ciências?**, put forward by the CFCUL, held at FCUL, 21 June 2006. 
 * Coordinator of the workshop **Ciência e Filosofia entre Rómulo de Carvalho e António Gedeão**, put forward by the CFCUL in the context of the “National Science and Technology Week”, held at FCUL, 24 November 2006.
 * Coordinator of the workshop **Arte e Ciência como Criação. Em torno de Gaston Bachelard**, put forward by the CFCUL, held at FCUL, 26 January 2007. 
-* Coordinator of the workshop **Giordano Bruno morreu na fogueira em Fevereiro de 1600**, put forward by the CFCUL, held at FCUL, 14 February 2007.
 * Organizer of the national colloquium **Darwinismo versus Creacionismo: onde começa e acaba uma teoria cientifica?**, put forward by the CFCUL in collaboration with Centro de Biologia Ambiental (CBA), Sociedade Portuguesa de Ciências Naturais (SPCN), Central Library of FCUL and Livraria Escolar Editora, held at FCUL, March 2007.  
-* Coordinator of the seminar  **Aproximações ao Conceito de Imagem**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 2007-2011 (21 sessions).
+* Coordinator of the seminar series **Aproximações ao Conceito de Imagem**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 2007-2011 (21 sessions).
+  > * “Aproximações ao Conceito de Imagem I. Deleuze e a imagem”, 7 May 2007
+  > * “Aproximações ao Conceito de Imagem II. As imagens da arte, 18 June 2007.
+  > * “Aproximações ao Conceito de Imagem III. As Imagens e as drogas”, 16 July 2007.
+  > * “Aproximações ao Conceito de Imagem IV. Passagens”, 24 September 2007.
+  > * “Aproximações ao Conceito de Imagem V. Desenho cientifico e pensamento selvagem, 8 October 2007.
+  > * “Aproximações ao Conceito de Imagem VI. Imagens da Natureza e natureza das imagens, 18 February 2008.
+  > * Aproximações ao Conceito de Imagem VII. Peirce e Frege, 10 March 2008.
+  > * “Aproximações ao Conceito de Imagem VIII. As imagens em geologia e oceanografia, 7 April 2008.
+  > * “Aproximações ao Conceito de Imagem IX. Arte e Ciência no Século XX. A fotografia, 15 October 2009.~
+  > * “Aproximações ao Conceito de Imagem X. As imagens da arte. Visualização da informação, 16 November 2009
+  > * “Aproximações ao Conceito de Imagem XI. A imagens e os sistemas evolutivos, 10 December 2009.
+  > * “Aproximações ao Conceito de Imagem XII. Analogia e metáfora na representação grafica, 18 January 2010.
+  > * “Aproximações ao Conceito de Imagem XIII. Modelos de razionamento bioinspirados, 18 January 2010.
+  > * “Aproximações ao Conceito de Imagem XIV. O uso da imagem na Biomecânica Computacional , 18 February 2010.
+  > * “Aproximações ao Conceito de Imagem XV. O mapa como experiencia perceptiva, 22 March 2010.
+  > * “Aproximações ao Conceito de Imagem XVI. Observação, 12 April 2010.
+  > * “Aproximações ao Conceito de Imagem XVII. Corpo e imagem, 26 April 2010.
+  > * “Aproximações ao Conceito de Imagem XVIII. Indisciplinaridade no desenho, 24 May 2010.
+  > * “Aproximações ao Conceito de Imagem XIX. Evolução da arte, 7 June 2010.
+  > * “Aproximações ao Conceito de Imagem XX. Neurobiologia da arte, 14 June 2010.
+  > * “Aproximações ao Conceito de Imagem XXI. Neuroimagens, 16 December 2010.
+
 * Coordinator of the seminar  **Aproximações ao Conceito de Imagem I. Deleuze e a imagem**, 7 May 2007.
 >* **Aproximações ao Conceito de Imagem II. As imagens da arte**, 18 June 2007.
 > * **Aproximações ao Conceito de Imagem III. As Imagens e as drogas**, 16 July 2007.
