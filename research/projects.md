@@ -221,15 +221,15 @@
 * Founder and coordinator of the [**Permanent Seminar on Philosophy of Science**](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), put forward by the CFCUL, held at FCUL (2004) (5 sessions).
 * Member of the organizing committee of the colloquium **Ainda nao doente. Contributos multidisciplinares para uma filosofia da Saude**, put forward by the CFCUL in collaboration with the Center for Bioethics of the Faculty of Medicine University of Lisbon and the Calouste Gulbenkian Foundation, held at Instituto de Ciências Sociais of the University of Lisbon (ICS), March 2004.
 * Founder and coordinator of the [“Permanent Seminar on Philosophy of Science”](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), in 2004 organized by the CFCUL, held at FCUL until 2020.
-> Permanent Seminar of Philosophy of Sciences, (2004) (5 sessions).
-> Permanent Seminar of Philosophy of Sciences, (2005-2013) (27 sessions).
-> Permanent Seminar of Philosophy of Sciences, 2014 (4 sessions).
-> Permanent Seminar of Philosophy of Sciences, 2015 (20 sessions).
-> Permanent Seminar of Philosophy of Sciences, 2016 (10 sessions).
-> Permanent Seminar of Philosophy of Sciences, 2017 (2 sessions).
-> Permanent Seminar of Philosophy of Sciences, 2018 (3 sessions)
-> Permanent Seminar of Philosophy of Sciences, 2019 (4 sessions)
-> Permanent Seminar of Philosophy of Sciences, 2020 (3 sessions) 
+> * Permanent Seminar of Philosophy of Sciences, (2004) (5 sessions).
+> * Permanent Seminar of Philosophy of Sciences, (2005-2013) (27 sessions).
+> * Permanent Seminar of Philosophy of Sciences, 2014 (4 sessions).
+> * Permanent Seminar of Philosophy of Sciences, 2015 (20 sessions).
+> * Permanent Seminar of Philosophy of Sciences, 2016 (10 sessions).
+> * Permanent Seminar of Philosophy of Sciences, 2017 (2 sessions).
+> * Permanent Seminar of Philosophy of Sciences, 2018 (3 sessions)
+> * Permanent Seminar of Philosophy of Sciences, 2019 (4 sessions)
+> * Permanent Seminar of Philosophy of Sciences, 2020 (3 sessions) 
 
 
 
