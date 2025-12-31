@@ -42,7 +42,6 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 * *Science and Art* (2009-2016) (*also offered in the licence of "General Studies"*) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
 * *Science and Culture* (2011-2013) (*also offered in the licence of "General Studies"*)
 
-
 #### Minor in Biochemistry (*Department of Biochemistry*)
 
 * *Philosophy of science* (2001-2004) 
@@ -104,14 +103,13 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 * *Problems of Science Teaching*, University of Madeira (1988; 1989-1990, 1999)
 *	*Epistemology and Science Teaching*, University of Algarve (2003; 2004)
 
-
 ## International teaching  
 
-* *Federal Universidade of Pará*, Brazil (April 2021).
-* *Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”*, Accademia Vivarium Novum, Rome, Italy (October- November 2019)
-* *Federal University of Goiás*, Brazil (October 2012)
-* Cátedra Latino-Americana Leopoldo Zea, *Federal University for Latin-American Integration*, Brazil (Dec 2010; Aug 2011)
-* *Portuguese School*, Maputo, Mozambique (May 2006)
-* *University Lille 3*, France (January 2003)
-* *Viena University*, Austria (September-October 1999)
+* Federal Universidade of Pará, Brazil (April 2021).
+* Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”, Accademia Vivarium Novum, Rome, Italy (October- November 2019)
+* Federal University of Goiás, Brazil (October 2012)
+* Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
+* Portuguese School, Maputo, Mozambique (May 2006)
+* University Lille 3, France (January 2003)
+* Viena University, Austria (September-October 1999)
 
