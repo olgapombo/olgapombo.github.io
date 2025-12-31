@@ -220,10 +220,10 @@
 * Coordinator of the conference series **Conferences on Philosophy of Science**, put forward by the CFCUL, held FCUL (2004-2016).
 * Founder and coordinator of the [**Permanent Seminar on Philosophy of Science**](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), put forward by the CFCUL, held at FCUL (2004) (5 sessions).
 * Member of the organizing committee of the colloquium **Ainda nao doente. Contributos multidisciplinares para uma filosofia da Saude**, put forward by the CFCUL in collaboration with the Center for Bioethics of the Faculty of Medicine University of Lisbon and the Calouste Gulbenkian Foundation, held at Instituto de Ciências Sociais of the University of Lisbon (ICS), March 2004.
-* Founder and coordinator of the [“Permanent Seminar on Philosophy of Science”](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), in 2004 organized by the CFCUL, held at FCUL until 2020.
-> * Permanent Seminar of Philosophy of Sciences, (2004) (5 sessions).
+* Founder and coordinator of the **“Permanent Seminar on Philosophy of Science”**, organized by the CFCUL, held at FCUL, from 2014 until 2020.
+> * [Permanent Seminar of Philosophy of Sciences]((https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html)), (2004) (5 sessions).
 > * Permanent Seminar of Philosophy of Sciences, (2005-2013) (27 sessions).
-> * Permanent Seminar of Philosophy of Sciences, 2014 (4 sessions).
+> * [Permanent Seminar of Philosophy of Sciences](https://cfcul.mcmlxxvi.net/Seminarios/seminariopermanentefc.php), 2014 (4 sessions).
 > * Permanent Seminar of Philosophy of Sciences, 2015 (20 sessions).
 > * Permanent Seminar of Philosophy of Sciences, 2016 (10 sessions).
 > * Permanent Seminar of Philosophy of Sciences, 2017 (2 sessions).
