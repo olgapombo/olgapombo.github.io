@@ -365,7 +365,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 * *The sciences of forms and the forms of sciences* 
 * *Cartographies of knowledge and contemporary challenges 
-* *Mapas disciplinares e cartografias do saber* / Disciplinary Maps and Cartographies of Knowledge 
+* *Mapas disciplinares e cartografias do saber*/ Disciplinary Maps and Cartographies of Knowledge 
 * *O valor cognitivo da árvore*/ The cognitive value of the tree *
 * *Filosofia e práticas discursivas no Protágoras de Platão*/ Philosophy and discursive practices in Plato’s *Protagoras* 
 * *A infinitude da queda no 'Teeteto' de Platão*/ The infinitude of the fall in Plato’s *Theaetetus* 
@@ -374,21 +374,20 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * *Oralidade, escrita. Uma eloquente revolução tecnológica*/ Orality, writing. An eloquent technological revolution 
 * *A leitura no mundo de ontem e no mundo de amanhã*/ Reading in the world of yesterday and tomorrow 
 * *Os lugares da ciência e da filosofia*/ The places of science and philosophy 
-* *Da universidade medieval a´ universidade mundial electrónica*/ From the medieval University to the global electronic University 
+* *Da universidade medieval à´ universidade mundial electrónica*/ From the medieval University to the global electronic University 
 * *Plínio  e a internet / Enciclopédia e internet*/Pliny and the internet/Encyclopaedia and internet 
-* *Filosofia e matemática – Da mathesis universalis a Lewis Carroll* (Philosophy and mathematics – From Mathesis Universalis to LewisCarroll 
-* *O que é isso do pensamento cego?*/What Is it the blind thought? 
-* *Leibniz e a ideia de máquina matemática*/Leibniz and the idea of a mathematical machine 
-* *O Lugar de Leibniz na História da Lógica*/Leibniz’s place in the History of Logic
+* *Filosofia e matemática – Da mathesis universalis a Lewis Carroll*/ Philosophy and mathematics – From Mathesis Universalis to LewisCarroll 
+* *O que é isso do pensamento cego?*/ What Is it the blind thought? 
+* *Leibniz e a ideia de máquina matemática*/ Leibniz and the idea of a mathematical machine 
+* *O Lugar de Leibniz na História da Lógica*/ Leibniz’s place in the History of Logic
 * *Por que não somos ainda leibnizianos*/ Why we are not yet Leibnizians 
 * *Ciência, tecnociência e pseudo ciência*/ Science, technoscience, and pseudoscience 
-* *Descontinuidade do Tempo e novidade em Bachelard*/ Time discontinuity and novelty in Bachelard 
+* *Descontinuidade do tempo e novidade em Bachelard*/ Time discontinuity and novelty in Bachelard 
 * *Mistérios da criação*/ The mysteries of creation 
 * *Towards a cartography of the concept of creation in science and art*
 * *Creation in science and art. Comparative examples*
-* *Ciência e arte. Interacções, aproximações e distancias*/Science and art: interactions, approaches, and distances 
 * *Science and art. Variations upon a common ground* 
-* *Ciencia e arte. Afinidades admiráveis e diferenças sublimes*/Science and art: admirable affinities and sublime difference 
+* *Ciencia e arte. Afinidades admiráveis e diferenças sublimes*/ Science and art: admirable affinities and sublime differences 
 * *Model’s nearness to the work of art* 
-* *A imagem na ciencia e e na arte*/Image in science and art 
-* *Imagem e diagrama*/Image and diagram 
+* *A imagem na ciencia e e na arte*/ Image in science and art 
+* *Imagem e diagrama*/ Image and diagram 
