@@ -56,6 +56,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1973 - 1979 – ªAggregated Teacher of Philosophy*, D. Pedro V High School, Lisbon.
 * 1970 - 1972 – *Assistant Teacher of Philosophy and History*, M. Amália Vaz de Carvalho High School, Lisbon.
 
+
 ## Academic Responsibilities 
 
 * 2014 – 2017 - *Proponent, founder and first [Program-Director](https://phd-fctas.campus.ciencias.ulisboa.pt/director-do-programa/)* of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
@@ -71,13 +72,13 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1987 - 1996 - Member of the Scientific Council of the “Department of Education”, FCUL.  
 * 1986 – 1988 - Member of the Assembly of Representatives of FCUL.
 
+
 ## Fellowships and Research Stays Abroad
 
 * PhD fellowship awarded by the National Institute of Scientific Research (JNIC) (1989 – 1992).
 * PhD research stay at the Centre de Recherche Épistémologie Appliquée – CREA, University of Paris, France (1990-1991).
 * PhD research stay at Philosophy Institute, University of Leuven, Belgium (1991-1992)
 * Sabbatical fellowship awarded by the Foundation for Science and Technology (FCT), Berlin, Germany (1 November 2004-31th September 2005).
-  
 * Research Fellow at the Philosophy Institut (invited by Manfred Walter), Hannover University, Germany (November 1989).
 * Research Fellow at Institute for Advanced Studies (invited by Marcelo Dascal), Hebrew University of Jerusalem, Israel (March - May 1995).
 * Research Fellow at Oxford University, Jesus College (invited by David Cram), Oxford, UK (March-June 1999).
@@ -121,7 +122,6 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Short-Term Fellowship at CNRS Besançon Observatory (invited by Sarah Carvallo), France (October 2022)
 
 
-
 ## Consultancy
 
 **International Selection Panels and Committees**
@@ -163,9 +163,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Member of the selection panel for PhD grants of the Doctoral Program on Philosophy of Science, Technology, Art and Society (FCTAS ), awarded in 2014, 2015, 2016 and 2017.
 
 
-
 ## Publications
-
 
 ### Dissertations  
 * Pombo, Olga (1986) - *Leibniz e o Problema de uma Língua Universal*, Master dissertation in “Modern Philosophy” Faculty of Social and Human Sciences, New University of Lisbon) ([table of contents](https://webpages.ciencias.ulisboa.pt/~ommartins/leibniz/leibnizcont.htm))
