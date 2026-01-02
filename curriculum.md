@@ -164,19 +164,12 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 
 ## Publications 
-
 ,,,,
+## Journal Editor
 
-
-
-## Editorial activity
-
-
-### Journal Editor
 * Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
 * Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
 * Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
-
 
 ### Journal Guest Editor
 * Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
