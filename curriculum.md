@@ -175,66 +175,6 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 * Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
 
-
-### Book Series Editor 
-* Direction of the book series [**A Imagem na Ciência e na Arte**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisboa: Fim de Século (12 volumes published).
-	1) *As cidades, os castelos e a onda: imagens, diagramas e metáforas entre Calvino, Escher e Bohr*, by João Araújo, 2010;
-	2) *Neuroaesthetics : can science explain art?*, by Olga Pombo, Silvia Di Marco, Marco Pina (eds), 2010;
-	3) *As Imagens com que a Ciência se Faz*, by Olga Pombo, Silvia di Marco (eds), 2011;
-	4) *Solaris: sistema beta pictoris. Ciclo de exposições 2004-2009*, by Rodrigo Vilhena, 2011;
-	5) *A colecção de desenho antigo da Faculdade de Belas Artes de Lisboa (1830-1935): tradição, formação e gosto*, by Alberto Faria, 2011;
-	6) *Representações do corpo na ciência e na arte*, by Cristina Azevedo Tavares, 2012;
- 	7) *Em torno de Darwin*, by Olga Pombo, Marco Pina (edrs), 2012;
-  	8) *Visível & enunciável*, by Nuno Melim, 2012;
-  	9) *Da civilização da palavra à civilização da imagem*, by Olga Pombo, António Guerreiro (eds), 2012;
-  	10) *Image in science and art*, by Olga Pombo (ed), 2017;
-  	11) *Modelos e imagens*, by Olga Pombo (ed), 2018;
-    12) *CorpoImagem : representações do corpo na ciência e na arte*, by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes (eds), 2019.
-  	         
-* Direction of the book series [**Cadernos de Filosofia da Ciência**](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm), Lisboa: CFCUL (13 volumes published). see also [**here**](https://arquivo.pt/wayback/20140925042017/http://cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos)
-	1. *Ciência e Género. Quatro Textos de Quatro Mulheres*, by Teresa Levy, Clara Queiroz (eds), 2005,
-	2. *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, by Augusto J. Franco de Oliveira (ed), 2006.
-	3. *As Cartas de Problemática de António Sérgio*, by Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil (eds), 2006.
-	4. *Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica*, by Mário Gatta (ed), 2007.
-	5. *Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès*, by Nuno Miguel Proença (ed), 2008.
-	6. *Ciência, Psicanálise e Poética em torno de Gaston Bachelard*, by Ana Gaspar, 2008
-	7. *Wittgenstein, a prova e a actividade matemática: uma introdução*, by Nuno Miguel Proença, 2008.
-	8. *On Kuhns's Philosophy and its Legacy*,  by Juan Manuel Torres (ed), 2010.
-	9. *Cinco ensaios sobre Wittgenstein*, by João Esteves da Silva, 2010.
-	10. *Henri Poincaré, Filósofo da Matemática*, by Augusto J. Franco de Oliveira (ed), 2010.
-	11. *Poincaré's Philosophy of Mathematics: Intuition Experience Creativity*, Hassan Tahiri (ed), 2011.
-	12. *Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré", Isabel Serra, María de Paz (eds), 2012
-	13. *As intuições atomísticas (Ensaio de Classificação)*, Lídia Queiroz (ed), 2015.
-
-* Direction of the book series [**Documenta**](https://cfcul.blogspot.com/p/coleccao-documenta.html), Lisboa: CFCUL (10 published volumes). 
-	1. *Abduction and the Process of Scientific Discovery*, by Olga Pombo; Alexander Gerner (eds.), 2007
-	2. *Lógica e Filosofia da Ciência*, by Olga Pombo; Ángel Nepomuceno (eds.) 2009, 
-	3. *Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault*, by António Fernando Cascais, José Luís Câmara Leme e Nuno Nabais (eds.), 2009,
-	4. *Oficina de Filosofia das Ciências Sociais e Humanas*, by Nuno Miguel Proença; Marta Filipe Alexandre (eds.), 2009, 
-	5. *Corps et Signes. No Centenário do Nascimento de Claude Lévi-Strauss e Maurice Merleau-Ponty*, by Jean-Yves Mercury;  Nuno Nabais (eds.), 2009
-	6. *Lógica Universal e Unidade da Ciência*, by Olga Pombo (ed.), 2011, 
-	7. *Rousseau e as Ciências*, by Olga Pombo; Nuno Melim (eds.), 2013,
-	8. *Bachelard 50 ans après*, by Zbigniew Kotowicz (ed), 2016
-	9. *Philosophy of Science in the 21st Century. Challenges and Tasks*, by Olga Pombo;  Gil Santos (eds.), 2016,
-	10. *Epistemologia, Lógica e Linguagem*, by Olga Pombo, Ana Pato, Juan Redmond (eds), 2019
-
- * Direction of the book series [**Theses**](https://cfcul.blogspot.com/p/publicacoes.html), Lisboa: CFCUL (6 published volumes).  
-	1. *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências (Oparin's Theory on the Origin of Life: An Approach within the Framework of the History and Philosophy of Science*), by Helena Abreu, 2007,
-	2. *A imagem-sensação: Deleuze e a pintura (The image-sensation: Deleuze and painting)*, by Nuno Carvalho, 2009,
-	3. *Metamorfose do conceito de abdução em Peirce. O exemplo de Kepler (Metamorphosis of the concept of abduction in Peirce. The example of Kepler)*, by Ana Paula Silva, 2009.
-	4. *Electrões inobserváveis e estrelas invisíveis. Em torno do problema do realismo em ciência: Bas C. van Fraasen versus Alan Musgrave (Unobservable electrons and invisible stars. On the problem of realism in science: Bas C. van Fraasen versus Alan Musgrave)*, by Cláudia Ribeiro, 2009,
-	5. *Entre o Conceito e a Imagem. O lugar da Psicanálise na obra de Gaston Bachelard (Between Concept and Image: The Place of Psychoanalysis in the Work of Gaston Bachelard)*, by Ana Gaspar, 2010, 
-	6. *Máquinas, Génios e Homens na Construção do Conhecimento. Uma interpretação heurística do método inductivo de Francis Bacon (Machines, Geniuses, and Men in the Construction of Knowledge. A Heuristic Interpretation of Francis Bacon's Inductive Method)*, by Sergio Hugo Menna, 2015
-    7. *Contributos para a Compreensão do Sucesso da Cosmologia do Big Bang. Uma Análise Thematica à Luz de Gerald Holton (Contributions to Understanding the Success of Big Bang Cosmology. A Thematic Analysis in Light of Gerald Holton*), by João Barbosa, Lisboa: CFCUL, 2018
-
-* Co-editor (with Nathalie Gonthier) of the book series **Interdisciplinary Evolution Research**, Heidelberg, New York, Dordrecht, London: Springer (5 published volumes).
-  1.	The Evolution of Social Communication in Primates. A Multidisciplinary Approach, by Marco Pina, Natalie Gntier (eds), 2014.
-  2.	Macroevolution. Explanation, Interpretation and Evidence, by Emanuele Serrelli, Nathalie Gontier (ed), 2015
-  3.	Reticulate Evolution. Symbiogenesis, Lateral Gene Transfer, Hybridization and Infectious Heredity, by Nathalie Gontier (ed), 2015
-  4.	Cultural Phylogenetics. Concepts and Applications in Archaeology, by Larissa Mendoza Straffon (ed), 2016
-  5.	Evolution of Primate Social Cognition, by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo (eds), 2018
-
-
 ### Journal Boards 
 * Member of the editorial board of the journal [***Latin American Human Rights Studies*** (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021). 
 * Member of the international editorial board of the journal ***Currículo, Cultura e Identidade***, Unesp. Sao Paulo, Brazil (since 2020)
@@ -250,12 +190,10 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Member of the editorial board of the journal ***Revista de Educação***, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
 * Member of the editorial board of the journal ***Filosofia***, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
-
 ### Book Series Editorial Boards
 * Processos Formativos, Editora FI, Porto Alegre, Brazil (editorial board since 2017)
 * Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
-
 
 
 ## Scholar and Media Reception
