@@ -1,5 +1,5 @@
 ## Research 
-###### [Research centers](#research-centers) | [Research projects](#research-projects) | [Scientific societies](#Scientific-societies) | [Networks](#networks) | [Journal boards](#Journal-boards) | [Organization of scientific meetings](#organization-of-scientific-meetings) | [Other scientific meetings](#Other-scientific-meetings ) | [Science communication and outreach](#Science-communication-and-outreach)  | [Exhibitions](#Exhibitions)
+###### [Research centers](#research-centers) | [Research projects](#research-projects) | [Scientific societies](#Scientific-societies) | [Networks](#networks) | [Journal boards](#Journal-boards) 
 
 
 ### Research centers
@@ -316,17 +316,9 @@
 * 14 May 2026: As várias dimensões do conceito de “cultura integral do individuo”. O que pode significar hoje o conceito de “cultura integral do individuo”? (Dimensions of the concept of “integral culture of the individual”. What could it mean today?), session led by Olga Pombo
 
 
-#### Exhibitions
 
-* Member of the organizing committee of the exhibition **Jean-Jacques Rousseau 1712-1778**, held at the National Central Library, Lisbon, April-May 1979.
-* Co-construction of the **Centre of Documentation on Interdisciplinary and Disciplinary Integration**, Department of Education, FCUL, 1995.
-* Co-construction of the exhibition **Islands of Utopia**, held at Livraria Ler Devagar, Lisbon, October 2004.
-* Organizer of an exhibition / video installation, **Beta Pictoris I**, authored by Rodrigo Vilhena, put forward by the project “Image in Science and Art”, held at Travessa Convento de Jesus 12A e 16A, Lisbon, January 2008.
-* Organizer of the exhibition **Vesaluis. A redescoberta da Anatomia**, curated by Manuel Valente Alves, put forward by the FCT project “Image in Science and Art”, held at Faculty of Medicine, University of Lisbon, 12 May 2009. ([poster])(https://cfcul.mcmlxxvi.net/pdfs%20e%20powerpoints/cartaz%20vesalius.pdf)
-* Organizer of the exhibition / video installation **Solaris ou a impossibilidade do fim /Solaris or the impossibility of the end**, authored by Rodrigo Vilhena, put forward by the FCT project “Image in Science and Art”, held at Travessa Convento de Jesus 12A e 16A, Lisbon, 2009.  ([video](https://www.youtube.com/watch?v=RWzyPMqo0R8))
-* Organizer of the exhibition / video installation **Beta Pictoris II**, authored by Rodrigo Vilhena, put forward by the FCT project “Image in Science and Art”, held at Travessa Convento de Jesus 12A e 16A, Lisbon, 2009. ([video](https://www.youtube.com/watch?feature=player_embedded&v=QTBWCUREAYs))
-* Organizer of the exhibition **From Science to Art. Porcelain Garden**, authored of Rob Kessler, put forward by the FCT project “Image in Science and Art”, held at Lisbon Calouste Gulbenkian Foundation, 17-19 February 2011
-* Coordinator with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco, of the exhibition **[CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art](https://www.pavconhecimento.pt/243/corpo-imagem)**, held at Knowledge Pavillon, Ciência Viva Agency, Lisbon, 2 February-30 March 2011 (also [**here**](https://arquivo.pt/wayback/20141001002823/http://www.tvciencia.pt/tvcnot/pagnot/tvcnot03.asp?codpub=25&codnot=16)).
+
+
 
 
 
