@@ -3,7 +3,7 @@
 > ##### "Each life is an encyclopedia, a library, an inventory of objects, a catalog of styles, where everything can be constantly stirred up and reordered in every possible way"  <br> Italo Calvino, *Lezioni Americane. Sei Proposte per il Prossimo Millennio*
 
 * [Opening Statement](opening_statement.md)
-* [Curriculum](curriculum.md)
+* [Academic Profile](curriculum.md)
 * [Publications](publications.md)
 * [Interviews](interviews.md)
 * [Conferences and Talks](onlinetalks.md)
