@@ -1,4 +1,4 @@
-# Research 
+## Research 
 ###### [Research centers](#research-centers) | [Research projects](#research-projects) | [Scientific societies](#Scientific-societies) | [Networks](#networks) | [Journal boards](#Journal-boards) 
 
 
@@ -84,6 +84,7 @@
 * Member of Scientific Committee of the **Système d’information en Philosophie des Sciences (SIPS)** directed by Thierry Martin and coordinated by the Centre de Documentation et de Bibliographie Philosophique, Maison des Sciences de l'Homme Claude-Nicolas Ledoux (UMS 27), France (2008-2010).  
 * Member of the **[POND Network - Philosophy of Science Around the Mediterranean](https://pondposmed.wordpress.com/)** (since 2017)
 
+
 ### Journal boards
 
 * Member of the editorial board of the journal [Latin American Human Rights Studies (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021).
@@ -100,14 +101,14 @@
 * Member of the editorial board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
 * Member of the editorial board of the journal **Filosofia**, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
-#### Book series editorial boards
+##### Book series editorial boards
 
 * Processos Formativos, Editora FI, Porto Alegre, Brazil (editorial board since 2017)
 * Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
 
 
-### Organization of scientific meetings
+#### Organization of scientific meetings
 
 #### International scientific meetings
 
