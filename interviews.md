@@ -1,9 +1,9 @@
 
-# Interviews
+## Interviews
 
 ###### [Online interviews](#Online-interviews) | [Televison and radio interviews](#Televison-and-radio-interviews) | [Press interviews](#Press-interviews) 
 
-## Online interviews 
+### Online interviews 
 
 * [**À Conversa com Olga Pombo (A conversation with Olga Pombo)**](https://www.youtube.com/watch?v=EA0UJBqb4RE), interview conducted by Rui Remígio, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 16 October 2025. 
 *	[**Philosopher Olga Pombo**](https://www.youtube.com/watch?v=oOZaGbF3aLs&feature=youtu.be), online interview with John Symos, "Contemporary Philosophy - Global Conversations", Mana Platform, 7 July 2020.
@@ -16,7 +16,7 @@
      4.	[**A Enciclopedia e a Internet (The Encyclopaedia and the Internet**)](https://www.youtube.com/watch?v=bLyV4bwh8sM)
 
 
-## Televison and radio interviews
+### Televison and radio interviews
 
 *  **Sobre a Curiosidade (On Curiosity)**, television interview by the journalist Luis Castro, at the RTP2 program “Sociedade civil” (gravado a 9 de setembro 2025), 9 and 10 October 2025.
 *  [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 program "Vamos beber um café e falar sobre isso", television interview by the journalist José Navarro de Andrade, 24 January 2022.  
@@ -34,7 +34,7 @@
 * **Jean-Jacques Rousseau**, radio interview by Luísa Costa Gomes, Rádio Comercial, Lisboa, 6th May 1985.
 
   
-## Press interviews
+### Press interviews
 
 * [**Pensare vuol dire allargare i confini**](https://www.avvenire.it/agora/cultura/olga-pombo-pensare-vuol-dire-allargare-i-confini_60782), presented by Giovanni Scarafile, Avvenire, 29 Maggio 2022, p. A-22 
 * [**Três Perguntas àcerca do Livro "Da Civilização da Palavra à Civilização da Imagem"**](http://webpages.fc.ul.pt/~ommartins/pdfs/livro_civ_palavra.pdf) (**Three questions on the Book "From Word Civilization to Image Civilization"**, *Newsletter of FCUL*, 21 June, 2013. 
