@@ -163,9 +163,9 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Member of the selection panel for PhD grants of the Doctoral Program on Philosophy of Science, Technology, Art and Society (FCTAS ), awarded in 2014, 2015, 2016 and 2017.
 
 
-## Publications, ### Dissertations, ### Books (Author), ### Books (Editor), ### Chapters 
-### Encyclopaedia Entries, ### Articles, ### Book Reviews, ### Room Texts for Exhibitions, 
-### Scholar Brochures  
+## Publications 
+
+,,,,
 
 
 
