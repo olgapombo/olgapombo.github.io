@@ -1,4 +1,4 @@
-## Organization of Scientific Meetings
+## Organization of scientific meetings
 
 ### International scientific meetings
 
