@@ -1,6 +1,6 @@
-### Organization of scientific meetings
+# Organization of scientific meetings
 
-#### International scientific meetings
+### International scientific meetings
 
 * Member of the organizing committee of the international colloquium **Leituras da Modernidade**, put forward by the "Centre for the History of Culture" of the New University of Lisbon, held at Franco-Portuguese Institute, Lisbon, 1987.
 * Member of the organizing committee of the international conference **A Problemática das Licenciaturas em Ensino**, held at Rectorship of the University of Lisbon, 19-20, February, 1987.
@@ -92,7 +92,7 @@
 * Local Advisor of the **Biennial International Conference of the ISHPSSB (International Society for the History, Philosophy and Social Studies of Biology)**, held at the University of Porto, 20-25 July, 2025.
 
 
-#### Other scientific meetings
+### Other scientific meetings
 
 * Member of the organizing committee for the **First National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1978.
 * Member of the organizing committee for the **Second National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1979.
@@ -158,7 +158,7 @@
 * Coordinator of the *Jornadas de Doutoramento*, organized in the context of  the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 9, 16, 23, 30 May 2019.
 
 
-#### Science communication and outreach
+### Science communication and outreach
 
 * Coordinator of the conference series [**Encontros Agostinho da Silva**](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/index.htm), held at FCUL (1998-2000) (9 sessions)
 * Coordinator of the film cycle [**Cinema e Educação /Film and Education**](https://webpages.ciencias.ulisboa.pt/~ommartins/cinema/index.htm), held at FCUL (2000-2003) (5 sessions)
@@ -207,7 +207,7 @@
 * 14 May 2026: As várias dimensões do conceito de “cultura integral do individuo”. O que pode significar hoje o conceito de “cultura integral do individuo”? (Dimensions of the concept of “integral culture of the individual”. What could it mean today?), session led by Olga Pombo
 
 
-#### Exhibitions
+### Exhibitions
 
 * Member of the organizing committee of the exhibition **Jean-Jacques Rousseau 1712-1778**, held at the National Central Library, Lisbon, April-May 1979.
 * Co-construction of the **Centre of Documentation on Interdisciplinary and Disciplinary Integration**, Department of Education, FCUL, 1995.
