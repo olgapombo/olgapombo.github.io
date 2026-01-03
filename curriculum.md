@@ -167,7 +167,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 
 ## Publications 
-,,,,
+
 ## Journal editor
 
 * Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
