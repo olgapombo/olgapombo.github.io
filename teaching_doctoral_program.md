@@ -25,8 +25,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 
  
 
-## Faculty of Sciences University of Lisbon 
-
+### Faculty of Sciences University of Lisbon 
 
 #### Master in History and Philosophy of Science (*Department of History and Philosophy of Science* - leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
 
@@ -82,28 +81,28 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 * *Ciencia e Arte*, secondary school teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
 
-## Other Universities
+### Other Universities
  
-### PhD 
+#### PhD 
 
 * Doctoral Program in *Contemporary Studies*, CEIS20 Universidade de Coimbra (2019-2023)
 * Doctoral Program in *Complexity Sciences*, ISCTE Lisbon University Institute (2006-2019).
 * Doctoral Program, *Gulbenkian Institute of Science* (IGC) (2012).
 * Joint Doctoral Program of the Universities of Aveiro and Porto *New Paradigms in Information and Communication on Digital Platforms*, University of Oporto (2011)
 
-### Master Programs
+#### Master Programs
 
 * Master in *Informatics, Engineering and Computation*, Faculdade de Engenharia, Universidade do Porto (2020)
 * Master  in *Bioethics*, Faculty of Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014). 
 * Master and PhD Program in *Developmental Psychology*, Faculty of Psychology, University of Lisbon (2003-2004). 
 * Master in *Drawing*, Faculty of Fine Arts, University of Lisbon (2003). 
 
-### Undergraduate courses 
+#### Undergraduate courses 
 * *Philosophy and the Teaching of Philosophy*,  New University of Lisbon, Faculty of Social and Human Sciences (1987-1988).
 * *Problems of Science Teaching*, University of Madeira (1988; 1989-1990, 1999)
 *	*Epistemology and Science Teaching*, University of Algarve (2003; 2004)
 
-## International teaching  
+### International teaching  
 
 * Federal Universidade of Pará, Brazil (April 2021).
 * Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”, Accademia Vivarium Novum, Rome, Italy (October- November 2019)
