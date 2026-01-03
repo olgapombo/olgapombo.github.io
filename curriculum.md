@@ -165,7 +165,6 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 
 ## [Publications](publications.md) 
-#### Dissertations | Books (author) | Books (editor) | Chapters | Encyclopaedia entries | Articles | Book reviews | Scholar brochures | Room texts | Book series editor | Journal editor | Journal guest editor | Preprints and working papers
 
 ## Journal editor
 
