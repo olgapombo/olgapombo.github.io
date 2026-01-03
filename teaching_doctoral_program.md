@@ -25,7 +25,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 
  
 
-### Faculty of Sciences University of Lisbon 
+### Faculty of Sciences of the University of Lisbon 
 
 #### Master in History and Philosophy of Science (*Department of History and Philosophy of Science* - leaflet [here](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf))
 
