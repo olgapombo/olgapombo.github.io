@@ -1,3 +1,3 @@
-# Each Life is an Encyclopedia 
+## Each life is an encyclopedia 
 
 to be done
