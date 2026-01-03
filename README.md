@@ -7,7 +7,7 @@
 * [Publications](publications.md)
 * [Interviews](interviews.md)
 * [Conferences and talks](onlinetalks.md)
-* [Research / Projects](research_projects.md)
+* [Research / Projects](projects.md)
 * [Organization scientific meetings](organization_scientific_meetings.md)
 * [Teaching / Doctoral Program FCTAS](teaching_doctoral_program.md)
 * [Supervision](supervision.md)
