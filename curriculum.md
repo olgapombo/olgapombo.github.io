@@ -30,7 +30,7 @@ She was selected [one of the 100 women](https://www.cienciaviva.pt/mulheresnacie
 She was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). She was invited to join the honour commission of the Portuguese “Reading National Plan” (PNL 2017), to be member of the Scientific Council of the “Réseau National des Maisons des Sciences de l'Homme” (Paris, 2015-2022), and to be President of the general assembly board of the [Portuguese Logic Society](https://spl.tecnico.ulisboa.pt/en/spl-english/) (2022-2025). .. 
 
   
-## Education and Degrees
+## Education and degrees
 
 * 2009 – *Habilitation (Aggregation) in "History and Philosophy of Science"*, University of Lisbon with the public lesson “*Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century*).
 * 1998 - *PhD in Philosophy of Education*, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “*Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge*).  
@@ -42,7 +42,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
 
-## Appointments, Positions and Responsabilities 
+## Appointments, positions and responsabilities 
 
 * 2017 - ongoing - *Professor with Habilitation* (retitred with [collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 * 2009 – 2016 - *Professor with Habilitation*, “Department of History and Philosophy of Sciences”, FCUL (since the 9th June 2009 up until retirement, the 1st January 2017). 
@@ -57,7 +57,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1970 - 1972 – *Assistant Teacher of Philosophy and History*, M. Amália Vaz de Carvalho High School, Lisbon.
 
 
-## Academic Responsibilities 
+## Academic responsibilities 
 
 * 2014 – 2017 - *Proponent, founder and first [Program-Director](https://phd-fctas.campus.ciencias.ulisboa.pt/director-do-programa/)* of the [International “Doctoral Program on Philosophy of Science, Technology, Art and Society” (PD-FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/) sponsored by the Portuguese Foundation for Science and Technology (FCT).
 * 2011-2015 - *Co-founder and Co-coordinator* of the [“Master in History and Philosophy of Science”](https://ciencias.ulisboa.pt/sites/default/files/fcul/dep/sahfc/doc/dossier%20mestrado%202011-12.pdf ) of the FCUL
@@ -73,7 +73,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1986 – 1988 - Member of the Assembly of Representatives of FCUL.
 
 
-## Fellowships and Research Stays Abroad
+## Fellowships and research stays abroad
 
 * PhD fellowship awarded by the National Institute of Scientific Research (JNIC) (1989 – 1992).
 * PhD research stay at the Centre de Recherche Épistémologie Appliquée – CREA, University of Paris, France (1990-1991).
@@ -124,7 +124,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 ## Consultancy
 
-**International Selection Panels and Committees**
+**International selection panels and committees**
 * Member of the international selection panel for the Institut Universitaire de France, selection de la promotion, Paris, 2009 and 2010.
 * Member of the international selection panel of the University Paris-Sorbonne for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2015.
 * Member of the Scientific Council of the Réseau National des Maisons des Sciences de l'Homme (Paris, 2015-2022)
@@ -134,7 +134,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Member of the Scientific Committee of the Centro Studi sulla Natura, L’Umano e l’Unità del Pensiero, Accademia Vivarium Novum, Roma (2018-2019).
 * Member of the International Advisory Committee of the FCT Center for Interdisciplinary Studies of the University of Coimbra (2023-2024) and (2025-2028).
 
-**European Commission FP6, FP7 and Horizon 2020**
+**European commission FP6, FP7 and horizon 2020**
 * Expert for Raising Public Awareness of Science and Technology, 2001.
 * Expert for Improving the Human Research Potential and the Socio-Economic Knowledge, 2001-2002.
 * Expert for Marie Curie Intra-European Fellowships, 2002, 2004.
@@ -151,7 +151,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Expert for H2020 FET-OPEN - Novel Ideas for radically new technologies - research projects, 2014; 2016; 2017.
 * Expert for Horizon-EIC-2021-PATHFINDEROPEN-01, 2021.
 
-**National Selection Panels**
+**National selection panels**
 * Member of the selection panel for the prize “Tradução Científica e Técnica em Língua Portuguesa” (2003, 2004-2005)
 *  the selection panel for the “Olimpíadas Nacionais de Filosofia” organized by the Portuguese Society of Philosophy (2012-2013)
 * Member of the scientitic board of the "Olimpíadas Nacionais de Filosofia", organized by PROSOFOS (Associação para a Promoção da Filosofia), 7, 8 March 2014, Escola Secundária de Paços de Ferreira. 
@@ -165,17 +165,17 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 ## Publications 
 ,,,,
-## Journal Editor
+## Journal editor
 
 * Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
 * Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
 * Co-founder and co-director of the journal **Filosofia**, edited by] the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
-### Journal Guest Editor
+### Journal guest editor
 * Pombo, Olga (2015), ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 * Pombo, Olga (2012), ***Dossier: Leibniz. Kairos. Journal of Philosophy & Science***, vol. 4, May, pp. 119-151. ISSN (print): 2182-2824
 
-### Journal Boards 
+### Journal boards 
 * Member of the editorial board of the journal [***Latin American Human Rights Studies*** (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021). 
 * Member of the international editorial board of the journal ***Currículo, Cultura e Identidade***, Unesp. Sao Paulo, Brazil (since 2020)
 * Member of the scientific board of the journal [***Interdisciplinaridade, GEPI - Grupo Estudos e Pesquisa em Interdisciplinaridade***](https://revistas.pucsp.br/index.php/interdisciplinaridade/about/editorialTeam) (ISSN 2179-0094), PUC-SP, Brazil (since 2017).
@@ -190,13 +190,13 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Member of the editorial board of the journal ***Revista de Educação***, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
 * Member of the editorial board of the journal ***Filosofia***, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
 
-### Book Series Editorial Boards
+### Book series editorial boards
 * Processos Formativos, Editora FI, Porto Alegre, Brazil (editorial board since 2017)
 * Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
 
 
-## Scholar and Media Reception
+## Scholar and media reception
 
 * António Guerreiro (1998), review of the book: ["Olga Pombo, Leibniz e o Problema de uma Língua Universal](https://arquivo.pt/wayback/20081022125858/http:/aeiou.primeirasedicoes.expresso.pt/ed1342/c251.asp), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997, 322 págs., in *Expresso – Cartaz*, 18.07.1998 
 * M.J.C. (2000), review of the book: "Olga Pombo, Quatro Textos Excêntricos: Hannah Arendt, Eric Weil, Bertrand Russell e Ortega y Gasset", Relógio d’Água, 2000, in *Expresso – Cartaz*, 02.09.2000
@@ -216,7 +216,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 
 
-## Honours, Awards and Public Distinctions
+## Honours, awards and public distinctions
 
 * *Inaugural holder of the Leopoldo Zea Latin-American Chair of Philosophy and Epistemology*, Federal University of Latin-American Integration (UNILA), Brazil (2010) [(link)](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/)
 * *Selected as one of the [100 Woman in Science](https://www.cienciaviva.pt/divulgacao-cientifica/mulheresnaciencia/dia-internacional-da-mulher/2016) by Ciencia Viva*, National Agency for Scientific and Technological Culture of Portugal (March, 2016).   [(Women in Science book)](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/), [(Olga Pombo’s page)](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295) 
