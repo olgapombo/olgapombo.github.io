@@ -35,9 +35,9 @@
 * Pombo, Olga (coord), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, put forward with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
 The video is divided in 3 parts:
 
-  1.	[**Corpo PAISAGEM. Body Landscape](http://Lisboncisa.fc.ul.pt/videos/v33.htm)** 
-  2.	[**Corpo FRAGMENTO. Body Fragment](http://Lisboncisa.fc.ul.pt/videos/v33b.htm)**
-  3.	[**Corpo ALGORITMO. Body Algorithm](http://Lisboncisa.fc.ul.pt/videos/v33c.htm)** 
+  1.	[**Corpo PAISAGEM. Body Landscape**](http://Lisboncisa.fc.ul.pt/videos/v33.htm) 
+  2.	[**Corpo FRAGMENTO. Body Fragment**](http://Lisboncisa.fc.ul.pt/videos/v33b.htm)
+  3.	[**Corpo ALGORITMO. Body Algorithm**](http://Lisboncisa.fc.ul.pt/videos/v33c.htm) 
 
 
 * Pombo, Olga (2006), [**Fernando Gil. Filosofo do conhecimento**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
