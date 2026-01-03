@@ -195,7 +195,8 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
 
 
-### Teaching  , ### Supervision
+### Teaching  
+### Supervision
 
 ## Scholar and media reception
 
