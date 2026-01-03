@@ -1,8 +1,8 @@
 
 ## Academic profile      
 
-###### | [Academic Profile](#Academic-profile)  | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Academic Responsibilities](#Academic-responsibilities) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Publications](publications.md) | [Journal Boards](#Journal-boards) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research/projects.md) | [Organization of Scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Scholar Reception](#Scholar-and-media-reception) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages) | FULL CV
-###### Full CV
+###### | [Academic Profile](#Academic-profile)  | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Academic Responsibilities](#Academic-responsibilities) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Publications](publications.md) | [Journal Boards](#Journal-boards) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research/projects.md) | [Organization of Scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Scholar Reception](#Scholar-and-media-reception) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages) | Full CV
+##### Full CV
 
 
 
