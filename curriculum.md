@@ -170,8 +170,8 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 * Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
 * Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
-* Pombo, Olga (2015), guest editor of ***Axiomathes, Special Issue***, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-
+* Guest editor of ***Axiomathes, Special Issue***, vol. 25 (1), March (2015), pp.1-143. 
+DOI: 10.1007/s10516-014-9264-5
 
 ### Journal boards (selection)
 * Member of the editorial board of the journal [***Latin American Human Rights Studies*** (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021). 
