@@ -166,7 +166,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Member of the selection panel for PhD grants of the Doctoral Program on Philosophy of Science, Technology, Art and Society (FCTAS ), awarded in 2014, 2015, 2016 and 2017.
 
 
-## Publications 
+## [Publications](publications.md)  
 
 ## Journal editor
 
@@ -198,14 +198,12 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
 
-* Conferences and talks
-interviews
-[Interviews](interviews.md) 
+## [Conferences and talks](onlinetalks.md) 
+## [Interviews](interviews.md) 
 * research
 * Organization of Scientific meetings
-### Teaching  
-### Supervision
-* [Supervision](supervision.md) 
+## [Teaching](teaching_doctoral_program.md) 
+## [Supervision](supervision.md) 
 
 ## Scholar and media reception
 
