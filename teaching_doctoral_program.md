@@ -1,7 +1,7 @@
 ## Teaching
 
 
-###### [Doctoral Program FCTAS](#Doctoral-program-fctas-ul) | [Faculty of Sciences University of Lisbon](#Faculty-of-sciences-university-of-lisbon) | [Other Universities](#Other-universities) | [Teaching abroad](#Teaching-abroad)
+###### [Doctoral Program FCTAS](#Doctoral-program-fctas-ul) | [Faculty of Sciences University of Lisbon](#Faculty-of-sciences-university-of-lisbon) | [Other Universities](#Other-universities) | 
 
 
 ## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/)
@@ -102,7 +102,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 * *Problems of Science Teaching*, University of Madeira (1988; 1989-1990, 1999)
 *	*Epistemology and Science Teaching*, University of Algarve (2003; 2004)
 
-### International teaching  
+#### International teaching  
 
 * Federal Universidade of Pará, Brazil (April 2021).
 * Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”, Accademia Vivarium Novum, Rome, Italy (October- November 2019)
