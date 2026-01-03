@@ -174,13 +174,12 @@ She was  awarded  the Honorary membersip of the “International Association for
 DOI: 10.1007/s10516-014-9264-5
 
 ### Journal boards (selection)
-* Member of the editorial board of the journal [***Latin American Human Rights Studies*** (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021). 
-* Member of the international editorial board of the journal ***Currículo, Cultura e Identidade***, Unesp. Sao Paulo, Brazil (since 2020)
-* Member of the scientific board of the journal [***Interdisciplinaridade, GEPI - Grupo Estudos e Pesquisa em Interdisciplinaridade***](https://revistas.pucsp.br/index.php/interdisciplinaridade/about/editorialTeam) (ISSN 2179-0094), PUC-SP, Brazil (since 2017).
-* Member of the scientific board of the journal [***Omnia. Revista Interdisciplinar de Ciências e Artes***](https://grei.pt/revista-omnia/) (ISSN 2183-8720), GREI, Faro (since 2015)
-* Member of the scientific board of the journal [***RHV. An International Journal of Philosophy***](https://revistas.uv.cl/index.php/RHV/about/editorialTeam), Instituto de Filosofia, Faculdade de Humanidades, Valparaiso, Chile
-* Member of the scientific board of the journal [***Cuadernos de Lógica, Epistemologia y Lenguaje***](https://www.collegepublications.co.uk/cuadernos/), College Publication, UK (since 2007)   
-* Member of the editorial board of the journal [***Contexto e Educação***](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil (since 2006).  
+* [***Latin American Human Rights Studies*** (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021). 
+* [***Interdisciplinaridade, GEPI - Grupo Estudos e Pesquisa em Interdisciplinaridade***](https://revistas.pucsp.br/index.php/interdisciplinaridade/about/editorialTeam) (ISSN 2179-0094), PUC-SP, Brazil (since 2017).
+* [**Omnia. Revista Interdisciplinar de Ciências e Artes***](https://grei.pt/revista-omnia/) (ISSN 2183-8720), GREI, Faro (since 2015)
+* [***RHV. An International Journal of Philosophy***](https://revistas.uv.cl/index.php/RHV/about/editorialTeam), Instituto de Filosofia, Faculdade de Humanidades, Valparaiso, Chile
+* [***Cuadernos de Lógica, Epistemologia y Lenguaje***](https://www.collegepublications.co.uk/cuadernos/), College Publication, UK (since 2007)   
+* [***Contexto e Educação***](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil (since 2006).  
 
 ## [Conferences and talks](onlinetalks.md) 
 ## [Interviews](interviews.md) 
