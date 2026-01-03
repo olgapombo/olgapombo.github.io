@@ -7,6 +7,10 @@
 
 
 
+
+
+
+
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Hailitation degree in “History and Philosophy of Science” also by the University of Lisbon. 
 
 Professor of Philosophy of Science at the Department of History and Philosophy of Science, Faculty of Sciences of the University of Lisbon (retired since 2017, with collaboration agreement), she was President of the Department since its foundation in 2007 up to 2012. 
