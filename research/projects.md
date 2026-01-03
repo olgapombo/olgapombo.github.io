@@ -108,7 +108,7 @@
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
 
 
-#### Organization of scientific meetings
+### Organization of scientific meetings
 
 #### International scientific meetings
 
