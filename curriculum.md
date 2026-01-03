@@ -181,7 +181,7 @@ DOI: 10.1007/s10516-014-9264-5
 
 ## [Conferences and talks](onlinetalks.md) 
 ## [Interviews](interviews.md) 
-* research
+## [Research](research/projects.md)
 * Organization of Scientific meetings
 ## [Teaching](teaching_doctoral_program.md) 
 ## [Supervision](supervision.md) 
