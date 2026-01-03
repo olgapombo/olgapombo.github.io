@@ -59,7 +59,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 * *Philosophy of Education* (1985-86; 1988-1989; 1994-1995; 2002-03)
 * *Experiences of Transversality* (2007-2008)  
   
-####  Undergraduate Courses (*Department of Education*)
+####  Undergraduate courses (*Department of Education*)
 
 * *Philosophy of Education* (1985-86; 1988-1989)
 * *Observation and Analysis* (1984-1985; 1992-1993; 1994-1996) 
@@ -90,7 +90,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 * Doctoral Program, *Gulbenkian Institute of Science* (IGC) (2012).
 * Joint Doctoral Program of the Universities of Aveiro and Porto *New Paradigms in Information and Communication on Digital Platforms*, University of Oporto (2011)
 
-#### Master Programs
+#### Master programs
 
 * Master in *Informatics, Engineering and Computation*, Faculdade de Engenharia, Universidade do Porto (2020)
 * Master  in *Bioethics*, Faculty of Medicine, University of Lisbon (2006; 2007; 2009, 2012, 2014). 
