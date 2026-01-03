@@ -6,7 +6,7 @@
 * [Academic profile](curriculum.md)
 * [Publications](publications.md)
 * [Interviews](interviews.md)
-* [Conferences](conferences_and_talks.md)
+* [Conferences / Talks](conferences_and_talks.md)
 * [Research / Projects](/research/projects.md)
 * [Organization scientific meetings](organization_scientific_meetings.md)
 * [Teaching / Doctoral Program FCTAS](teaching_doctoral_program.md)
