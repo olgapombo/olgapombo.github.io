@@ -1,5 +1,5 @@
 
-## Conferences and Talks 
+## Conferences and talks 
 
 ###### [Online conferences and talks](#Online-conferences-and-talks) | [Conferences](#Conferences) | [Public talks](#Public-talks) | [Debates and round tables](#Debates-and-round-tables) | [Book presentations](#Book-presentations) | [Dissemination talks](#Dissemination-talks)
 
