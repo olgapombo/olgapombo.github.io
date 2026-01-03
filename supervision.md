@@ -107,11 +107,11 @@
 
 ### Academic committees
 
-### Aggregation juries
+#### Aggregation juries
 
 * Member of the jury for the Aggregation by Prof. Doutor Nuno Miguel Ornelas Martins, Portuguese Universidade Católica de Lisbon, 19-20 September 2013.
 
-### PhD defense committees
+#### PhD defense committees
 
 * Member (arguing) of the jury for the PhD dissertation *Sobre a Tolerância. Contributos da Filosofia para a Educação*, by Master Isabel Aguilar Macedo, PhD in “Education and Development”, Faculty of Sciences e Tecnologia, New University of Lisbon, 2007.
 * Member (arguing) of the jury for the PhD dissertation *Nós. Do Encontro de Experiências à Construção de um Saber de Referência para a Coordenação de Acção Conjunta. Uma Voz para os Educadores*, by Dr. José Manuel Cravo Pombeiro Filipe, 
@@ -134,7 +134,7 @@ PhD in “Education”, FCUL, 2008
 * Member (supervisor) of the jury for the PhD dissertation *Imagem Naturalista. A Iconografia da Viagem Philosophica de Alexandre Rodrigues Ferreira ao Brasil*, by Ana Paula Mendes de Sousa Suarez,  PhD in “Philosophy of Science, Technology, Art and Society”, speciality “Art and Science”, FCUL, 20 May 2025.
 
 
-### Master's theses committees
+#### Master's theses committees
 
 * Member (supervisor) of the jury for the master dissertation *Processo e Realidade Social. Reconstrução do Núcleo Teórico da Sociologia Processual de Norberto Elias*, by Dr. Diogo Cunha, master in “History and Philosophy of Science”, FCUL (zoom session), 5 April 2021.
 * Member (supervisor) of the jury for the master dissertation O Problema da Demarcação enquanto Problema Central da Filosofia da Ciência by Victor Hugo Simões de Almeida, master in “History and Philosophy of Science”, FCUL, 6 December 2016.
@@ -158,7 +158,7 @@ PhD in “Education”, FCUL, 2008
 * Member (supervisor) of the jury for the master dissertation O Corpo Escotomizado da Escola. Contributo para a Implementação Interdisciplinar da Área de Formação Pessoal e Social no Ensino Secundário by Dr. Leonor Santos, master in “Education. Science Didatics”, FCUL, 1998
 * Member (supervisor) of the jury for the master dissertation Para uma Pedagogia da Mudança Conceptual. Estudo de Orientação Epistemológica by Dr. Maria Eduarda Santos,  master in “Education. Science Didatics”, FCUL, 1989.
 
-### PhD intermediate committees 
+#### PhD intermediate committees 
 
 * Member of the jury (president) for the 1st year “Curso de Formação Avançada”, PhD Program on Philosophy of Science, Technology, Art and Society, of the PhD student Pedro Celestino, Ludo-Ética e a Questão Metafísica, Faculdade de Direito, University of Lisbon (zoom session), 12 May 2021.
 * Member of the jury (president) for the 1st year “Curso de Formação Avançada”, PhD Program on Philosophy of Science, Technology, Art and Society, of the PhD student Luca Onesti, O Comum em Disputa: A Ecologia entre Crise e Dívida,  Faculdade de Direito, University of Lisbon (zoom session), 17 April 2021.
