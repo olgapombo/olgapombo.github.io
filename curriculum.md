@@ -194,6 +194,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
 
+### Supervision
 
 ## Scholar and media reception
 
