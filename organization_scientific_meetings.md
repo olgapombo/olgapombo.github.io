@@ -169,42 +169,42 @@
 * Organizer of the monthly talks **“Philosophy at the Library”**, put forward by the municipal Library *Biblioteca-Espaço Cultural Cinema Europa*, Lisbon
   
 ###### 2024 (6 sessions) 
->* 9 January 2024 - “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes.
->* 6 February 2024 - “Envelhecimento e Morte (On Aging and Death)”, by Jorge Correia Jesuino (with the participation of Olga Pombo and Nuno Oliveira).
->*	5 March 2024 - “Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira). 
->*	2 April 2024 - “Sobre o conceito de Poder (On the concept of Power)”, by Nuno Oliveira (with the participation of Olga Pombo and Jorge Correia Jesuino), . 
->*	7 May 2024 - “O que é Pensar (On thinking)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira). 
->*	7 June 2024 - “O que é a Filosofia (On Philosophy)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira).
+> * 9 January 2024 - “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes.
+> * 6 February 2024 - “Envelhecimento e Morte (On Aging and Death)”, by Jorge Correia Jesuino (with the participation of Olga Pombo and Nuno Oliveira).
+> *	5 March 2024 - “Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira). 
+> *	2 April 2024 - “Sobre o conceito de Poder (On the concept of Power)”, by Nuno Oliveira (with the participation of Olga Pombo and Jorge Correia Jesuino), . 
+> *	7 May 2024 - “O que é Pensar (On thinking)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira). 
+> *	7 June 2024 - “O que é a Filosofia (On Philosophy)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira).
 
 ##### 2024-2025 - Monumental Texts - 8 sessions
-  > * 1 October 2024 - **O "Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia** (Plato’s Protagoras” (IV aC).  Philosophy, Reason, Virtue and Democracy”), by Olga Pombo (with the participation of Jorge Correia Jesuíno).
-  > *5 November 2024 -"O Discurso do Método" (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will”), by Olga Pombo (with the participation of Jorge Correia Jesuíno).
-  > * 3 December 2024 - "O Discurso sobre a Origem da Desigualdade entre os Homens"" (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men"(1754), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira)
-    >* 7 January 2025 - “A Alice no País das Maravilhas” (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature”), by Olga Pombo.
-    >* 4 February 2025 - “Os Espaços Outros” (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces" (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira).
-    >* 11 March 2025 - “O Princípio Responsabilidade” (1979) de Hans Jonas (filosofia, ética, futuro e ecologia ("The Principle of Responsibility" (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology”), by Olga Pombo, Jorge Correia Jesuíno and Nuno Oliveira.
->* 1 April 2025 - “Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência ("You have to change your life" (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence”), by Jorge Correia Jesuíno, Nuno Oliveira and Olga Pombo.
-   >* 6 May 2025 - “Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (“About the New" (2014) by Boris Groys. Philosophy, Innovation, Creation”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira)
+> * 1 October 2024 - **O "Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia** (Plato’s Protagoras” (IV aC).  Philosophy, Reason, Virtue and Democracy”), by Olga Pombo (with the participation of Jorge Correia Jesuíno).
+> * 5 November 2024 -"O Discurso do Método" (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will”), by Olga Pombo (with the participation of Jorge Correia Jesuíno).
+> * 3 December 2024 - "O Discurso sobre a Origem da Desigualdade entre os Homens"" (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men"(1754), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira)
+> * 7 January 2025 - “A Alice no País das Maravilhas” (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature”), by Olga Pombo.
+> * 4 February 2025 - “Os Espaços Outros” (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces" (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira).
+> * 11 March 2025 - “O Princípio Responsabilidade” (1979) de Hans Jonas (filosofia, ética, futuro e ecologia ("The Principle of Responsibility" (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology”), by Olga Pombo, Jorge Correia Jesuíno and Nuno Oliveira.
+> * 1 April 2025 - “Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência ("You have to change your life" (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence”), by Jorge Correia Jesuíno, Nuno Oliveira and Olga Pombo.
+> * 6 May 2025 - “Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (“About the New" (2014) by Boris Groys. Philosophy, Innovation, Creation”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira)
 
 ###### 2025-2026 – Philosophy and Writing - 8 sessions:
-* 7 October 2025: From Oral to Written Civilization Havelock’s The Muse Learns to Write, by Olga Pombo
-•	    4 November 2025: Poetry, Rhetoric and Dialectics: Homer, Protagoras and Socrates, by Olga Pombo 
-•	    2 December 2025: Dialogue, Argument and Rationality. Truth and Democracy:  Plato and Aristotle, by Olga Pombo
-•	     6 January 2026: Institutions of Writing I: School and University – The Challenge of Knowledge Technologies, by Olga Pombo
-•	     5 February 2026: Instituições da escrita 2. Livro e biblioteca. A digitalização e o futuro do livro (Institutions of Writing II: Book and Library – Digitization and the Future of the Book), by Olga Pombo
-•	     3 March 2026: Instituições da escrita 3. Enciclopédia. De Plinio á Internet (Institutions of Writing III: Encyclopedia – From Pliny to the Internet) by Olga Pombo.
-•	     7 April 2026: S. Weil e H. Arendt. Trabalho e condição humana (Simone Weil and Hannah Arendt – Labour and the Human Condition) by Correia Jesuíno.
-•	     5 May 2026: Da civilização da palavra a civilização da imagem (From the Civilization of the Word to the Civilization of the Image) by Olga Pombo.
+> * 7 October 2025: From Oral to Written Civilization Havelock’s The Muse Learns to Write, by Olga Pombo
+> * 4 November 2025: Poetry, Rhetoric and Dialectics: Homer, Protagoras and Socrates, by Olga Pombo
+> * 2 December 2025: Dialogue, Argument and Rationality. Truth and Democracy:  Plato and Aristotle, by Olga Pombo
+> * 6 January 2026: Institutions of Writing I: School and University – The Challenge of Knowledge Technologies, by Olga Pombo
+> * 5 February 2026: Instituições da escrita 2. Livro e biblioteca. A digitalização e o futuro do livro (Institutions of Writing II: Book and Library – Digitization and the Future of the Book), by Olga Pombo
+> * 3 March 2026: Instituições da escrita 3. Enciclopédia. De Plinio á Internet (Institutions of Writing III: Encyclopedia – From Pliny to the Internet) by Olga Pombo.
+> * 7 April 2026: S. Weil e H. Arendt. Trabalho e condição humana (Simone Weil and Hannah Arendt – Labour and the Human Condition) by Correia Jesuíno.
+> * 5 May 2026: Da civilização da palavra a civilização da imagem (From the Civilization of the Word to the Civilization of the Image) by Olga Pombo.
 
 * Organizer of the Seminar **A cultura integral do individuo de Bento de Jesus Caraça** (The Integral Culture of the Individual by Bento de Jesus Caraça), within the framework of the Associação Bento de Jesus Caraça, Lisbon, October 2025 - May 2026, 8 sessions:  
-* 9 October 2025 - Objecto e objectivo do texto. Questões metodológicas. Matemática e filosofia (Object and objective of the text. Methodological questions. Mathematics and philosophy, session led by Olga Pombo.
-* 13 November 2025 - Contexto e oportunidade do texto. O intelectual e o activista. Compreender e agir (Context and opportunity of the text. The intellectual and the activist. Understanding and acting), session led by Olga Pombo
-* 11 December 2025: Procura de um fundamento para os desenvolvimentos argumentativos posteriores. Progresso e contradição (Search for a foundation for subsequent argumentative developments. Progress and contradiction), session led by Olga Pombo
-* 8 January 2026: Analise dos argumentos políticos (Analysis of political arguments), session led by Olga Pombo
-* 12 February 2026: Analise dos argumentos históricos e económicos (Analysis of historical and economic arguments), session led by Olga Pombo
-* 12 March 2026: Tarefa para uma geração. Massas e elites (A task for a generation. Masses and elites), session led by Olga Pombo
-*  9 April 2026: Cultura e civilização. “O que é o homem culto?” (Culture and civilization. “What is a cultured person?”), session led by Olga Pombo
-* 14 May 2026: As várias dimensões do conceito de “cultura integral do individuo”. O que pode significar hoje o conceito de “cultura integral do individuo”? (Dimensions of the concept of “integral culture of the individual”. What could it mean today?), session led by Olga Pombo
+> * 9 October 2025 - Objecto e objectivo do texto. Questões metodológicas. Matemática e filosofia (Object and objective of the text. Methodological questions. Mathematics and philosophy, session led by Olga Pombo.
+> * 13 November 2025 - Contexto e oportunidade do texto. O intelectual e o activista. Compreender e agir (Context and opportunity of the text. The intellectual and the activist. Understanding and acting), session led by Olga Pombo
+> * 11 December 2025: Procura de um fundamento para os desenvolvimentos argumentativos posteriores. Progresso e contradição (Search for a foundation for subsequent argumentative developments. Progress and contradiction), session led by Olga Pombo
+> * 8 January 2026: Analise dos argumentos políticos (Analysis of political arguments), session led by Olga Pombo
+> * 12 February 2026: Analise dos argumentos históricos e económicos (Analysis of historical and economic arguments), session led by Olga Pombo
+> * 12 March 2026: Tarefa para uma geração. Massas e elites (A task for a generation. Masses and elites), session led by Olga Pombo
+> *  9 April 2026: Cultura e civilização. “O que é o homem culto?” (Culture and civilization. “What is a cultured person?”), session led by Olga Pombo
+> * 14 May 2026: As várias dimensões do conceito de “cultura integral do individuo”. O que pode significar hoje o conceito de “cultura integral do individuo”? (Dimensions of the concept of “integral culture of the individual”. What could it mean today?), session led by Olga Pombo
 
 
 ### Exhibitions
