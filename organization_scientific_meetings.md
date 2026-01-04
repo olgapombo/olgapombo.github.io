@@ -148,10 +148,10 @@
 * Coordinator of the workshop **Introdução ao processamento e analise de imagem**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 4 and 8-10 September 2008. 
 * Coordinator of the workshop **A Ilustração Científica e a Construção do Conhecimento**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 4-5 December 2008. 
 * Coordinator of the workshop **As Imagens com que a Ciência se Faz**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 25 May 2009.
-*	Organizer of the Jornadas de Pos-Graduação (postgraduated journeys) put forward by the Department of History and Philosophy of Science, held at FCUL, Lisbon, 31 March and 1 April 2011.  
-*	Coordinator of the seminar “Reading Whitehead”, held at FCUL, June-July 2011 (4 sessions). 
-*	Coordinator of the colloquium “O Lugar da Filosofia da Ciência na nova Universidade de Lisboa”, put forward by the CFCUL, held at Rectory of the University of Lisbon, January 2013. 
-*	Coordinator of the workshop “Qual é a diferença entre Ciência e Filosofia? / What’s the difference between Science and Philosophy? ”, put forward by CFCUL “AppEEL Lab” and the “Ciência Viva Agency Evolution Day”, held at Knowledge Pavilion, Lisbon, March 2013.
+*	Organizer of the *Jornadas de Pos-Graduação* (postgraduated journeys) put forward by the Department of History and Philosophy of Science, held at FCUL, Lisbon, 31 March and 1 April 2011.  
+*	Coordinator of the seminar **Reading Whitehead**, held at FCUL, June-July 2011 (4 sessions). 
+*	Coordinator of the colloquium **O Lugar da Filosofia da Ciência na nova Universidade de Lisboa**, put forward by the CFCUL, held at Rectory of the University of Lisbon, January 2013. 
+*	Coordinator of the workshop **Qual é a diferença entre Ciência e Filosofia?** / What’s the difference between Science and Philosophy? ”, put forward by CFCUL “AppEEL Lab” and the “Ciência Viva Agency Evolution Day”, held at Knowledge Pavilion, Lisbon, March 2013.
 
 * Coordinator of the *Jornadas de Doutoramento*, organized in the context of  the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 7-8 June 2017.
 * Coordinator of the *Jornadas de Doutoramento*, organized in the context of the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 14-21 June 2018.
