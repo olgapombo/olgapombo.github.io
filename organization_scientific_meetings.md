@@ -1,5 +1,7 @@
 ## Organization of scientific meetings
 
+international meetings  other scientific meetings   Science communication and outreach   Exhibitions
+
 ### International scientific meetings
 
 * Member of the organizing committee of the international colloquium **Leituras da Modernidade**, put forward by the "Centre for the History of Culture" of the New University of Lisbon, held at Franco-Portuguese Institute, Lisbon, 1987.
