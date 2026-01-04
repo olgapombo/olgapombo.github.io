@@ -1,6 +1,7 @@
 ## Organization of scientific meetings
 
-international meetings  other scientific meetings   Science communication and outreach   Exhibitions
+[International meetings](#international-meetings) | [Other scientific meetings](Other-scientitif-meetings) |  [Science communication and outreach](Science-communication-and-outreach) | [Exhibitions](#Exhibitions)
+
 
 ### International scientific meetings
 
