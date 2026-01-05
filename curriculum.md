@@ -28,6 +28,7 @@ She was honoured as the [Founder of the "Cátedra Leopoldo Zea of Philosophy and
 She was selected [one of the 100 women](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295&ano=2016&id_area=524) to be part of the [1st edition of the book "Women in Science"](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/) edited by the National Agency for the Scientific and Technological Culture - Ciencia Viva (2016). 
 She was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). She was invited to join the honour commission of the Portuguese “Reading National Plan” (PNL 2017), to be member of the Scientific Council of the “Réseau National des Maisons des Sciences de l'Homme” (Paris, 2015-2022), and to be President of the general assembly board of the [Portuguese Logic Society](https://spl.tecnico.ulisboa.pt/en/spl-english/) (2022-2025). .. 
 
+
   
 ## Education and degrees
 
@@ -186,6 +187,7 @@ DOI: 10.1007/s10516-014-9264-5
 ## [Teaching](teaching_doctoral_program.md) 
 ## [Supervision](supervision.md) 
 
+
 ## Scholar and media reception
 
 * António Guerreiro (1998), review of the book: ["Olga Pombo, Leibniz e o Problema de uma Língua Universal](https://arquivo.pt/wayback/20081022125858/http:/aeiou.primeirasedicoes.expresso.pt/ed1342/c251.asp), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997, 322 págs., in *Expresso – Cartaz*, 18.07.1998 
@@ -205,7 +207,6 @@ DOI: 10.1007/s10516-014-9264-5
 * Marcos António Pires, review of the book: ["Olga Pombo, O Insuportável Brilho da Escola"](https://www.isciweb.com.br/revista/2374), in *Revista ISCI, Revista Científica do Instituto Saber Ciências Integradas*, Brazil, Vol. 8(2), May 2021, ISSN 2446-8436 [(link)](https://www.isciweb.com.br/revista/2374)
 
 
-
 ## Honours, awards and public distinctions
 
 * *Inaugural holder of the Leopoldo Zea Latin-American Chair of Philosophy and Epistemology*, Federal University of Latin-American Integration (UNILA), Brazil (2010) [(link)](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/)
@@ -216,7 +217,6 @@ DOI: 10.1007/s10516-014-9264-5
 * *Essay tribute to Olga Pombo. An origin for the image?*, by Pedro Caldas, Informe C3, Dossier Arte e Ciencia, vol. 14 (1): 67-84 (2022).
 * [*Olga Pombo. La interdisciplinaridad o la rede actual del conocimiento*](https://www.youtube.com/watch?v=zWHHvijaJ1I&list=PLjzL5OwYVnfui4uGbLC0sXOj2FTiuT5QB&index=10&t=7s), part of the online series *"Filósofas en La Historia. Filósofas ante la Ciencia y la Tecnologia”*, directed by Paz Pérez Encinas, Departament of Philosophy, IES Aramo, Oviedo, Spain. The session was dedicated to a global presentation and discussion of Olga Pombo’s scientific work on the 5th August 2023.[(vídeo)](https://www.youtube.com/watch?v=zWHHvijaJ1I&list=PLjzL5OwYVnfui4uGbLC0sXOj2FTiuT5QB&index=10&t=7s) 
 * *Celebrating Women Who Inspire*, tribute event integrated in the “International Day of Women and Girls in Science”, organized by ARMA-Sci, Agrupamento de Escolas Gomes Teixeira, Câmara Municipal de Armamar, Centro Interpretativo da Mulher Duriense, 21 February 2024.
-
 
 
 ## Languages
