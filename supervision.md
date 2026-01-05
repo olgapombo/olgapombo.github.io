@@ -158,6 +158,7 @@ PhD in “Education”, FCUL, 2008
 * Member (supervisor) of the jury for the master dissertation O Corpo Escotomizado da Escola. Contributo para a Implementação Interdisciplinar da Área de Formação Pessoal e Social no Ensino Secundário by Dr. Leonor Santos, master in “Education. Science Didatics”, FCUL, 1998
 * Member (supervisor) of the jury for the master dissertation Para uma Pedagogia da Mudança Conceptual. Estudo de Orientação Epistemológica by Dr. Maria Eduarda Santos,  master in “Education. Science Didatics”, FCUL, 1989.
 
+
 #### PhD intermediate committees 
 
 * Member of the jury (president) for the 1st year “Curso de Formação Avançada”, PhD Program on Philosophy of Science, Technology, Art and Society, of the PhD student Pedro Celestino, Ludo-Ética e a Questão Metafísica, Faculdade de Direito, University of Lisbon (zoom session), 12 May 2021.
