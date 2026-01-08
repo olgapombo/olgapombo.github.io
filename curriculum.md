@@ -9,7 +9,7 @@
 ###### | [Academic Profile](#Academic-profile)  | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Academic Responsibilities](#Academic-responsibilities) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Publications](publications.md) | [Journal editor](Journal_editor.md) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research/projects.md) | [Organization of Scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Scholar Reception](#Scholar-and-media-reception) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages) || Full CV ||
 
 
-
+## Short biography
 
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Hailitation degree in “History and Philosophy of Science” also by the University of Lisbon. 
