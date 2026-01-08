@@ -64,7 +64,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 2007 - 2012 - *President of the “Department of History and Philosophy of Sciences”*, FCUL (elected 27 September 2007 until 3 July 2009, re-elected the 3rd July 2009 until 3 July 2012).
 * 2007- 2012 - Member of the Scientific Council of FCUL.  
 * 2007 – 2012 - Member of the Coordination Council of FCUL.
-* 2003 - 2017 - [Director of the  “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL)](https://cfcul.ciencias.ulisboa.pt/equipa/olga-pombo/) since its foundation (2003) until my retirement (2017).
+* 2003 - 2017 - [Director of the  “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL)](https://cfcul.ciencias.ulisboa.pt/equipa/olga-pombo/) since its foundation (2003) until retirement (2017).
 * 2003 - Founder of the  [*“Research Centre for Philosophy of Sciences of the University of Lisbon”* (CFCUL)](https://cfcul.ciencias.ulisboa.pt/) 
 * 1998 -2007 - Member of the Scientific Commission of the “Department of Education”, FCUL. 
 * 1996 -1998 - Member of the Pedagogical Council of the “Department of Education”, FCUL.
