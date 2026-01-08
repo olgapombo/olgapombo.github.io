@@ -5,6 +5,11 @@
 
 
 
+This curriculum vitae is not a full academic CV (that can be found **here)**. More than a complete record of a professional career, it aims to provide a selection of the titles, research activities, and teaching work that I consider may have some interest. It is thus designed to be consulted by colleagues, students, institutions, and the wider public. Its structure aims to facilitate navigation and allow any eventual readers to find what may interest them most in terms of: 
+* Publications in books, chapters, articles,
+* Interviews and media presence, reflecting the public reception of my work
+* Conference talks and recorded lectures, documenting moments of exchange and debate
+* Teaching and supervision, showing my commitment to training new generations
 
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Hailitation degree in “History and Philosophy of Science” also by the University of Lisbon. 
