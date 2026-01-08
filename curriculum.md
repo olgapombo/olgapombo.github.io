@@ -53,7 +53,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1980 - 1984 – *National Counsellor for the Teaching of Philosophy* (appointed via national public contest).
 * 1979 - 1980 - *Stage Supervisor for the Teaching of Philosophy*, D. Pedro V High School, Lisbon (by nomination).
 * 1979 - 1980 – *Full Teacher of Philosophy*, D. Pedro V High School, Lisbon.  
-* 1973 - 1979 – ªAggregated Teacher of Philosophy*, D. Pedro V High School, Lisbon.
+* 1973 - 1979 – *Aggregated Teacher of Philosophy*, D. Pedro V High School, Lisbon.
 * 1970 - 1972 – *Assistant Teacher of Philosophy and History*, M. Amália Vaz de Carvalho High School, Lisbon.
 
 
