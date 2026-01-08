@@ -1,15 +1,21 @@
 
 ## Academic profile      
 
+###### This curriculum vitae is not a full academic CV (that can be found **here)**. More than a complete record of a professional career, it aims to provide a selection of the titles, research activities, and teaching work that I consider may have some interest. It is thus designed to be consulted by colleagues, students, institutions, and the wider public. Its structure aims to facilitate navigation and allow any eventual readers to find what may interest them most in terms of: 
+* [Publications](publications.md)  in books, chapters, articles,
+* [Interviews](interviews.md)  and media presence, reflecting the public reception of my work
+* [Research](research/projects.md)
+* [Conferences and talks](onlinetalks.md) and recorded lectures, documenting moments of exchange and debate
+* [Teaching](teaching_doctoral_program.md) and [Supervision](supervision.md), showing my commitment to training new generations
+* [Organization of Scientific meetings](organization_scientific_meetings.md) 
+
+  Italso includes a selection of items concerning my academic carrear such as  [Education](#Education-and-degrees),  [Appointments](#Appointments-positions-and-responsabilities) | [Academic Responsibilities](#Academic-responsibilities) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions), [Languages](#Languages)
+
+  
 ###### | [Academic Profile](#Academic-profile)  | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Academic Responsibilities](#Academic-responsibilities) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Publications](publications.md) | [Journal editor](Journal_editor.md) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research/projects.md) | [Organization of Scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Scholar Reception](#Scholar-and-media-reception) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages) || Full CV ||
 
 
 
-This curriculum vitae is not a full academic CV (that can be found **here)**. More than a complete record of a professional career, it aims to provide a selection of the titles, research activities, and teaching work that I consider may have some interest. It is thus designed to be consulted by colleagues, students, institutions, and the wider public. Its structure aims to facilitate navigation and allow any eventual readers to find what may interest them most in terms of: 
-* Publications in books, chapters, articles,
-* Interviews and media presence, reflecting the public reception of my work
-* Conference talks and recorded lectures, documenting moments of exchange and debate
-* Teaching and supervision, showing my commitment to training new generations
 
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Hailitation degree in “History and Philosophy of Science” also by the University of Lisbon. 
