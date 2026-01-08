@@ -5,10 +5,10 @@
 ###### It also includes a selection of other significant aspects of my  academic trajectory such as  [Education](#Education-and-degrees),  [Appointments](#Appointments-positions-and-responsabilities) | [Academic Responsibilities](#Academic-responsibilities) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Honours](#Honours-awards-and-public-distinctions) and [Languages](#Languages)
 
   
-###### | [Academic trajectory](#Academic-trajectory) | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Academic Responsibilities](#Academic-responsibilities) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Publications](publications.md) | [Journal editor](Journal_editor.md) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research/projects.md) | [Organization of Scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Scholar Reception](#Scholar-and-media-reception) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages) || Full CV ||
+###### | [Trajectory](#Trajectory) | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Academic Responsibilities](#Academic-responsibilities) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Publications](publications.md) | [Journal editor](Journal_editor.md) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research/projects.md) | [Organization of Scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Scholar Reception](#Scholar-and-media-reception) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages) || Full CV ||
 
 
-## Academic trajectory
+## Trajectory
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Hailitation degree in “History and Philosophy of Science” also by the University of Lisbon. 
 
@@ -30,7 +30,6 @@ She founded and was chief-editor of the journal “Kairos. Journal of Philosophy
 She was honoured as the [Founder of the "Cátedra Leopoldo Zea of Philosophy and Epistemology"](https://www.paginasdefilosofia.net/pesquisadora-olga-pombo-ira-fundar-catedra-sobre-filosofia-e-epistemologia-da-ciencia-na-unila/), of the "Mercosul Advanced Studies Institut" of the Federal University of Latin-American Integration (UNILA), Brazil (2011). 
 She was selected [one of the 100 women](https://www.cienciaviva.pt/mulheresnaciencia/home/index.asp?id=295&ano=2016&id_area=524) to be part of the [1st edition of the book "Women in Science"](https://www.cienciaviva.pt/mulheresnaciencia/primeira-edicao/) edited by the National Agency for the Scientific and Technological Culture - Ciencia Viva (2016). 
 She was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). She was invited to join the honour commission of the Portuguese “Reading National Plan” (PNL 2017), to be member of the Scientific Council of the “Réseau National des Maisons des Sciences de l'Homme” (Paris, 2015-2022), and to be President of the general assembly board of the [Portuguese Logic Society](https://spl.tecnico.ulisboa.pt/en/spl-english/) (2022-2025). .. 
-
 
   
 ## Education and degrees
