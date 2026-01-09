@@ -183,6 +183,24 @@ DOI: 10.1007/s10516-014-9264-5
 * [**Contexto e Educação***](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil  
 
 ## [Conferences and talks](onlinetalks.md) 
+
+### Online conferences and talks (selection)
+* [**Filosofia, Física e a Unidade da Ciência (Philosophy, Physics and the Unity of Science)**](https://www.youtube.com/watch?v=BYRnpdQxbhU), Portuguese Physics Society and Physics Department of the Universitdade do Porto, Oporto, 7 May 2005.
+* [**Epistemology of Interdisciplinarity**](https://www.youtube.com/watch?v=jLKlGGCxf_Y), Faculty of Engineering of Innovation, Lecce, Italy, 6 - 9 May 2014.
+* [**Elogio da transmissão. Mais passado para o futuro; mais futuro para o passado) (Praise of the Transmission. More Past for the Future; More Future for the Past)**](https://www.bing.com/videos/search?q=O+Elogio+Da+Transmissao+Olga+Pombo+Video+YouTube&&view=detail&mid=2F46F9C142680DDF45BC2F46F9C142680DDF45BC&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3DO%2BElogio%2BDa%2BTransmissao%2BOlga%2BPombo%2BVideo%2BYouTube%26FORM%3DVDMHRS), Forum Lisboa, 5 March 2015.
+* [**Desafios contemporaneos da cartografia dos conhecimentos no seculo XXI(Contemporary Challenges of the Cartography of Knowledge in the XXI century)**](https://www.youtube.com/watch?v=q_RK0CeQHO0), Faculty of Law, University of Lisbon, 21 e 22 May 2015.
+* [**Utopia Tecnológica  (Technological Utopia)**](https://www.youtube.com/watch?v=v0P5CvZ0T8s)(51.20), “European Utopia: the power of imagination and the imperatives of the future”, Fundação Serralves, Oporto, 6 February 2019 
+* [**O que é a Ciência e o que não é (What is Science and What is Not)**](https://ffms.pt/pt-pt/ffms-play/mes-da-ciencia-e-educacao/atitude-cientifica-o-que-e-ciencia-e-o-que-nao-e), (2.58.33), Foundation Francisco Manuel dos Santos, Universidade de Aveiro, 8 October 2019.
+* [**As Imagens com que a Ciência se Faz (Images with which Science is Made)**](https://www.youtube.com/watch?v=EOeRNNt48fY), Centro Ciência Viva of the University of Coimbra, 10 November 2020.
+* [**Que fazer Hoje com a nossa Escola de Ontem? (What to do Today with our School of Yesterday?)**](https://www.youtube.com/watch?v=TPgE23HCRkc), Universidade Federal do Pará, Brazil, 13 April 2021.
+* [**Ciencia e Arte. Afinidades Admiráveis e Diferenças Sublimes (Science and Art. Admirable Affinities and Sublime Differences)**](https://www.youtube.com/watch?v=Bq12-IleNRM&list=PLBJEkvYhpHiYVdxEBNZ3Xq5dTitATsOcw&index=13&t=229s), "FICA, International Science Festival", Oeiras, 13 October 2021.
+* [**A Escola e os Grandes Desafios da Contemporaneidade (The School and the Great Challenges of Contemporaneity)**](https://www.youtube.com/watch?v=q3TqyHFEMyg), Universidade Federal de Viçosa, Brazil, 10 February 2022.
+* [**O Lugar de Leibniz na História da Lógica (Leibniz's Place in the History of Logic)**](https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos), Sociedade Portuguesa de Lógica, Instituto Superior Técnico. Departament of Mathematics, University of Lisbon, 15 November 2022.
+* [**Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior, (Truth and Speed: Two Concepts for Thinking About the Future of Higher Education)**](https://www.engium.uminho.pt/eeum50/), Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 novembro 2025
+
+
+
+
 ## [Interviews](interviews.md) 
 ## [Research](research/projects.md)
 ## [Organization of Scientific meetings](organization_scientific_meetings.md)
