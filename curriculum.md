@@ -78,7 +78,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 ### Fellowships and research stays abroad
 
 * **PPhD and Sabbatical Fellowships**
-* 1989 – 1992 – PhD fellowship, National Institute of Scientific Research (JNIC) 
+* 1989 – 1992 – PhD fellowship, National Institute of Scientific Research (JNIC)
 * 1990–1991 – PhD research stay at the *Centre de Recherche Épistémologie Appliquée – CREA* (with Daniel Andler), University of Paris, France, (JNIC)
 * 1991–1992 – PhD research stay, *Philosophy Institute. University of Leuven* (with Herman De Dijn), Leuven, Belgium, (JNIC)
 * 2004–2005 – Sabbatical fellowship *Zentrum für Literaturforshung* (with Sigrid Weigel), Foundation for Science and Technology (FCT), Berlin, Germany.
