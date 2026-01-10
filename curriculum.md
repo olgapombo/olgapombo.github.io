@@ -78,19 +78,19 @@ She was  awarded  the Honorary membersip of the “International Association for
 ### Fellowships and research stays abroad
 
 * PhD fellowship awarded by the National Institute of Scientific Research (JNIC) (1989 – 1992).
-* PhD research stay at the Centre de Recherche Épistémologie Appliquée – CREA, University of Paris, France (1990-1991).
-* PhD research stay at Philosophy Institute, University of Leuven, Belgium (1991-1992)
+* PhD research stay at the *Centre de Recherche Épistémologie Appliquée – CREA*, Paris, France (1990-1991).
+* PhD research stay at *Philosophy Institute, University of Leuven*, Belgium (1991-1992)
 * Sabbatical fellowship awarded by the Foundation for Science and Technology (FCT), Berlin, Germany (1 November 2004-31th September 2005).
-* Research Fellow at the Philosophy Institut (invited by Manfred Walter), Hannover University, Germany (November 1989).
-* Research Fellow at Institute for Advanced Studies (invited by Marcelo Dascal), Hebrew University of Jerusalem, Israel (March - May 1995).
-* Research Fellow at Oxford University, Jesus College (invited by David Cram), Oxford, UK (March-June 1999).
-* Guest Professor at Institut für Philosophie (invited by Elisabeth Nemeth), Viena University, Austria (September-October 1999).
-* Research Fellow at Institut Wiener Kreis and Zentrum für Überfakultäre Forschung (invited by Friedrich Stadler), Vienna University, Austria (May 2000).
-* Guest Professor  at University Lille 3 (invited by Shahid Rahman), France (January 2003).
-* Research Fellow at Catholic University of Rio Grande do Sul and Caxias do Sul University, (invited by William de Siqueira Piauí), Porto Alegre, Brazil (June 2004).
-* Research Fellow at the Zentrum für Literaturforshung (invited by Sigrid Weigel), Berlin, Germany (January - July 2005).
-* Research Fellow at UERJ and PUC-Rio de Janeiro (invited by Deborah Danowsky), Brazil (November 2007).
-* Guest Professor  at Federal University of Latin-American Integration (UNILA), (invited by Carlos A. Dos Santos), Foz do Iguaçu, Brazil (December 2010 and August 2011).
+* Research Fellow at the *Philosophy Institut (invited by Manfred Walter), Hannover University*, Germany (November 1989).
+* Research Fellow at *Institute for Advanced Studies (invited by Marcelo Dascal), Hebrew University of Jerusalem*, Israel (March - May 1995).
+* Research Fellow at *Oxford University, Jesus College (invited by David Cram)*, Oxford, UK (March-June 1999).
+* Guest Professor at *Institut für Philosophie (invited by Elisabeth Nemeth), Viena University*, Austria (September-October 1999).
+* Research Fellow at *Institut Wiener Kreis and Zentrum für Überfakultäre Forschung (invited by Friedrich Stadler)*, Vienna University, Austria (May 2000).
+* Guest Professor  at *University Lille 3 (invited by Shahid Rahman)*, France (January 2003).
+* Research Fellow at *Catholic University of Rio Grande do Sul and Caxias do Sul University, (invited by William de Siqueira Piauí)*, Porto Alegre, Brazil (June 2004).
+* Research Fellow at the `*Zentrum für Literaturforshung (invited by Sigrid Weigel)*, Berlin, Germany (January - July 2005).
+* Research Fellow at *UERJ and PUC-Rio de Janeiro (invited by Deborah Danowsky)*, Brazil (November 2007).
+* Guest Professor  at *Federal University of Latin-American Integration (UNILA), (invited by Carlos A. Dos Santos)*, Foz do Iguaçu, Brazil (December 2010 and August 2011).
 * Guest Professor  at Goias Federal University (invited by Wagner Sanz), Brazil (October 2012).
 * Research Fellow at the Dipartimento di Ingegneria dell'Innovazione and Dipartimeno di Studi Umanistici, Lecce University (invited by Giovanni Scarafille), Italy (May 2014).
 * Guest Professor at “Centro studi sulla natura, l’umano e l’unità del pensiero” (invited by Luciano Boi), Accademia Vivarium novum, Roma, Italy (October – Novembre 2019).
@@ -127,42 +127,39 @@ She was  awarded  the Honorary membersip of the “International Association for
 ### Consultancy
 
 **International selection panels and committees**
-* Member of the international selection panel for the Institut Universitaire de France, selection de la promotion, Paris, 2009 and 2010.
-* Member of the international selection panel of the University Paris-Sorbonne for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2015.
-* Member of the Scientific Council of the Réseau National des Maisons des Sciences de l'Homme (Paris, 2015-2022)
-* Member of the Scientific Council of the Maisons des Sciences de l'Homme Bordeaux (2016-2022).
-* Member of the international selection panel of the Agence National de Recherche (ANR) in the call “Institut Convergences”, Paris (2016; 2017; 2019).
-* Member of the international selection panel of the University Paris-Sorbonne, for the choice of a Professor for the Chair of Philosophy of Science, Paris, 2017.
-* Member of the Scientific Committee of the Centro Studi sulla Natura, L’Umano e l’Unità del Pensiero, Accademia Vivarium Novum, Roma (2018-2019).
-* Member of the International Advisory Committee of the FCT Center for Interdisciplinary Studies of the University of Coimbra (2023-2024) and (2025-2028).
+* *Institut Universitaire de France* (selection panel for Professor promotion), Paris, 2009 and 2010.
+* *University Paris-Sorbonne* (selection panel for the Chair of Philosophy of Science), Paris, 2015.
+* *Réseau National des Maisons des Sciences de l'Homme* (scientific council), Paris, 2015-2022
+* *Maisons des Sciences de l'Homme* (scientific council), Bordeaux (2016-2022).
+* *Agence National de Recherche (ANR)* (selection panel), Paris, 2016; 2017; 2019.
+* *University Paris-Sorbonne* (selection panel for the Chair of Philosophy of Science), Paris, 2017.
+* Centro Studi sulla Natura, L’Umano e l’Unità del Pensiero* (Scientific Committee), Accademia Vivarium Novum, Roma (2018-2019).
+* *Center for Interdisciplinary Studies* (Advisory Committee), University of Coimbra (2023-2024) and (2025-2028).
 
-**European commission FP6, FP7 and horizon 2020**
-* Expert for Raising Public Awareness of Science and Technology, 2001.
-* Expert for Improving the Human Research Potential and the Socio-Economic Knowledge, 2001-2002.
-* Expert for Marie Curie Intra-European Fellowships, 2002, 2004.
-* Expert for Research Training Networks in the Economic, Social and Human Sciences (ECO-SOC), 2003, 2007.
-* Expert for Science and Society. European Science Week, 2003.
-* Expert for Marie Curie Fellowships for Early-Stage Training and Transfer of Knowledge, 2003, 2004, 2005, 2006, 2007, 2010, 2011.
-* Expert for Human Resources and Mobility Programa (ECO-SOC), 2004, 2006, 2007
-* Expert for Marie Curie International Research Staff Exchange Scheme (IRSES), 2008, 2009.
-* Expert for the Research Executive Agency (REA), FP7-PEOPLE-2010-IOF, IEF, IIF, 2010, 2011
-* Vice chair for Marie Curie Individual Fellowships (Eco-SOC), IEF- IOF- IIF, 2012.
-* Independent Observer for FP7-PEOPLE, IRSES, 2013
-* Expert for H2020- Marie Skłodowska Curie Action-IF-2014ST- ECO-SOC, 2014, 2015.
-* Expert for H2020 - Science with and for Society (SEAC) 2015.
-* Expert for H2020 FET-OPEN - Novel Ideas for radically new technologies - research projects, 2014; 2016; 2017.
-* Expert for Horizon-EIC-2021-PATHFINDEROPEN-01, 2021.
+**European commission FP6, FP7 and horizon 2020 Expert**
+* Raising Public Awareness of Science and Technology, 2001.
+* Improving the Human Research Potential and the Socio-Economic Knowledge, 2001-2002.
+* Marie Curie Intra-European Fellowships, 2002, 2004.
+* Research Training Networks in the Economic, Social and Human Sciences (ECO-SOC), 2003, 2007.
+* Science and Society. European Science Week, 2003.
+* Marie Curie Fellowships for Early-Stage Training and Transfer of Knowledge, 2003-2007, 2010-2011.
+* Human Resources and Mobility Programa (ECO-SOC), 2004, 2006, 2007
+* Marie Curie International Research Staff Exchange Scheme (IRSES), 2008, 2009.
+* Research Executive Agency (REA), FP7-PEOPLE-2010-IOF, IEF, IIF, 2010, 2011
+* Vice chair, Marie Curie Individual Fellowships (Eco-SOC), IEF- IOF- IIF, 2012.
+* Independent Observer, FP7-PEOPLE, IRSES, 2013
+* H2020- Marie Skłodowska Curie Action-IF-2014ST- ECO-SOC, 2014, 2015.
+* H2020 - Science with and for Society (SEAC) 2015.
+* H2020 - FET-OPEN - Novel Ideas for radically new technologies research projects, 2014; 2016; 2017.
+* Horizon - EIC-2021-PATHFINDEROPEN-01, 2021.
 
-**National selection panels**
-* Member of the selection panel for the prize “Tradução Científica e Técnica em Língua Portuguesa” (2003, 2004-2005)
-*  the selection panel for the “Olimpíadas Nacionais de Filosofia” organized by the Portuguese Society of Philosophy (2012-2013)
-* Member of the scientitic board of the "Olimpíadas Nacionais de Filosofia", organized by PROSOFOS (Associação para a Promoção da Filosofia), 7, 8 March 2014, Escola Secundária de Paços de Ferreira. 
-* Member of the selection panel for the Philosophical Essay Prize (14th edition) organized by the Portuguese Society of Philosophy (2021)
-* Member of the selection panel for CFCUL post-doc grants in the scientific area of “Science and Art” (March 2015)
-* Member of the selection panel for CFCUL post-doc grants in the scientific area of “Unity of Science and Interdisciplinarity” (April 2015)
-* Member of the selection panel for CFCUL grants on “Science and Technology Management”, awarded in 2014 (February) and 2015 (March, July and November)
-* Member of the selection panel for CFCUL post-doc grants in the scientific area of “Philosophy of Natural Sciences” (January 2016)
-* Member of the selection panel for PhD grants of the Doctoral Program on Philosophy of Science, Technology, Art and Society (FCTAS ), awarded in 2014, 2015, 2016 and 2017.
+**National selection panels** (selection)
+* *Premio de Tradução Científica e Técnica em Língua Portuguesa* (2003, 2004-2005)
+* *Olimpíadas Nacionais de Filosofia*, organized by the Portuguese Society of Philosophy (2012-2013)
+* *Olimpíadas Nacionais de Filosofia*, organized by Associação para a Promoção da Filosofia (2014). 
+* *Philosophical Essay Prize* (14th edition)*, organized by the Portuguese Society of Philosophy (2021)
+* *Post-doc grants CFCUL panels*, University of Lisbon (2015, 2016)
+* *PhD grants panel awarded by FCTAS* - Doctoral Program "Philosophy of Science, Technology, Art and Society" (2014-2017).
 
 
 ### [Publications](publications.md) 
