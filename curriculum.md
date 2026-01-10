@@ -1,5 +1,5 @@
 
-## Academic profile      
+### Academic profile      
 
 ###### This academic profile is not a full academic curriculum vitae (which can be found **here**). Rather than an exhaustive record of a professional career, it aims to provide a selection of the most significant aspects of my academic trajectory, both in terms of publications, research, teaching, conferences, talks, lectures as well as organization of meetings and other initiatives I have helped to create and develop. Behond including a selection of the most significant aspects of my academic life, it also provides online access to almost all of my articles, books, and other writtings, as well as interviews, media appearances, and other forms of academic and public reception of my work.
 
@@ -7,7 +7,7 @@
 
 
 
-### Trajectory
+#### Trajectory
 
 Olga Pombo got a licence in “Philosophy” by the University of Lisbon, a Master in “Modern Philosophy” by the Nova University of Lisbon, a PHD in “History and Philosophy of Education” by the University of Lisbon and an Habilitation Degree in “History and Philosophy of Science” also by the University of Lisbon. 
 
@@ -32,7 +32,7 @@ She was selected [one of the 100 women](https://www.cienciaviva.pt/mulheresnacie
 She was  awarded  the Honorary membersip of the “International Association for the Study of Controversies” (AISC). She was invited to join the honour commission of the Portuguese “Reading National Plan” (PNL 2017), to be member of the Scientific Council of the “Réseau National des Maisons des Sciences de l'Homme” (Paris, 2015-2022), and to be President of the general assembly board of the [Portuguese Logic Society](https://spl.tecnico.ulisboa.pt/en/spl-english/) (2022-2025).  
 
   
-### Education and degrees
+#### Education and degrees
 
 * 2009 – *Habilitation (Aggregation) in "History and Philosophy of Science"*, University of Lisbon with the public lesson “*Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century*).
 * 1998 - *PhD in Philosophy of Education*, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “*Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge*).  
@@ -44,7 +44,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
 
-### Appointments, positions and responsabilities 
+#### Appointments, positions and responsabilities 
 
 * 2017 - ongoing - *Professor with Habilitation* (retitred with [collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 * 2009 – 2016 - *Professor with Habilitation*, “Department of History and Philosophy of Sciences”, FCUL (since the 9th June 2009 up until retirement, the 1st January 2017). 
@@ -197,8 +197,6 @@ DOI: 10.1007/s10516-014-9264-5
 * [**A Escola e os Grandes Desafios da Contemporaneidade (The School and the Great Challenges of Contemporaneity)**](https://www.youtube.com/watch?v=q3TqyHFEMyg), Universidade Federal de Viçosa, Brazil, 10 February 2022.
 * [**O Lugar de Leibniz na História da Lógica (Leibniz's Place in the History of Logic)**](https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos), Sociedade Portuguesa de Lógica, Instituto Superior Técnico. Departament of Mathematics, University of Lisbon, 15 November 2022.
 * [**Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior, (Truth and Speed: Two Concepts for Thinking About the Future of Higher Education)**](https://www.engium.uminho.pt/eeum50/), Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 novembro 2025
-
-#### Other conferences [here](conferences.md)`
 
 #### Other [Conferences and talks](onlinetalks.md)
 
