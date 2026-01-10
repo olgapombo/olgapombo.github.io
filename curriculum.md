@@ -43,7 +43,6 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1971 – *Licence degress in "Philosophy"*, Faculty of Letters, University of Lisbon.
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
-
 ### Appointments, positions and responsabilities 
 
 * 2017 - ongoing - *Professor with Habilitation* (retitred with [collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
@@ -57,7 +56,6 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1979 - 1980 – *Full Teacher of Philosophy*, D. Pedro V High School, Lisbon.  
 * 1973 - 1979 – *Aggregated Teacher of Philosophy*, D. Pedro V High School, Lisbon.
 * 1970 - 1972 – *Assistant Teacher of Philosophy and History*, M. Amália Vaz de Carvalho High School, Lisbon.
-
 
 ### Academic responsibilities 
 
@@ -77,13 +75,13 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 ### Fellowships and research stays abroad
 
-* **PPhD and Sabbatical Fellowships**
+**PPhD and Sabbatical Fellowships**
 * 1989 – 1992 – PhD fellowship, National Institute of Scientific Research (JNIC)
 * 1990–1991 – PhD research stay at the *Centre de Recherche Épistémologie Appliquée – CREA* (with Daniel Andler), University of Paris, France, (JNIC)
 * 1991–1992 – PhD research stay, *Philosophy Institute. University of Leuven* (with Herman De Dijn), Leuven, Belgium, (JNIC)
 * 2004–2005 – Sabbatical fellowship *Zentrum für Literaturforshung* (with Sigrid Weigel), Foundation for Science and Technology (FCT), Berlin, Germany.
 
-* **Long-Term Fellowships**
+**Long-Term Fellowships**
 * 1989 - Research Fellow, *Philosophy Institut Hannover University* (invited by Manfred Walter), Germany (November)
 * 1995 - Research Fellow, *Institute for Advanced Studies. Hebrew University of Jerusalem*, (invited by Marcelo Dascal), Israel (March - May)
 * 1999 - Research Fellow at *Jesus College, Oxford University* (invited by David Cram), UK (March-June)
@@ -97,7 +95,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 2014 - Research Fellow, *Dipartimento di Ingegneria dell'Innovazione and Dipartimeno di Studi Umanistici, Lecce University* (invited by Giovanni Scarafille), Italy (May)
 * 2019 - Guest Professor, *Centro Studi sulla Natura, l’Umano e l’Unità del Pensiero, Accademia Vivarium novum*, (invited by Luciano Boi), Roma, Italy (October – Novembre)
 
-* **Short-Term Fellowships**
+**Short-Term Fellowships**
 * 1997 - *Institut Universitaire Kurt Bosch* (funded by Calouste Gulbenkian Foundation), Suisse, (September)
 * 2000 - *Edinburg University* (funded by CFCUL), UK (September)
 * 2000 - *Zentrum für Überfakultäre Forschung, Vienna University* (invited by Elisabeth Nemeth) Austria (May)
