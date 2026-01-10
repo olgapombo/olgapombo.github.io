@@ -198,7 +198,7 @@ DOI: 10.1007/s10516-014-9264-5
 * [**O Lugar de Leibniz na História da Lógica (Leibniz's Place in the History of Logic)**](https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos), Sociedade Portuguesa de Lógica, Instituto Superior Técnico. Departament of Mathematics, University of Lisbon, 15 November 2022.
 * [**Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior, (Truth and Speed: Two Concepts for Thinking About the Future of Higher Education)**](https://www.engium.uminho.pt/eeum50/), Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 novembro 2025
 
-#### Other conferences 
+#### Other conferences [here](conferences.md)`
 
 #### Other [Conferences and talks](onlinetalks.md)
 
