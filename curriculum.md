@@ -1,5 +1,5 @@
 
-### Academic profile      
+## Academic profile      
 
 ###### This academic profile is not a full academic curriculum vitae (which can be found **here**). Rather than an exhaustive record of a professional career, it aims to provide a selection of the most significant aspects of my academic trajectory, both in terms of publications, research, teaching, conferences, talks, lectures as well as organization of meetings and other initiatives I have helped to create and develop. Behond including a selection of the most significant aspects of my academic life, it also provides online access to almost all of my articles, books, and other writtings, as well as interviews, media appearances, and other forms of academic and public reception of my work.
 
