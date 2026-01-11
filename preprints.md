@@ -28,11 +28,11 @@
 
 * Pombo, Olga (2006), [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm), image platform aimig  to collect and display side by side (pictorial) representations of reading, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
 
-* Pombo, Olga (2003), [**Lugares da Escola** (Places of School)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) 
+* Pombo, Olga (2003), [**Lugares da Escola** (Places of School)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) The aim is to give meaning to the school’s spaces in their architectural configuration, in their internal distribution, to question the sense of their transformations, to look for isomorphisms between material structures and ideas, between topological distributions and mental representations, between functional determinations and conceptual regimes. To uncover the possible continuity amid the variety of forms - a truth that runs across them, a constitutive symbol of the very idea of School.
 
 
 ### Webpages, videos and CDRoms
-* Pombo, Olga (coord) (2011), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”), organized and curated toguether with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
+* Pombo, Olga (coord) (2011), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”), exhibition organized and curated with the collaboration of Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
 The video is divided in 3 parts:
 
   1.	[**Corpo PAISAGEM. Body Landscape**](http://Lisboncisa.fc.ul.pt/videos/v33.htm) 
