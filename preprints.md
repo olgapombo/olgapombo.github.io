@@ -31,8 +31,8 @@
 * Pombo, Olga (2003), [**Lugares da Escola** (Places of School)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) 
 
 
-### Webpages and videos 
-* Pombo, Olga (coord), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, organized and curated toguether with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
+### Webpages, videos and CDRoms
+* Pombo, Olga (coord) (2011), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, organized and curated toguether with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
 The video is divided in 3 parts:
 
   1.	[**Corpo PAISAGEM. Body Landscape**](http://Lisboncisa.fc.ul.pt/videos/v33.htm) 
@@ -44,14 +44,16 @@ The video is divided in 3 parts:
 
 * Pombo, Olga (1999), [**Recordar Agostinho da Silva: 10 anos Depois**(Remembering Agostinho da Silva: Ten Years Later)](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  
 
-* Pombo, Olga (1989), [**Biobibliografia de Jean-Jacques Rousseau**(Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) - Webpage on Rousseau's biobibliography (1979)
+* Pombo, Olga (1989), [**Biobibliografia de Jean-Jacques Rousseau**(Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) (Webpage on Rousseau's biobibliography made upon a selection of quotations (1979)
 
+* Pombo, Olga (2006) **Enciclopédia e Hipertexto**  (CDRom produced in the context of the research project Enciclopédia e Hipertexto (webmaster- Ricardo Saraiva)
 
+  
 ### Curated student works  
 
 ###### Selection of works, most of them produced by undergraduate students in the courses “History and Philosophy of Education” and “Thematic Seminar,” which I taught at the Faculty of Sciences of the University of Lisbon between 1992–2006 and 1999–2004. The selection, guidance, supervision, and revision, as well as the contextualization and editing of the works signed by the students (each duly identified), were under my responsibility*.
 
-* [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), Wild Children, 2004
+* [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), 2004
   
 * [**Momentos da Ideia de Escola** (Moments of the Idea of Scholl)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/momentos/index.htm)
   
