@@ -16,9 +16,9 @@
   2. [**Para uma História da Ideia de Enciclopedia** (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
   3. [**Enciclopedia filosófica** (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
  
-* Pombo, Olga (2004), [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) 
+* Pombo, Olga (2004), [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm), historical overview of the main moments, authors and works since the design of the ideal city (16th century) to the imaginary voyage in space (17th century) or in time (18th century) and the prospective optimistic fiction of the future (19th century).  
 
-* Pombo, Olga (ed) (2002) [**Plato's Protagoras**](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm), hypertext on Plato’s "Protagoras", translated and commented.
+* Pombo, Olga (ed) (2002) [**Plato's Protagoras**](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm), hypertext on Plato’s "Protagoras", translated and commented. From the main textual *corpus* and the side critical comments, a set of links is established that refer to a corresponding set of contextual reading elements considered important, useful, or merely suggestive.
 
 * Pombo, Olga (1995) [**Convite à Leitura de Rousseau** (Invitation to read Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm),  hypertext on the diversified dimensions of Rousseau's life and works.
 
