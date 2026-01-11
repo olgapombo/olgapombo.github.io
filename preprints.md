@@ -46,7 +46,7 @@ This 3rd part covers the end of the 20th century and the 21st century. In this s
 
 * Pombo, Olga (1989), [**Recordar Agostinho da Silva: 10 anos Depois** (Remembering Agostinho da Silva: Ten Years Later)](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm), web page honouring Agostinho da Silva, during a commemorative session of his visit, at my invitation, to the Faculty of Sciences of Lisbon, 10 years later. 
 
-* Pombo, Olga (1989), [**Biobibliografia de Jean-Jacques Rousseau**(Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf), webpage on Rousseau's biobibliography made upon a selection of quotations.
+* Pombo, Olga (1989), [**Biobibliografia de Jean-Jacques Rousseau** (Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf), webpage on Rousseau's biobibliography made upon a selection of quotations.
 
 * Pombo, Olga (2006) [**Enciclopédia e Hipertexto**](https://arquivo.pt/wayback/20140930091757/http:/www.educ.fc.ul.pt/hyper/), CDRom produced in the context of the research project [Enciclopédia e Hipertexto](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/) (webmaster- Ricardo Saraiva)
 
