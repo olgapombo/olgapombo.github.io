@@ -24,7 +24,7 @@
 
 
 ### Image platforms and archives
-* Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/), image platform and archive intending to question the philosophical, scientific and artistic nature of image. Created in 2008 in the context of the FCT research project “Image in science and Art” that I proposed and coordinated from 2007 to 2012 (see [**here**](https://www.flickr.com/people/lcisa/) what still remains openly available, after the project’s website was hidden and archived)
+* Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/), image platform and archive intending to question the philosophical, scientific and artistic nature of image. Created in 2008 in the context of the FCT [research project “Image in Science and Art”](https://arquivo.pt/wayback/20140926170450/http:/ica.fc.ul.pt/) that I proposed and coordinated from 2007 to 2012 (see [**here**](https://www.flickr.com/people/lcisa/) what still remains openly available, after the project’s website was [hidden and privately archived](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/))
 
 * Pombo, Olga (2006), [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm), image platform aimig  to collect and display side by side (pictorial) representations of reading, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
 
