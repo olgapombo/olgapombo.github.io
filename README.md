@@ -11,5 +11,5 @@
 * [Organization scientific meetings](organization_scientific_meetings.md)
 * [Teaching / Doctoral Program FCTAS](teaching_doctoral_program.md)
 * [Supervision](supervision.md)
-* [Online works and projects](preprints.md)
+* [Online works](preprints.md)
 * [Each life](each_life.md) 
