@@ -11,7 +11,7 @@
 
 ### Hypertexts
 
-* Pombo, Olga (2009), [**A Ideia de Enciclopedia (The Idea of Encyclopaedia)**](https://arquivo.pt/wayback/20140930091757/http:/www.educ.fc.ul.pt/hyper/), hypertext on the most significant historical developments of the encyclopaedic projects and the specificity of philosophical encyclopaedia. The hypertxt is divided in three parts:
+* Pombo, Olga (2009), [**A Ideia de Enciclopedia (The Idea of Encyclopaedia)**](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm), hypertext on the most significant historical developments of the encyclopaedic projects and the specificity of philosophical encyclopaedia. The hypertxt is divided in three parts:
   1. [**O Projecto Enciclopedista. Palavra, género e modalidades** (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
   2. [**Para uma História da Ideia de Enciclopedia** (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
   3. [**Enciclopedia filosófica** (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
