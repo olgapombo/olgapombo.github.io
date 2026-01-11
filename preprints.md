@@ -24,15 +24,15 @@
 
 
 ### Image platforms and archives
-* Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) (Image platform and archive intending to question the philosophical, scientific and artistic nature of image. Created in 2008 in the context of the FCT research project “Image in science and Art” that I proposed and coordinated from 2007 to 2012. (Link to what still remains openly available from the project, after the project’s website was hidden and archived …
+* Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) (Image platform and archive intending to question the philosophical, scientific and artistic nature of image. Created in 2008 in the context of the FCT research project “Image in science and Art” that I proposed and coordinated from 2007 to 2012 (see [**here**](https://www.flickr.com/people/lcisa/) what still remains openly available, after the project’s website was hidden and archived …)
 
-* Pombo, Olga (2006), [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
+* Pombo, Olga (2006), [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  (image platform aimig  to collect and display side by side (pictorial) representations of reading, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes).
 
-* Pombo, Olga (2003), [**Lugares da Escola** (Places of School)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) (2003)
+* Pombo, Olga (2003), [**Lugares da Escola** (Places of School)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) 
 
 
 ### Webpages and videos 
-* Pombo, Olga (coord), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, put forward with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
+* Pombo, Olga (coord), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, organized and curated toguether with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
 The video is divided in 3 parts:
 
   1.	[**Corpo PAISAGEM. Body Landscape**](http://Lisboncisa.fc.ul.pt/videos/v33.htm) 
