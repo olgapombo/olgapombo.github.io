@@ -44,7 +44,7 @@ This 3rd part covers the end of the 20th century and the 21st century. In this s
 
 * Pombo, Olga (2006), [**Fernando Gil. Filosofo do conhecimento**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
 
-* Pombo, Olga (1999), [**Recordar Agostinho da Silva: 10 anos Depois** (Remembering Agostinho da Silva: Ten Years Later)](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  
+* Pombo, Olga (1989), [**Recordar Agostinho da Silva: 10 anos Depois** (Remembering Agostinho da Silva: Ten Years Later)](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm), web page honouring Agostinho da Silva, during a commemorative session of his visit, at my invitation, to the Faculty of Sciences of Lisbon, 10 years later. 
 
 * Pombo, Olga (1989), [**Biobibliografia de Jean-Jacques Rousseau**(Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf), webpage on Rousseau's biobibliography made upon a selection of quotations.
 
