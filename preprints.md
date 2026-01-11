@@ -11,20 +11,20 @@
 
 ### Hypertexts
 
-* Pombo, Olga (2009), **A Ideia de Enciclopedia (The Idea of Encyclopaedia)** - Hypertext on the encyclopaedic project, its most significant historical developments and the specificity of philosophical encyclopaedia.
+* Pombo, Olga (2009), **A Ideia de Enciclopedia (The Idea of Encyclopaedia)** - (hypertext on the encyclopaedic project, its most significant historical developments and the specificity of philosophical encyclopaedia). The hypertxt is divided in three parts:
   1. [**O Projecto Enciclopedista. Palavra, género e modalidades** (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
   2. [**Para uma História da Ideia de Enciclopedia** (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
   3. [**Enciclopedia filosófica** (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
  
 * Pombo, Olga (2004), [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
 
-* Pombo, Olga (ed) (2002) [**Plato's Protagoras**](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm) - Hypertext on Plato’s "Protagoras", translated and commented.
+* Pombo, Olga (ed) (2002) [**Plato's Protagoras**](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm) (Hypertext on Plato’s "Protagoras", translated and commented).
 
-* Pombo, Olga (1995) [**Convite à Leitura de Rousseau**(Invitation to read Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm) - Hypertext on Rousseau
+* Pombo, Olga (1995) [**Convite à Leitura de Rousseau** (Invitation to read Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm) - Hypertext on the diversified dimensions of Rousseau's life and works)
 
 
 ### Image platforms and archives
-* Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) - Image platform and archive intending to question the philosophical, scientific and artistic nature of image.
+* Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) (Image platform and archive intending to question the philosophical, scientific and artistic nature of image. Created in 2008 in the context of the FCT research project “Image in science and Art” that I proposed and coordinated from 2007 to 2012. (Link to what still remains openly available from the project, after the project’s website was hidden and archived …
 
 * Pombo, Olga (2006), [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  The idea is to collect and place (pictorial) representations of reading side by side, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
 
