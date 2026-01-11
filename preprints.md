@@ -11,7 +11,7 @@
 
 ### Hypertexts
 
-* Pombo, Olga (2009), **A Ideia de Enciclopedia (The Idea of Encyclopaedia)** - (hypertext on the encyclopaedic project, its most significant historical developments and the specificity of philosophical encyclopaedia). The hypertxt is divided in three parts:
+* Pombo, Olga (2009), [**A Ideia de Enciclopedia (The Idea of Encyclopaedia)**](https://arquivo.pt/wayback/20140930091757/http:/www.educ.fc.ul.pt/hyper/) - (hypertext on the encyclopaedic project, its most significant historical developments and the specificity of philosophical encyclopaedia). The hypertxt is divided in three parts:
   1. [**O Projecto Enciclopedista. Palavra, género e modalidades** (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
   2. [**Para uma História da Ideia de Enciclopedia** (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
   3. [**Enciclopedia filosófica** (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
@@ -46,7 +46,7 @@ The video is divided in 3 parts:
 
 * Pombo, Olga (1989), [**Biobibliografia de Jean-Jacques Rousseau**(Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) (Webpage on Rousseau's biobibliography made upon a selection of quotations (1979)
 
-* Pombo, Olga (2006) **Enciclopédia e Hipertexto**  (CDRom produced in the context of the research project Enciclopédia e Hipertexto (webmaster- Ricardo Saraiva)
+* Pombo, Olga (2006) **Enciclopédia e Hipertexto**  (CDRom produced in the context of the research project [Enciclopédia e Hipertexto](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/) (webmaster- Ricardo Saraiva)
 
   
 ### Curated student works  
