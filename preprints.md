@@ -11,28 +11,28 @@
 
 ### Hypertexts
 
-* Pombo, Olga (2009), [**A Ideia de Enciclopedia (The Idea of Encyclopaedia)**](https://arquivo.pt/wayback/20140930091757/http:/www.educ.fc.ul.pt/hyper/) (hypertext on the most significant historical developments of the encyclopaedic projects and the specificity of philosophical encyclopaedia). The hypertxt is divided in three parts:
+* Pombo, Olga (2009), [**A Ideia de Enciclopedia (The Idea of Encyclopaedia)**](https://arquivo.pt/wayback/20140930091757/http:/www.educ.fc.ul.pt/hyper/), hypertext on the most significant historical developments of the encyclopaedic projects and the specificity of philosophical encyclopaedia. The hypertxt is divided in three parts:
   1. [**O Projecto Enciclopedista. Palavra, género e modalidades** (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
   2. [**Para uma História da Ideia de Enciclopedia** (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
   3. [**Enciclopedia filosófica** (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
  
-* Pombo, Olga (2004), [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) (2004)
+* Pombo, Olga (2004), [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm) 
 
-* Pombo, Olga (ed) (2002) [**Plato's Protagoras**](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm) (Hypertext on Plato’s "Protagoras", translated and commented).
+* Pombo, Olga (ed) (2002) [**Plato's Protagoras**](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm), hypertext on Plato’s "Protagoras", translated and commented.
 
-* Pombo, Olga (1995) [**Convite à Leitura de Rousseau** (Invitation to read Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm) - Hypertext on the diversified dimensions of Rousseau's life and works)
+* Pombo, Olga (1995) [**Convite à Leitura de Rousseau** (Invitation to read Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm),  hypertext on the diversified dimensions of Rousseau's life and works.
 
 
 ### Image platforms and archives
-* Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/) (Image platform and archive intending to question the philosophical, scientific and artistic nature of image. Created in 2008 in the context of the FCT research project “Image in science and Art” that I proposed and coordinated from 2007 to 2012 (see [**here**](https://www.flickr.com/people/lcisa/) what still remains openly available, after the project’s website was hidden and archived …)
+* Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/), image platform and archive intending to question the philosophical, scientific and artistic nature of image. Created in 2008 in the context of the FCT research project “Image in science and Art” that I proposed and coordinated from 2007 to 2012, see [**here**](https://www.flickr.com/people/lcisa/) what still remains openly available, after the project’s website was hidden and archived …
 
-* Pombo, Olga (2006), [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm)  (image platform aimig  to collect and display side by side (pictorial) representations of reading, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes).
+* Pombo, Olga (2006), [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm), image platform aimig  to collect and display side by side (pictorial) representations of reading, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
 
 * Pombo, Olga (2003), [**Lugares da Escola** (Places of School)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/lugares/index.html) 
 
 
 ### Webpages, videos and CDRoms
-* Pombo, Olga (coord) (2011), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”, organized and curated toguether with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
+* Pombo, Olga (coord) (2011), **corpoIMAGEM**, video of the exhibition ‘CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art”), organized and curated toguether with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011. 
 The video is divided in 3 parts:
 
   1.	[**Corpo PAISAGEM. Body Landscape**](http://Lisboncisa.fc.ul.pt/videos/v33.htm) 
@@ -44,9 +44,9 @@ The video is divided in 3 parts:
 
 * Pombo, Olga (1999), [**Recordar Agostinho da Silva: 10 anos Depois**(Remembering Agostinho da Silva: Ten Years Later)](http://webpages.fc.ul.pt/~ommartins/agsilva/apresentacao.htm)  
 
-* Pombo, Olga (1989), [**Biobibliografia de Jean-Jacques Rousseau**(Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf) (Webpage on Rousseau's biobibliography made upon a selection of quotations (1979)
+* Pombo, Olga (1989), [**Biobibliografia de Jean-Jacques Rousseau**(Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf),webpage on Rousseau's biobibliography made upon a selection of quotations.
 
-* Pombo, Olga (2006) [**Enciclopédia e Hipertexto**](https://arquivo.pt/wayback/20140930091757/http:/www.educ.fc.ul.pt/hyper/)  (CDRom produced in the context of the research project [Enciclopédia e Hipertexto](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/) (webmaster- Ricardo Saraiva)
+* Pombo, Olga (2006) [**Enciclopédia e Hipertexto**](https://arquivo.pt/wayback/20140930091757/http:/www.educ.fc.ul.pt/hyper/), CDRom produced in the context of the research project [Enciclopédia e Hipertexto](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/) (webmaster- Ricardo Saraiva)
 
   
 ### Curated student works  
