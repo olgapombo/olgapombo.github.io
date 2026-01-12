@@ -3,7 +3,7 @@
 
 ### Hypertexts
 
-* Pombo, Olga (2009), [**A Ideia de Enciclopedia (The Idea of Encyclopaedia)**](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm), hypertext on the most significant historical developments of the encyclopaedic projects and the specificity of philosophical encyclopaedia. The hypertxt is divided in three parts:
+* Pombo, Olga (2009), [**A Ideia de Enciclopedia** (The Idea of Encyclopaedia)](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm), hypertext on the most significant historical developments of the encyclopaedic projects and the specificity of philosophical encyclopaedia. The hypertxt is divided in three parts:
   1. [**O Projecto Enciclopedista. Palavra, género e modalidades** (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
   2. [**Para uma História da Ideia de Enciclopedia** (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
   3. [**Enciclopedia filosófica** (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
@@ -24,14 +24,15 @@
 
 
 ### Webpages, videos and CDRoms
+
 * Pombo, Olga (coord) (2011), **corpoIMAGEM**, video of the exhibition [**CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art**](https://www.pavconhecimento.pt/243/), organized and curated with the collaboration of Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia Marco), held at the Pavilhão do Conhecimento - Ciência Viva, Lisboa, 2 February-30 March 2011 (see the [**catalogue of the exhibition**](https://www.pavconhecimento.pt/media/media/754_roteiro-corpoimagem.pdf) and also [here](https://www.researchgate.net/publication/303053499_Roteiro_da_exposicao_corpoIMAGEM_Representacoes_do_Corpo_na_Ciencia_e_na_Arte)).
 ###### Through images, video, and original music, the exhibition brought together a series of images of the human body from the past 150 years and was based on the study of the collection of anatomical drawings and scientific photography from the Museum of Medicine at the Faculty of Medicine of the University of Lisbon, in parallel with the collection of old drawings from the Faculty of Fine Arts at the University of Lisbon ([**exhibition’s press notice**](https://www.pavconhecimento.pt/857/pavilhao-do-conhecimento-ciencia-viva-recebe-a-exposicao-corpo-imagem)). 
 The video is divided in 3 parts:
 
-  1.	[**Corpo PAISAGEM. Body Landscape**](http://Lisboncisa.fc.ul.pt/videos/v33.htm) This 1st part covers the 19th century and the first decades of the 20th century. It focused on artistic, scientific, and anatomical drawing, the dominant technique in an era when the anatomist and the artist had only charcoal and pencil as their tools for observation
-  2.	[**Corpo FRAGMENTO. Body Fragment**](http://Lisboncisa.fc.ul.pt/videos/v33b.htm)
+  >  1.	[**Corpo PAISAGEM. Body Landscape**](http://Lisboncisa.fc.ul.pt/videos/v33.htm) This 1st part covers the 19th century and the first decades of the 20th century. It focused on artistic, scientific, and anatomical drawing, the dominant technique in an era when the anatomist and the artist had only charcoal and pencil as their tools for observation
+   > 2.	[**Corpo FRAGMENTO. Body Fragment**](http://Lisboncisa.fc.ul.pt/videos/v33b.htm)
 This 2nd part relates to the late 19th and 20th centuries and was marked by photography and X-rays, which came to revolutionize medical knowledge and the pictorial representation of the body. 
-  4.	[**Corpo ALGORITMO. Body Algorithm**](http://Lisboncisa.fc.ul.pt/videos/v33c.htm) 
+   > 3.	[**Corpo ALGORITMO. Body Algorithm**](http://Lisboncisa.fc.ul.pt/videos/v33c.htm) 
 This 3rd part covers the end of the 20th century and the 21st century. In this space, visitors could observe computer-generated images of the body created from numerical data collected through sophisticated imaging techniques, such as 3D ultrasound or functional nuclear magnetic resonance. 
 
 * Pombo, Olga (2006), [**Fernando Gil. Filosofo do conhecimento**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
@@ -44,6 +45,7 @@ This 3rd part covers the end of the 20th century and the 21st century. In this s
 
   
 ### Curated student works  
+
 ###### Selection of hypertextual works, most of them produced by undergraduate students in the courses “History and Philosophy of Education” and “Thematic Seminar,” which I taught at the Faculty of Sciences of the University of Lisbon between 1992–2006 and 1999–2004. The selection, guidance, supervision, and revision, as well as the contextualization and editing of the works signed by the students (each duly identified), were done under my responsibility. The works were collected and made available in the [Work in Progress](https://webpages.ciencias.ulisboa.pt/~ommartins/workinprogress.htm) sec tion of the [Personal Website](http://webpages.fc.ul.pt/~ommartins/) that I kept active until 2017, while a Professor at the Faculty of Sciences of the University of Lisbon.
 
 * [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), 2004. The case of a Isabel, a girl who lived in a chicken coop for the first 8 years of her life, discovered in 1980, in Coimbra region, is also presented.
