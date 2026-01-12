@@ -29,10 +29,10 @@
 ###### Through images, video, and original music, the exhibition brought together a series of images of the human body from the past 150 years and was based on the study of the collection of anatomical drawings and scientific photography from the Museum of Medicine at the Faculty of Medicine of the University of Lisbon, in parallel with the collection of old drawings from the Faculty of Fine Arts at the University of Lisbon ([**exhibition’s press notice**](https://www.pavconhecimento.pt/857/pavilhao-do-conhecimento-ciencia-viva-recebe-a-exposicao-corpo-imagem)). 
 The video is divided in 3 parts:
 
-    1.	[**Corpo PAISAGEM. Body Landscape**](http://Lisboncisa.fc.ul.pt/videos/v33.htm) This 1st part covers the 19th century and the first decades of the 20th century. It focused on artistic, scientific, and anatomical drawing, the dominant technique in an era when the anatomist and the artist had only charcoal and pencil as their tools for observation
-    2.	[**Corpo FRAGMENTO. Body Fragment**](http://Lisboncisa.fc.ul.pt/videos/v33b.htm)
+  1.	[**Corpo PAISAGEM. Body Landscape**](http://Lisboncisa.fc.ul.pt/videos/v33.htm) This 1st part covers the 19th century and the first decades of the 20th century. It focused on artistic, scientific, and anatomical drawing, the dominant technique in an era when the anatomist and the artist had only charcoal and pencil as their tools for observation
+  2.	[**Corpo FRAGMENTO. Body Fragment**](http://Lisboncisa.fc.ul.pt/videos/v33b.htm)
 This 2nd part relates to the late 19th and 20th centuries and was marked by photography and X-rays, which came to revolutionize medical knowledge and the pictorial representation of the body. 
-    3.	[**Corpo ALGORITMO. Body Algorithm**](http://Lisboncisa.fc.ul.pt/videos/v33c.htm) 
+  3.	[**Corpo ALGORITMO. Body Algorithm**](http://Lisboncisa.fc.ul.pt/videos/v33c.htm) 
 This 3rd part covers the end of the 20th century and the 21st century. In this space, visitors could observe computer-generated images of the body created from numerical data collected through sophisticated imaging techniques, such as 3D ultrasound or functional nuclear magnetic resonance. 
 
 * Pombo, Olga (2006), [**Fernando Gil. Filosofo do conhecimento**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**)
