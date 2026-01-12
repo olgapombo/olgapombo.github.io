@@ -1,14 +1,6 @@
 
 ## Online works  
 
-
-### Web presentations
-
-* Pombo, Olga (2013), [**Jangada de Pedra**](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/), power-point on some episodes of the Portuguese History (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) with text transcription) 
-
-* Pombo, Olga (2005), [**Lugares da Filosofia**](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm)  
-
-
 ### Hypertexts
 
 * Pombo, Olga (2009), [**A Ideia de Enciclopedia (The Idea of Encyclopaedia)**](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm), hypertext on the most significant historical developments of the encyclopaedic projects and the specificity of philosophical encyclopaedia. The hypertxt is divided in three parts:
@@ -22,8 +14,8 @@
 
 * Pombo, Olga (1995) [**Convite à Leitura de Rousseau** (Invitation to read Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/conviteleitura.htm),  hypertext on the diversified dimensions of Rousseau's life and works. The goal is to invite people to read Rousseau, to spread the seed of intellectual and aesthetic pleasure that comes from reading his texts. More specifically, it is about pointing out the diversified aspects under which Rousseau reflected, which remain problematically active among us, and to listen to the echo that his work can still find today in those who engage with it with some care and aim explore some of the many paths it leaves open.
 
-
 ### Image platforms and archives
+
 * Pombo, Olga (ed) (2008) [**Lisbon Center for Image in Science and Art (CISA)**](https://arquivo.pt/wayback/20140927010143/http:/lisboncisa.fc.ul.pt/), image platform and archive intending to question the philosophical, scientific and artistic nature of image. Created in 2008 in the context of the FCT [research project “Image in Science and Art”](https://arquivo.pt/wayback/20140926170450/http:/ica.fc.ul.pt/) that I proposed and coordinated from 2007 to 2012 (see [**here**](https://www.flickr.com/people/lcisa/) what still remains openly available, after the project’s website was [hidden and privately archived](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/))
 
 * Pombo, Olga (2006), [**Representações da Leitura** (Representations of Reading)](https://webpages.ciencias.ulisboa.pt/~ommartins/album/index.htm), image platform aimig  to collect and display side by side (pictorial) representations of reading, that is, to create a visual assemblage of diverse forms of thinking the act of reading, its associated gestures, quiet postures, silences, solitudes.
@@ -53,7 +45,7 @@ This 3rd part covers the end of the 20th century and the 21st century. In this s
   
 ### Curated student works  
 
-###### Selection of works, most of them produced by undergraduate students in the courses “History and Philosophy of Education” and “Thematic Seminar,” which I taught at the Faculty of Sciences of the University of Lisbon between 1992–2006 and 1999–2004. The selection, guidance, supervision, and revision, as well as the contextualization and editing of the works signed by the students (each duly identified), were under my responsibility*.
+###### Selection of hypertextual works, most of them produced by undergraduate students in the courses “History and Philosophy of Education” and “Thematic Seminar,” which I taught at the Faculty of Sciences of the University of Lisbon between 1992–2006 and 1999–2004. The selection, guidance, supervision, and revision, as well as the contextualization and editing of the works signed by the students (each duly identified), were done under my responsibility*.
 
 * [**Crianças Selvagens** (Wild Children)](https://arquivo.pt/wayback/20141016150748/http://www.educ.fc.ul.pt/docentes/opombo/hfe/cselvagens/index.htm), 2004
   
@@ -62,8 +54,15 @@ This 3rd part covers the end of the 20th century and the 21st century. In this s
 * [**Grandes Matemáticos** (Great Mathematicians)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/matematicos.htm)
 
 * [**Articulações da Matemática** (Articulations of Mathematics)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)
-  
 
+  
+### Web presentations
+
+* Pombo, Olga (2013), [**Jangada de Pedra** (Stone Raft](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/), power-point on some episodes of the Portuguese History (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) with text transcription) 
+
+* Pombo, Olga (2005), [**Lugares da Filosofia** (Places of Philosophy)](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm) powerpoint on some specific places where philosophy has been created.
+
+  
 
 
 
