@@ -3,7 +3,7 @@
 
 ###### This academic profile is not a full academic curriculum vitae (which can be found **here**). Rather than an exhaustive record of a professional career, it aims to provide a selection of the most significant aspects of my academic trajectory, both in terms of publications, research, teaching, conferences, talks, lectures as well as organization of meetings and other initiatives I have helped to create and develop. Behond including a selection of the most significant aspects of my academic life, it also provides online access to almost all of my articles, books, and other writtings, as well as interviews, media appearances, and other forms of academic and public reception of my work.
 
-###### | [Trajectory](#Trajectory) | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Academic Responsibilities](#Academic-responsibilities) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Publications](publications.md) | [Journal editor](Journal_editor.md) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research/projects.md) | [Organization of Scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Scholar Reception](#Scholar-and-media-reception) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages) || Full CV ||
+###### | [Trajectory](#Trajectory) | [Education](#Education-and-degrees) | [Appointments](#Appointments-positions-and-responsabilities) | [Academic Responsibilities](#Academic-responsibilities) | [Fellowships](#Fellowships-and-research-stays-abroad) | [Consultancy](#Consultancy) | [Publications](publications.md) | [Journal editor](Journal_editor.md) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research/projects.md) | [Organization of Scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Scholar Reception](#Media-and-scholar-reception) | [Honours](#Honours-awards-and-public-distinctions) | [Languages](#Languages) || Full CV ||
 
 
 
@@ -207,7 +207,7 @@ DOI: 10.1007/s10516-014-9264-5
 ### [Supervision](supervision.md) 
 
 
-### Scholar and media reception
+### Media and scholar reception
 
 * António Guerreiro (1998), review of the book: ["Olga Pombo, Leibniz e o Problema de uma Língua Universal](https://arquivo.pt/wayback/20081022125858/http:/aeiou.primeirasedicoes.expresso.pt/ed1342/c251.asp), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997, 322 págs., in *Expresso – Cartaz*, 18.07.1998 
 * M.J.C. (2000), review of the book: "Olga Pombo, Quatro Textos Excêntricos: Hannah Arendt, Eric Weil, Bertrand Russell e Ortega y Gasset", Relógio d’Água, 2000, in *Expresso – Cartaz*, 02.09.2000
