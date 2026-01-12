@@ -43,7 +43,14 @@ This 3rd part covers the end of the 20th century and the 21st century. In this s
 
 * Pombo, Olga (2006) [**Enciclopédia e Hipertexto**](https://arquivo.pt/wayback/20140930091757/http:/www.educ.fc.ul.pt/hyper/), CDRom produced in the context of the research project [Enciclopédia e Hipertexto](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia/) (webmaster- Ricardo Saraiva)
 
-  
+
+### Web presentations
+
+* Pombo, Olga (2013), [**Jangada de Pedra** (Stone Raft](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/), power-point on some episodes of the Portuguese History (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) with text transcription) 
+
+* Pombo, Olga (2005), [**Lugares da Filosofia** (Places of Philosophy)](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm) powerpoint on some specific places where philosophy has been created.
+
+
 ### Curated student works  
 
 ###### *Selection of hypertextual works, most of them produced by undergraduate students in the courses “History and Philosophy of Education” and “Thematic Seminar,” which I taught at the Faculty of Sciences of the University of Lisbon between 1992–2006 and 1999–2004. The selection, guidance, supervision, and revision, as well as the contextualization and editing of the works signed by the students (each duly identified), were done under my responsibility. The works were collected and made available in the [Work in Progress](https://webpages.ciencias.ulisboa.pt/~ommartins/workinprogress.htm) sec tion of the [Personal Website](http://webpages.fc.ul.pt/~ommartins/) that I kept active until 2017, while a Professor at the Faculty of Sciences of the University of Lisbon*.
@@ -57,11 +64,6 @@ This 3rd part covers the end of the 20th century and the 21st century. In this s
 * [**Articulações da Matemática** (Articulations of Mathematics)](https://webpages.ciencias.ulisboa.pt/~ommartins/seminario/articulacoes.htm)
 
   
-### Web presentations
-
-* Pombo, Olga (2013), [**Jangada de Pedra** (Stone Raft](https://slidetodoc.com/jangada-de-pedra-olga-pombo-lisboa-fcul-16/), power-point on some episodes of the Portuguese History (see also [here](https://www.slideserve.com/orli/jangada-de-pedra) with text transcription) 
-
-* Pombo, Olga (2005), [**Lugares da Filosofia** (Places of Philosophy)](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/apontamentos.htm) powerpoint on some specific places where philosophy has been created.
 
   
 
