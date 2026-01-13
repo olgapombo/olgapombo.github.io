@@ -91,6 +91,7 @@
 * Member of the scientific board of the IX international conference of the Spanish Society of Logic, **Methodology and Philosophy of Science (SLMFCE)**, put forward by University of Sevillha, held at Faculdad de Filosofia UNED, Madrid, 13-16 November 2018.
 * Member of the scientific commission of the international **Engels Colloquium:  on the 200 Years of his Birth**, put forward by Faculty of Letters, University of Lisbon, 16-17 November 2020.
 * Member of the scientific committee of the international colloquium **Interdisciplinarité(s)”: Ateliers**, put forward by the Réseau National des Maisons des Sciences de L’Homme, held at Université Aix en Provance, France, 9-10 September, 2021.
+* Member of the scientific committee of the international colloquium [**Interdisciplinarité(S)**](https://rnmsh-colloque.sciencesconf.org/data/pages/Programme_ateliers_9_10_septembre_2021.pdf), organized by the Réseau National des Maisons des Sciences de L’Homme, held at Maison Méditerranée des Sciences de L’Homme, Aix en Provance, 13-14 January 2022.
 * Member of the organizing committee of the international colloquium **Photography in-between Science, Art and Philosophy**, put forward by CFCUL, FBAUL and IST of the University of Lisbon, held at Faculty of Fine Arts (FBAUL), Lisbon, 26 November, 2022.
 * Local Advisor of the **Biennial International Conference of the ISHPSSB (International Society for the History, Philosophy and Social Studies of Biology)**, held at the University of Porto, 20-25 July, 2025.
 
