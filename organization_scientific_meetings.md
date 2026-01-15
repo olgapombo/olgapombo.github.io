@@ -5,17 +5,17 @@
 
 ### International scientific meetings
 
-* 1987 - **Leituras da Modernidade**, international colloquium "Centre for the History of Culture", New University of Lisbon, at Franco-Portuguese Institute, Lisbon (organizing committee).
-* 1987 - **A Problemática das Licenciaturas em Ensino**, international conference, Rectorship of the University of Lisbon (organizing committee)
-* 1989 - **Communication, Meaning and Knowledge**, international symposium, Portuguese Society for Philosophy & "Portuguese Association for Communication Development (APDC)", at Forum Picoas, Lisbon (organizing committee). 
-* 1989 -  **Ethics and Scientific Research**, international colloquium, “Associação de Ciência e Tecnologia para o Desenvolvimento (ACTD)”, at Forum Picoas, Lisbon (organizing committee)
-* 1996 - **Descartes, Leibniz and Modernity**, international colloquium, Department of Philosophy, Faculty of Letters, University of Lisbon (organizing committee)
-* 1999 - **On the idea of University**, international colloquium, Department of Education of the FCUL, at Recktorship of the University of Lisbon (co-organizer)
-* Coordinator of the international seminar **Encyclopedia and Hypertext**, put forward by the FCT research project “Enciclopédia e Hipertexto” (1999-2002), at FCUL (13 sessions)
-* 2005 - **Two philosophers of Science. Franco Selleri and Daniel Andler**, international workshop, CFCUL, at FCUL (Coordinator).
-* Member of the scientific committee of the international colloquium on **Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault**, put forward by the CFCUL RG “Philosophy in the Human Sciences”, held at the French-Portuguese Institute, Lisbon, 23-25 November 2005.
-* Co-organizer of the international colloquium **O Curso Conimbricense e a sua Tradição. Jornadas de Estudo**, put forward by the CFCUL together with the Center for the History of Sciences of the University of Lisbon, held at the Lisbon Science Museum, April 2006.  
-* Coordinator of an international colloquium on **Abduction and the Process of Scientific Discovery**, put forward by the CFCUL, held at Lisbon Science Museum, May 2006.
+* 1987 - **Leituras da Modernidade**, international colloquium by "Centre for the History of Culture", New University of Lisbon, at Franco-Portuguese Institute, Lisbon (organizing committee).
+* 1987 - **A Problemática das Licenciaturas em Ensino**, international conference by Department of Education FCUL, Rectorship of the University of Lisbon (organizing committee)
+* 1989 - **Communication, Meaning and Knowledge**, international symposium by Portuguese Society for Philosophy & "Portuguese Association for Communication Development (APDC)", at Forum Picoas, Lisbon (organizing committee). 
+* 1989 -  **Ethics and Scientific Research**, international colloquium by “Associação de Ciência e Tecnologia para o Desenvolvimento (ACTD)”, at Forum Picoas, Lisbon (organizing committee)
+* 1996 - **Descartes, Leibniz and Modernity**, international colloquium by Department of Philosophy, Faculty of Letters, University of Lisbon (organizing committee)
+* 1999 - **On the idea of University**, international colloquium by Department of Education FCUL, at Recktorship of the University of Lisbon (co-organizer)
+* (1999-2002) - **Encyclopedia and Hypertext**, international seminar (13 sessions) by FCT research project “Enciclopédia e Hipertexto”, at FCUL (Coordinator)
+* 2005 - **Two philosophers of Science. Franco Selleri and Daniel Andler**, international workshop by CFCUL, at FCUL (Coordinator).
+* 2005 - **Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault**, international colloquium by the CFCUL RG “Philosophy in the Human Sciences”, at the French-Portuguese Institute, Lisbon (scientific committee)
+* 2006 - **O Curso Conimbricense e a sua Tradição. Jornadas de Estudo**, international colloquium, by CFCUL & Center for the History of Sciences of the University of Lisbon,  at Lisbon Science Museum (co-organizer).  
+* 2006 - **Abduction and the Process of Scientific Discovery**, international colloquium on by CFCUL, at Lisbon Science Museum (Coordinator)
 * Coordinator of the international Workshop **Como pensar as relações entre a História e a Filosofia das Ciências?**, FCUL,  21 June 2006 [poster](https://cfcul.mcmlxxvi.net/workshops/workshop_hist_filcc/A4%20Hist.Filos.jpg)
 * Coordinator of the **First Lisbon Colloquium for the Philosophy of Science - Unity of Science. Non-Traditional Approaches** (2006), put forward by the CFCUL, in collaboration with the Philosophy Department of the University of Texas, El Paso, EUA, and the Maison des Sciences de l’Homme, Nord-Pas de Calais, France, held at Trindade Theatre, Lisbon, October 2006. 
 * Member of the scientific committee of the international colloquium **I Colóquio Luso-Brasileiro Leibniz**, put forward by PUC-Rio de Janeiro, held at UERJ-Rio de Janeiro, Brazil, 2007.
