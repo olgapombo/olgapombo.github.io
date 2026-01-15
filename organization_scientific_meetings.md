@@ -5,14 +5,14 @@
 
 ### International scientific meetings
 
-* Member of the organizing committee of the international colloquium **Leituras da Modernidade**, put forward by the "Centre for the History of Culture" of the New University of Lisbon, held at Franco-Portuguese Institute, Lisbon, 1987.
-* Member of the organizing committee of the international conference **A Problemática das Licenciaturas em Ensino**, held at Rectorship of the University of Lisbon, 19-20, February, 1987.
-* Member of the organizing committee of the international symposium on **Communication, Meaning and Knowledge**, put forward by the Portuguese Society for Philosophy in collaboration with the "Portuguese Association for Communication Development (APDC)", held at Forum Picoas, Lisbon, 1989. 
-* Member of the organizing committee of the international colloquium **Ethics and Scientific Research**, put forward by the “Associação de Ciência e Tecnologia para o Desenvolvimento (ACTD)”, held at Forum Picoas, Lisbon, November 1989.
-* Member of the organizing committee of the international colloquium **Descartes, Leibniz and Modernity**, put forward by the Department of Philosophy of the Faculty of Letters, University of Lisbon, 1996.
-* Co-organizer of the international colloquium **On the idea of University**, put forward by the Department of Education of the FCUL, held at Recktorship of the University of Lisbon, November 1999.
-* Coordinator of the international seminar **Encyclopedia and Hypertext**, put forward by the FCT research project “Enciclopédia e Hipertexto” (1999-2002), held at FCUL (13 sessions)
-* Coordinator of the international workshop **Two philosophers of Science. Franco Selleri and Daniel Andler**, put forward by the CFCUL, held at FCUL, 8 e 9 June 2005.
+* 1987 - **Leituras da Modernidade**, international colloquium "Centre for the History of Culture", New University of Lisbon, at Franco-Portuguese Institute, Lisbon (organizing committee).
+* 1987 - **A Problemática das Licenciaturas em Ensino**, international conference, Rectorship of the University of Lisbon (organizing committee)
+* 1989 - **Communication, Meaning and Knowledge**, international symposium, Portuguese Society for Philosophy & "Portuguese Association for Communication Development (APDC)", at Forum Picoas, Lisbon (organizing committee). 
+* 1989 -  **Ethics and Scientific Research**, international colloquium, “Associação de Ciência e Tecnologia para o Desenvolvimento (ACTD)”, at Forum Picoas, Lisbon (organizing committee)
+* 1996 - **Descartes, Leibniz and Modernity**, international colloquium, Department of Philosophy, Faculty of Letters, University of Lisbon (organizing committee)
+* 1999 - **On the idea of University**, international colloquium, Department of Education of the FCUL, at Recktorship of the University of Lisbon (co-organizer)
+* Coordinator of the international seminar **Encyclopedia and Hypertext**, put forward by the FCT research project “Enciclopédia e Hipertexto” (1999-2002), at FCUL (13 sessions)
+* 2005 - **Two philosophers of Science. Franco Selleri and Daniel Andler**, international workshop, CFCUL, at FCUL (Coordinator).
 * Member of the scientific committee of the international colloquium on **Lei, Segurança e Disciplina. Trinta anos depois de Vigiar e Punir de Michel Foucault**, put forward by the CFCUL RG “Philosophy in the Human Sciences”, held at the French-Portuguese Institute, Lisbon, 23-25 November 2005.
 * Co-organizer of the international colloquium **O Curso Conimbricense e a sua Tradição. Jornadas de Estudo**, put forward by the CFCUL together with the Center for the History of Sciences of the University of Lisbon, held at the Lisbon Science Museum, April 2006.  
 * Coordinator of an international colloquium on **Abduction and the Process of Scientific Discovery**, put forward by the CFCUL, held at Lisbon Science Museum, May 2006.
