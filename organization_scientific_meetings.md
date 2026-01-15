@@ -101,7 +101,6 @@
 * Member of the organizing committee for the **First National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1978.
 * Member of the organizing committee for the **Second National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1979.
 * Member of the organizing committee for the **Third National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1980.
-* Member of the organizing committee of the conference **A Problemática das Licenciaturas em Ensino**, held at Rectorship of the University of Lisbon, 19-20, February, 1986.
 * Member of the organizing commitee of the workshop **Investigação e Ensino**, held at FCUL, 20 February 1987.
 * Member of the organizing committee of the **Segundo Encontro Filosofia em Contextos Não-Filosóficos**, held at FCUL, June 1987.
 * Coordinator of the **Interdisciplinary Seminar on Bachelard**, held at FCUL, May 1988. 
