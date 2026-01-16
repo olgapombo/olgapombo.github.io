@@ -76,7 +76,7 @@ ISBN: 978-972-754-293-2.
 
 ### Chapters
 
-1.	Pombo, Olga (1979), **[Biobibliografia de Jean-Jacques Rousseau** (Bibliography of Jean Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf), in *Jean-Jacques Rousseau. Uma Exposição*, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44. 
+1.	Pombo, Olga (1979), [**Biobibliografia de Jean-Jacques Rousseau** (Bibliography of Jean Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf), in *Jean-Jacques Rousseau. Uma Exposição*, Lisboa: Sociedade Portuguesa de Filosofia, pp. 5-44. 
 2.	Pombo, Olga, (1988), “**Notas sobre as Instituições da Filosofia**”, in *A Filosofia face à Cultura Tecnológica*, edited by Adelino Cardoso, Coimbra: Associação de Professores de Filosofia, pp. 71-89. 
 3.	Pombo, Olga (1988), **“Leibnizian Strategies for the Semantical Foundation of the Universal Language”**, in *Leibniz, Tradition und Aktualitat. V. Internationaler Leibniz-Kongress*, vol. 1, edited by Ernest Albrecht, Hannover: Gottfried-Wilhelm Leibniz-Gesellschaft, pp. 753-760. ISBN: 3-9800978-2-X 
 4.	Pombo, Olga (1990), **“Dilema do Ensino da Filosofia”**, in *Didáctica da Filosofia*, vol. 2, edited by Isabel Marnoto, Lisboa: Universidade Aberta, pp. 7-30. ISBN: 9726740282
