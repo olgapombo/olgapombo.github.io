@@ -43,6 +43,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1971 – *Licence degress in "Philosophy"*, Faculty of Letters, University of Lisbon.
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
+
 ### Appointments, positions and responsabilities 
 
 * 2017 - ongoing - *Professor with Habilitation* (retitred with [collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
