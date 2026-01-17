@@ -285,12 +285,12 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 * Director of the book series **[A Imagem na Ciência e na Arte](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO)**, Lisbon: Fim de Século - 12 volumes published: 
  
-      1.(2010) *As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, by João Araújo;
-      2.(2010) *Neuroaesthetics : Can Science explain Art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina;
-      3.(2011)*As Imagens com que a Ciência se Faz*, edited by Olga Pombo, Silvia di Marco;
-      4.(2011) *Solaris: Sistema Beta Pictoris. Ciclo de exposições 2004-2009*, by Rodrigo Vilhena;
- >5.	(2011) *A Colecção de Desenho Antigo da Faculdade de Belas Artes de Lisboa* (1830-1935), by Alberto Faria;
- >6.	(2012) *Representações do Corpo na Ciência e na Arte*, edited by Cristina Azevedo Tavares;
+> 1.(2010) *As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, by João Araújo;
+> 2.(2010) *Neuroaesthetics : Can Science explain Art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina;
+> 3.(2011)*As Imagens com que a Ciência se Faz*, edited by Olga Pombo, Silvia di Marco;
+> 4.(2011) *Solaris: Sistema Beta Pictoris. Ciclo de exposições 2004-2009*, by Rodrigo Vilhena;
+>5.	(2011) *A Colecção de Desenho Antigo da Faculdade de Belas Artes de Lisboa* (1830-1935), by Alberto Faria;
+>6.	(2012) *Representações do Corpo na Ciência e na Arte*, edited by Cristina Azevedo Tavares;
 >7.	(2012) *Em torno de Darwin*, edited by Olga Pombo, Marco Pina;
 >8.	(2012) *Visível & Enunciável*by Nuno Melim;
 >9.	(2012) *Da Civilização da Palavra à Civilização da Imagem*, edited by Olga Pombo, António Guerreiro;
@@ -300,8 +300,8 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
          
 •	Director of the book series **[Cadernos de Filosofia da Ciência](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm)**, Lisbon: CFCUL - 13 volumes published: 
 
-> ###### 1. (2005) *Ciência e Género. Quatro Textos de Quatro Mulheres*, edited by Teresa Levy, Clara Queiroz;
-> ###### 2. (2006) *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, edited by  Augusto J. Franco de Oliveira;
+> 1. (2005) *Ciência e Género. Quatro Textos de Quatro Mulheres*, edited by Teresa Levy, Clara Queiroz;
+> 2. (2006) *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, edited by  Augusto J. Franco de Oliveira;
 > 3. (2006) *As Cartas de Problemática de António Sérgio*, edited by Olga Pombo, Manuel Beirão dos Reis, João Luís Cordovil;
 > 4. (2007) *Electrodinâmica Estocástica: em busca da Física por detrás da Teoria Quântica*, by Mário Gatta;
 > 5. (2008) *Sobre a Lógica e a Teoria da Ciência em Jean Cavaillès*, by Nuno Miguel Proença;
