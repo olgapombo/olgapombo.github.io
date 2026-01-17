@@ -16,7 +16,7 @@
 3.	Pombo, Olga (1997) **[Leibniz e o Problema de uma Língua Universal](https://www.researchgate.net/publication/259932965_Olga_Pombo_Leibniz_e_o_Problema_de_uma_Lingua_Universal_Lisboa_ed_JNICT_1997_320_p)** (portuguese revised translation of “Leibniz and the Problem of a Universal Language”), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 320 pp. ISBN: 972-9493-29-4. (Recensao de Marcos Silva [here](https://repositorio.ufc.br/bitstream/riufc/24066/1/2013_art_masilva.pdf))
 4.	Pombo, Olga (2000) **[Quatro Textos Excêntricos. Hannah Arendt, Eric Weil, Bertrand Russell e Ortega Y Gasset](  https://www.relogiodagua.pt/produto/quatro-textos-excentricos/)** / **Four Eccentric Texts. Hannah Arendt, Eric Weil, Bertrand Russell and Ortega Y Gasset**,  Lisboa: Relógio d'Água, 105 pp. ISBN: 9789727085699,([from the preface](https://relogiodagua.pt/wp-content/uploads/2016/03/9789727085699.pdf?_ga=2.200381158.979288248.1742230490-919247224.1742230490))
 5.	Pombo, Olga (2002) **[A Escola, a Recta e o Círculo](https://www.relogiodagua.pt/produto/a-escola-a-recta-e-o-circulo/) / The School, the Straignt Line and the Circle**,  Lisboa: Relógio d'Água, 316 pp. ISBN: 9789727086788. ([from the preface](https://relogiodagua.pt/wp-content/uploads/2016/03/9789727086788.pdf?_ga=2.101117633.1582267943.1742230671-2139208584.1742230671))
-###### *Gods do not go to school. Not only because they already know everything, but because, even if they didn’t, they would have all the time in the world to learn. But humans beings are not immortal, and the precariousness of life has imposed the urgency of school, the imperative of teaching*.
+> ###### *Gods do not go to school. Not only because they already know everything, but because, even if they didn’t, they would have all the time in the world to learn. But humans beings are not immortal, and the precariousness of life has imposed the urgency of school, the imperative of teaching*.
 7.	Pombo, Olga (2004) **[Interdisciplinaridade: Ambições e Limites](https://www.relogiodagua.pt/produto/interdisciplinaridade-ambicoes-e-limites/) / Interdisciplinarity: Ambitions and Limits**, Lisboa: Relógio d'Água, 203 pp. ISBN: 9789727088140. ([from the preface](https://relogiodagua.pt/wp-content/uploads/2016/03/9789727088140.pdf?_ga=2.144709876.1574178374.1742230807-1354625093.1742230807) and [here](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/interdisc%20excertos.htm))
 8.	Pombo, Olga (2006) **[Unidade da Ciência. Programas, Figuras e Metáforas](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/livro_olga_uc.htm) / Unity of Science. Programs, Figures and Metaphors**, Lisboa: Duarte Reis, 324 pp. ISBN: 972-8745-27-3, 2nd edition, Lisboa: CFCUL/Gradiva, 2011, 343 pp). ISBN: 978-989-8247-41-4. 
 (Recensao de Marina Lopes [here](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/livroolga_uc_por_marina_lopez.pdf))
@@ -285,12 +285,12 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 * Director of the book series **[A Imagem na Ciência e na Arte](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO)**, Lisbon: Fim de Século -           12 volumes published: 
  
-###### > 1. (2010)	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, by João Araújo;
-###### >2.	(2010) *Neuroaesthetics : Can Science explain Art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina;
-###### >3.	(2011)*As Imagens com que a Ciência se Faz*, edited by Olga Pombo, Silvia di Marco;
->4.	(2011) *Solaris: Sistema Beta Pictoris. Ciclo de exposições 2004-2009*, by Rodrigo Vilhena;
->5.	(2011) *A Colecção de Desenho Antigo da Faculdade de Belas Artes de Lisboa* (1830-1935), by Alberto Faria;
->6.	(2012) *Representações do Corpo na Ciência e na Arte*, edited by Cristina Azevedo Tavares;
+> 1. (2010)	*As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, by João Araújo;
+> 2.	(2010) *Neuroaesthetics : Can Science explain Art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina;
+> 3.	(2011)*As Imagens com que a Ciência se Faz*, edited by Olga Pombo, Silvia di Marco;
+ >4.	(2011) *Solaris: Sistema Beta Pictoris. Ciclo de exposições 2004-2009*, by Rodrigo Vilhena;
+ >5.	(2011) *A Colecção de Desenho Antigo da Faculdade de Belas Artes de Lisboa* (1830-1935), by Alberto Faria;
+ >6.	(2012) *Representações do Corpo na Ciência e na Arte*, edited by Cristina Azevedo Tavares;
 >7.	(2012) *Em torno de Darwin*, edited by Olga Pombo, Marco Pina;
 >8.	(2012) *Visível & Enunciável*by Nuno Melim;
 >9.	(2012) *Da Civilização da Palavra à Civilização da Imagem*, edited by Olga Pombo, António Guerreiro;
