@@ -363,9 +363,9 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 ###### This section gathers manuscripts and conference papers. Many of these ongoing working papers have circulated among colleagues but none has been formally published. 
 
 * *The sciences of forms and the forms of sciences* 
-* *Cartographies of knowledge and contemporary challenges 
+* *Cartographies of knowledge and contemporary challenges* 
 * *Mapas disciplinares e cartografias do saber*/ Disciplinary Maps and Cartographies of Knowledge 
-* *O valor cognitivo da árvore*/ The cognitive value of the tree *
+* *O valor cognitivo da árvore*/ The cognitive value of the tree 
 * *Filosofia e práticas discursivas no Protágoras de Platão*/ Philosophy and discursive practices in Plato’s *Protagoras* 
 * *A infinitude da queda no 'Teeteto' de Platão*/ The infinitude of the fall in Plato’s *Theaetetus* 
 * *Por que é que Rousseau não é um utopista mas parece?*/ Why Rousseau is not an utopian but seems to be
