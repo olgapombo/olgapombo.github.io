@@ -1,18 +1,13 @@
-theme: jekyll-theme-minimal
-title: olga pombo webpage
-description: personal webpage
+title: Olga Pombo
+description: Personal Webpage
+baseurl: ""
+url: "https://olgapombo.github.io"
 
-remote_theme: "jekyll/minima@1e8a445"
-#remote_theme: pages-themes/architect@v0.2.0
+# Build settings
+markdown: kramdown
+permalink: /:basename.html
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-minima:
-  nav_pages:
-    - curriculum.md
-    - interviews.md
-    - onlinetalks.md
-    - publications.md
-    - supervision.md
-    - preprints.md
+  - jekyll-feed
+  - jekyll-seo-tag
     
