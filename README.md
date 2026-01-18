@@ -14,7 +14,6 @@ permalink: /index.html
             <li><a href="/academic_profile.html" style="color: #ff0; font-weight: bold;">Academic Profile</a></li>
             <li><a href="/publications.html" style="color: #ff0; font-weight: bold;">Publications</a></li>
             <li><a href="/onlinetalks.html" style="color: #ff0; font-weight: bold;">Conferences and talks</a></li>
-            
             <li><a href="/research/projects.html" style="color: #ff0; font-weight: bold;">Research / Projects</a></li>
             <li><a href="/supervision.html" style="color: #ff0; font-weight: bold;">Supervision</a></li>
             <li><a href="/teaching_doctoral_program.html" style="color: #ff0; font-weight: bold;">Teaching</a></li>
