@@ -8,9 +8,16 @@
 </head>
 <body>
     <div class="overlay">
-        <header>
-            <h1><a href="{{ '/' | relative_url }}" style="text-decoration: none; color: inherit;">{{ site.title }}</a></h1>
-            <nav>
+        <header id="site-header">
+            <div class="header-content">
+                <h1><a href="{{ '/' | relative_url }}" style="text-decoration: none; color: inherit;">{{ site.title }}</a></h1>
+                <button id="menu-toggle" aria-label="Toggle navigation">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </button>
+            </div>
+            <nav id="primary-site-navigation-desktop">
                 <a href="{{ '/index.html' | relative_url }}">Home</a>
                 <a href="{{ '/academic_profile.html' | relative_url }}">Academic Profile</a>
                 <a href="{{ '/publications.html' | relative_url }}">Publications</a>
@@ -27,5 +34,10 @@
             <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
         </footer>
     </div>
+    <script>
+        document.getElementById('menu-toggle').addEventListener('click', function() {
+            document.getElementById('site-header').classList.toggle('nav-open');
+        });
+    </script>
 </body>
 </html>

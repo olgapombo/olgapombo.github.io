@@ -22,6 +22,34 @@ header {
     padding: 2rem 0;
     text-align: center;
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    position: relative;
+}
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding: 0 1rem;
+}
+
+#menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    z-index: 100;
+}
+
+#menu-toggle .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    background-color: #fff;
+    transition: all 0.3s ease-in-out;
 }
 
 header h1 {
@@ -80,4 +108,49 @@ blockquote {
 
 h2, h3, h4 {
     font-weight: 400;
+}
+
+@media screen and (max-width: 768px) {
+    .header-content {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    #menu-toggle {
+        display: block;
+    }
+
+    nav#primary-site-navigation-desktop {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        background-color: rgba(20, 20, 20, 0.95);
+        position: absolute;
+        top: 100%;
+        left: 0;
+        padding: 1rem 0;
+        z-index: 99;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .nav-open nav#primary-site-navigation-desktop {
+        display: flex;
+    }
+
+    nav#primary-site-navigation-desktop a {
+        margin: 10px 0;
+        display: block;
+    }
+
+    /* Animation for hamburger to X */
+    .nav-open #menu-toggle .bar:nth-child(2) {
+        opacity: 0;
+    }
+    .nav-open #menu-toggle .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+    .nav-open #menu-toggle .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
 }
