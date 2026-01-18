@@ -16,7 +16,6 @@ permalink: /index.html
             <li><a href="/publications.html" style="color: #ff0; font-weight: bold;">Publications</a></li>
             <li><a href="/onlinetalks.html" style="color: #ff0; font-weight: bold;">Conferences and talks</a></li>
         </ul>
-        <h4>Activities</h4>
         <ul style="list-style-type: none; padding-left: 0; font-size: 1.2rem;">
             <li><a href="/research/projects.html" style="color: #ff0; font-weight: bold;">Research / Projects</a></li>
             <li><a href="/supervision.html" style="color: #ff0; font-weight: bold;">Supervision</a></li>
