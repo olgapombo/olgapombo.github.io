@@ -2,7 +2,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background: #f4f4f4;
+    background: url('/images/quinta.jpg') no-repeat center center fixed;
+    background-size: cover;
     color: #333;
     line-height: 1.6;
 }
@@ -19,7 +20,6 @@ header {
     width: 100%;
     padding: 2rem 0;
     text-align: center;
-    background: rgba(255, 255, 255, 0.9);
     border-bottom: 1px solid #eee;
 }
 
@@ -49,9 +49,7 @@ nav a:hover {
 main {
     width: 100%;
     margin: 0;
-    background: #fff;
     padding: 3rem;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     box-sizing: border-box;
 }
 
