@@ -2,8 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background: url('/images/foto-neuronios.jpg') no-repeat center center fixed;
-    background-size: cover;
+    background: #f4f4f4;
     color: #333;
     line-height: 1.6;
 }
@@ -13,7 +12,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: stretch;
 }
 
 header {
@@ -48,12 +47,12 @@ nav a:hover {
 }
 
 main {
-    max-width: 800px;
-    width: 90%;
-    margin: 2rem auto;
+    width: 100%;
+    margin: 0;
     background: #fff;
     padding: 3rem;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    box-sizing: border-box;
 }
 
 footer {

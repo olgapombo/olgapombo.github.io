@@ -4,9 +4,9 @@ title: Home
 permalink: /index.html
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 20px;">
-    <div style="flex: 2;">
-        <img src="/images/foto-neuronios.jpg" alt="Neuronios" style="width: 100%; height: auto; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+<div id="navigation-menu" style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 20px;">
+    <div style="flex: 0 0 auto;">
+        <img src="/images/foto-neuronios.jpg" alt="Neuronios" style="max-width: 300px; height: auto;">
     </div>
     <div style="flex: 1;">
         <h4 style="margin-top: 0;">Academic</h4>
