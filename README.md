@@ -2,11 +2,12 @@
 layout: default
 title: Home
 permalink: /index.html
+bg_image: quinta
 ---
 
 <div id="navigation-menu" style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 20px;">
     <div style="flex: 0 0 auto;">
-        <img src="/images/foto-neuronios.jpg" alt="Neuronios" style="max-width: 300px; height: auto;">
+        <img src="/images/foto-neuronios-cortada.jpg" alt="Neuronios" style="max-width: 300px; height: auto;">
     </div>
     <div style="flex: 1;">
         <h4 style="margin-top: 0;">Academic</h4>
@@ -22,6 +23,11 @@ permalink: /index.html
             <li><a href="/supervision.html" style="color: #ff0; font-weight: bold;">Supervision</a></li>
             <li><a href="/teaching_doctoral_program.html" style="color: #ff0; font-weight: bold;">Teaching</a></li>
         </ul>
+        <h4>Personal</h4>
+        <ul style="list-style-type: none; padding-left: 0; font-size: 1.2rem;">
+            <li><a href="/opening_statement.html" style="color: #ff0; font-weight: bold;">Opening statement</a></li>
+            <li><a href="/each_life.html" style="color: #ff0; font-weight: bold;">Each life is an encyclopedia</a></li>     
+        </ul>    
     </div>
 </div>
 
