@@ -22,6 +22,11 @@ bg_image: quinta
             <li><a href="/research/projects.html" style="color: #ff0; font-weight: bold;">Research / Projects</a></li>
             <li><a href="/supervision.html" style="color: #ff0; font-weight: bold;">Supervision</a></li>
             <li><a href="/teaching_doctoral_program.html" style="color: #ff0; font-weight: bold;">Teaching</a></li>
+            <li><a href="/personal_projects.html" style="color: #ff0; font-weight: bold;">Personal projects</a></li>
+            <li><a href="/other_activities.html" style="color: #ff0; font-weight: bold;">Other activities</a></li>
+            <li><a href="/preprints.html" style="color: #ff0; font-weight: bold;">Preprints</a></li>
+            <li><a href="/organization_scientific_meetings.md" style="color: #ff0; font-weight: bold;">Organization of scientific meetings</a></li>
+            <li><a href="/interviews.md" style="color: #ff0; font-weight: bold;">Interviews</a></li>
         </ul>
         <h4>Personal</h4>
         <ul style="list-style-type: none; padding-left: 0; font-size: 1.2rem;">
@@ -41,7 +46,3 @@ bg_image: quinta
 </div>
 
 <hr>
-
-### Welcome
-
-Welcome to my personal webpage. Here you can find information about my academic work, publications, and research interests.
