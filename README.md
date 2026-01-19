@@ -37,7 +37,7 @@ bg_image: quinta
 </div>
 
 <div style="margin-top: 20px;">
-    <blockquote style="font-style: italic; border-left: 4px solid #ff0; padding-left: 15px; margin: 0; font-size: 1.5rem; text-shadow: 1px 1px 2px #000;">
+    <blockquote style="font-style: italic; border-left: 4px solid #ff0; padding-left: 15px; margin: 0; font-size: 1.25rem; text-shadow: 1px 1px 2px #000;">
         "Each life is an encyclopedia, a library, an inventory of objects, a catalog of styles, where everything can be constantly stirred up and reordered in every possible way"
     </blockquote>
     <p style="text-align: right; font-size: 1rem; margin-top: 5px;">
