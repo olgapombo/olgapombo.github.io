@@ -22,7 +22,6 @@ bg_image: quinta
             <li><a href="/preprints.html" style="color: #ff0; font-weight: bold;">Preprints</a></li>
             <li><a href="/organization_scientific_meetings.html" style="color: #ff0; font-weight: bold;">Organization of scientific meetings</a></li>
             <li><a href="/interviews.html" style="color: #ff0; font-weight: bold;">Interviews</a></li>
-        <ul style="list-style-type: none; padding-left: 0; font-size: 1.2rem;">
             <li><a href="/opening_statement.html" style="color: #ff0; font-weight: bold;">Opening statement</a></li>
             <li><a href="/each_life.html" style="color: #ff0; font-weight: bold;">Each life is an encyclopedia</a></li>     
         </ul>    
