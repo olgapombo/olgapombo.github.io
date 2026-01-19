@@ -9,16 +9,13 @@ bg_image: quinta
     <div style="flex: 0 0 auto;">
         <img src="/images/foto-neuronios-cortada.jpg" alt="Neuronios" style="max-width: 300px; height: auto; display: block;">
     </div>
-    <div style="flex: 1; padding-top: 0;">
-        <h4 style="margin-top: 0; line-height: 1;">Academic</h4>
+    <h4 style="margin-top: 0; line-height: 1;">Academic</h4>
+    <div style="flex: 1;">
         <ul style="list-style-type: none; padding-left: 0; font-size: 1.2rem;">
             <li><a href="/index.html" style="color: #ff0; font-weight: bold;">Home</a></li>
             <li><a href="/academic_profile.html" style="color: #ff0; font-weight: bold;">Academic Profile</a></li>
             <li><a href="/publications.html" style="color: #ff0; font-weight: bold;">Publications</a></li>
             <li><a href="/onlinetalks.html" style="color: #ff0; font-weight: bold;">Conferences and talks</a></li>
-        </ul>
-        <h4>Activities</h4>
-        <ul style="list-style-type: none; padding-left: 0; font-size: 1.2rem;">
             <li><a href="/research/projects.html" style="color: #ff0; font-weight: bold;">Research / Projects</a></li>
             <li><a href="/supervision.html" style="color: #ff0; font-weight: bold;">Supervision</a></li>
             <li><a href="/teaching_doctoral_program.html" style="color: #ff0; font-weight: bold;">Teaching</a></li>
