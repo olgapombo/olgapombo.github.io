@@ -10,7 +10,6 @@ bg_image: quinta
         <img src="/images/foto-neuronios-cortada.jpg" alt="Neuronios" style="max-width: 300px; height: auto; display: block;">
     </div>
     <div style="flex: 1;">
-        <h4 style="margin-top: 0; line-height: 1;">Academic</h4>
         <ul style="list-style-type: none; padding-left: 0; font-size: 1rem;">
             <li><a href="/index.html" style="color: #ff0; font-weight: bold;">Home</a></li>
             <li><a href="/academic_profile.html" style="color: #ff0; font-weight: bold;">Academic Profile</a></li>
