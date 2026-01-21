@@ -12,12 +12,12 @@ bg_image: quinta
     <div style="flex: 1;">
         <ul style="list-style-type: none; padding-left: 0; font-size: 1rem;">
             <li><a href="/opening_statement.html" style="color: #ff0; font-weight: bold;">Opening statement</a></li>
-            <li><a href="/academic_profile.html" style="color: #ff0; font-weight: bold;">Academic Profile</a></li>
+            <li><a href="/academic_profile.html" style="color: #ff0; font-weight: bold;">Academic profile</a></li>
             <li><a href="/publications.html" style="color: #ff0; font-weight: bold;">Publications</a></li>
             <li><a href="/onlinetalks.html" style="color: #ff0; font-weight: bold;">Conferences and talks</a></li>
-            <li><a href="/research/projects.html" style="color: #ff0; font-weight: bold;">Research / Projects</a></li>
+            <li><a href="/research/projects.html" style="color: #ff0; font-weight: bold;">Research / projects</a></li>
             <li><a href="/supervision.html" style="color: #ff0; font-weight: bold;">Supervision</a></li>
-            <li><a href="/teaching_doctoral_program.html" style="color: #ff0; font-weight: bold;">Teaching</a></li>
+            <li><a href="/teaching_doctoral_program.html" style="color: #ff0; font-weight: bold;">Teaching / doctoral program</a></li>
             <li><a href="/preprints.html" style="color: #ff0; font-weight: bold;">Preprints</a></li>
             <li><a href="/organization_scientific_meetings.html" style="color: #ff0; font-weight: bold;">Organization of scientific meetings</a></li>
             <li><a href="/interviews.html" style="color: #ff0; font-weight: bold;">Interviews</a></li>
