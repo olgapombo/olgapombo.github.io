@@ -1,4 +1,4 @@
-## Each life is an encyclopedia 
+## Yes, each life is an encyclopedia 
 
 
 to be done
