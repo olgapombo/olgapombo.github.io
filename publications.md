@@ -361,8 +361,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 #### Journal guest editor
 
-* Pombo, Olga (2015), [**Axiomathes, Special Issue - Metaphysical and Epistemological Challenges**] (https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/axiomates%2010.1007_s10516-014-9264-5.pdf)
-* (https://www.researchgate.net/publication/279325568_Metaphysical_and_Epistemological_Challenges_special_issue): Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2015), [**Axiomathes, Special Issue - Metaphysical and Epistemological Challenges**] (https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/axiomates%2010.1007_s10516-014-9264-5.pdf), Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
 * Pombo, Olga (2012), **[Kairos. Journal of Philosophy & Science - Dossier Leibniz](https://arquivo.pt/wayback/20150416225706/http://kairos.fc.ul.pt/numeros-anteriores-2/)**, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824 **(more info [here](https://sciendo.com/journal/KJPS?content-tab=editorial-board&top-tab=top-cited))**
 
 ### [Online works](preprints.md)
