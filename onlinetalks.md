@@ -250,7 +250,7 @@
 * **Acerca da verdade**, invited talk at the National Etics Commission, Parque da Saúde, Lisboa, 5 November 2010. 
 * **Ciência e interdisciplinaridade**, invited speaker at “Jornadas interdisciplinares 2011”, put forward by the Students Association of Psychology and Educational Sciences of the University of Coimbra, Coimbra, 22 March 2011.
 * **O livro como extravagância**, invited speaker at the “Jornadas Kantianas”, put forward by the Oporto Association, Lisboa, 16 March 2012.
-* **Homenagem a João Lopes Alves**,  speaker (with José Sousa e Brito, João Esteves da Silva and Nuno Nabais), FCUL 7 November 2013.
+* **Homenagem a João Lopes Alves**,  invited speaker (with José Sousa e Brito, João Esteves da Silva and Nuno Nabais), FCUL 7 November 2013.
 * **Que faz um filósofo da ciência?**, invited speaker at the conference series "Encontro com o Cientista", organized by Ciência Viva, Knowledge Pavilion,  Lisboa, 8th November 2013.
 * **A epistemologia e as ciências**, invited speaker at the “Autumn Talks of the Psychiatry Service of the Santa Maria Hospital”, Hospital de Santa Maria, Lisboa, 21 October 2014.
 * **Imaginário e Razão**, invited speaker at Seminário Permanente «Imaginário e Construção do Pensamento», organized by CEIL/IELT, FCH/NOVA, 24 April 2015.
