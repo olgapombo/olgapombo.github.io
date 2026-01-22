@@ -27,7 +27,7 @@
 * 2012-2016 - [**Lisbon Applied Evolutionary Epistemology Lab**](https://ciencias.ulisboa.pt/pt/noticia/07-02-2013/appeel-applied-evolutionary-epistemology-lab), CFCUL internal research project (coordination of Nathalie Gontier and Olga Pombo). 
 * 2013-2014 -  [**Afinal o que é a Ciência? / After all, what is Science?**](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project. (**more info [here](https://arquivo.pt/wayback/20240112200715/https://ciencia13-14.fc.ul.pt/?)**)
 * 2013-2015 - **Unity of Science**,  head of the CFCUL Research Group.
-* 2015-3/2016 - **Epistemology and Methodology**, head of the CFCUL Research Group .
+* 2015-3/2016 - **Epistemology and Methodology**, head of the CFCUL Research Group 
 * 2015-2016 - **[Unity of Science and Interdisciplinarity](https://arquivo.pt/wayback/20171212131758/http://uci.fc.ul.pt/)**, head of the CFCUL Thematic Line. 
 * 2017- 2022 - **Interdisciplinarity-transdisciplinarity. Theory and practice in the sciences, arts and humanities**, head of the CFCUL Transversal Interdisciplinary Pole. ([**description and outputs**](https://www.researchgate.net/publication/366237364_Investigacao_Transversal_do_CFCUL_por_OLGA_POMBO)
 
@@ -36,7 +36,7 @@
 * Co-founder (with Joâo Lopes Alves, Zaza Carneiro de Moura, Ana Figueiredo and Filomena Mölder) of the research project **Jean-Jacques Rousseau**, Portuguese Society for Philosophy (1977 - 1979). 
 * Co-founder (with Teresa Levy and Henrique Guimaraes) of the research project **[Mathesis](https://webpages.ciencias.ulisboa.pt/~ommartins/mathesis/index.htm)**, Calouste Gulbenkian Foundation  (1989-1995).
 
-> ###### The project had a dual nature. On one hand, it aimed at the theoretical clarification of the concept of interdisciplinarity and the understanding of the issues that different fields of knowledge face today in terms of their articulation and the reorganization of their boundaries. On the other hand, it aimed to act as a participating element in the process of curriculum reorganization that schools will increasingly need to undertake, as well as a support mechanism for experimenting with interdisciplinary practices and integrating knowledge.
+> ###### *The project had a dual nature. On one hand, it aimed at the theoretical clarification of the concept of interdisciplinarity and the understanding of the issues that different fields of knowledge face today in terms of their articulation and the reorganization of their boundaries. On the other hand, it aimed to act as a participating element in the process of curriculum reorganization that schools will increasingly need to undertake, as well as a support mechanism for experimenting with interdisciplinary practices and integrating knowledge*.
 
 * Member of the international research project **Leibniz the Polemicist**, Institute for Advanced Studies, Hebrew University of Jerusalem, Israel (head by Marcelo Dascal) (1994-1998).
 * Member of the research project **O Ensino na Faculdade de Ciencias / Teaching at the Faculty of Sciences)**, CIE-FCUL(head by Maria Odete Valente),(1995-1998). 
