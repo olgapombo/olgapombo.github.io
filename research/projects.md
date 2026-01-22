@@ -35,6 +35,9 @@
 
 * Co-founder (with Joâo Lopes Alves, Zaza Carneiro de Moura, Ana Figueiredo and Filomena Mölder) of the research project **Jean-Jacques Rousseau**, Portuguese Society for Philosophy (1977 - 1979). 
 * Co-founder (with Teresa Levy and Henrique Guimaraes) of the research project **[Mathesis](https://webpages.ciencias.ulisboa.pt/~ommartins/mathesis/index.htm)**, Calouste Gulbenkian Foundation  (1989-1995).
+
+> ###### The project had a dual nature. On one hand, it aimed at the theoretical clarification of the concept of interdisciplinarity and the understanding of the issues that different fields of knowledge face today in terms of their articulation and the reorganization of their boundaries. On the other hand, it aimed to act as a participating element in the process of curriculum reorganization that schools will increasingly need to undertake, as well as a support mechanism for experimenting with interdisciplinary practices and integrating knowledge.
+
 * Member of the international research project **Leibniz the Polemicist**, Institute for Advanced Studies, Hebrew University of Jerusalem, Israel (head by Marcelo Dascal) (1994-1998).
 * Member of the research project **O Ensino na Faculdade de Ciencias / Teaching at the Faculty of Sciences)**, CIE-FCUL(head by Maria Odete Valente),(1995-1998). 
 * Member of the research project, **A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais / The University of Lisbon. From the Idea of University to the Institutional Practices**, Rectory of the University of Lisbon (head by Maria Odete Valente) (1997-1999).
