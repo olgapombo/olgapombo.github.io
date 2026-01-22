@@ -11,6 +11,8 @@ bg_image: quinta
     </div>
     <div style="flex: 1;">
         <ul style="list-style-type: none; padding-left: 0; font-size: 1rem;">
+            </div>
+            </div>
             <li><a href="/opening_statement.html" style="color: #ff0; font-weight: bold;">Opening statement</a></li>
             <li><a href="/academic_profile.html" style="color: #ff0; font-weight: bold;">Academic profile</a></li>
             <li><a href="/publications.html" style="color: #ff0; font-weight: bold;">Publications</a></li>
