@@ -1,9 +1,9 @@
 
 ## Conferences and talks 
 
-###### [Online conferences and talks](#Online-conferences-and-talks) | [Conferences](#Conferences) | [Public talks](#Public-talks) | [Debates and round tables](#Debates-and-round-tables) | [Book presentations](#Book-presentations) | [Dissemination talks](#Dissemination-talks)
+###### [Online conferences and talks](#online-conferences-and-talks) | [Conferences](#conferences) | [Public talks](#public-talks) | [Debates and round tables](#debates-and-round-tables) | [Book presentations](#book-presentations) | [Dissemination talks](#dissemination-talks)
 
-### Online conferences and talks  
+### <a name="online-conferences-and-talks"></a>Online conferences and talks  
 
 * [**Filosofia, Física e a Unidade da Ciência**](https://www.youtube.com/watch?v=BYRnpdQxbhU) (**Philosophy, Physics and the Unity of Science**), Conference Cycle “Física sem Fronteiras", Portuguese Physics Society and Physics Department of the Universitdade do Porto, Oporto, 7 May 2005.
 * **Darwin and the Scientific Illustration**, research project “Image in Science and Art” in collaboration with Ciência Viva, Knowledge Pavilion, Lisbon, 21-22 April 2009 ([here](http://www.cvtv.pt/imagens/index.asp?id_video=293)).
@@ -32,7 +32,7 @@
 * [**Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior**](https://www.engium.uminho.pt/eeum50/), (**Truth and Speed: Two Concepts for Thinking About the Future of Higher Education**), invited talk at the debate “Possíveis Estratégias para o futuro do Ensino Superior em Portugal. Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 novembro 2025 
 
   
-### Conferences 
+### <a name="conferences"></a> Conferences 
 
 * **The leibnizian theory of the representativity of the sign**,  “IV Internationale Konferenz zur Geschichte der Sprachwissenschaften”, Trier, Germany, 26 August 1987.  
 * **La théorie leibnizienne de la pensée aveugle en tant que perspective sur quelques des apories linguistiques de la modernité**, invited speaker at the “International colloquium Readings of Modernity”, Franco-Portuguese Institut, Lisboa, 27 May 1987.
@@ -207,7 +207,7 @@
 *	**Aporias do actual conceito de novo**, Keynote speaker at the 6º Congresso Internacional de Filosofia, organized by  Sociedade Portuguesa de Filosofia, Faculdade de Letras da Universidade de Lisboa. 1 - 3  September, 2025. 
 
 
-### Public Talks 
+### <a name="public-talks"></a> Public Talks 
 
 * **Deriva a partir de Rousseau**, Portuguese Philosophy Society,  Lisboa, 24 May 1979. 
 * **Do texto no ensino da Filosofia**,"Segundo Encontro Nacional de Professores de Filosofia", Fundação Calouste Gulbenkian,  Lisboa, 15 February 1980.  
@@ -281,7 +281,7 @@
 * **Da civilização da palavra a civilização da imagem**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 5 maio 2026
 
 
-### Debates and round tables
+### <a name="debates-and-round-tables"></a> Debates and round tables
 
 * **Da filosofia como pedagogia**, participation at a round table on the “Teaching Philosophy”, Faculty of Letters, University of Lisbon, 19 April 1985.
 * **O estatuto de um programa de filosofia**, participation at a round table organized by the Portuguese Philosophy Society, 6 June 1989.
@@ -323,7 +323,7 @@
 * **Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior**,  invited  talk at the debate “Possíveis Estratégias para o futuro do Ensino Superior em Portugal. Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 de novembro 2025 [(vídeo)](https://www.engium.uminho.pt/eeum50)
 
 
-###  Book presentations 
+###  <a name="book-presentations"></a> Book presentations 
 
 * **Notas de leitura à margem de uma antologia**, presentation of the book edited by Irene Borges Duarte, Maria Fernanda Henriques and Isabel Matos Dias, “Texto, Leitura e Escrita. Antologia” (Porto: Porto Editora, 2000), Lisboa, Bookshop Barata, 28 March 2001.
  * **Enciclopédia e hipertexto. Continuidade e inovação**, presentation of the book edited by José António Cordon Garcia’s "De D'Alembert ao CD-Rom", "I Encontro de Bibliotecas do Ensino Superior. Conhecimento, Qualidade e Inovação", Instituto de Psicologia Aplicada, Lisboa, 18 December 2003.
@@ -376,7 +376,7 @@
 * **Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge.  Interdisciplinarity in the XXI Century**, edited by Olga Pombo, K. Gaertner, J. Jesuíno (eds.) (2023), Dordrecht / Heidelberg / London /New York: Springer, series “Logic, Argumentation & Reasoning”, vol. 31, presentation of the book by Olga Pombo at the international symposium “Interdisciplining Knowledge: Humanities, Sciences and Culture”, organized by the Centre for Interdisciplinary Studies of the University of Coimbra in partnership with the Municipality of Coimbra, Casa da Cidadania da Língua, Coimbra, 6-7 December 2023.
 
 
-### **Dissemination talks** 
+###  <a name="dissemination-talks"></a> **Dissemination talks** 
 
 * **A Matemática da “Alice no País das Maravilhas”**, invited talk at the Almada High School, Almada, 5 May 2025.
 * **Ciência e escola. Uma relação constitutiva**, invited talk at conference cycle “Knowledges in dialogue. Transdisciplinary crossings”, D. Dinis High School, Lisboa, 8 February 2020.
