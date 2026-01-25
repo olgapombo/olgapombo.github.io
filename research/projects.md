@@ -1,8 +1,8 @@
 ## Research 
-###### [Research centers](#research-centers) | [Research projects](#research-projects) | [Scientific societies](#Scientific-societies) | [Networks](#networks) | [Journal boards](#Journal-boards) 
+###### [Research centers](#research-centers) | [Research projects](#research-projects) | [Scientific societies](#scientific-societies) | [Networks](#networks) | [Journal boards](#journal-boards)  | [Organization of scientific meetings](#organization-of-scientific-meetings)
 
 
-### Research centers
+### <a name="research-centers"></a> Research centers
 
 * 2003 - Founder of  the “Research Centre for Philosophy of Sciences of the University of Lisbon” (CFCUL), research unit financed by the Portuguese Foundation for Science and Technology (FCT).
 * 2003-20017 - Scientific coordinator of the **[Research Center for Philosophy of Science of the University of Lisbon” (CFCUL)](https://arquivo.pt/wayback/20140925030955/http://cfcul.fc.ul.pt/)**, since 2003 up to my retirement in January 2017.
@@ -11,7 +11,7 @@
 * 1994-2003 - Integrated member of the “Research Center in Education” (CIEFCUL), Faculdade de Ciencias, University of Lisbon 
 
 
-### Research projects
+### <a name="research-projects"></a> Research projects
 
 #### Coordination (PI) of research projects and groups (RG)
 
@@ -57,7 +57,7 @@
 * Member of the international project **Complejidad y filosofía natural en el cruce de arte y Ciência / Complexity and Natural Philosophy in the crossing of art and science**, funded by PAPIIT, Mexico (head by María Antonia González Valerio) (2015-2017).
 
 
-### Scientific societies
+### <a name="scientific-societies"></a> Scientific societies
 
 * Member of the Directory Board of the **[Associação Bento Jesus Caraça](https://www.associacaobentodejesuscaraca.pt/)**, Lisboa (since 2025)
 * President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (since 2022)
@@ -80,7 +80,7 @@
 * Member of the **[Sociedade Portuguesa de Filosofia](https://www.spfil.pt/)**, Lisboa (since its foundation in 1977).
 
 
-### Networks 
+### <a name="networks"></a> Networks 
 
 * Member of the scientific network **[RED Iberoamericana Leibniz](http://leibniz.es/red-iberoamericana-leibniz/)**, Granada, Spain (since 2003)
 * Member of the International Research Network, **[Système d'Information en Philosophie des Sciences](https://mshe.univ-fcomte.fr/sips)** (head by Thierry Martin (2007-2020). 
@@ -88,7 +88,7 @@
 * Member of the **[POND Network - Philosophy of Science Around the Mediterranean](https://pondposmed.wordpress.com/)** (since 2017)
 
 
-### Journal boards
+### <a name="journal-boards"></a> Journal boards
 
 * Member of the editorial board of the journal [Latin American Human Rights Studies (LAHRS)](https://revistas.ufg.br/lahrs), Programa de pós-graduação Interdisciplinar em Direitos Humanos, Universidade Federal de Goiás (UFG), Brazil (since 2021).
 * Member of the international editorial board of the journal **Currículo, Cultura e Identidade**, Unesp. Sao Paulo, Brazil (since 2020)
@@ -111,7 +111,7 @@
 * Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
 
 
-### Organization of scientific meetings
+### <a name="organization-of-scientific-meetings"></a> Organization of scientific meetings
 
 #### International scientific meetings
 
