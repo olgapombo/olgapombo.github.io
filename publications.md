@@ -1,15 +1,15 @@
 ## Publications 
-######  | [Dissertations](#Dissertations) | [Books (author)](#Books-author) | [Books (editor)](#Books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#Encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal editor](#Journal-editor) | [Online works](#Online-works) | [Preprints and working papers](#Preprints-and-working-papers)
+######  | [Dissertations](#dissertations) | [Books (author)](#dooks-author) | [Books (editor)](#books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal editor](#Journal-editor) | [Online works](#Online-works) | [Preprints and working papers](#Preprints-and-working-papers)
 
 
 
-### <a name="Dissertations"></a>Dissertations
+### <a name="dissertations"></a>Dissertations
 
 * Pombo, Olga (1986) - **Leibniz e o Problema de uma Língua Universal**, Master dissertation in “Modern Philosophy” Faculty of Social and Human Sciences, New University of Lisbon (**[table of contents](https://webpages.ciencias.ulisboa.pt/~ommartins/leibniz/leibnizcont.htm)**)
 * Pombo, Olga (1998) - **Unidade da Ciência e Configuração Disciplinar dos Saberes. Contributos para uma Filosofia do Ensino** PhD dissertation in “History and Philosophy of Education”, University of Lisbon (**[abstract](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/tese.htm)**)
   
 
-### <a name="Books-author"></a>Books (author)
+### <a name="books-author"></a>Books (author)
 
 1.	Pombo, Olga (1987) **[Leibniz and the Problem of a Universal Language](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf)**, Münster: Nodus Publikationen, 321 pp.  ISBN 3-89323-303-2 
 2.	Pombo, Olga (1993) with Teresa Levy and Henrique Guimarães, **[A Interdisciplinaridade: Reflexão e Experiência](https://biblioteca.cm-valedecambra.pt/nyron/Library/catalog/winlibsrch.aspx?skey=96427A1FC89A4AF28279FA03D2B7FE15&pesq=5&thes1=9831&dtype=lista&doc=8527) Interdisciplinarity: Reflection and Experience**, Lisboa: Texto, 96 pp. ISBN 972-47-0462-9. (2nd revised and extended edition, 1994, 102 pp. ISBN 978-9724704623).
@@ -34,7 +34,7 @@
 17.	Pombo, Olga (2026), **Cartographies of Knowledge**, Lisboa: Mariposa Azul (forthcoming)
 
 
-### <a name="Books-editor"></a>Books (editor)
+### <a name="books-editor"></a>Books (editor)
 
 1.	Olga Pombo; Teresa Levy; Henrique Guimarães (eds.) (1990) **Antologia I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**, Lisboa: Mathesis / DEFCUL, 177 pp., DL: 44162/90.
 2.	Olga Pombo; Teresa Levy; Henrique Guimarães; José Manuel Conceição (eds.) (1992) **Antologia II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências**,  Lisboa: Mathesis / DEFCUL, 214 pp. 
@@ -180,7 +180,7 @@ ISBN: 978-65-80103-02-7
 99.	Pombo, Olga, “**For a cartography of the concept of creation**”, in Nuno Proença (ed.), *Invention and Imagination*, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming).
 
 
-### <a name="Encyclopaedia-entries"></a>Encyclopaedia entries
+### <a name="encyclopaedia-entries"></a>Encyclopaedia entries
 
 1. Pombo, Olga (2013), **“Encyclopedia”**, in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257. DOI: http://dx.doi.org/10.4135/9781452276052
 
