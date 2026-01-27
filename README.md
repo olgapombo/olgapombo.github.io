@@ -21,7 +21,7 @@ bg_image: quinta
             <li><a href="/preprints.html" style="color: #ff0; font-weight: bold;">Preprints</a></li>
             <li><a href="/organization_scientific_meetings.html" style="color: #ff0; font-weight: bold;">Organization of scientific meetings</a></li>
             <li><a href="/interviews.html" style="color: #ff0; font-weight: bold;">Interviews</a></li>
-            <li><a href="/each_life.html" style="color: #ff0; font-weight: bold;">Each life is an encyclopaedia</a></li>     
+            <li><a href="/each_life.html" style="color: #ff0; font-weight: bold;">Each life...</a></li>     
         </ul>    
     </div>
 </div>
