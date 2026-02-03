@@ -43,7 +43,6 @@ bg_image: quinta
             <li style="color: #ff0;">|</li>
             <li><a href="/each_life.html" style="color: #ff0; font-weight: bold;">Each life...</a></li>     
         </ul>
-    <!-- /Test -->
 </div>
 
 <hr>
