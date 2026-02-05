@@ -27,13 +27,13 @@ bg_image: quinta
             <li style="color: #ff0;">|</li>
             <li><a href="/publications.html" style="color: #ff0; font-weight: bold;">Publications</a></li>
             <li style="color: #ff0;">|</li>
-            <li><a href="/onlinetalks.html" style="color: #ff0; font-weight: bold;">Conferences and talks</a></li>
+            <li><a href="/onlinetalks.html" style="color: #ff0; font-weight: bold;">Talks</a></li>
             <li style="color: #ff0;">|</li>
-            <li><a href="/research/projects.html" style="color: #ff0; font-weight: bold;">Research / projects</a></li>
+            <li><a href="/research/projects.html" style="color: #ff0; font-weight: bold;">Research</a></li>
             <li style="color: #ff0;">|</li>
             <li><a href="/supervision.html" style="color: #ff0; font-weight: bold;">Supervision</a></li>
             <li style="color: #ff0;">|</li>
-            <li><a href="/teaching_doctoral_program.html" style="color: #ff0; font-weight: bold;">Teaching / doctoral program</a></li>
+            <li><a href="/teaching_doctoral_program.html" style="color: #ff0; font-weight: bold;">Teaching</a></li>
             <li style="color: #ff0;">|</li>
             <li><a href="/preprints.html" style="color: #ff0; font-weight: bold;">Preprints</a></li>
             <li style="color: #ff0;">|</li>
