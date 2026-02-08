@@ -4,24 +4,28 @@
 beeing done, beeing done, beeing done, beeing done, beeing done, beeing done....
 
 
+
+
 **O meu pai**
 
 
-O meu pai gostava muito de tirar fotografias. Esta foi tirada em 1952, em S. Cosmado, a aldeia do Alto Douro em que a minha mãe nasceu e onde iamos, todos os anos, passar as férias grandes. 
+O meu pai gostava muito de fotografias. Com a sua máquina kodak a tiracolo, ele tirava magnificas fotografias familiares, cristais de memória da minha infancia, festas de anos, passeios, encontros, acontecimentos relevantes da vida familiar.  Mas tambem virava a objetiva para fora, para longe, para o mundo distante do circulo familiar. Esta foi tirada em 1952, em S. Cosmado, a aldeia do Alto Douro em que a minha mãe nasceu e onde íamos, todos os anos, passar as férias grandes. 
 
 ![foto tirada pelo meu pai em S. Cosmado, em 1952](images/foto_meu_pai-Scosmado_1952.jpg "foto tirada pelo meu pai em S. Cosmado, em 1952")
 
-É a fotografia de um menino, como havia muitos na aldeia. Descalço, vestido de trapos, ele era bem a expressao de Portugal nos anos 50. Da miseria, da pobreza. O que deslumbra é a força serena mas interrogativa com que o menino nos olha de frente. 
+É a fotografia de um menino, como havia muitos na aldeia. Descalço, vestido de trapos, ele era bem a expressao do nosso país nos anos 50. Da miséria, da pobreza. O que deslumbra é a força serena mas interrogativa com que o menino nos olha de frente. 
 
 
-Mas, a grande paixao do meu pai eram os livros. 
-Tinha-os por todo o lado.  No escritorio, na sala, nos corredores, na casa de jantar, atras das portas, em prateleiras ate ao tecto, nos quartos, na marquise, na dispensa, em tudo o que era armário, ou secretária, ou mesinha de cabeceira.
+Mas, a grande paixao do meu pai eram os livros. Tinha-os por todo o lado.  No escritorio, na sala, nos corredores, na casa de jantar, atras das portas, nos quartos, na marquise, na dispensa, em prateleiras até ao tecto, em tudo o que era armário, ou secretária, ou mesinha de cabeceira. 
 
-Não pude ficar com todos os seus livros. Eu tambem tinha os meus e a minha casa não era sufucientemente grande para juntar os dele aos meus.
+Um admirável estudioso, um erudito dominado por uma curiosidade comovente. Ele era também um bibliófilo que amava os livros na sua materialidade. O seu cheiro, o seu peso, a sua espessura. 
 
-Um admirável estudioso, um erudito dominado por uma curiosidade comovente. Ele era também um bibliófilo que, além de uma biblioteca de mais de 10.000 livros, deixou um livro que nunca chegou a escrever. Milhares de fichas, anotações, apontamentos que coleccionava por temas, rascunhos, notas, recortes de jornais e revistas, postais, prospectos que selecionava segundo critérios muito estritos, em função de um livro que planeava escrever e que nunca acabou de escrever. Na sua forma estranha, guardados em pastas e caixas de sapatos, esses milhares de documentos de todo o tipo que o meu pai colecionou ao longo da sua vida, configuram um livro que ele nao escreveu. Um projecto intenso, a que dedicou muito da sua vida. Um livro que ele poderia ter escrito. Lvro que, embora não se possa ler no normal formato in folio, como conjunto de paginas ligadas sequencialmente umas às outras, de acordo com uma numeração contínua, não deixa de ser uma viagem com um resultado palpavel: os seus "papeis"
+Na despedida, não pude ficar com todos os seus livros. Eu tambem tinha os meus e a minha casa não era sufucientemente grande para juntar os dele aos meus. Guardei apenas umas centenas de exemplares sobre as varias zonas de interesse de que era constituída a sua biblioteca: muita Filosofia, muita História, religiões, economia, sociologia, linguística.   
 
-Acabei por os entregar "os papeis" do meu pai ao Pacheco Pereira que, amavelmente, os veio buscar a minha casa e os guardou no Arquivo Ephemera por si tão bem criado e coordenado. 
+Além de uma biblioteca de mais de 10.000 livros, deixou também um livro que nunca chegou a escrever. Milhares de fichas, anotações, apontamentos que coleccionava por temas, rascunhos, notas, recortes de jornais e revistas, postais, prospectos que selecionava segundo critérios muito estritos, em função de um livro que planeava escrever, que poderia ter escrito, que nunca acabou de escrever. Na sua forma estranha, guardados em pastas e caixas de sapatos, esses milhares de documentos de todo o tipo que o meu pai colecionou ao longo da sua vida, configuram um livro que ele nao escreveu. Um projecto intenso, a que dedicou muito da sua vida. Livro que, embora não se possa ler no normal formato in folio, como conjunto de paginas ligadas sequencialmente umas às outras, de acordo com uma numeração contínua, não deixa de ser uma viagem com um resultado palpavel: os seus "papeis"
+
+Tive "os papeis" do meu pai guardados em caixotes em minha casa. Nao sabia o que lhes havia de fazer. Acabei por os entregar ao Pacheco Pereira que, amavelmente, os recebeu e guardou no Arquivo Ephemera por si tão bem criado e coordenado. 
+
 Nessa altura, e a seu pedido, redigi uma brevissima nota biográfica do meu pai para 
 sinalizar a entrada dos seus "papeis" no Arquivo Ephemera. 
 
