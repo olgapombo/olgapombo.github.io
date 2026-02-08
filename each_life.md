@@ -13,14 +13,14 @@ O meu pai gostava muito de tirar fotografias. Esta foi tirada em 1952, em S. Cos
 
 É a fotografia de um menino, como havia muitos na aldeia. Descalço, vestido de trapos, ele era bem a expressao de Portugal nos anos 50. 
 
+
 Mas, a grande paixao do meu pai eram os livros. 
 Tinha-os por todo o lado.  No escritorio, na sala, nos corredores, na casa de jantar, atras das portas, em prateleiras ate ao tecto, nos quartos, na marquise, na dispensa, em tudo o que era armário, ou secretária, ou mesinha de cabeceira.
 
 Não pude ficar com todos os seus livros. Eu tambem tinha os meus e a minha casa não era sufucientemente grande para juntar os dele aos meus.
 
-Amava também os seus "papeis": recortes de jornais, fichas de leitura, postais, milhares de apontamentos que coleccionava por temas, em pastas e caixas de sapatos. 
 
-Um admirável estudioso, um erudito dominado por uma curiosidade comovente. Também ele era um bibliófilo que, além de uma biblioteca de mais de 10.000 livros, deixou um livro que nunca chegou a escrever. Milhares de fichas, anotações, apontamentos que coleccionava por temas, rascunhos, notas, recortes de jornais e revistas, postais, prospectos que selecionava segundo critérios muito estritos, em função de um livro que planeava escrever e que nunca acabou de escrever. Na sua forma estranha, guardados em pastas e caixas de sapatos, esses milhares de documentos de todo o tipo que o meu pai colecionou ao longo da sua vida, configuram um livro que ele nao escreveu. Um projecto intenso, a que dedicou muito da sua vida. Um livro que ele poderia ter escrito. Lvro que, embora não se possa ler no normal formato in folio, como conjunto de paginas ligadas sequencialmente umas às outras, de acordo com uma numeração contínua, nao deixa de ser uma viagem com um resultado palpavel.
+Um admirável estudioso, um erudito dominado por uma curiosidade comovente. Também ele era um bibliófilo que, além de uma biblioteca de mais de 10.000 livros, deixou um livro que nunca chegou a escrever. Milhares de fichas, anotações, apontamentos que coleccionava por temas, rascunhos, notas, recortes de jornais e revistas, postais, prospectos que selecionava segundo critérios muito estritos, em função de um livro que planeava escrever e que nunca acabou de escrever. Na sua forma estranha, guardados em pastas e caixas de sapatos, esses milhares de documentos de todo o tipo que o meu pai colecionou ao longo da sua vida, configuram um livro que ele nao escreveu. Um projecto intenso, a que dedicou muito da sua vida. Um livro que ele poderia ter escrito. Lvro que, embora não se possa ler no normal formato in folio, como conjunto de paginas ligadas sequencialmente umas às outras, de acordo com uma numeração contínua, não deixa de ser uma viagem com um resultado palpavel: os seus "papeis"
 
 Acabei por os entregar "os papeis" do meu pai ao Pacheco Pereira que, amavelmente, os veio buscar a minha casa e os guardou no Arquivo Ephemera por si tão bem criado e coordenado. 
 Nessa altura, e a seu pedido, redigi uma brevissima nota biográfica do meu pai para 
