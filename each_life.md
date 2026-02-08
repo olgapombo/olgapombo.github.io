@@ -8,7 +8,7 @@ beeing done, beeing done, beeing done, beeing done, beeing done, beeing done....
 
 
 O meu pai gostava muito de tirar fotografias. Esta foi tirada em 1952, em S. Cosmado, a aldeia do Alto Douro em que a minha mãe nasceu e onde iamos, todos os anos, passar as férias grandes. 
-(image/foto_meu_pai-Scosmado_1952.jpg.image)
+
 ![foto tirada pelo meu pai em S. Cosmado, em 1952](images/foto_meu_pai-Scosmado_1952.jpg "foto tirada pelo meu pai em S. Cosmado, em 1952")
 
 Mas, a grande paixao do meu pai eram os livros. 
