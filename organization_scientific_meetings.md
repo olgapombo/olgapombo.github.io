@@ -97,36 +97,32 @@
 
 ### <a name="other-scientific-meetings"></a> Other scientific meetings
 
-* Member of the organizing committee for the **First National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1978.
-* Member of the organizing committee for the **Second National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1979.
-* Member of the organizing committee for the **Third National Encounter of Philosophy Teachers**, put forward by the “Portuguese Society of Philosophy (SPF)”, held at Calouste Gulbenkian Foundation, 1980.
-* Member of the organizing commitee of the workshop **Investigação e Ensino**, held at FCUL, 20 February 1987.
-* Member of the organizing committee of the **Segundo Encontro Filosofia em Contextos Não-Filosóficos**, held at FCUL, June 1987.
-* Coordinator of the **Interdisciplinary Seminar on Bachelard**, held at FCUL, May 1988. 
-* Organizer with Teresa Levy and Henrique Guimaraes of the **1st Forum on Interdisciplinarity Experiences**, held at Marquês de Pombal High School, January 1991. 
-* Organizer with Teresa Levy and Henrique Guimaraes of the workshop **Interdisciplinarity and Environmental Education**, put forward by the Department of Education, held at FCUL, March 1991. 
-* Organizer with Teresa Levy and Henrique Guimaraes of the workshop **O que é a Interdisciplinaridade?**,  held at FCUL, March 1991. 
-* Organizer with Teresa Levy and Henrique Guimaraes of the **2nd Forum on Interdisciplinarity Experiences**, held at Marquês de Pombal High School, July 1991.
-
-* Co-organizer of the series of **Seminars of History and Philosophy of Sciences**, held at FCUL (2000-2003) (7 sessions)
-* Coordinator of the series **Conferences on Philosophy of Science**, put forward by the CFCUL, held FCUL (2004-2016).
+* Member of the organizing committee for the **First National Encounter of Philosophy Teachers**, “Portuguese Society of Philosophy (SPF)”, Calouste Gulbenkian Foundation, 1978.
+* Member of the organizing committee for the **Second National Encounter of Philosophy Teachers**, “Portuguese Society of Philosophy (SPF)”, Calouste Gulbenkian Foundation, 1979.
+* Member of the organizing committee for the **Third National Encounter of Philosophy Teachers**, “Portuguese Society of Philosophy (SPF)”, Calouste Gulbenkian Foundation, 1980.
+* Member of the organizing commitee of the workshop **Investigação e Ensino**, FCUL, 20 February 1986.
+* Member of the organizing committee of the **Segundo Encontro Filosofia em Contextos Não-Filosóficos**, FCUL, June 1987.
+* Coordinator of the **Interdisciplinary Seminar on Bachelard**,  FCUL, May 1988. 
+* Co-Organizer**1st Forum on Interdisciplinarity Experiences**, Marquês de Pombal High School, January 1991. 
+* Co-Organizer of the workshop **Interdisciplinarity and Environmental Education**, FCUL Department of Education, FCUL, March 1991. 
+* Co-Organizer of the workshop **O que é a Interdisciplinaridade?**, FCUL, March 1991. 
+* Co-Organizer **2nd Forum on Interdisciplinarity Experiences**,  Marquês de Pombal High School, July 1991.
+* Co-organizer of the series **Seminars of History and Philosophy of Sciences**, held at FCUL (2000-2003) (7 sessions)
+* Coordinator of the Series **Conferences on Philosophy of Science**, put forward by the CFCUL, held FCUL (2004-2016).
 * Member of the organizing committee of the colloquium **Ainda nao doente. Contributos multidisciplinares para uma filosofia da Saude**, put forward by the CFCUL in collaboration with the Center for Bioethics of the Faculty of Medicine University of Lisbon and the Calouste Gulbenkian Foundation, held at Instituto de Ciências Sociais of the University of Lisbon (ICS), March 2004.
-
-* Founder and coordinator of the **“Permanent Seminar on Philosophy of Science”**, organized by the CFCUL, held at FCUL, from 2004 until 2020.
+* Founder and coordinator of the [**Permanent Seminar on Philosophy of Science**](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), organized by the CFCUL, held at FCUL, from 2004 until 2020.
 > * [Permanent Seminar of Philosophy of Science](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), (2004) (5 sessions).
 > * Permanent Seminar of Philosophy of Sciences, (2005-2013) (27 sessions).
 > * [Permanent Seminar of Philosophy of Sciences](https://cfcul.mcmlxxvi.net/Seminarios/seminariopermanentefc.php), (2014-2020) (46 sessions)
-
-* Coordinator of the workshop **Sobre o Indeterminismo / On Indeterminism**, put forward by the CFCUL, held at Lisbon Science Museum, 9 March 2005. 
-* Coordinator of the workshop **Como Pensar as Relações entre a História e a Filosofia das Ciências?**, put forward by the CFCUL, held at FCUL, 21 June 2006. 
-* Coordinator of the workshop **Ciência e Filosofia entre Rómulo de Carvalho e António Gedeão**, put forward by the CFCUL in the context of the “National Science and Technology Week”, held at FCUL, 24 November 2006.
-* Coordinator of the workshop **Arte e Ciência como Criação. Em torno de Gaston Bachelard**, put forward by the CFCUL, held at FCUL, 26 January 2007. 
-* Organizer of the national colloquium **Darwinismo versus Creacionismo: onde começa e acaba uma teoria cientifica?**, put forward by the CFCUL in collaboration with Centro de Biologia Ambiental (CBA), Sociedade Portuguesa de Ciências Naturais (SPCN), Central Library of FCUL and Livraria Escolar Editora, held at FCUL, March 2007.
-   
-* Coordinator of the seminar series **Aproximações ao Conceito de Imagem**, put forward by the FCT Project “Image in Science and Art”, held at FCUL, 2007-2011 (21 sessions).
-> * I. Deleuze e a imagem”, 7 May 2007
+* Coordinator of the workshop **Sobre o Indeterminismo / On Indeterminism**, CFCUL, Lisbon Science Museum, 9 March 2005. 
+* Coordinator of the workshop **Como Pensar as Relações entre a História e a Filosofia das Ciências?**, CFCUL, FCUL, 21 June 2006. 
+* Coordinator of the workshop **Ciência e Filosofia entre Rómulo de Carvalho e António Gedeão**, CFCUL in the context of the “National Science and Technology Week”, FCUL, 24 November 2006.
+* Coordinator of the workshop **Arte e Ciência como Criação. Em torno de Gaston Bachelard**, CFCUL, FCUL, 26 January 2007. 
+* Organizer of the national colloquium [**Darwinismo versus Creacionismo: onde começa e acaba uma teoria cientifica?**](https://forum.bolseiros.org/viewtopic.php?t=1844),  CFCUL in collaboration with Centro de Biologia Ambiental (CBA), Sociedade Portuguesa de Ciências Naturais (SPCN), Central Library of FCUL & Livraria Escolar Editora, FCUL, March 2007. 
+* Coordinator of the seminar series **Aproximações ao Conceito de Imagem**,  FCT Project “Image in Science and Art”,  FCUL, 2007-2011 (21 sessions).
+> * I. Deleuze e a imagem, 7 May 2007
 > * II. As imagens da arte, 18 June 2007.
-> * III. As Imagens e as drogas”, 16 July 2007.
+> * III. As Imagens e as drogas, 16 July 2007.
 > * IV. Passagens”, 24 September 2007.
 > * V. Desenho cientifico e pensamento selvagem, 8 October 2007.
 > * VI. Imagens da Natureza e natureza das imagens, 18 February 2008.
@@ -137,38 +133,35 @@
 > * XI. A imagens e os sistemas evolutivos, 10 December 2009.
 > * XII. Analogia e metáfora na representação grafica, 18 January 2010.
 > * XIII. Modelos de razionamento bioinspirados, 18 January 2010.
-> * XIV. O uso da imagem na Biomecânica Computacional , 18 February 2010.
+> * XIV. O uso da imagem na Biomecânica Computacional, 18 February 2010.
 > * XV. O mapa como experiencia perceptiva, 22 March 2010.
 > * XVI. Observação, 12 April 2010.
 > * XVII. Corpo e imagem, 26 April 2010.
-> * Indisciplinaridade no desenho, 24 May 2010.
+> * XVIII. Indisciplinaridade no desenho, 24 May 2010.
 > * XIX. Evolução da arte, 7 June 2010.
 > * XX. Neurobiologia da arte, 14 June 2010.
-> * XXI. Neuroimagens, 16 December 2010.
-
+> * XXI. Neuro-imagens, 16 December 2010.
 * Coordinator of the workshop **Os Lugares da Epistemologia e da Poética em Gaston Bachelard**, FCUL, 10 December 2007.
-* Coordinator of the workshop **Introdução ao processamento e analise de imagem**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 4 and 8-10 September 2008. 
-* Coordinator of the workshop **A Ilustração Científica e a Construção do Conhecimento**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 4-5 December 2008. 
-* Coordinator of the workshop **As Imagens com que a Ciência se Faz**, put forward by the FCT project “Image in Science and Art”, held at FCUL, 25 May 2009.
-*	Organizer of the *Jornadas de Pos-Graduação* (postgraduated journeys) put forward by the Department of History and Philosophy of Science, held at FCUL, Lisbon, 31 March and 1 April 2011.  
-*	Coordinator of the seminar **Reading Whitehead**, held at FCUL, June-July 2011 (4 sessions). 
-*	Coordinator of the colloquium **O Lugar da Filosofia da Ciência na nova Universidade de Lisboa**, put forward by the CFCUL, held at Rectory of the University of Lisbon, January 2013. 
-*	Coordinator of the workshop **Qual é a diferença entre Ciência e Filosofia?** / What’s the difference between Science and Philosophy? ”, put forward by CFCUL “AppEEL Lab” and the “Ciência Viva Agency Evolution Day”, held at Knowledge Pavilion, Lisbon, March 2013.
-
-* Coordinator of the *Jornadas de Doutoramento*, organized in the context of  the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 7-8 June 2017.
-* Coordinator of the *Jornadas de Doutoramento*, organized in the context of the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 14-21 June 2018.
-* Coordinator of the *Jornadas de Doutoramento*, organized in the context of  the Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), held at FCUL, 9, 16, 23, 30 May 2019.
+* Coordinator of the workshop **Introdução ao processamento e analise de imagem**, FCT project “Image in Science and Art”,  FCUL, 4 and 8-10 September 2008. 
+* Coordinator of the workshop **A Ilustração Científica e a Construção do Conhecimento**, FCT project “Image in Science and Art”, FCUL, 4-5 December 2008. 
+* Coordinator of the workshop **As Imagens com que a Ciência se Faz**, FCT project “Image in Science and Art”, FCUL, 25 May 2009.
+*	Organizer of the *Jornadas de Pos-Graduação* (postgraduated journeys) Department of History and Philosophy of Science,  FCUL, Lisbon, 31 March and 1 April 2011.  
+*	Coordinator of the seminar series **Reading Whitehead**, FCUL, June-July 2011 (4 sessions). 
+*	Coordinator of the colloquium **O Lugar da Filosofia da Ciência na nova Universidade de Lisboa**, CFCUL, Rectory of the University of Lisbon, January 2013. 
+*	Coordinator of the workshop **Qual é a diferença entre Ciência e Filosofia? / What’s the difference between Science and Philosophy?**, CFCUL “AppEEL Lab” & “Ciência Viva Agency Evolution Day”, held at Knowledge Pavilion, Lisbon, March 2013.
+* Coordinator of the *Jornadas de Doutoramento*,  Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), FCUL, 7-8 June 2017.
+* Coordinator of the *Jornadas de Doutoramento*, Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), FCUL, 14-21 June 2018.
+* Coordinator of the *Jornadas de Doutoramento*, Doctoral Program on Philosophy of Science, Technology, Art and Society (PD-FCTAS), FCUL, 9, 16, 23, 30 May 2019.
 
 
 ### <a name="science-communication-and-outreach"></a> Science communication and outreach
 
-* Coordinator of the conference series [**Encontros Agostinho da Silva**](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/index.htm), held at FCUL (1998-2000) (9 sessions)
-* Coordinator of the film cycle [**Cinema e Educação /Film and Education**](https://webpages.ciencias.ulisboa.pt/~ommartins/cinema/index.htm), held at FCUL (2000-2003) (5 sessions)
-* Coordinator of the workshop **Giordano Bruno morreu na fogueira em Fevereiro de 1600**, put forward by the CFCUL, held at FCUL, 14 February 2007. (some info [**here**](https://cfcul.mcmlxxvi.net/projectos/grandes%20figuras/actividades/2007/giordanobruno/)
-* Co-organizer of the workshop **Os últimos dias de Giordano Bruno**, put forward by CFCUL in collaboration with the Teatro da Escola Politécnica and “Cátedra A Razão”, held at Escola Politécnica Theater, Lisbon, 19 February 2008. (see [**here**](https://cfcul.mcmlxxvi.net/projectos/grandes%20figuras/actividades/2008/giordanobruno/))
-* Co-organizer of the workshop **Sobre Galileu**, put forward by CFCUL in collaboration with Teatro da Escola Politécnica and “Cátedra A Razão”, held Escola Politécnica Theater, Lisbon, 18 April 2008.
-
-* Organizer of the monthly talks **“Philosophy at the Library”**, put forward by the municipal Library *Biblioteca-Espaço Cultural Cinema Europa*, Lisbon
+* Coordinator of the conference series [**Encontros Agostinho da Silva**](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/index.htm), FCUL (1998-2000) (9 sessions)
+* Coordinator of the film cycle [**Cinema e Educação /Film and Education**](https://webpages.ciencias.ulisboa.pt/~ommartins/cinema/index.htm), FCUL (2000-2003) (5 sessions)
+* Coordinator of the workshop **Giordano Bruno morreu na fogueira em Fevereiro de 1600**, CFCUL, FCUL, 14 February 2007. (some info [**here**](https://cfcul.mcmlxxvi.net/projectos/grandes%20figuras/actividades/2007/giordanobruno/)
+* Co-organizer of the workshop **Os últimos dias de Giordano Bruno**, CFCUL in collaboration with the Teatro da Escola Politécnica & “Cátedra A Razão”, Escola Politécnica Theater, Lisbon, 19 February 2008. (see [**here**](https://cfcul.mcmlxxvi.net/projectos/grandes%20figuras/actividades/2008/giordanobruno/))
+* Co-organizer of the workshop **Sobre Galileu**, put forward by CFCUL in collaboration with Teatro da Escola Politécnica & “Cátedra A Razão”, Escola Politécnica Theater, Lisbon, 18 April 2008.
+* Organizer of the monthly talks **“Philosophy at the Library”**, hosted by the Municipal Library *Biblioteca-Espaço Cultural Cinema Europa*, Lisbon
   
 ###### 2024 (6 sessions) 
 > * 9 January 2024 - “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes.
@@ -198,7 +191,7 @@
 > * 7 April 2026: S. Weil e H. Arendt. Trabalho e condição humana (Simone Weil and Hannah Arendt – Labour and the Human Condition) by Correia Jesuíno.
 > * 5 May 2026: Da civilização da palavra a civilização da imagem (From the Civilization of the Word to the Civilization of the Image) by Olga Pombo.
 
-* Organizer of the Seminar **A cultura integral do individuo de Bento de Jesus Caraça** (The Integral Culture of the Individual by Bento de Jesus Caraça), within the framework of the Associação Bento de Jesus Caraça, Lisbon, October 2025 - May 2026, 8 sessions:  
+* Organizer of the Seminar **A cultura integral do individuo de Bento de Jesus Caraça / The Integral Culture of the Individual by Bento de Jesus Caraça**,  Associação Bento de Jesus Caraça, Lisbon, October 2025 - May 2026, 8 sessions:  
 > * 9 October 2025 - Objecto e objectivo do texto. Questões metodológicas. Matemática e filosofia (Object and objective of the text. Methodological questions. Mathematics and philosophy, session led by Olga Pombo.
 > * 13 November 2025 - Contexto e oportunidade do texto. O intelectual e o activista. Compreender e agir (Context and opportunity of the text. The intellectual and the activist. Understanding and acting), session led by Olga Pombo
 > * 11 December 2025: Procura de um fundamento para os desenvolvimentos argumentativos posteriores. Progresso e contradição (Search for a foundation for subsequent argumentative developments. Progress and contradiction), session led by Olga Pombo
