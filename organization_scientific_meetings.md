@@ -166,7 +166,7 @@
 * Co-organizer of the workshop **Sobre Galileu**, put forward by CFCUL in collaboration with Teatro da Escola Politécnica & “Cátedra A Razão”, Escola Politécnica Theater, Lisbon, 18 April 2008.
 * Organizer of the monthly talks **“Philosophy at the Library”**, hosted by the Municipal Library *Biblioteca-Espaço Cultural Cinema Europa*, Lisbon
   
-###### 2024 (6 sessions) 
+##### 2024 - 6 sessions 
 > * 9 January 2024 - “Sobre o conceito de Biblioteca (On the concept of Library)”, by Olga Pombo, Jorge Correia Jesuíno, Nuno Oliveira and Rui Nunes.
 > * 6 February 2024 - “Envelhecimento e Morte (On Aging and Death)”, by Jorge Correia Jesuino (with the participation of Olga Pombo and Nuno Oliveira).
 > *	5 March 2024 - “Progressos e Regressos (Progresses and returns)”, by Olga Pombo (with the participation of Jorge Correia Jesuino and Nuno Oliveira). 
@@ -184,7 +184,7 @@
 > * 1 April 2025 - “Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência ("You have to change your life" (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence”), by Jorge Correia Jesuíno, Nuno Oliveira and Olga Pombo.
 > * 6 May 2025 - “Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (“About the New" (2014) by Boris Groys. Philosophy, Innovation, Creation”), by Olga Pombo (with the participation of Jorge Correia Jesuíno and Nuno Oliveira)
 
-###### 2025-2026 – Philosophy and Writing - 8 sessions:
+##### 2025-2026 – Philosophy and Writing - 8 sessions:
 > * 7 October 2025: From Oral to Written Civilization Havelock’s The Muse Learns to Write, by Olga Pombo
 > * 4 November 2025: Poetry, Rhetoric and Dialectics: Homer, Protagoras and Socrates, by Olga Pombo
 > * 2 December 2025: Dialogue, Argument and Rationality. Truth and Democracy:  Plato and Aristotle, by Olga Pombo
@@ -216,4 +216,4 @@
 * Organizer of the exhibition / video installation **Beta Pictoris II**, authored by Rodrigo Vilhena, put forward by the FCT project “Image in Science and Art”, held at Travessa Convento de Jesus 12A e 16A, Lisbon, 2009. ([video](https://www.youtube.com/watch?feature=player_embedded&v=QTBWCUREAYs))
 * Organizer of the exhibition **From Science to Art. Porcelain Garden**, authored of Rob Kessler, put forward by the FCT project “Image in Science and Art”, held at Lisbon Calouste Gulbenkian Foundation, 17-19 February 2011
 * Coordinator of the exhibition **[CorpoIMAGEM’ (BodyIMAGE- Representations of the Body in Science and Art](https://www.pavconhecimento.pt/243/corpo-imagem)**, held at Knowledge Pavillon, Ciência Viva Agency, Lisbon, 2 February-30 March 2011. The exhibition was organized and curated together with Catarina Nabais, Cristina Tavares, Manuel V. Alves, Marco Pina, Pedro Silva, Ricardo Reis, Silvia di Marco. (see the [**catalogue of the exhibition**](https://www.pavconhecimento.pt/media/media/754_roteiro-corpoimagem.pdf) and RG [**here**](https://www.researchgate.net/publication/303053499_Roteiro_da_exposicao_corpoIMAGEM_Representacoes_do_Corpo_na_Ciencia_e_na_Arte). See also [review by TV Ciencia](https://arquivo.pt/wayback/20141001002823/http:/www.tvciencia.pt/tvcnot/pagnot/tvcnot03.asp?codpub=25&codnot=16) and  [Ciência Viva press notice](https://www.pavconhecimento.pt/857/pavilhao-do-conhecimento-ciencia-viva-recebe-a-exposicao-corpo-imagem).
-###### Through images, video, and original music, the exhibition was brought together a series of images of the human body from the past 150 years, based on the study of the collection of anatomical drawings and scientific photography from the Museum of Medicine at the Faculty of Medicine of the University of Lisbon, in parallel with the collection of old drawings from the Faculty of Fine Arts at the University of Lisbon.
+###### Through images, video, and original music, the exhibition brought together a series of images of the human body from the past 150 years, based on the study of the collection of anatomical drawings and scientific photography from the "Museum of Medicine" at the Faculty of Medicine of the University of Lisbon, in parallel with the "Collection of old drawings" from the Faculty of Fine Arts at the University of Lisbon.
