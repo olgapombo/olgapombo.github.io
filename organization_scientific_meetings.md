@@ -51,7 +51,7 @@
 * **Otto Neurath and the Unity of Science**, international workshop, CFCUL, FCUL, 17 September 2010 (Coordinator).
 * **Reason-Optimism-Theodicy: the heritage of Leibniz in the European Illuminism**, international colloquium, Faculty of Letters, University of Lisbon, FLUL, November 2010 (Scientific Committee). ([program](https://cfcul.mcmlxxvi.net/coloquios/iicoloquioleibniz/programaleibniz.pdf))
 * **Poincaré. Problems and Perspectives**, international colloquium,  CFCUL, FCUL, Lisbon, 26-27 Jan 2011 (Scientific Council).
-* **Image in Science and Art**, international colloquium, FCT research project “Image in Science and Art”, Calouste Gulbenkian Foundation, Lisbon, 17, 18, 19 February 2011 (Coordinator). ([notice](https://forum.bolseiros.org/viewtopic.php?t=3693))
+* **International colloquium Image in Science and Art**, FCT research project “Image in Science and Art”, Calouste Gulbenkian Foundation, Lisbon, 17, 18, 19 February 2011 (Coordinator). ([notice](https://forum.bolseiros.org/viewtopic.php?t=3693))
 * [**75 anos de 'A situação valorativa do positivismo' de Delfim Santos**](https://delfimsantos.com/VIENNA_PAPERS.htm), international colloquium, CFCUL internal project “Delfim Santos e a Filosofia da Ciência em Portugal - Organização, Reprodução e Estudo do Acervo Documental Inédito”, FCUL,  4-5 November 2011 (Co-coordinator).  
 * **VI Iberic Journeys**, international colloquium, Research  project “Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention”, University of Lisbon & University of Sevilla, Complutense University, Madrid, November 2011 (Local-coordinator). 
 * [**Fernando Gil prize. Open International Conference**](https://www.youtube.com/watch?v=lMEhIAFjjWk) (by the winner Niccolò Guicciardini), Portuguese Science Foundation (FCT),FCUL, 20 March 2012 (Coordinator) [**video**](https://www.youtube.com/watch?v=lMEhIAFjjWk)
@@ -67,7 +67,6 @@
 * [**SPT2013. Technology in the Age of Information**](https://philevents.org/event/show/8646), 18th Biennial International Conference of the Society for Philosophy and Technology (SPT), ISEG-UTL, SOCIUS-UTL & Instituto de Ciências Sociais, University of Lisbon (ICS), ICS, Lisbon, 4-6 July 2013 (Scientific board).
 * [**Knowledge and Colonial Science**](https://philevents.org/event/show/8646), International colloquium, CFCUL & Institute for Scientific Tropical Research, Fábrica Braço de Prata, Lisbon, 26-29 November 2013 (Scientific board).
 * [**Second Lisbon International Conference: Philosophy of Science in the 21st century - Challenges and Tasks**](https://ciencias.ulisboa.pt/en/noticia/03-12-2013/cfcul-%E2%80%93-10-anos), CFCUL, FCUL, 4-6 December 2013 (Coordinator).
-* Coordinator of the
 * **Interdisciplinarity today: Scope and Application**, international symposium, CFCUL Thematic line “Unity of Science and Interdisciplinarity”, FCUL, 14 December 2013 (Coordinator) 
 * **VIII Iberic Journeys – Debates of Contemporary Philosophy**, CFCUL project "Knowledge dynamics in the field of social sciences: abduction, intuition and invention", FCUL, 27-29 May 2014 (Coordinator). 
 * **1st International Portuguese Philosophy Congress**, Portuguese Society for Philosophy, Calouste Gulbenkian Foundation, Lisbon, 5-6 September 2014 (Scientific committee). ([notice](https://www.spfil.pt/congresso/1)).
