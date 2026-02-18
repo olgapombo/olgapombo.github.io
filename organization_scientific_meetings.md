@@ -110,7 +110,9 @@
 * Co-organizer of the series **Seminars of History and Philosophy of Sciences**, held at FCUL (2000-2003) (7 sessions)
 * Coordinator of the Series **Conferences on Philosophy of Science**, put forward by the CFCUL, held FCUL (2004-2016).
 * Member of the organizing committee of the colloquium **Ainda nao doente. Contributos multidisciplinares para uma filosofia da Saude**, put forward by the CFCUL in collaboration with the Center for Bioethics of the Faculty of Medicine University of Lisbon and the Calouste Gulbenkian Foundation, held at Instituto de Ciências Sociais of the University of Lisbon (ICS), March 2004.
-* Founder and coordinator of the [**Permanent Seminar on Philosophy of Science**](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), organized by the CFCUL, FCUL(2004 - 2020).
+* Founder and coordinator of the [**Permanent Seminar on Philosophy of Science**](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), organized by the CFCUL, FCUL (2004 - 2020).
+  
+###### 78 sessions
 > * [Permanent Seminar of Philosophy of Science](https://webpages.ciencias.ulisboa.pt/~ommartins/cfcul/seminariopermanente.html), (2004) (5 sessions).
 > * Permanent Seminar of Philosophy of Sciences, (2005-2013) (27 sessions).
 > * [Permanent Seminar of Philosophy of Sciences](https://cfcul.mcmlxxvi.net/Seminarios/seminariopermanentefc.php), (2014-2020) (46 sessions)
@@ -120,7 +122,6 @@
 * Coordinator of the workshop **Arte e Ciência como Criação. Em torno de Gaston Bachelard**, CFCUL, FCUL, 26 January 2007. 
 * Organizer of the national colloquium [**Darwinismo versus Creacionismo: onde começa e acaba uma teoria cientifica?**](https://forum.bolseiros.org/viewtopic.php?t=1844),  CFCUL in collaboration with Centro de Biologia Ambiental (CBA), Sociedade Portuguesa de Ciências Naturais (SPCN), Central Library of FCUL & Livraria Escolar Editora, FCUL, March 2007. 
 * Coordinator of the seminar series **Aproximações ao Conceito de Imagem**,  FCT Project “Image in Science and Art”,  FCUL, 2007-2011
-  
 ###### 21 sessions:
 > * I. Deleuze e a imagem, 7 May 2007
 > * II. As imagens da arte, 18 June 2007.
