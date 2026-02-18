@@ -120,27 +120,27 @@
 * Coordinator of the workshop **Arte e Ciência como Criação. Em torno de Gaston Bachelard**, CFCUL, FCUL, 26 January 2007. 
 * Organizer of the national colloquium [**Darwinismo versus Creacionismo: onde começa e acaba uma teoria cientifica?**](https://forum.bolseiros.org/viewtopic.php?t=1844),  CFCUL in collaboration with Centro de Biologia Ambiental (CBA), Sociedade Portuguesa de Ciências Naturais (SPCN), Central Library of FCUL & Livraria Escolar Editora, FCUL, March 2007. 
 * Coordinator of the seminar series **Aproximações ao Conceito de Imagem**,  FCT Project “Image in Science and Art”,  FCUL, 2007-2011 (21 sessions).
-> * I. Deleuze e a imagem, 7 May 2007
-> * II. As imagens da arte, 18 June 2007.
-> * III. As Imagens e as drogas, 16 July 2007.
-> * IV. Passagens”, 24 September 2007.
-> * V. Desenho cientifico e pensamento selvagem, 8 October 2007.
-> * VI. Imagens da Natureza e natureza das imagens, 18 February 2008.
-> * VII. Peirce e Frege, 10 March 2008.
-> * VIII. As imagens em geologia e oceanografia, 7 April 2008.
-> * IX. Arte e Ciência no Século XX. A fotografia, 15 October 2009.
-> * X. As imagens da arte. Visualização da informação, 16 November 2009
-> * XI. A imagens e os sistemas evolutivos, 10 December 2009.
-> * XII. Analogia e metáfora na representação grafica, 18 January 2010.
-> * XIII. Modelos de razionamento bioinspirados, 18 January 2010.
-> * XIV. O uso da imagem na Biomecânica Computacional, 18 February 2010.
-> * XV. O mapa como experiencia perceptiva, 22 March 2010.
-> * XVI. Observação, 12 April 2010.
-> * XVII. Corpo e imagem, 26 April 2010.
-> * XVIII. Indisciplinaridade no desenho, 24 May 2010.
-> * XIX. Evolução da arte, 7 June 2010.
-> * XX. Neurobiologia da arte, 14 June 2010.
-> * XXI. Neuro-imagens, 16 December 2010.
+> * ###### I. Deleuze e a imagem, 7 May 2007
+> * ###### II. As imagens da arte, 18 June 2007.
+> * ###### III. As Imagens e as drogas, 16 July 2007.
+> * ###### IV. Passagens”, 24 September 2007.
+> * ###### V. Desenho cientifico e pensamento selvagem, 8 October 2007.
+> * ###### VI. Imagens da Natureza e natureza das imagens, 18 February 2008.
+> * ###### VII. Peirce e Frege, 10 March 2008.
+> * ###### VIII. As imagens em geologia e oceanografia, 7 April 2008.
+> * ###### IX. Arte e Ciência no Século XX. A fotografia, 15 October 2009.
+> * ###### X. As imagens da arte. Visualização da informação, 16 November 2009
+> * ###### XI. A imagens e os sistemas evolutivos, 10 December 2009.
+> * ###### XII. Analogia e metáfora na representação grafica, 18 January 2010.
+> * ###### XIII. Modelos de razionamento bioinspirados, 18 January 2010.
+> * ###### XIV. O uso da imagem na Biomecânica Computacional, 18 February 2010.
+> * ###### XV. O mapa como experiencia perceptiva, 22 March 2010.
+> * ###### XVI. Observação, 12 April 2010.
+> * ###### XVII. Corpo e imagem, 26 April 2010.
+> * ###### XVIII. Indisciplinaridade no desenho, 24 May 2010.
+> * ###### XIX. Evolução da arte, 7 June 2010.
+> * ###### XX. Neurobiologia da arte, 14 June 2010.
+> * ###### XXI. Neuro-imagens, 16 December 2010.
 * Coordinator of the workshop **Os Lugares da Epistemologia e da Poética em Gaston Bachelard**, FCUL, 10 December 2007.
 * Coordinator of the workshop **Introdução ao processamento e analise de imagem**, FCT project “Image in Science and Art”,  FCUL, 4 and 8-10 September 2008. 
 * Coordinator of the workshop **A Ilustração Científica e a Construção do Conhecimento**, FCT project “Image in Science and Art”, FCUL, 4-5 December 2008. 
