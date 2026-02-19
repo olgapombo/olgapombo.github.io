@@ -117,7 +117,7 @@
 > * Permanent Seminar of Philosophy of Sciences, (2005-2013) (27 sessions).
 > * [Permanent Seminar of Philosophy of Sciences](https://cfcul.mcmlxxvi.net/Seminarios/seminariopermanentefc.php), (2014-2020) (46 sessions)
 * Coordinator of the workshop **Sobre o Indeterminismo / On Indeterminism**, CFCUL, Lisbon Science Museum, 9 March 2005. 
-* Coordinator of the workshop [**Como Pensar as Relações entre a História e a Filosofia das Ciências?**](https://cfcul.mcmlxxvi.net/workshops/workshop_hist_filcc/A4 Hist.Filos.jpg), CFCUL, FCUL, 21 June 2006. 
+* Coordinator of the workshop [**Como Pensar as Relações entre a História e a Filosofia das Ciências?**](https://cfcul.mcmlxxvi.net/workshops/workshop_hist_filcc/A4%20Hist.Filos.jpg), CFCUL, FCUL, 21 June 2006. 
 * Coordinator of the workshop **Ciência e Filosofia entre Rómulo de Carvalho e António Gedeão**, CFCUL in the context of the “National Science and Technology Week”, FCUL, 24 November 2006.
 * Coordinator of the workshop **Arte e Ciência como Criação. Em torno de Gaston Bachelard**, CFCUL, FCUL, 26 January 2007. 
 * Organizer of the national colloquium [**Darwinismo versus Creacionismo: onde começa e acaba uma teoria cientifica?**](https://forum.bolseiros.org/viewtopic.php?t=1844),  CFCUL in collaboration with Centro de Biologia Ambiental (CBA), Sociedade Portuguesa de Ciências Naturais (SPCN), Central Library of FCUL & Livraria Escolar Editora, FCUL, March 2007. 
