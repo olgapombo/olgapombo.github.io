@@ -146,7 +146,6 @@
 > * XXI. Neuro-imagens, 16 December 2010.
 * Coordinator of the workshop **Introdução ao processamento e analise de imagem**, FCT project “Image in Science and Art”,  FCUL, 4 and 8-10 September 2008. 
 * Coordinator of the workshop [**A Ilustração Científica e a Construção do Conhecimento**](https://cfcul.mcmlxxvi.net/workshops/programa%20%20ilust%20cient%20final.pdf), FCT project “Image in Science and Art”, FCUL, 4-5 December 2008. 
-* Coordinator of the workshop **As Imagens com que a Ciência se Faz**, FCT project “Image in Science and Art”, FCUL, 25 May 2009.
 *	Organizer of the *Jornadas de Pos-Graduação* (postgraduated journeys) Department of History and Philosophy of Science,  FCUL, Lisbon, 31 March and 1 April 2011.  
 *	Coordinator of the seminar series **Reading Whitehead**, FCUL, June-July 2011 (4 sessions). 
 *	Coordinator of the colloquium **O Lugar da Filosofia da Ciência na nova Universidade de Lisboa**, CFCUL, Rectory of the University of Lisbon, January 2013. 
@@ -160,9 +159,10 @@
 
 * Coordinator of the conference series [**Encontros Agostinho da Silva**](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/index.htm), FCUL (1998-2000) (9 sessions)
 * Coordinator of the film cycle [**Cinema e Educação /Film and Education**](https://webpages.ciencias.ulisboa.pt/~ommartins/cinema/index.htm), FCUL (2000-2003) (5 sessions)
-* Coordinator of the workshop **Giordano Bruno morreu na fogueira em Fevereiro de 1600**, CFCUL, FCUL, 14 February 2007. (some info [**here**](https://cfcul.mcmlxxvi.net/projectos/grandes%20figuras/actividades/2007/giordanobruno/)
-* Co-organizer of the workshop **Os últimos dias de Giordano Bruno**, CFCUL in collaboration with the Teatro da Escola Politécnica & “Cátedra A Razão”, Escola Politécnica Theater, Lisbon, 19 February 2008. (see [**here**](https://cfcul.mcmlxxvi.net/projectos/grandes%20figuras/actividades/2008/giordanobruno/))
-* Co-organizer of the workshop **Sobre Galileu**, put forward by CFCUL in collaboration with Teatro da Escola Politécnica & “Cátedra A Razão”, Escola Politécnica Theater, Lisbon, 18 April 2008.
+* Coordinator of the theater workshop **Giordano Bruno morreu na fogueira em Fevereiro de 1600**, CFCUL, FCUL, 14 February 2007. (some info [**here**](https://cfcul.mcmlxxvi.net/projectos/grandes%20figuras/actividades/2007/giordanobruno/)
+* Co-organizer of the theater workshop **Os últimos dias de Giordano Bruno**, CFCUL in collaboration with the Teatro da Escola Politécnica & “Cátedra A Razão”, Escola Politécnica Theater, Lisbon, 19 February 2008. (see [**here**](https://cfcul.mcmlxxvi.net/projectos/grandes%20figuras/actividades/2008/giordanobruno/))
+* Co-organizer of the theater workshop **Sobre Galileu**, put forward by CFCUL in collaboration with Teatro da Escola Politécnica & “Cátedra A Razão”, Escola Politécnica Theater, Lisbon, 18 April 2008.
+  
 * Organizer of the monthly talks **“Philosophy at the Library”**, hosted by the Municipal Library *Biblioteca-Espaço Cultural Cinema Europa*, Lisbon
   
 ##### 2024 - 6 sessions 
