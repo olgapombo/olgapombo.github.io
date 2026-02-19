@@ -28,7 +28,7 @@
 * **Visual displays of information and the practice of science**, international colloquium, CFCUL,  FCUL, 15 January 2008 (Coordinator). 
 * [**Diagrams in Logic and Mathematics: Epistemological Questions**](https://cfcul.mcmlxxvi.net/workshops/workshops_imagem/ok%20A4%20Diagrams.jpg), international colloquium, CFCUL, FCUL, 14 January 2008 (Coordinator). 
 * [**III Iberic Journeys. Logics and Philosophy of Sciences**](https://cfcul.mcmlxxvi.net/coloquios/jornadas_ibericas/programa3jornadasibericas2.jpg), international colloquium, resarch project “Universal Logics and Unity of Science”, FCUL & Sevilla University, FCUL, Lisbon, February 2008 (Coordinator). 
-* **La Philosophie des Sciences d'Henri Poincaré**, international workshop, FCT research project “Poincaré. Philosopher of Science”, held at FCUL, 23-24 April 2008 (Coordinator). 
+* [**La Philosophie des Sciences d'Henri Poincaré**](https://cfcul.mcmlxxvi.net/projectos/poincare/index_poincare.htm), international workshop, FCT research project “Poincaré. Philosopher of Science”, held at FCUL, 23-24 April 2008 (Coordinator). 
 * **Diagrammatic Thinking**, international workshop, FCT research project “Image in Science and Art, FCUL, 2-3 June 2008 (Coordinator). 
 * **III Edition of Epistemological Perspectives on Simulation (EPOS)**, international colloquium, ISCTE, Lisbon, October 2008 (Scientific committee).
 * [**A Ilustração Científica e a Construção do Conhecimento**](https://cfcul.mcmlxxvi.net/workshops/programa%20%20ilust%20cient%20final.pdf), international workshop, FCT research project A Imagem na Ciência e na Arte, FCUL 4-5 December 2008 (Coordinator) 
