@@ -144,9 +144,8 @@
 > * XIX. Evolução da arte, 7 June 2010.
 > * XX. Neurobiologia da arte, 14 June 2010.
 > * XXI. Neuro-imagens, 16 December 2010.
-* Coordinator of the workshop **Os Lugares da Epistemologia e da Poética em Gaston Bachelard**, FCUL, 10 December 2007.
 * Coordinator of the workshop **Introdução ao processamento e analise de imagem**, FCT project “Image in Science and Art”,  FCUL, 4 and 8-10 September 2008. 
-* Coordinator of the workshop **A Ilustração Científica e a Construção do Conhecimento**, FCT project “Image in Science and Art”, FCUL, 4-5 December 2008. 
+* Coordinator of the workshop [**A Ilustração Científica e a Construção do Conhecimento**](https://cfcul.mcmlxxvi.net/workshops/programa%20%20ilust%20cient%20final.pdf), FCT project “Image in Science and Art”, FCUL, 4-5 December 2008. 
 * Coordinator of the workshop **As Imagens com que a Ciência se Faz**, FCT project “Image in Science and Art”, FCUL, 25 May 2009.
 *	Organizer of the *Jornadas de Pos-Graduação* (postgraduated journeys) Department of History and Philosophy of Science,  FCUL, Lisbon, 31 March and 1 April 2011.  
 *	Coordinator of the seminar series **Reading Whitehead**, FCUL, June-July 2011 (4 sessions). 
