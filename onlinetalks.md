@@ -321,6 +321,7 @@
 * **Les liens entre interdisciplinarités et valorisation scientifique par les médias audio-visuels**, participation, as animateur, at a round-table of the international colloquium [“Interdisciplinarité(s)”](https://rnmsh-colloque.sciencesconf.org/data/pages/Programme_ateliers_9_10_septembre_2021.pdf), put forward by the Réseau National des Maisons des Sciences de L’Homme, University of Aix en Provence, France, 9-10 September, 2021.
 * **Direito: ciência, arte, cultura**, invited talk at a round table/debate put forward by the Instituto de Investigação Interdisciplinar do Direito da Faculdade de Direito da Universidade de Lisboa (IURIS/FDUL), Faculdade de Direito da Universidade de Lisboa,16 November 2023.
 * **Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior**,  invited  talk at the debate “Possíveis Estratégias para o futuro do Ensino Superior em Portugal. Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 de novembro 2025 [(vídeo)](https://www.engium.uminho.pt/eeum50)
+* **Sobre o Novo (On the new)**, invited talk and debate with the writer Rui Nunes, at “Conversas sem rede”, Oficina Impossivel, Lisbon, 22 February 2026.
 
 
 ###  <a name="book-presentations"></a> Book presentations 
