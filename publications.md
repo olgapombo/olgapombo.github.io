@@ -159,7 +159,7 @@ DOI: https://doi.org/10.1007/978-3-642-13962-8_39
 80. Pombo, Olga (2017), **“Leibnizian Grounds for the Idea of Universal Machine”**, in *Logic and Computation, Essays in honour of Amílcar Sernadas*, edited by C. Caleiro; F. Dionisio; P. Gouveia; P. Mateus; J. Rasga, London: College Publications, pp. 337-351. ISBN-13: 978-1848902480
 81. Pombo, Olga (2018), **"Bachelard et la Cité Savante"**, in *Bachelard et l’Avenir de la Culture, Du Surrationalisme à la Raison Créative*, edited by Vincent Bomtemps, Paris : Presses des Mines, pp. 109-120. ISBN : 978-2-35671-499-2
 82. Pombo, Olga (2018), **“Introdução"**, in *Modelos e Imagens*, edited by Olga Pombo, Lisboa: Fim de Século, pp. 9-20. ISBN: 978-972-754-287-1
-83. Pombo, Olga (2018), **“Prefacio”**, in Barbosa, João, *Contributos para a Compreensão do Sucesso da Cosmologia do Big Bang. Uma Análise Thematica à Luz de Gerald Holton*, Lisboa: CFCUL (series “Theses”, vol. 7), pp. 11-18. ISBN: 978-989-8247-77-3
+83. Pombo, Olga (2018), [**Prefacio**](pdf-text/OP_prefacio_joao_barbosa_holton.pdf), in Barbosa, João, *Contributos para a Compreensão do Sucesso da Cosmologia do Big Bang. Uma Análise Thematica à Luz de Gerald Holton*, Lisboa: CFCUL (series “Theses”, vol. 7), pp. 11-18. ISBN: 978-989-8247-77-3
 84. Pombo, Olga; Pato, Ana; Redmond, Juan (2018), **“Prefacio”**.  in *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo; Ana Pato; Juan Redmond, Lisboa: CFCUL (series “Documenta”, vol.  11), pp. 11-13. ISBN: 978-989-8247-78-0
 85. Pombo, Olga (2019), **“Acerca da ‘Brevis Designatio’”** (On the ‘Brevis Designatio’), in *Leibniz e a Linguagem I. Linguas Naturais, Etimologia e História*, edited by William Piauí, Curitiba: Kotter Editorial, pp. 193-200 
 ISBN: 978-65-80103-02-7
