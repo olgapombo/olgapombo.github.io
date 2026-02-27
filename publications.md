@@ -1,5 +1,5 @@
 ## Publications 
-######  | [Dissertations](#dissertations) | [Books (author)](#dooks-author) | [Books (editor)](#books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal editor](#Journal-editor) | [Online works](#Online-works) | [Preprints and working papers](#Preprints-and-working-papers)
+######  | [Dissertations](#dissertations) | [Books (author)](#dooks-author) | [Books (editor)](#books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal editor](#Journal-editor) | [Online works](#Online-works) | [Preprints and working papers](#Preprints-and-working-papers) | [Kairos Magazine](#Kairos-Magazine)
 
 
 
