@@ -398,3 +398,6 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * *Model’s nearness to the work of art* 
 * *A imagem na ciencia e e na arte*/ Image in science and art 
 * *Imagem e diagrama*/ Image and diagram 
+
+### <a name="Kairos-Magazine"></a>Kairos Magazine
+
