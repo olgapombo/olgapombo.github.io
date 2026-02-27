@@ -37,7 +37,6 @@ bg_image: quinta
             <li style="color: #ff0;">|</li>
             <li><a href="/preprints.html" style="color: #ff0; font-weight: bold;">Preprints</a></li>
             <li style="color: #ff0;">|</li>
-            <li><a href="/organization_scientific_meetings.html" style="color: #ff0; font-weight: bold;">Organization of scientific meetings</a></li>
             <li style="color: #ff0;">|</li>
             <li><a href="/interviews.html" style="color: #ff0; font-weight: bold;">Interviews</a></li>
             <li style="color: #ff0;">|</li>
