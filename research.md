@@ -19,7 +19,7 @@
   
 * 2003-2006 - **[Scientific Culture. Conceptual Migrations and Social Contaminations](https://arquivo.pt/wayback/20060219165027/http://cfcul.fc.ul.pt/migracoes/actividades.htm)**  FCT Research Project, POCTI/FIL/48133/2002. (more info [**here**](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/)) and [relatorio 2004-2005](pdf-text/relatorio_migracoes_(3).pdf)
   
-* 2007-2012 - **[Image in Science and Art](https://arquivo.pt/wayback/20140926170450/http://ica.fc.ul.pt/)**, FCT International Research Project, PTDC/EAT/64201/2006 ([**powerpoint presentation of the project**](pp_apresentacao_projecto_imagem_com_capas.ppt)) (see also **[Lisbon Center for Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)**(more info [**here**](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/))
+* 2007-2012 - **[Image in Science and Art](https://arquivo.pt/wayback/20140926170450/http://ica.fc.ul.pt/)**, FCT International Research Project, PTDC/EAT/64201/2006 ([**powerpoint presentation of the project**](./powerpoints/pp_apresentacao_projecto_imagem_com_capas.ppt)) (see also **[Lisbon Center for Science and Art (CISA)](https://arquivo.pt/wayback/20140927010143/http://lisboncisa.fc.ul.pt/)**(more info [**here**](https://cfcul.ciencias.ulisboa.pt/projectos/a-imagem-na-ciencia-e-na-arte/))
   
 * 2008-2010 - [**Universal Logics and Unity of Science**](https://cfcul.mcmlxxvi.net/projectos/projecto_sevilha.htm),  International Research Project (CFCUL/University of Sevilla), CRUP-Acções integradas.
   
