@@ -29,7 +29,7 @@ bg_image: quinta
             <li style="color: #ff0;">|</li>
             <li><a href="/onlinetalks.html" style="color: #ff0; font-weight: bold;">Talks</a></li>
             <li style="color: #ff0;">|</li>
-            <li><a href="/research/projects.html" style="color: #ff0; font-weight: bold;">Research</a></li>
+            <li><a href="/research.html" style="color: #ff0; font-weight: bold;">Research</a></li>
             <li style="color: #ff0;">|</li>
             <li><a href="/supervision.html" style="color: #ff0; font-weight: bold;">Supervision</a></li>
             <li style="color: #ff0;">|</li>
