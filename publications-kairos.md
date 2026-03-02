@@ -5,7 +5,7 @@
 - [Editorial Policy](pdf-text/kairos/Kairos_info/Editorial_Policy.pdf)
 - [Instructions for the Authors](pdf-text/kairos/Kairos_info/Instructions_for_the_Authors.pdf)
 - [Kairos web info](pdf-text/kairos/Kairos_info/Kairos_web_info.docx)
-- [Open Access License](pdf-text/kairos/Kairos_info/Open_Access_License.pdf)
+
 
 #### Volume 1 (2010)
 - [1 Kairos vol. 1](pdf-text/kairos/vol-1-2010/1_Kairos_vol_1.pdf)
