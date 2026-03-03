@@ -170,7 +170,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 ###  <a name="journal_editor"></a> Journal editor
 
 * Founder and editor in chief of [**Aion. Journal of Philosophy & Science**](https://journals.ku.edu/aion), University of Kansas Libraries, USA (2024 – on going)
-* Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
+* Founder and editor in chief of [**Kairos. Journal of Philosophy & Science**](./publications-kairos.html) , see also [**here**](https://sciendo.com/journal/KJPS), CFCUL/De Gruyter (2010 - 2022)
 * Guest editor of ***Axiomathes, Special Issue***, vol. 25 (1), March (2015), pp.1-143. 
 DOI: 10.1007/s10516-014-9264-5
 
