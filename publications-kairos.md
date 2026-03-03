@@ -1,9 +1,9 @@
 ### <a name="Kairos-Magazine"></a>Kairos Magazine
 
 #### Volume 1 (2010)
-- [1 Kairos vol. 1](pdf-text/kairos/vol-1-2010/1_Kairos_vol_1.pdf)
-- [2 Kairos vol. 1](pdf-text/kairos/vol-1-2010/2_Kairos_vol_1.pdf)
-- [3 Kairos vol. 1](pdf-text/kairos/vol-1-2010/3_Kairos_vol_1.pdf)
+- [1 chapter](pdf-text/kairos/vol-1-2010/1_Kairos_vol_1.pdf)
+- [2 chapter](pdf-text/kairos/vol-1-2010/2_Kairos_vol_1.pdf)
+- [3 chapter](pdf-text/kairos/vol-1-2010/3_Kairos_vol_1.pdf)
 - [4 Kairos vol. 1](pdf-text/kairos/vol-1-2010/4_Kairos_vol_1.pdf)
 - [5 Kairos vol. 1](pdf-text/kairos/vol-1-2010/5_Kairos_vol_1.pdf)
 - [6 Kairos vol. 1](pdf-text/kairos/vol-1-2010/6_Kairos_vol_1.pdf)
