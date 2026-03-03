@@ -1,5 +1,5 @@
 ## Publications 
-######  | [Dissertations](#dissertations) | [Books (author)](#dooks-author) | [Books (editor)](#books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal editor](#Journal-editor) | [Online works](#Online-works) | [Preprints and working papers](#Preprints-and-working-papers) | [Kairos. Journal of Philosophy & Science](./publications-kairos.html)
+######  | [Dissertations](#dissertations) | [Books (author)](#dooks-author) | [Books (editor)](#books-editor) | [Chapters](#Chapters) | [Encyclopaedia entries](#encyclopaedia-entries) | [Articles](#Articles) | [Book reviews](#Book-reviews) | [Scholar brochures](#Scholar-brochures) | [Room texts](#Room-texts-at-exhibitions) | [Book series editor](#Book-series-editor) | [Journal editor](#Journal-editor) | [Online works](#Online-works) | [Preprints and working papers](#Preprints-and-working-papers) 
 
 
 
@@ -356,7 +356,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 ### <a name="Journal-editor"></a>Journal editor
 
 * Founder and editor of **[Aion. Journal of Philosophy & Science](https://journals.ku.edu/aion)**, University of Kansas Libraries, USA (2024 – on going)
-* Founder and director of [**Kairos. Journal of Philosophy & Science**](https://kairos.campus.ciencias.ulisboa.pt/), CFCUL/De Gruyter (2010 - 2022) (see [here](https://kairos.campus.ciencias.ulisboa.pt/comissao-editorial-2/) and [here](https://www.pjip.org/journal-profile.html?search.search=1647-659X)) 
+* Founder and director of [**Kairos. Journal of Philosophy & Science**](https://kairos.campus.ciencias.ulisboa.pt/), CFCUL/De Gruyter (2010 - 2022) (see [here](./publications-kairos.html) and [here](https://kairos.campus.ciencias.ulisboa.pt/comissao-editorial-2/) and [here](https://www.pjip.org/journal-profile.html?search.search=1647-659X)) [Kairos. Journal of Philosophy & Science](./publications-kairos.html)
 * Co-founder of the journal **Filosofia**, edited by the Portuguese Society for Philosophy (SPF) (1985 – 1990).
 
 #### Journal guest editor
