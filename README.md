@@ -7,7 +7,7 @@ bg_image: quinta
 
 <div id="navigation-menu" style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px;">
     <div style="flex: 0 0 auto;">
-        <img src="/images/foto-neuronios-cortada.jpg" alt="Neuronios" style="max-width: 300px; height: auto; display: block;">
+        <img src="/images/foto-neuronios-cortada.jpeg" alt="Neuronios" style="max-width: 300px; height: auto; display: block;">
     </div>
     <div style="flex: 1;">
     <blockquote style="font-style: italic; border-left: 4px solid #ff0; padding-left: 15px; margin: 0; font-size: 1rem; text-shadow: 1px 1px 2px #000;">
