@@ -1,4 +1,4 @@
-### <a name="Kairos-Magazine"></a>Kairos Magazine
+### <a name="Kairos-Journal of Philosophy & Science"></a>Kairos Magazine
 
 #### Volume 1 (2010)
 - [cover](pdf-text/kairos/vol-1-2010/1_Kairos_vol_1.pdf)
