@@ -1,7 +1,7 @@
 ## Yes, each life is an encyclopedia 
 
 
-Beeing done, beeing done, beeing done, beeing done, beeing done, beeing done....
+Beeing done, beeing done, beeing done, beeing done, beeing done....
 
 
 **First similitude between life and encyclopaedia:**
