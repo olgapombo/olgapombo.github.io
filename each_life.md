@@ -4,7 +4,7 @@
 Beeing done, beeing done, beeing done, beeing done, beeing done, beeing done....
 
 
-**First similitude between life and encyclopaedia**
+**First similitude between life and encyclopaedia:**
 This page is very incomplete, for the moment. Will it ever be complete ?
 
 
