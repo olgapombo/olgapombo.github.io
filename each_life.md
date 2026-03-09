@@ -29,5 +29,5 @@ Tive "os papeis" do meu pai guardados em caixotes em minha casa. Nao sabia o que
 
 ![foto tirada pelo meu pai em S. Cosmado, em 1952](images/foto_meu_pai-Scosmado_1952.jpg "foto tirada pelo meu pai em S. Cosmado, em 1952")
 ![foto-meu-pai_jovem](images/foto_meu_pai_jovem)
-![fot-meu-pai-perfil](images/fot_meu_pai_perfil.jpg)
+![fot-meu-pai-perfil](images/fot_meu_pai_perfil.jpg "fot_meu_pai_perfil")
 ![foto-meu-pai-corpo-inteiro-docx](images/foto_meu_pai_corpo_inteiro_docx)
