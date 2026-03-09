@@ -27,7 +27,7 @@ Tive "os papeis" do meu pai guardados em caixotes em minha casa. Nao sabia o que
 
 #### João Pires Martins. Nasceu em Lisboa, 5 de Dezembro de 1912. Licenciou-se em Histórico-filosóficas pela Faculdade de Letras da Universidade de Lisboa. Nunca aceitou assinar a declaração que era exigida pelo regime de Salazar aos funcionários públicos pelo que foi, toda a sua vida, professor do ensino particular. Foi muito estimado e admirado pelos seus alunos para quem constituiu referencia intelectual e moral. Viveu modestamente, cultivando uma única paixão: os livros. Comprou muitos livros, leu vorazmente muitos livros, coleccionou muitos livros. Falava constantemente de livros que tinha lido ou comprado ou simplesmente admirado na montra de uma livraria. Era um erudito, estudioso até ao fim da sua vida. Profundo conhecedor de Religiões Comparadas e de Historia Universal, sobretudo de Portugal e da França, país que ele amava com devoção. Como muitos da sua idade, viveu integralmente a ditadura salazarista. Nunca pertenceu a nenhum partido politico, mas era extremamente atento a tudo o que se passava em Portugal e no Mundo. O 25 de Abril constituiu, para ele, o acontecimento politico mais feliz da sua vida. Faleceu no dia 23 de Junho de 2005. [*Ephemera. Noticias da Semana* de 4 a 10 de dezembro de 2017. "Pastas entradas no Arquivo"](https://ephemerajpp.com/2017/12/07/ephemera-noticias-da-semana-de-4-a-10-de-dezembro-de-2017/).
 
-![foto tirada pelo meu pai em S. Cosmado, em 1952](images/foto_meu_pai-Scosmado_1952.jpg "foto tirada pelo meu pai em S. Cosmado, em 1952")
+
 ![foto-meu-pai_jovem](images/foto_meu_pai_jovem)
-![fot-meu-pai-perfil](images/fot_meu_pai_perfil.jpg "fot_meu_pai_perfil")
-![foto-meu-pai-corpo-inteiro-docx](images/foto_meu_pai_corpo_inteiro_docx)
+![fot-meu-pai-perfil](images/fot_meu_pai_perfil.jpg_"fot_meu_pai_perfil")
+![foto-meu-pai-corpo-inteiro-docx](images/foto_meu_pai_corpo_inteiro_docx_"foto_meu_pai_corpo_inteiro")
