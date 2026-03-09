@@ -205,7 +205,7 @@
 *	 **Interdisciplinarity today. Both a fact and a project**, invited speaker at the Special Session “Re-Imagining the Human. Ethics, Expression, Interdisciplinary Approaches, and the Evolving Anthropological Landscape”, 25th World Congress of Philosophy, Roma, 1-8 agosto 2024.
 *	 **Alice e a pós-verdade (Alice and the post-truth)**, invited conference at the Faculty of Law, University of Lisbon, 14 March 2025 ([webpage](https://www.idpcc.pt/en/destaques/alice-in-wonderland-and-the-question-of-truth/))
 *	**Aporias do actual conceito de novo**, Keynote speaker at the 6º Congresso Internacional de Filosofia, organized by  Sociedade Portuguesa de Filosofia, Faculdade de Letras da Universidade de Lisboa. 1 - 3  September, 2025.
-*	**Ciências e formas. Para uma topografia da razão**, invited talk at Conferência Internacional Fernando Gil, organized by FCSH, Unova University, Gulbenkian Foundation, Lisbon, 18 - 19 March 2026 ([webpage](https://ifilnova.pt/coloquio-internacional-fernando-gil/)
+*	**Ciências e formas. Para uma topografia da razão**, invited talk at Conferência Internacional Fernando Gil, organized by FCSH, Unova University, Gulbenkian Foundation, Lisbon, 18 - 19 March 2026 ([webpage](https://ifilnova.pt/coloquio-internacional-fernando-gil/))
 
 
 ### <a name="public-talks"></a> Public Talks 
