@@ -369,8 +369,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 ### <a name="Preprints-and-working-papers"></a>Preprints and working papers 
 
 ###### This section gathers manuscripts and conference papers. Many of these ongoing working papers have circulated among colleagues but none has been formally published. 
-
-* *The sciences of forms and the forms of sciences* 
+ 
 * *Cartographies of knowledge and contemporary challenges* 
 * *Mapas disciplinares e cartografias do saber*/ Disciplinary Maps and Cartographies of Knowledge 
 * *O valor cognitivo da árvore*/ The cognitive value of the tree 
