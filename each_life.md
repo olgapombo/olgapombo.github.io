@@ -31,5 +31,5 @@ Tive "os papeis" do meu pai guardados em caixotes em minha casa. Nao sabia o que
 
 ![fot-meu-pai-perfil](images/fot-meu-pai-perfil.jpg "fot-meu-pai-perfil.jpg")
 ![foto-meu-pai_jovem](images/foto-meu-pai_jovem.jpg "foto-meu-pai_jovem.jpg")
-![foto-meu-pai-corpo-inteiro. docx](images/foto-meu-pai-corpo-inteiro.docx "foto-meu-pai-corpo-inteiro. docx")
-![foto-meu-pai-corpo-inteiro. docx](images/foto-meu-pai-corpo-inteiro.jpg "foto-meu-pai-corpo-inteiro. jpg")
+![foto-meu-pai-corpo-inteiro.docx](images/foto-meu-pai-corpo-inteiro.docx "foto-meu-pai-corpo-inteiro.docx")
+
