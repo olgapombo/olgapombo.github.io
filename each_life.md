@@ -7,11 +7,7 @@ Beeing done, beeing done, beeing done, beeing done, beeing done....
 **First similitude between life and encyclopaedia:**
 This page is very incomplete, for the moment. Will it ever be complete ?
 
-
-
-
-
-
+_________________________
 
 
 **O meu pai** gostava muito de fotografia. Com a sua máquina kodak a tiracolo, ele tirava magnificas fotografias familiares, cristais de memória da minha infancia, festas de anos, passeios, encontros, acontecimentos da vida familiar.  Mas tambem virava a objetiva para fora, para longe, para o mundo distante do nosso circulo de giz caucasiano: mundo em cujo destino ele estava profundamente empenhado. 
