@@ -20,13 +20,9 @@ _________________________
 
 ###### **It is the photograph of a boy, one of many in the village. Barefoot, dressed in rags, he embodied the Portugal of the 1950s — a country marked by poverty, hardship, and neglect. What astonishes is the calm yet questioning strength with which he looks straight at us**.
 
-Mas, a grande paixao do meu pai eram os livros. Tinha-os por todo o lado.  No escritorio, na sala, nos corredores, na casa de jantar, atras das portas, nos quartos, na marquise, na dispensa, em prateleiras até ao tecto, em tudo o que era armário, ou secretária, ou mesinha de cabeceira. 
+Mas, a grande paixao do meu pai eram os livros. Tinha-os por todo o lado.  No escritorio, na sala, nos corredores, na casa de jantar, atras das portas, nos quartos, na marquise, na dispensa, em prateleiras até ao tecto, em tudo o que era armário, ou secretária, ou mesinha de cabeceira. Um admirável estudioso, um erudito dominado por uma curiosidade comovente. Ele era também um bibliófilo que amava os livros na sua materialidade. O seu cheiro, o seu peso, a sua espessura. 
 
-Um admirável estudioso, um erudito dominado por uma curiosidade comovente. Ele era também um bibliófilo que amava os livros na sua materialidade. O seu cheiro, o seu peso, a sua espessura. 
-
-###### **But my father’s greatest passion was books. They were everywhere: in his study, in the living room, in the corridors, in the dining room, behind doors, in bedrooms, on the enclosed balcony, even in the pantry. Shelves reaching the ceiling, every cupboard, desk, and bedside table overflowing**.
-
-###### **He was a remarkable scholar, an erudite man driven by a moving curiosity. And he was also a bibliophile who loved books in their material presence — their smell, their weight, their thickness**.
+###### **But my father’s greatest passion was books. They were everywhere: in his study, in the living room, in the corridors, in the dining room, behind doors, in bedrooms, on the enclosed balcony, even in the pantry. Shelves reaching the ceiling, every cupboard, desk, and bedside table overflowing. A remarkable scholar, an erudite driven by a moving curiosity. He was also a bibliophile who loved books in their material presence — their smell, their weight, their thickness**.
 
 Na despedida, não pude ficar com todos os seus livros. Eu tambem tinha os meus e a minha casa não era sufucientemente grande para juntar os dele aos meus. Guardei apenas umas centenas de exemplares sobre as varias zonas de interesse de que era constituída a sua biblioteca: muita Filosofia, muita mas muita História, Politica, Religiões, Antropologia, Economia, Sociologia, Linguística.   
 
