@@ -16,7 +16,7 @@ This page is very incomplete, for the moment. Will it ever be complete ?
 
 Esta fotografia foi tirada em 1952, em S. Cosmado, a aldeia do Alto Douro em que a minha mãe nasceu e onde íamos, todos os anos, passar as férias que, naquele tempo, eram grandes. 
 
-## **My father loved photography. With his Kodak camera always at his side, he captured beautiful family moments — crystalline fragments of my childhood, birthday parties, walks, gatherings, the small events that made up our family life. But he also turned his lens outward, toward the wider world, far beyond the narrow circle of our everyday life — a world whose fate mattered to him deeply.**
+###### **My father loved photography. With his Kodak camera always at his side, he captured beautiful family moments — crystalline fragments of my childhood, birthday parties, walks, gatherings, the small events that made up our family life. But he also turned his lens outward, toward the wider world, far beyond the narrow circle of our everyday life — a world whose fate mattered to him deeply.**
 
 ### **This photograph was taken in 1952, in S. Cosmado, the village in the Alto Douro where my mother was born and where we spent our long summer holidays every year.**
 
