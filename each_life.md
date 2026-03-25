@@ -12,9 +12,7 @@ _________________________
 
 **O meu pai** gostava muito de fotografia. Com a sua máquina kodak a tiracolo, ele tirava magnificas fotografias familiares, cristais de memória da minha infancia, festas de anos, passeios, encontros, acontecimentos da vida familiar.  Mas tambem virava a objetiva para fora, para longe, para o mundo distante do nosso circulo de giz caucasiano: mundo em cujo destino ele estava profundamente empenhado. Esta fotografia foi tirada em 1952, em S. Cosmado, a aldeia do Alto Douro em que a minha mãe nasceu e onde íamos, todos os anos, passar as férias que, naquele tempo, eram grandes. 
 
-###### **My father loved photography. With his Kodak camera always at his side, he captured beautiful family moments — crystalline fragments of my childhood, birthday parties, walks, gatherings, the small events that made up our family life. But he also turned his lens outward, toward the wider world, far beyond the narrow circle of our everyday life — a world whose fate mattered to him deeply.**
-
-###### **This photograph was taken in 1952, in S. Cosmado, the village in the Alto Douro where my mother was born and where we spent our long summer holidays every year.**
+###### **My father loved photography. With his Kodak camera always at his side, he captured beautiful family moments — crystalline fragments of my childhood, birthday parties, walks, gatherings, the small events that made up our family life. But he also turned his lens outward, toward the wider world, far beyond the narrow circle of our everyday life — a world whose fate mattered to him deeply. This photograph was taken in 1952, in S. Cosmado, the village in the Alto Douro where my mother was born and where we spent our long summer holidays every year.**
 
 ![foto tirada pelo meu pai em S. Cosmado, em 1952](images/foto_meu_pai-Scosmado_1952.jpg "foto tirada pelo meu pai em S. Cosmado, em 1952")
 
