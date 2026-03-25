@@ -41,9 +41,9 @@ pedido, redigi uma brevissima nota biográfica do meu pai para sinalizar a entra
 
 ###### *João Pires Martins. He was born in Lisbon on 5 December 1912. He graduated in Historical‑Philosophical Studies from the Faculty of Arts of the University of Lisbon. He never agreed to sign the declaration required by Salazar’s regime for public servants, and for that reason he spent his entire life teaching in private schools. He was deeply respected and admired by his students, for whom he became an intellectual and moral reference. He lived modestly, cultivating a single passion: books. He bought many books, read voraciously, collected endlessly. He spoke constantly about books he had read or purchased, or simply admired in a bookshop window. He was a scholar to the very end of his life — an erudite man with a profound knowledge of Comparative Religions and World History, especially the histories of Portugal and France, a country he loved with devotion. Like many of his generation, he lived fully under the Salazar dictatorship. He never belonged to any political party, but he followed closely everything that happened in Portugal and in the world. The 25th of April was, for him, the happiest political event of his life. He passed away on 23 June 2005. [*Ephemera. Noticias da Semana* de 4 a 10 de dezembro de 2017. "Pastas entradas no Arquivo"] see [Ephemera. News of the Week, 4–10 December 2017, “Folders entering the Archive”](https://ephemerajpp.com/2017/12/07/ephemera-noticias-da-semana-de-4-a-10-de-dezembro-de-2017/).*
 
-**Resta dizer que todos os dias converso com ele. Que ele permanece presente ao meu lado, na forma como penso, como trabalho. Como olho o mundo.**
+Resta dizer que todos os dias converso com ele. Que ele permanece presente ao meu lado, na forma como penso, como trabalho. Como olho o mundo.
 
-###### **It remains to be said that I speak with him every day. He stays beside me, present in the way I think, in the way I work. In the way I look at the world.**
+###### It remains to be said that I speak with him every day. He stays beside me, present in the way I think, in the way I work. In the way I look at the world.
 
 
 
