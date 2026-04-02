@@ -58,9 +58,9 @@
 * Associated Researcher of the international project **Le Rôle de la Micro-Histoire**, Université de Lille III, France (head by Shahid Rahman) (2006-2008). 
 * Associated Researcher of the international project **La Contextualization des Catégories de la Pensée Scientifique**, Université de Lille III, France (head by Shahid Rahman), (2006-2008). 
 * Associated Researcher of the international project **Logiques de la Ficcion**, Université de Lille III, France (head by Shahid Rahman) (2006-2008).
-* Member of the **[Bachelard. Science and Poetics](https://arquivo.pt/wayback/20140925075736/http://cfcul.fc.ul.pt/projectos/bachelard/)** CFCUL Research Project (head Zbigniew Kotowicz) (2006-2009). 
-* Member of the [**Poincaré Filósofo da Ciência / Poincaré Philosopher of Science**](https://cfcul.ciencias.ulisboa.pt/projectos/poincare-filosofo-da-ciencia/), FCT research project (head by António Franco Oliveira) (2007-2010). 
-* Member of the  **Problemas Filosóficos da Física Quântica / Philosophical Problems of Quantum Mechanics**,  FCT research project (head by José Croca) (2007-2010). 
+* Member of the CFCUL Internal Research Project **[Bachelard. Science and Poetics](https://arquivo.pt/wayback/20140925075736/http://cfcul.fc.ul.pt/projectos/bachelard/)** (head Zbigniew Kotowicz) (2006-2009). 
+* Member of the FCT research project [**Poincaré Filósofo da Ciência / Poincaré Philosopher of Science**](https://cfcul.ciencias.ulisboa.pt/projectos/poincare-filosofo-da-ciencia/) (head by António Franco Oliveira) (2007-2010). 
+* Member of the FCT research project **Problemas Filosóficos da Física Quântica / Philosophical Problems of Quantum Mechanics** (head by José Croca) (2007-2010). 
 * Associated Researcher of the international project **Imag(in)ing the Nano-scale: Interactions between Science and Art**, University of Bergen, Centre for the Studies of the Sciences and Humanities (head by Rasmus Tore Slaattelid), (2009-2011).  
 * Associated Researcher of the international project EU-FP7,  **Observatory Nano** , EU-7th Framework Program (head by Mark Morrison (2009-2011). 
 * Member of the  [**The Vienna Papers of Delfim Santos and the Philosophy of Science in Portugal**](https://www.delfimsantos.net/2013/04/23/lancamento-da-delfim-santos-studies/), CFCUL research project (head by Filipe D. Santos), (2011-2012).
@@ -72,25 +72,25 @@
 
 ### <a name="scientific-societies"></a> Scientific societies
 
-* Directory Board of the **[Associação Bento Jesus Caraça](https://www.associacaobentodejesuscaraca.pt/)**, Lisboa (since 2025)
+* Directory Board of the **[Associação Bento Jesus Caraça](https://www.associacaobentodejesuscaraca.pt/)**, Lisboa (2025-2026)
 * President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (since 2022)
 * Founding member of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (created January 2022)
-* Founding member of the Société de Philosophie des Sciences, France (2002). 
+* Founding member of the **Société de Philosophie des Sciences**, France (2002). 
 * Advisory Board of the **[International Association for the Study of Controversies (IASC)](https://iasc.me/)** (2016-on going).
 * Administrative Board of the **Société de Philosophie des Sciences** (2012-2015).
 * **Association for Interdisciplinary Studies (AIS)**, USA (since 2019).
 * **[Amonet. Associação Portuguesa de Mulheres Cientistas](https://amonetpt.wixsite.com/amonet)**, Lisboa, Portugal (2019).
 * **[Associação Bento Jesus Caraça](https://www.associacaobentodejesuscaraca.pt/)**, Lisboa (since 2018).
-* Member of the **Scientific Society for Woman in Philosophy**, Switzerland, SWIP CH (since 2017).
-* Member of the **[Association Computability in Europe (CIE)](https://www.acie.eu/)**, Leeds, UK (since 2016).  
-* Member of the **[International Association for the Study of Controversies (IASC)](https://iasc.me/)** (since 2014).
-* Member of the **European Philosophy of Science Association (EPSA)**, Austria (2000).
-* Member of the **Associação Agostinho da Silva**, Lisboa, Portugal (since 1996). 
-* Member of the **Sociéte d'Histoire et d'Épistémologie des Sciences du Langage (S.H.E.S.L.)**, Paris, France (since 1990).
-* Member of the **[Henry Sweet Society for the History of Linguistic Ideas](https://www.henrysweet.org)**, Oxford, UK (since 1989). 
-* Member of the **Gesellschaften Studienkreis der Sprachwissenschafte**, Münster, Germany (since 1987).
-* Member of the Directory Board of the **Sociedade Portuguesa de Filosofia**, Lisboa (1983-1999).
-* Member of the **[Sociedade Portuguesa de Filosofia](https://www.spfil.pt/)**, Lisboa (since its foundation in 1977).
+* **Scientific Society for Woman in Philosophy**, Switzerland, SWIP CH (since 2017).
+* **[Association Computability in Europe (CIE)](https://www.acie.eu/)**, Leeds, UK (since 2016).  
+* **[International Association for the Study of Controversies (IASC)](https://iasc.me/)** (since 2014).
+* **European Philosophy of Science Association (EPSA)**, Austria (2000).
+* **Associação Agostinho da Silva**, Lisboa, Portugal (since 1996). 
+* **Sociéte d'Histoire et d'Épistémologie des Sciences du Langage (S.H.E.S.L.)**, Paris, France (since 1990).
+* **[Henry Sweet Society for the History of Linguistic Ideas](https://www.henrysweet.org)**, Oxford, UK (since 1989). 
+* **Gesellschaften Studienkreis der Sprachwissenschafte**, Münster, Germany (since 1987).
+* Directory Board of the **Sociedade Portuguesa de Filosofia**, Lisboa (1983-1999).
+* **[Sociedade Portuguesa de Filosofia](https://www.spfil.pt/)**, Lisboa (since its foundation in 1977).
 
 
 ### <a name="networks"></a> Networks 
