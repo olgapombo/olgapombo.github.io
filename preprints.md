@@ -7,7 +7,7 @@
   1. [**O Projecto Enciclopedista. Palavra, género e modalidades** (The Encyclopaedist Project. Word,  gender and modalities)](https://arquivo.pt/wayback/20091224030600/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap1p1/palavra.htm),
   2. [**Para uma História da Ideia de Enciclopedia** (For the History of the Idea of Encyclopaedia](https://arquivo.pt/wayback/20091224025159/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap2p1/antclass.htm),
   3. [**Enciclopedia filosófica** (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
-     see also -(pdf-text/Enciclopedias_filosoficas.pdf)
+     see also (pdf-text/Enciclopedias_filosoficas.pdf)
  
 * Pombo, Olga (2004), [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm), historical overview of the main moments, authors and works since the design of the ideal city (16th century) to the imaginary voyage in space (17th century) or in time (18th century) and the prospective optimistic fiction of the future (19th century).  
 
