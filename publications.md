@@ -253,7 +253,7 @@ ISSN: 1665-3319.
 
 * Pombo, Olga (2010), [**A propósito de 'Relatividade e Física Clássica: Continuidade e Ruptura', apresentação de um livro de António Brotas**](https://www.spf.pt/magazines/GFIS/97/article/775/pdf), Gazeta de Física, Vol. 33, nº 2, pp. 9-12. see also [here](pdf-text/OP_recencao_brotas.pdf)
 * Pombo, Olga (2008), [**Todos os Homens por Natureza Desejam Conhecer**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/prefacio%20barros%20veloso.pdf), in Barros Veloso, António, Medicina e outras Coisas, Lisboa: Gradiva, pp. 7-11. ([RGlink](https://www.researchgate.net/publication/341358982_Todos_os_homens_por_natureza_desejam_conhecer))
-see [here](pdf-text/OP_prefacio_barros_veloso.PDF)
+see also [here](pdf-text/OP_prefacio_barros_veloso.PDF)
 * Pombo, Olga (1992), **Ana Luísa Janeira, 'Sistemas Epistémicos e Ciências: do Noviciado da Cotovia à Faculdade de Ciências de Lisboa” e José Lopes Ribeiro, 'O Edifício da Faculdade de Ciências. Quatro Séculos de Retratos Institucionais'**, Revista de Educação, vol. II, nº 1, Lisboa: DEFCUL, pp. 119-120.
 * Pombo, Olga (1991), [**Agostinho da Silva, ‘Educação de Portugal’**](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/recensao.htm), Revista de Educação, vol. II, n.º 1, Lisboa: DEFCUL, pp. 110-115. ([RGhere](https://www.researchgate.net/publication/286920353_Pombo_Olga_Agostinho_da_Silva_'Educacao_de_Portugal'_Agostinho_da_Silva_'Education_of_Portugal'_Revista_de_Educacao_vol_II_n_1_1991_pp_110-115)
 * Pombo, Olga (1984), **Herbert H. Knecht. ‘La Logique chez Leibniz’**, Análise, nº 1, Lisboa, Gec, pp. 231-239.
@@ -274,7 +274,7 @@ see [here](pdf-text/OP_prefacio_barros_veloso.PDF)
 
 ### <a name="Room-texts-at-exhibitions"></a>Room texts at exhibitions
 
-* Pombo, Olga (2019) **[A Bioarte de Isa Duarte Ribeiro](pdf-text/2_Bioarte_Isa.pdf)**, (per)cursos exhibition by Isa Duarte Ribeiro, Mora: Casa da Cultura see also [here](https://www.researchgate.net/publication/338476516_A_Bioarte_de_Isa_Duarte_Ribeiro_BioArt_of_Isa_Duarte_Ribeiro)
+* Pombo, Olga (2019) **[A Bioarte de Isa Duarte Ribeiro](pdf-text/2_Bioarte_Isa.pdf)**, (per)cursos exhibition by Isa Duarte Ribeiro, Mora: Casa da Cultura (see also [here](https://www.researchgate.net/publication/338476516_A_Bioarte_de_Isa_Duarte_Ribeiro_BioArt_of_Isa_Duarte_Ribeiro))
 * Pombo, Olga (2004) **From Thomas More to Rousseau**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
 * Pombo, Olga (2004) **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
 Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
