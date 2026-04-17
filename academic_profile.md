@@ -74,7 +74,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1986 – 1988 - Member of the Assembly of Representatives of FCUL.
 
 
-### Fellowships and research stays 
+### Fellowships and research stays abroad
 
 **PPhD and Sabbatical Fellowships**
 * 1989 – 1992 – PhD fellowship, National Institute of Scientific Research (JNIC)
