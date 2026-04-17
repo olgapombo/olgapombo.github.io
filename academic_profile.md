@@ -34,13 +34,13 @@ She was  awarded  the Honorary membersip of the “International Association for
   
 ### Education and degrees
 
-* 2009 – **Habilitation (Aggregation) in "History and Philosophy of Science"**, University of Lisbon with the public lesson “*Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century*).
+* 2009 – *Habilitation (Aggregation) in "History and Philosophy of Science"*, University of Lisbon with the public lesson “*Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century*).
 * 1998 - *PhD in Philosophy of Education*, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “*Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge*).  
 * 1986 - *Master in "Modern Philosophy”», Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "*Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language*).
 * 1982 - *Post-Graduation in "Modern Philosophy"*, Faculty of Human and Social Sciences, New University of Lisbon.
 * 1973 - *National Certified as Philosophy Teacher (State Examination*), Lisbon.
 * 1972 - 1973 – *Classical Stage for the Teaching of Philosophy* (D. Pedro V School, Lisbon).
-* 1971 – *Licence degress in "Philosophy"*, Faculty of Letters, University of Lisbon.
+* 1971 – *Licence degree in "Philosophy"*, Faculty of Letters, University of Lisbon.
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
 
@@ -196,7 +196,7 @@ DOI: 10.1007/s10516-014-9264-5
 * [**Ciencia e Arte. Afinidades Admiráveis e Diferenças Sublimes (Science and Art. Admirable Affinities and Sublime Differences)**](https://www.youtube.com/watch?v=Bq12-IleNRM&list=PLBJEkvYhpHiYVdxEBNZ3Xq5dTitATsOcw&index=13&t=229s), "FICA, International Science Festival", Oeiras, 13 October 2021.
 * [**A Escola e os Grandes Desafios da Contemporaneidade (The School and the Great Challenges of Contemporaneity)**](https://www.youtube.com/watch?v=q3TqyHFEMyg), Universidade Federal de Viçosa, Brazil, 10 February 2022.
 * [**O Lugar de Leibniz na História da Lógica (Leibniz's Place in the History of Logic)**](https://math.tecnico.ulisboa.pt/seminars/collog/?action=videos), Sociedade Portuguesa de Lógica, Instituto Superior Técnico. Departament of Mathematics, University of Lisbon, 15 November 2022.
-* [**Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior, (Truth and Speed: Two Concepts for Thinking About the Future of Higher Education)**](https://www.engium.uminho.pt/eeum50/), Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 novembro 2025
+* [**Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior, (Truth and Speed: Two Concepts for Thinking the Future of Higher Education)**](https://www.engium.uminho.pt/eeum50/), Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 novembro 2025
 
 #### Other [Conferences and talks](onlinetalks.md)
 
