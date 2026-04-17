@@ -1,7 +1,7 @@
 
 ## Academic profile      
 
-###### This academic profile is not a full academic curriculum vitae (which can be found **here**). Rather than an exhaustive record of a professional career, it aims to provide a selection of the most significant aspects of my academic trajectory, both in terms of publications, research, teaching, conferences, talks, lectures as well as organization of meetings and other initiatives that I have developed. Behond including a selection of the most significant aspects of my academic life, it also provides online access to almost all of my articles, books, and other writtings, as well as interviews, media appearances, and other forms of academic and public reception of my work.
+###### This academic profile is not a full academic *curriculum vitae* (which can be found **here**). Rather than an exhaustive record of a professional career, it aims to provide a selection of thé most significant aspects of my academic trajectory, both in terms of publications, research, teaching, conferences, talks, lectures as well as organization of meetings and other initiatives that I have developed. Behond including a selection of the most significant aspects of my academic life, it also provides online access to almost all of my articles, books, and other writtings, as well as interviews, media appearances, and other forms of academic and public reception of my work.
 
 ###### | [Trajectory](#trajectory) | [Education](#education-and-degrees) | [Appointments](#appointments-positions-and-responsabilities) | [Academic Responsibilities](#academic-responsibilities) | [Fellowships](#fellowships-and-research-stays-abroad) | [Consultancy](#consultancy) | [Publications](publications.md) | [Journal editor](#journal_editor) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research.html) | [Organization of Scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Media and Scholar Reception](#media-and-scholar-reception) | [Honours](#honours-awards-and-public-distinctions) | [Languages](#languages) || [Full CV](https://webpages.ciencias.ulisboa.pt/~ommartins/academic_profile/index.htm) ||
 
@@ -34,7 +34,7 @@ She was  awarded  the Honorary membersip of the “International Association for
   
 ### Education and degrees
 
-* 2009 – *Habilitation (Aggregation) in "History and Philosophy of Science"*, University of Lisbon with the public lesson “*Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century*).
+* 2009 – **Habilitation (Aggregation) in "History and Philosophy of Science"**, University of Lisbon with the public lesson “*Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century*).
 * 1998 - *PhD in Philosophy of Education*, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “*Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge*).  
 * 1986 - *Master in "Modern Philosophy”», Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "*Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language*).
 * 1982 - *Post-Graduation in "Modern Philosophy"*, Faculty of Human and Social Sciences, New University of Lisbon.
