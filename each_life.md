@@ -92,17 +92,20 @@ Jorge Silva Melo
 
 Exposições
 
-[Cam individual 2001](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095/)
+[CAM individual 2001](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095/)
 
-https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095/
 
-[Cam premio nacional de gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/)
 
-https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/
+[CAM premio nacional de gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/)
 
-[Cam catalogo](https://gulbenkian.pt/cam/publications/sergio-pombo/)
+            [CAM catálogo](https://gulbenkian.pt/cam/publications/sergio-pombo/)
 
-https://gulbenkian.pt/cam/publications/sergio-pombo/
+[ARTISTAS UNIDOS - A NOITE ALEMA E OS OUTROS DIAS](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo)
+
+[Artistas Unidos - DESENHO](https://artistasunidos.pt/desenho-de-sergio-pombo)
+
+[ARTISTAS UNIDOS - O Corpo e a Linha][https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha/]
+
 
 
 Sérgio Pombo | Facebook [here](https://www.facebook.com/profile.php?id=100009665319498)
@@ -111,14 +114,9 @@ https://www.facebook.com/profile.php?id=100009665319498
 
 Sérgio Pombo – Wikipédia, a enciclopédia livre (wikipedia.org)
 
-
 Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 
-https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo/
 
-https://artistasunidos.pt/desenho-de-sergio-pombo/
-
-https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha/
 
  
 
