@@ -142,7 +142,6 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte.
 
-
 ## Exposições Colectivas (selecção)
 * 1965 – Lisboa, SNBA, Salão de Outubro.
 * 1967 – Lisboa, Exposição Conventos dos Marianos.
@@ -215,20 +214,20 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * Gonçalves, Rui Mário; in Jornal de Letras, nº 79, pp. 10-16, 1984.
 * Gonçalves, Rui Mário; in Colóquio Artes, nº 60, Mar. 1984.
 * Gonçalves, Rui Mário; 10 Anos de Artes Plásticas em Portugal, 1974-1984. Ed. Caminho. Lisboa, 1985.
-Gonçalves, Rui Mário; in Colóquio Artes, nº 67, 1985.
-Gonçalves, Rui Mário; in Colóquio Artes, nº 103, Dez. 1994.
-Gonçalves, Rui Mário; 100 Pintores Portugueses do Século XX; Ed. Alfa. Lisboa, 1996.
-Gonçalves, Rui Mário; Vontade de Mudança. Cinco Décadas de Artes Plásticas. Ed. Caminhi. Lisboa, 2004.
-Melo, Alexandre; «Sérgio Pombo. Estudos para um Retrato [entrevista]», in Jornal de Letras, nº 128, pp. 18-24, Dez. 1984.
-Melo, Alexandre; «Nove Artistas, 1987/1997», in Catálogo de Exposição. Ed. César Galeria. Lisboa, 1997.
-Melo, Jorge Silva e; «Com a rapidez das estrelas cadentes, fulgurantes», in Sérgio Pombo, Pintura, 1980-2007, pp. 5-11. Lisboa, 2007.
-Molder, Jorge; «Sérgio Pombo», in Catálogo de Exposição. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
-Nabais, Nuno; «Sérgio Pombo. O Fascínio pelo Retrato», in Jornal de Letras, nº 80, pp. 17-23, Jan. 1984.
-Correa, Carlos Natividade; in Grande Reportagem, 14 de Dez. de 1984.
-Pinharanda, João; Alguns Corpos. Imagens da Arte Portuguesa entre 1950 e 1990. Ed. EDP. Lisboa, 1998.
-Pinharanda, João; «Ulisses no Lugar de Penélope», in Sérgio Pombo. Catálogo de Exposição. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
-Porfírio, José Luís; in Revista Expresso, 15 de Dez. de 1984.
-Rocha de Sousa, «Toda a Cidade é um Museu Encoberto», in Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra. Ed. Câmara Municipal de Coimbra. Coimbra, 2003.
+* Gonçalves, Rui Mário; in Colóquio Artes, nº 67, 1985.
+* Gonçalves, Rui Mário; in Colóquio Artes, nº 103, Dez. 1994.
+* Gonçalves, Rui Mário; 100 Pintores Portugueses do Século XX; Ed. Alfa. Lisboa, 1996.
+* Gonçalves, Rui Mário; Vontade de Mudança. Cinco Décadas de Artes Plásticas. Ed. Caminhi. Lisboa, 2004.
+* Melo, Alexandre; «Sérgio Pombo. Estudos para um Retrato [entrevista]», in Jornal de Letras, nº 128, pp. 18-24, Dez. 1984.
+* Melo, Alexandre; «Nove Artistas, 1987/1997», in Catálogo de Exposição. Ed. César Galeria. Lisboa, 1997.
+* Melo, Jorge Silva e; «Com a rapidez das estrelas cadentes, fulgurantes», in Sérgio Pombo, Pintura, 1980-2007, pp. 5-11. Lisboa, 2007.
+* Molder, Jorge; «Sérgio Pombo», in Catálogo de Exposição. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
+* Nabais, Nuno; «Sérgio Pombo. O Fascínio pelo Retrato», in Jornal de Letras, nº 80, pp. 17-23, Jan. 1984.
+* Correa, Carlos Natividade; in Grande Reportagem, 14 de Dez. de 1984.
+* Pinharanda, João; Alguns Corpos. Imagens da Arte Portuguesa entre 1950 e 1990. Ed. EDP. Lisboa, 1998.
+* Pinharanda, João; «Ulisses no Lugar de Penélope», in Sérgio Pombo. Catálogo de Exposição. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
+* Porfírio, José Luís; in Revista Expresso, 15 de Dez. de 1984.
+* Rocha de Sousa, «Toda a Cidade é um Museu Encoberto», in Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra. Ed. Câmara Municipal de Coimbra. Coimbra, 2003.
 
 
  
