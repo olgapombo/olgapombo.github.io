@@ -9,6 +9,8 @@ This page is very incomplete, for the moment. Will it ever be complete ?
 
 _________________________
 
+| [O meu pai](## O meu pai) | [O meu irmao](## O meu irmao)
+
 ## O meu pai 
 
 ![fot-meu-pai-perfil](images/fot-meu-pai-perfil.jpg "fot-meu-pai-perfil.jpg")
