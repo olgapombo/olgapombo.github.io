@@ -133,7 +133,7 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * 2007 – Lisboa, Galeria CiDiarte, **Pintura**.
 * –––––– Maputo, Galeria Moçambicana de Fotografia.
 * –––––– Lisboa, Galeria Valbom.
-* –––––– Lisboa, Artistas Unidos, Convento das Mónicas, **Desenho**
+* –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Desenho de Sérgio Pombo**]((https://artistasunidos.pt/desenho-de-sergio-pombo))
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte.
 
