@@ -133,7 +133,7 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * 2007 – Lisboa, Galeria CiDiarte, **Pintura**.
 * –––––– Maputo, Galeria Moçambicana de Fotografia.
 * –––––– Lisboa, Galeria Valbom.
-* –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Desenho de Sérgio Pombo**]((https://artistasunidos.pt/desenho-de-sergio-pombo))
+* –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Desenho de Sérgio Pombo**](https://artistasunidos.pt/desenho-de-sergio-pombo).
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte.
 
@@ -220,8 +220,7 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * Nabais, Nuno; **Sérgio Pombo. O Fascínio pelo Retrato**, in *Jornal de Letras*, nº 80, pp. 17-23, Jan. 1984.
 * Correa, Carlos Natividade; in *Grande Reportagem*, 14 de Dez. de 1984.
 * Pinharanda, João; **Alguns Corpos. Imagens da Arte Portuguesa entre 1950 e 1990**. Ed. EDP. Lisboa, 1998.
-* Pinharanda, João; **Ulisses no Lugar de Penélope**, in *Sérgio Pombo. Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
-* Pinharanda, João; **Desenho de Sergio Pombo**, in Desenho de Sergio Pombo, Artistas Unidos, Convento das Mónicas. 
+* Pinharanda, João; **Ulisses no Lugar de Penélope**, in *Sérgio Pombo. Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001. 
 * Porfírio, José Luís; in *Revista Expresso*, 15 de Dez. de 1984.
 * Rocha de Sousa, **Toda a Cidade é um Museu Encoberto**, in *Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra*. Ed. Câmara Municipal de Coimbra. Coimbra, 2003.
 
