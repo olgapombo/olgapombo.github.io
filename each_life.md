@@ -127,6 +127,7 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * 2000 – Lisboa, Galeria Reverso [escultura].
 * 2001 – Lisboa, [CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095)
 * 2002 – Colares, Galeria de Colares, O Voo da Cor no Branco da Memória.
+* 2005 - Lisboa, Teatro Taborda, [A NOITE ALEMÃ E OS OUTROS DIAS]((https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo)) 
 * 2007 – Lisboa, Galeria CiDiarte, Sérgio Pombo, pintura.
 * –––––– Maputo, Galeria Moçambicana de Fotografia.
 * –––––– Lisboa, Galeria Valbom.
