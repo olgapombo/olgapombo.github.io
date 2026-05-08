@@ -118,13 +118,13 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 
 
 ## Exposições Individuais (selecção)
-1973 – Lisboa, Galeria de 5. Francisco.
-1977 – Paris, Galeria Diagonale.
-1978 – Lisboa, SNBA, Galeria de Arte Moderna.
-1983 – Cascais, Galeria Diagonal [escultura/pintura].
-1984 – Lisboa, Galeria Cómicos.
-–––––– Lisboa, Galeria Quadrum.
-1986 – Lisboa, Altamira.
+* 1973 – Lisboa, Galeria de 5. Francisco.
+*1977 – Paris, Galeria Diagonale.
+*1978 – Lisboa, SNBA, Galeria de Arte Moderna.
+*1983 – Cascais, Galeria Diagonal [escultura/pintura].
+*1984 – Lisboa, Galeria Cómicos.
+*–––––– Lisboa, Galeria Quadrum.
+*1986 – Lisboa, Altamira.
 1987 – Lisboa, Fundação Calouste Gulbenkian, [Premio nacional de gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/), Catálogo [here](https://gulbenkian.pt/cam/publications/sergio-pombo/)
 –––––– Lisboa, Galeria Quadrum.
 1988 – Lisboa, Loja de Desenho.
