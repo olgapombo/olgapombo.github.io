@@ -9,7 +9,7 @@ This page is very incomplete, for the moment. Will it ever be complete ?
 
 _________________________
 
-| [O meu pai](## O meu pai) |  [A minha mãe](## A minha mãe)  | [O meu irmao](## O meu irmao)
+| [O meu pai](# o_meu_pai) |  [A minha mãe](#a_minha_mãe)  | [O meu irmao](## o_meu_irmao)
 
 ## O meu pai 
 
