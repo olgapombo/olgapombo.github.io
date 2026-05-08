@@ -90,14 +90,7 @@ Porque Sérgio Pombo, com a rapidez das estrelas cadentes no céu de todas as no
 Jorge Silva Melo
 
  
- 
-
-
-[ARTISTAS UNIDOS - A NOITE ALEMA E OS OUTROS DIAS](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo)
-
-
 [ARTISTAS UNIDOS - O Corpo e a Linha][https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha/]
-
 
 
 Sérgio Pombo | Facebook [here](https://www.facebook.com/profile.php?id=100009665319498)
@@ -135,6 +128,7 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Desenho de Sérgio Pombo**](https://artistasunidos.pt/desenho-de-sergio-pombo).
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte.
+* 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
 
 ## Exposições Colectivas (selecção)
 * 1965 – Lisboa, SNBA, **Salão de Outubro**.
@@ -212,6 +206,7 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * Gonçalves, Rui Mário; in *Colóquio Artes*, nº 103, Dez. 1994.
 * Gonçalves, Rui Mário; **100 Pintores Portugueses do Século XX**; Ed. Alfa. Lisboa, 1996.
 * Gonçalves, Rui Mário; **Vontade de Mudança. Cinco Décadas de Artes Plásticas**. Ed. Caminhi. Lisboa, 2004.
+* Júdice, Nuno; **O Voo da Cor no Branco da Memória**, in *Catalogo da exposição A noite alemã e outros dias*, 2005 
 * Melo, Alexandre; **Sérgio Pombo. Estudos para um Retrato (entrevista)**, in *Jornal de Letras*, nº 128, pp. 18-24, Dez. 1984.
 * Melo, Alexandre; **Nove Artistas, 1987/1997**, in *Catálogo de Exposição*. Ed. César Galeria. Lisboa, 1997.
 * Melo, Jorge Silva e; **Com a Rapidez das Estrelas Cadentes, Fulgurantes**, in *Sérgio Pombo, Pintura, 1980-2007*, pp. 5-11. Lisboa, 2007.
