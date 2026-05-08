@@ -95,7 +95,6 @@ Jorge Silva Melo
 
 [ARTISTAS UNIDOS - A NOITE ALEMA E OS OUTROS DIAS](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo)
 
-[Artistas Unidos - DESENHO](https://artistasunidos.pt/desenho-de-sergio-pombo)
 
 [ARTISTAS UNIDOS - O Corpo e a Linha][https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha/]
 
