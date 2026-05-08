@@ -112,7 +112,7 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * 1973 – Lisboa, Galeria de 5. Francisco.
 * 1977 – Paris, Galeria Diagonale.
 * 1978 – Lisboa, SNBA, Galeria de Arte Moderna.
-* 1983 – Cascais, Galeria Diagonal [escultura/pintura].
+* 1983 – Cascais, Galeria Diagonal, **Escultura/Pintura**
 * 1984 – Lisboa, Galeria Cómicos.
 * –––––– Lisboa, Galeria Quadrum.
 * 1986 – Lisboa, Altamira.
@@ -124,64 +124,64 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * 1994 – Lisboa, Galeria Giefarte.
 * 1997 – Faro, Galeria Trem.
 * 1999 – Funchal, Galeria Edicarte.
-* 2000 – Lisboa, Galeria Reverso [escultura].
+* 2000 – Lisboa, Galeria Reverso, **Escultura**.
 * 2001 – Lisboa, [CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095)
-* 2002 – Colares, Galeria de Colares, O Voo da Cor no Branco da Memória.
-* 2005 - Lisboa, Teatro Taborda, [A NOITE ALEMÃ E OS OUTROS DIAS](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo)) 
-* 2007 – Lisboa, Galeria CiDiarte, Sérgio Pombo, pintura.
+* 2002 – Colares, Galeria de Colares, **O Voo da Cor no Branco da Memória**.
+* 2005 - Lisboa, Teatro Taborda, [**A noite alemã e outros dias**](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo)) 
+* 2007 – Lisboa, Galeria CiDiarte, **Pintura**.
 * –––––– Maputo, Galeria Moçambicana de Fotografia.
 * –––––– Lisboa, Galeria Valbom.
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte.
 
 ## Exposições Colectivas (selecção)
-* 1965 – Lisboa, SNBA, Salão de Outubro.
+* 1965 – Lisboa, SNBA, **Salão de Outubro**.
 * 1967 – Lisboa, Exposição Conventos dos Marianos.
 * 1972 – Lisboa, Exposição do Banco Português do Atlântico.
-* 1973 – Famalicão, Primeira Bienal dos Artistas Novos.
-* 1974 – Lisboa, SNBA, Salão 74.
-* –––––– Lisboa, Participação no painel Colectivo de 10 de Junho.
-* 1975 – Lisboa, SNBA, Figuração Hoje.
-* –––––– Lisboa, Exposição de 100 Obras do Ministério da Comunicação Social.
-* 1976 –  Lisboa, SNBA, Grupo 5+1.
-* –––––– Lisboa, Fundação Caloust Gulbenkian, Vinte anos de Gravura.
-* –––––– Lisboa, Secretaria de Estado da Cultura, Gravura Portuguesa Contemporânea.
-* –––––– Caracas, Pintura Portuguesa.
-* 1977 – Lisboa, SNBA, Mitologias.
-* –––––– Viena, Áustria, Exposição 5+1.
-* 1978 – Lisboa, SNBA, Exposição 5+ 1.
-* 1979 – Porto, Cooperativa Árvore, Exposição 5+ 1.
-* 1980 – Lisboa, Galeria de Arte Moderna, Exposição Inventário 3.
-* –––––– França, Festival Internacional de Pintura de Cagnes-sur-Mer.
-* 1981 – Lisboa, Fundação Calouste Gulbenkian, Terceira Exposição Nacional de Gravura.
-* 1982 – Paris, XII Bienal de Paris.
-* 1983 – Lisboa, SNBA, Depois do Modernismo.
-* ––––– Lisboa, SNBA, Perspectivas  Actuais da Arte Portuguesa.
-* 1984 –  Lisboa, Primeira Exposição de Arte do Banco de Fomento Nacional.
+* 1973 – Famalicão, **Primeira Bienal dos Artistas Novos**.
+* 1974 – Lisboa, SNBA, **Salão 74**.
+* –––––– Lisboa, **Painel Colectivo de 10 de Junho**.
+* 1975 – Lisboa, SNBA, **Figuração Hoje**.
+* –––––– Lisboa, Exposição de **100 Obras do Ministério da Comunicação Social**.
+* 1976 –  Lisboa, SNBA, **Grupo 5+1**.
+* –––––– Lisboa, Fundação Caloust Gulbenkian, **Vinte anos de Gravura**.
+* –––––– Lisboa, Secretaria de Estado da Cultura, **Gravura Portuguesa Contemporânea**.
+* –––––– Caracas, **Pintura Portuguesa**.
+* 1977 – Lisboa, SNBA, **Mitologias**.
+* –––––– Viena, Áustria, **Exposição 5+1**.
+* 1978 – Lisboa, SNBA, **Exposição 5+ 1**.
+* 1979 – Porto, Cooperativa Árvore, **Exposição 5+ 1**.
+* 1980 – Lisboa, Galeria de Arte Moderna, **Exposição Inventário 3**.
+* –––––– França, **Festival Internacional de Pintura de Cagnes-sur-Mer**.
+* 1981 – Lisboa, Fundação Calouste Gulbenkian, **Terceira Exposição Nacional de Gravura**.
+* 1982 – Paris, **XII Bienal de Paris**.
+* 1983 – Lisboa, SNBA, **Depois do Modernismo**.
+* ––––– Lisboa, SNBA, **Perspectivas Actuais da Arte Portuguesa**.
+* 1984 –  Lisboa, **Primeira Exposição de Arte do Banco de Fomento Nacional**.
 * ––––– Lisboa, Instituto Alemão.
 * ––––– Porto, Museu Soares dos Reis.
-* ––––– Cáceres, Espanha, Exposição Ibérica de Arte Moderna.
+* ––––– Cáceres, Espanha, **Exposição Ibérica de Arte Moderna**.
 * 1985 – Lisboa, CAM – Centro de Arte Moderna da Fundação Caloust Gulbenkian.
-* ––––– Lisboa, Fundação Caloust Gulbenkian, O Imaginário da Cidade de Lisboa.
-* ––––– Ministério da Cultura, Exposição Itinerante, Situações.
-* ––––– S. Paulo, Brasil, XVIII Bienal de S. Paulo.
-* ––––– Mérida, Espanha, Pintado em Portugal.
-* 1986 – CAM, Centro de Arte Moderna da Fundação Caloust Gulbenkian, III Exposição de Artes Plásticas.
-* –––––– Bruxelas, Bélgica, Le XXème au Portugal.
-* 1987 – Madrid, Espanha, Arte Contemporâneo Portugués.
-* –––––– Brasília/Rio de Janeiro/São Paulo, Brasil, 70-80 Arte Portuguesa.
-* –––––– Madrid, Espanha, ARCO – Feira Internacional.
-* –––––– Moscovo, URSS, Pintura Portuguesa Contemporânea.
-* 1988 – Filadélfia, EUA, Arte Portuguesa.
-* –––––– Atenas, Grécia, Pintura Portuguesa.
-* 1989 – Lisboa, FAC, II Fórum de Arte Contemporânea.
-* 1991 – Lisboa, SNBA, Parlamento Europeu, Exposição de Artes Plásticas Portuguesas.
-* –––––– Parlamento Europeu.
-* 1995 – Lisboa, FIL – Feira de Arte.
+* ––––– Lisboa, Fundação Caloust Gulbenkian, **Imaginário da Cidade de Lisboa**.
+* ––––– Ministério da Cultura, Exposição Itinerante, **Situações**.
+* ––––– S. Paulo, Brasil, **XVIII Bienal de S. Paulo**.
+* ––––– Mérida, Espanha, **Pintado em Portugal**.
+* 1986 – CAM, Centro de Arte Moderna da Fundação Caloust Gulbenkian, **III Exposição de Artes Plásticas**.
+* –––––– Bruxelas, Bélgica, **Le XXème au Portugal**.
+* 1987 – Madrid, Espanha, **Arte Contemporâneo Portugués**.
+* –––––– Brasília/Rio de Janeiro/São Paulo, Brasil, **70-80 Arte Portuguesa**.
+* –––––– Madrid, Espanha, **ARCO – Feira Internacional**.
+* –––––– Moscovo, URSS, **Pintura Portuguesa Contemporânea**.
+* 1988 – Filadélfia, EUA, **Arte Portuguesa**.
+* –––––– Atenas, Grécia, **Pintura Portuguesa**.
+* 1989 – Lisboa, FAC, **II Fórum de Arte Contemporânea**.
+* 1991 – Lisboa, SNBA, **Exposição de Artes Plásticas Portuguesas**.
+* –––––– Parlamento Europeu, **Exposição de Artes Plásticas Portuguesas**.
+* 1995 – Lisboa, FIL – **Feira de Arte**.
 * 1997 – Lisboa, Galeria César.
-* 2007 – Lisboa, Fundação Caloust Gulbenkian, 50 Anos de Arte Portuguesa.
-* 2008 – Lisboa, Espaço Arte Contemporânea da Fundação Carmona e Costa, AQUILO SOU EU: Auto-retratos de Artistas Contemporâneos, obras da colecção [Safira e Luís] Serpa.
-* 2011 – Lisboa, Pavilhão do Conhecimento Ciência Viva, Corpo Imagem, representação do corpo na ciência e na arte.
+* 2007 – Lisboa, Fundação Caloust Gulbenkian, **50 Anos de Arte Portuguesa**.
+* 2008 – Lisboa, Espaço Arte Contemporânea da Fundação Carmona e Costa, **Aquilo sou Eu: Auto-retratos de Artistas Contemporâneos**, obras da colecção [Safira e Luís] Serpa.
+* 2011 – Lisboa, Pavilhão do Conhecimento Ciência Viva, **Corpo Imagem, representação do corpo na ciência e na arte**.
 
 ## Colecções (selecção)
 * CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian.
@@ -198,28 +198,28 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * 1993 – Prémio Banif de Pintura.
 
 ## Bibliografia
-* A.A.B.B.; Sérgio Pombo. Catálogo da XII Bienal de Paris. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Caloust Gulbenkian. Paris, 1982.
-* A.A.B.B.; O Grande Livro dos Portugueses. Ed. Círculo de Leitores, 1990.
-* Álvaro, Egídio; «Signes Énigmatiques et Obsédants de la Réalité Quotidienne», in Catálogo de Exposição Individual. Ed. Galeria Diagonal, Paris, 1977.
-* Gonçalves, Rui Mário; «Sérgio Pombo», in Catálogo, XII Bienal de Paris. 1982.
-* Gonçalves, Rui Mário; in Colóquio Artes, nº 48.
-* Gonçalves, Rui Mário; in Jornal de Letras, nº 79, pp. 10-16, 1984.
-* Gonçalves, Rui Mário; in Colóquio Artes, nº 60, Mar. 1984.
-* Gonçalves, Rui Mário; 10 Anos de Artes Plásticas em Portugal, 1974-1984. Ed. Caminho. Lisboa, 1985.
-* Gonçalves, Rui Mário; in Colóquio Artes, nº 67, 1985.
-* Gonçalves, Rui Mário; in Colóquio Artes, nº 103, Dez. 1994.
-* Gonçalves, Rui Mário; 100 Pintores Portugueses do Século XX; Ed. Alfa. Lisboa, 1996.
-* Gonçalves, Rui Mário; Vontade de Mudança. Cinco Décadas de Artes Plásticas. Ed. Caminhi. Lisboa, 2004.
-* Melo, Alexandre; «Sérgio Pombo. Estudos para um Retrato [entrevista]», in Jornal de Letras, nº 128, pp. 18-24, Dez. 1984.
-* Melo, Alexandre; «Nove Artistas, 1987/1997», in Catálogo de Exposição. Ed. César Galeria. Lisboa, 1997.
-* Melo, Jorge Silva e; «Com a rapidez das estrelas cadentes, fulgurantes», in Sérgio Pombo, Pintura, 1980-2007, pp. 5-11. Lisboa, 2007.
-* Molder, Jorge; «Sérgio Pombo», in Catálogo de Exposição. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
-* Nabais, Nuno; «Sérgio Pombo. O Fascínio pelo Retrato», in Jornal de Letras, nº 80, pp. 17-23, Jan. 1984.
-* Correa, Carlos Natividade; in Grande Reportagem, 14 de Dez. de 1984.
-* Pinharanda, João; Alguns Corpos. Imagens da Arte Portuguesa entre 1950 e 1990. Ed. EDP. Lisboa, 1998.
-* Pinharanda, João; «Ulisses no Lugar de Penélope», in Sérgio Pombo. Catálogo de Exposição. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
-* Porfírio, José Luís; in Revista Expresso, 15 de Dez. de 1984.
-* Rocha de Sousa, «Toda a Cidade é um Museu Encoberto», in Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra. Ed. Câmara Municipal de Coimbra. Coimbra, 2003.
+* A.A.B.B.; Sérgio Pombo. **Catálogo da XII Bienal de Paris**. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Caloust Gulbenkian. Paris, 1982.
+* A.A.B.B.; **O Grande Livro dos Portugueses**. Ed. Círculo de Leitores, 1990.
+* Álvaro, Egídio; **Signes Énigmatiques et Obsédants de la Réalité Quotidienne**, in *Catálogo de Exposição Individual*. Ed. Galeria Diagonal, Paris, 1977.
+* Gonçalves, Rui Mário; **Sérgio Pombo**, in *Catálogo da XII Bienal de Paris*. 1982.
+* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 48.
+* Gonçalves, Rui Mário; in *Jornal de Letras*, nº 79, pp. 10-16, 1984.
+* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 60, Mar. 1984.
+* Gonçalves, Rui Mário; **10 Anos de Artes Plásticas em Portugal, 1974-1984**. Ed. Caminho. Lisboa, 1985.
+* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 67, 1985.
+* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 103, Dez. 1994.
+* Gonçalves, Rui Mário; **100 Pintores Portugueses do Século XX**; Ed. Alfa. Lisboa, 1996.
+* Gonçalves, Rui Mário; **Vontade de Mudança. Cinco Décadas de Artes Plásticas**. Ed. Caminhi. Lisboa, 2004.
+* Melo, Alexandre; **Sérgio Pombo. Estudos para um Retrato (entrevista)**, in *Jornal de Letras*, nº 128, pp. 18-24, Dez. 1984.
+* Melo, Alexandre; **Nove Artistas, 1987/1997**, in *Catálogo de Exposição*. Ed. César Galeria. Lisboa, 1997.
+* Melo, Jorge Silva e; **Com a Rapidez das Estrelas Cadentes, Fulgurantes**, in *Sérgio Pombo, Pintura, 1980-2007*, pp. 5-11. Lisboa, 2007.
+* Molder, Jorge; **Sérgio Pombo**, in *Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
+* Nabais, Nuno; **Sérgio Pombo. O Fascínio pelo Retrato**, in *Jornal de Letras*, nº 80, pp. 17-23, Jan. 1984.
+* Correa, Carlos Natividade; in *Grande Reportagem*, 14 de Dez. de 1984.
+* Pinharanda, João; **Alguns Corpos. Imagens da Arte Portuguesa entre 1950 e 1990**. Ed. EDP. Lisboa, 1998.
+* Pinharanda, João; **Ulisses no Lugar de Penélope**, in *Sérgio Pombo. Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001..
+* Porfírio, José Luís; in *Revista Expresso*, 15 de Dez. de 1984.
+* Rocha de Sousa, **Toda a Cidade é um Museu Encoberto**, in *Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra*. Ed. Câmara Municipal de Coimbra. Coimbra, 2003.
 
 
  
