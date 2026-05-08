@@ -90,9 +90,6 @@ Jorge Silva Melo
  
  
 
-Exposições
-
-[CAM individual 2001](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095/)
 
 
 
