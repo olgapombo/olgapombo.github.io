@@ -61,13 +61,14 @@ Resta dizer que todos os dias converso com ele. Que ele permanece presente ao me
 ![foto-meu-pai-corpo-inteiro](images/foto-meu-pai-corpo-inteiro.jpg "foto-meu-pai-corpo-inteiro")
 
 
-O meu irmao
+## O meu irmao
+
 Livro - Sérgio Pombo - Obras 1973-2017
 
 https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417
 
 
-Este livro foi publicado por ocasião da exposição Sérgio Pombo: Obras 1973-2017, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
+Livro foi publicado por ocasião da exposição Sérgio Pombo: Obras 1973-2017, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
 
 João Pinharanda: «No seu trabalho ecoam a potência masculina da vida (a vitalidade sujeita à morte) e a potência espiritual feminina (transportadora de vida) […]
 
@@ -84,7 +85,6 @@ Porque Sérgio Pombo, com a rapidez das estrelas cadentes no céu de todas as no
 Jorge Silva Melo
 
  
-
  
 
 
