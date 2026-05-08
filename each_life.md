@@ -91,12 +91,6 @@ Jorge Silva Melo
  
 
 
-
-
-[CAM premio nacional de gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/)
-
-            [CAM catálogo](https://gulbenkian.pt/cam/publications/sergio-pombo/)
-
 [ARTISTAS UNIDOS - A NOITE ALEMA E OS OUTROS DIAS](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo)
 
 [Artistas Unidos - DESENHO](https://artistasunidos.pt/desenho-de-sergio-pombo)
