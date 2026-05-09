@@ -229,7 +229,9 @@ José Alexandre de São Marco
 * Sérgio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018
 * Sérgio Pombo - Fundação Carmona e Costa [**Conversa com Sergio Pombo e convidados** (João Pinharanda, Jorge Silva e Melo, José Alexandre de S. Marcos](https://www.youtube.com/watch?v=lAZKjriBqZM), 2017
 * Sérgio Pombo - Entrevista RTP 1 [Entrevista a Sergio Pombo](https://arquivos.rtp.pt/conteudos/entrevista-a-sergio-pombo), 1979
-* Sérgio Pombo - Radio Observador, [O Elogio Público de Sergio Pombo. Sobre Guilherme Parente](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo/)
+* Sérgio Pombo - Entrevista RTP1 [Entrevista a Sergio Pombo, com Joaquim Letria](https://arquivos.rtp.pt/conteudos/ja-esta-parte-ii-33) (fom m 33 on)
+* Sérgio Pombo - Radio Observador, [O Elogio Público de Sergio Pombo. Sobre Guilherme Parente](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo)
+
 
 ## Outra informação
 * Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
