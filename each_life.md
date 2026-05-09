@@ -68,16 +68,12 @@ _________________________
 
 ## O meu irmao
 
-Livro - Sérgio Pombo - Obras 1973-2017
+[Sérgio Pombo - Obras 1973-2017](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417)
 
-https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417
-
-
-Livro publicado por ocasião da exposição Sérgio Pombo: Obras 1973-2017, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
+Livro publicado por ocasião da exposição **Sérgio Pombo: Obras 1973-2017**, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
 
 João Pinharanda: «No seu trabalho ecoam a potência masculina da vida (a vitalidade sujeita à morte) e a potência espiritual feminina (transportadora de vida) […]
 
-CRÍTICAS
 
 «Sérgio Pombo exprime a sua subjectividade dominante e o seu «sentimento trágico da vida» através de uma figuração exacerbada; cria o seu próprio tempo e universo mas insere-os num tempo cronológico que os ultrapassa e num campo longo, expressionista (ainda não inteiramente revelado e estudado), da criação artística portuguesa. A sua obra está presa à angústia que os românticos e os modernos deixaram como herança à contemporaneidade: a vã procura do fio de Ariadne deitado ao chão por Teseu.
 
@@ -89,8 +85,6 @@ João Pinharanda
 Porque Sérgio Pombo, com a rapidez das estrelas cadentes no céu de todas as noites, persegue a beleza, promete-nos que ela aí vem, está a chegar, voluptuosa, fulgurante, escandalosamente nova, de ontem à noite sempre, nua ainda.»
 Jorge Silva Melo
 
- 
-[ARTISTAS UNIDOS - O Corpo e a Linha][https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha/]
 
 
 Sérgio Pombo | Facebook [here](https://www.facebook.com/profile.php?id=100009665319498)
@@ -129,6 +123,7 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte.
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
+* 2020 - Lisboa, **Sérgio Pombo: Obras 1973-2017**, Fundação Carmona e Costa.
 
 ## Exposições Colectivas (selecção)
 * 1965 – Lisboa, SNBA, **Salão de Outubro**.
@@ -210,7 +205,7 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * Melo, Alexandre; **Sérgio Pombo. Estudos para um Retrato (entrevista)**, in *Jornal de Letras*, nº 128, pp. 18-24, Dez. 1984.
 * Melo, Alexandre; **Nove Artistas, 1987/1997**, in *Catálogo de Exposição*. Ed. César Galeria. Lisboa, 1997.
 * Melo, Jorge Silva e; **Com a Rapidez das Estrelas Cadentes, Fulgurantes**, in *Sérgio Pombo, Pintura, 1980-2007*, pp. 5-11. Lisboa, 2007.
-* Melo, Jorge Silva e; ****, in*Catálogo de Exposição Sérgio Pombo. O Corpo e a Linha*, Artistas Unidos, Lisboa, 2013.
+* Melo, Jorge Silva e; **A Pintura de Sérgio Pombo**, in *Catálogo de Exposição Sérgio Pombo. O Corpo e a Linha*, Artistas Unidos, Lisboa, 2013.
 * Molder, Jorge; **Sérgio Pombo**, in *Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
 * Nabais, Nuno; **Sérgio Pombo. O Fascínio pelo Retrato**, in *Jornal de Letras*, nº 80, pp. 17-23, Jan. 1984.
 * Correa, Carlos Natividade; in *Grande Reportagem*, 14 de Dez. de 1984.
