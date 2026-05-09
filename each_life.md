@@ -112,7 +112,7 @@ José Alexandre de São Marco
 * 1997 – Faro, Galeria Trem.
 * 1999 – Funchal, Galeria Edicarte.
 * 2000 – Lisboa, Galeria Reverso, **Escultura**.
-* 2001 – Lisboa, [CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095)
+* 2001 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian, [Sergio Pombo](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095), comissariada por Jorge Molder
 * 2002 – Colares, Galeria de Colares, **O Voo da Cor no Branco da Memória**.
 * 2005 - Lisboa, Teatro Taborda, [**A noite alemã e outros dias**](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo). 
 * 2007 – Lisboa, Galeria CiDiarte, **Pintura**.
@@ -122,7 +122,7 @@ José Alexandre de São Marco
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte, **Pintura e Desenho**.
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
-* 2020 - Lisboa, **Sérgio Pombo: Obras 1973-2017**, Fundação Carmona e Costa.
+* 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, comissariada por João Pinharanda.
 
 ## Exposições Colectivas (selecção)
 * 1965 – Lisboa, SNBA, **Salão de Outubro**.
