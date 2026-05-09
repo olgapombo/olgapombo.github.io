@@ -79,7 +79,7 @@ Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em L
 > * "Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmo – a representação geométrica”.
 
 
-[Sérgio Pombo - Obras 1973-2017, Lisboa: Sistema Solar](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417)
+[Sérgio Pombo - Obras 1973-2017, Lisboa: Documenta, 2018](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417)
 
 Livro publicado por ocasião da exposição **Sérgio Pombo: Obras 1973-2017**, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
 
@@ -122,7 +122,8 @@ José Alexandre de São Marco
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte, **Pintura e Desenho**.
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
-* 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**]((https://www.youtube.com/watch?v=lnOg5u98dCk)), **apresentação video** 
+* 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**]((https://www.youtube.com/watch?v=lnOg5u98dCk)), **apresentação video**
+* 2018 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sergio Pombo Agora**](https://artistasunidos.pt/sergio-pombo-agora-2)
 * 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, comissariada por João Pinharanda.
 
 ## Exposições Colectivas (selecção)
@@ -206,6 +207,7 @@ José Alexandre de São Marco
 * Melo, Alexandre; **Nove Artistas, 1987/1997**, in *Catálogo de Exposição*. Ed. César Galeria. Lisboa, 1997.
 * Melo, Jorge Silva e; **Com a Rapidez das Estrelas Cadentes, Fulgurantes**, in *Sérgio Pombo, Pintura, 1980-2007*, pp. 5-11. Lisboa, 2007.
 * Melo, Jorge Silva e; **A Pintura de Sérgio Pombo**, in *Catálogo de Exposição Sérgio Pombo. O Corpo e a Linha*, Artistas Unidos, Lisboa, 2013.
+* Melo, Jorge Silva e; **Sergio Pombo Agora**, in *Catálogo de Exposição Sérgio Pombo Agora*, Artistas Unidos, Lisboa, 2018
 * Molder, Jorge; **Sérgio Pombo**, in *Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
 * Nabais, Nuno; **Sérgio Pombo. O Fascínio pelo Retrato**, in *Jornal de Letras*, nº 80, pp. 17-23, Jan. 1984.
 * Correa, Carlos Natividade; in *Grande Reportagem*, 14 de Dez. de 1984.
@@ -233,6 +235,7 @@ José Alexandre de São Marco
 * Sergio Pombo - [Parlamento €uropeu](https://art-collection.europarl.europa.eu/pt/collections/sem-titulo-6)
 * Sergio Pombo - [Fundação Elídio Pinho](https://arte.fundacaoip.pt/artist/197)
 * Sergio pombo - [Artnet](https://www.artnet.com/artists/s%C3%A9rgio-pombo/)
+* Sergio Pombo - [MutualArt](https://www.mutualart.com/Artist/Sergio-Pombo/B7B012F83DAA7EFC)
 * Sérgio Pombo – [Wikipédia](https://pt.wikipedia.org/wiki/S%C3%A9rgio_Pombo)
 * Sérgio Pombo - [Facebook](https://www.facebook.com/profile.php?id=100009665319498)
 
