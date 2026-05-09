@@ -68,6 +68,15 @@ _________________________
 
 ## O meu irmao
 
+Sérgio Pombo nasceu em Lisboa, em 1947, estudou gravura na Sociedade Cooperativa de Gravadores Portugueses e licenciou-se em pintura nos anos 1970, pela então designada Escola Superior de Belas Artes de Lisboa.
+
+Entre as décadas de 1970 e 1980, fez parte do coletivo Grupo 5+1, que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues.
+Sérgio Pombo foi bolseiro da Fundação Calouste Gulbenkian em Portugal, entre 1976 e e 1979, e, na Alemanha, entre 1992 e 1993.
+
+Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, Sérgio Pombo falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
+> * "Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmo – a representação geométrica”.
+
+
 [Sérgio Pombo - Obras 1973-2017](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417)
 
 Livro publicado por ocasião da exposição **Sérgio Pombo: Obras 1973-2017**, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
@@ -83,13 +92,6 @@ João Pinharanda
 
 
 
-Sérgio Pombo | Facebook [here](https://www.facebook.com/profile.php?id=100009665319498)
-
-https://www.facebook.com/profile.php?id=100009665319498
-
-Sérgio Pombo – Wikipédia, a enciclopédia livre (wikipedia.org)
-
-Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 
 
 ## Exposições Individuais (selecção)
@@ -211,6 +213,9 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * Porfírio, José Luís; in *Revista Expresso*, 15 de Dez. de 1984.
 * Rocha de Sousa, **Toda a Cidade é um Museu Encoberto**, in *Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra*. Ed. Câmara Municipal de Coimbra. Coimbra, 2003.
 
-
- 
+## Outra informação
+Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
+Sérgio Pombo | Facebook [here](https://www.facebook.com/profile.php?id=100009665319498)
+Sérgio Pombo – Wikipédia, a enciclopédia livre (wikipedia.org)
+Notícia [Agencia lusa - Observador](https://observador.pt/2022/07/12/morreu-o-artista-plastico-sergio-pombo-o-pintor-da-representacao-do-corpo/)
 
