@@ -183,6 +183,7 @@ José Alexandre de São Marco
 * Museu de Arte Contemporânea.
 * Caixa Geral de Depósitos.
 * Parlamento Europeu.
+* Museu do Carmo
 * Colecções privadas.
 
 ## Prémios
@@ -195,6 +196,7 @@ José Alexandre de São Marco
 * A.A.B.B.; Sérgio Pombo. **Catálogo da XII Bienal de Paris**. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Caloust Gulbenkian. Paris, 1982.
 * A.A.B.B.; **O Grande Livro dos Portugueses**. Ed. Círculo de Leitores, 1990.
 * Álvaro, Egídio; **Signes Énigmatiques et Obsédants de la Réalité Quotidienne**, in *Catálogo de Exposição Individual*. Ed. Galeria Diagonal, Paris, 1977.
+* Cardoso, Luisa; **New York by Sergio Pombo at CAM**, in [CAM Gulbenkian](https://gulbenkian.pt/cam/en/sem-categoria/new-work-by-sergio-pombo-at-the-cam/) 
 * Gonçalves, Rui Mário; **Sérgio Pombo**, in *Catálogo da XII Bienal de Paris*. 1982.
 * Gonçalves, Rui Mário; in *Colóquio Artes*, nº 48.
 * Gonçalves, Rui Mário; in *Jornal de Letras*, nº 79, pp. 10-16, 1984.
@@ -224,30 +226,30 @@ José Alexandre de São Marco
 
 
 ## Registos video e rádio
-* Sergio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018
-* Sergio Pombo - Fundação Carmona e Costa [**Conversa com Sergio Pombo e convidados** (João Pinharanda, Jorge Silva e Melo, José Alexandre de S. Marcos](https://www.youtube.com/watch?v=lAZKjriBqZM), 2017
-* Sergio Pombo - Entrevista RTP 1 [Entrevista a Sergio Pombo](https://arquivos.rtp.pt/conteudos/entrevista-a-sergio-pombo), 1979
-* Sergio Pombo - Radio Observador, [O Elogio Público de Sergio Pombo. Sobre Guilherme Parente](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo/)
+* Sérgio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018
+* Sérgio Pombo - Fundação Carmona e Costa [**Conversa com Sergio Pombo e convidados** (João Pinharanda, Jorge Silva e Melo, José Alexandre de S. Marcos](https://www.youtube.com/watch?v=lAZKjriBqZM), 2017
+* Sérgio Pombo - Entrevista RTP 1 [Entrevista a Sergio Pombo](https://arquivos.rtp.pt/conteudos/entrevista-a-sergio-pombo), 1979
+* Sérgio Pombo - Radio Observador, [O Elogio Público de Sergio Pombo. Sobre Guilherme Parente](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo/)
 
 ## Outra informação
 * Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
-* Segio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/noticias/sergio-pombo-1947-2022/)
-* Sergio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/artist/srgio-pombo/)
-* Sergio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/en/read-watch-listen/new-work-by-sergio-pombo-at-the-cam)
-* Sergio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/works/s-titulo-figura-feminina-na-praia-154854/)
+* Sérgio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/noticias/sergio-pombo-1947-2022/)
+* Sérgio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/artist/srgio-pombo/)
+* Sérgio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/en/read-watch-listen/new-work-by-sergio-pombo-at-the-cam)
+* Sérgio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/works/s-titulo-figura-feminina-na-praia-154854/)
 * Sérgio Pombo – [Centro Nacional de Cultura](https://www.cnc.pt/sergio-pombo-1947-2022)
-* Sergio Pombo - [Notícia - Jornal Publico](https://www.publico.pt/2022/07/12/culturaipsilon/noticia/morreu-artista-plastico-sergio-pombo-autor-pintura-tao-brilhantemente-viva-ofusca-2013367)
+* Sérgio Pombo - [Notícia - Jornal Publico](https://www.publico.pt/2022/07/12/culturaipsilon/noticia/morreu-artista-plastico-sergio-pombo-autor-pintura-tao-brilhantemente-viva-ofusca-2013367)
 * Sérgio Pombo – [Noticia - Observador](https://observador.pt/2022/07/12/morreu-o-artista-plastico-sergio-pombo-o-pintor-da-representacao-do-corpo/)
-* Sergio Pombo - [Noticia - Agenda Cultural de Lisboa](https://www.agendalx.pt/events/event/sergio-pombo/)
+* Sérgioo Pombo - [Noticia - Agenda Cultural de Lisboa](https://www.agendalx.pt/events/event/sergio-pombo/)
 * Sérgio Pombo – [Fundação PLMJ](https://www.fundacaoplmj.com/pt/colecao/artistas/sergio-pombo/997/)
-* Sergio Pombo - [Parlamento €uropeu](https://art-collection.europarl.europa.eu/pt/artists/sergio-pombo/)
-* Sergio Pombo - [Parlamento €uropeu](https://art-collection.europarl.europa.eu/pt/collections/sem-titulo-6)
-* Sergio Pombo - [Fundação Elídio Pinho](https://arte.fundacaoip.pt/artist/197)
-* Sergio Pombo - [Gulbenkian Descobrir. Museu Gulbenkian. Cada Corpo é um Universo. ]( https://cdn.gulbenkian.pt/wp-content/uploads/2023/09/Um_Museu_em_Movimento_22_23.pdf), Sobre o *Homem Vermelho* de Sergio Pombo
-* Sergio Pombo - [Artnet](https://www.artnet.com/artists/s%C3%A9rgio-pombo/)
-* Sergio Pombo - [MutualArt](https://www.mutualart.com/Artist/Sergio-Pombo/B7B012F83DAA7EFC)
-* Sergio Pombo - [Veritas Art Auctioneers](https://veritas.art/lot/sergio-pombo-interior-do-ateliertecnica-mista-sobre-tela)
-* Sergio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
+* Sérgio Pombo - [Parlamento €uropeu](https://art-collection.europarl.europa.eu/pt/artists/sergio-pombo/)
+* Sérgio Pombo - [Parlamento €uropeu](https://art-collection.europarl.europa.eu/pt/collections/sem-titulo-6)
+* Sérgio Pombo - [Fundação Elídio Pinho](https://arte.fundacaoip.pt/artist/197)
+* Sérgio Pombo - [Gulbenkian Descobrir. Museu Gulbenkian. Cada Corpo é um Universo. ]( https://cdn.gulbenkian.pt/wp-content/uploads/2023/09/Um_Museu_em_Movimento_22_23.pdf), Sobre o *Homem Vermelho* de Sérgio Pombo.
+* Sérgio Pombo - [Artnet](https://www.artnet.com/artists/s%C3%A9rgio-pombo/)
+* Sérgio Pombo - [MutualArt](https://www.mutualart.com/Artist/Sergio-Pombo/B7B012F83DAA7EFC)
+* Sérgio Pombo - [Veritas Art Auctioneers](https://veritas.art/lot/sergio-pombo-interior-do-ateliertecnica-mista-sobre-tela)
+* Sérgio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
 * Sérgio Pombo – [Wikipédia](https://pt.wikipedia.org/wiki/S%C3%A9rgio_Pombo)
 * Sérgio Pombo - [Facebook](https://www.facebook.com/profile.php?id=100009665319498)
 
