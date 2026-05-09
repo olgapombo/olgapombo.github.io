@@ -216,8 +216,14 @@ José Alexandre de São Marco
 
 ## Outra informação
 * Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
+* Segio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/noticias/sergio-pombo-1947-2022/)
+* Segio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/artist/srgio-pombo/)
 * Sérgio Pombo – [Centro Nacional de Cultura](https://www.cnc.pt/sergio-pombo-1947-2022)
+* Sergio Pombo - [Notícia - Jornal Publico](https://www.publico.pt/2022/07/12/culturaipsilon/noticia/morreu-artista-plastico-sergio-pombo-autor-pintura-tao-brilhantemente-viva-ofusca-2013367)
 * Sérgio Pombo – [Noticia - Observador](https://observador.pt/2022/07/12/morreu-o-artista-plastico-sergio-pombo-o-pintor-da-representacao-do-corpo/)
+* Sérgio Pombo – [Fundação PLMJ](https://www.fundacaoplmj.com/pt/colecao/artistas/sergio-pombo/997/)
+* Sergio Pombo - [Parlamento €uropeu](https://art-collection.europarl.europa.eu/pt/artists/sergio-pombo/)
+* Sergio Pombo - [Fundação Elídio Pinho](https://arte.fundacaoip.pt/artist/197)
 * Sérgio Pombo – [Wikipédia](https://pt.wikipedia.org/wiki/S%C3%A9rgio_Pombo)
 * Sérgio Pombo - [Facebook](https://www.facebook.com/profile.php?id=100009665319498)
 
