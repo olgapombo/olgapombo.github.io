@@ -216,8 +216,9 @@ José Alexandre de São Marco
 
 ## Outra informação
 * Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
-* Sérgio Pombo | [Facebook](https://www.facebook.com/profile.php?id=100009665319498)
-* Sérgio Pombo – [Wikipédia](https://pt.wikipedia.org/wiki/S%C3%A9rgio_Pombo)
-* Sérgio Pombo – [Noticia - Centro Nacional de Cultura](https://www.facebook.com/centronacionaldecultura/posts/s%C3%A9rgio-pombo-1947-2022com-a-morte-de-s%C3%A9rgio-pombo-desaparece-uma-refer%C3%AAncia-das-/5305797169441472/)
+* Sérgio Pombo – [Centro Nacional de Cultura](https://www.cnc.pt/sergio-pombo-1947-2022)
 * Sérgio Pombo – [Noticia - Observador](https://observador.pt/2022/07/12/morreu-o-artista-plastico-sergio-pombo-o-pintor-da-representacao-do-corpo/)
+* Sérgio Pombo – [Wikipédia](https://pt.wikipedia.org/wiki/S%C3%A9rgio_Pombo)
+* Sérgio Pombo - [Facebook](https://www.facebook.com/profile.php?id=100009665319498)
+
 
