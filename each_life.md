@@ -79,7 +79,7 @@ Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em L
 > * "Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmo – a representação geométrica”.
 
 
-[Sérgio Pombo - Obras 1973-2017](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417)
+[Sérgio Pombo - Obras 1973-2017, Lisboa: Sistema Solar](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417)
 
 Livro publicado por ocasião da exposição **Sérgio Pombo: Obras 1973-2017**, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
 
