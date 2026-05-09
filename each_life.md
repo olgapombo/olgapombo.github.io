@@ -68,10 +68,14 @@ _________________________
 
 ## O meu irmao
 
-Sérgio Pombo nasceu em Lisboa, em 1947, estudou gravura na Sociedade Cooperativa de Gravadores Portugueses e licenciou-se em pintura nos anos 1970, pela então designada Escola Superior de Belas Artes de Lisboa.
+
+
+
+
+Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972), foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
 Entre as décadas de 1970 e 1980, fez parte do coletivo Grupo 5+1, que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues.
-Sérgio Pombo foi bolseiro da Fundação Calouste Gulbenkian em Portugal, entre 1976 e e 1979, e, na Alemanha, entre 1992 e 1993.
+
 
 Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, Sérgio Pombo falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
 > * "Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmo – a representação geométrica”.
@@ -89,8 +93,6 @@ João Pinharanda
 > * «A pintura de Sérgio Pombo — pintura, desenho, com figuras ou sem, a pintura que nele tudo é pintura, irredutivelmente pintura — é tão brilhantemente viva que ofusca, é tão desassombrada que nos assalta o equilíbrio, sofre, o dia em que nasci morra e pereça, dizia Job, amaldiçoa-nos — mas promete-nos o humano, o humano presente, o humano simplesmente, a vida de hoje, esta, sufocantemente bela na sua crueza rápida, na sua imensa solidão.
 > * «Porque Sérgio Pombo, com a rapidez das estrelas cadentes no céu de todas as noites, persegue a beleza, promete-nos que ela aí vem, está a chegar, voluptuosa, fulgurante, escandalosamente nova, de ontem à noite sempre, nua ainda.»
 > *  Jorge Silva Melo
-
-
 
 
 
@@ -119,7 +121,7 @@ João Pinharanda
 * –––––– Lisboa, Galeria Valbom.
 * –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Desenho de Sérgio Pombo**](https://artistasunidos.pt/desenho-de-sergio-pombo).
 * 2008 – Cascais, Galeria Vértice.
-* –––––– Lisboa, Galeria Giefarte.
+* –––––– Lisboa, Galeria Giefarte, **Pintura e Desenho**.
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
 * 2020 - Lisboa, **Sérgio Pombo: Obras 1973-2017**, Fundação Carmona e Costa.
 
@@ -152,7 +154,7 @@ João Pinharanda
 * ––––– Cáceres, Espanha, **Exposição Ibérica de Arte Moderna**.
 * 1985 – Lisboa, CAM – Centro de Arte Moderna da Fundação Caloust Gulbenkian.
 * ––––– Lisboa, Fundação Caloust Gulbenkian, **Imaginário da Cidade de Lisboa**.
-* ––––– Ministério da Cultura, Exposição Itinerante, **Situações**.
+* ––––– Ministério da Cultura, **Exposição Itinerante, Situações**.
 * ––––– S. Paulo, Brasil, **XVIII Bienal de S. Paulo**.
 * ––––– Mérida, Espanha, **Pintado em Portugal**.
 * 1986 – CAM, Centro de Arte Moderna da Fundação Caloust Gulbenkian, **III Exposição de Artes Plásticas**.
@@ -216,6 +218,7 @@ João Pinharanda
 ## Outra informação
 Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 Sérgio Pombo | Facebook [here](https://www.facebook.com/profile.php?id=100009665319498)
-Sérgio Pombo – Wikipédia, a enciclopédia livre (wikipedia.org)
+Sérgio Pombo – Wikipédia [here](https://pt.wikipedia.org/wiki/S%C3%A9rgio_Pombo)
+Noticia [Centro Nacional de Cultura](https://www.facebook.com/centronacionaldecultura/posts/s%C3%A9rgio-pombo-1947-2022com-a-morte-de-s%C3%A9rgio-pombo-desaparece-uma-refer%C3%AAncia-das-/5305797169441472/)
 Notícia [Agencia lusa - Observador](https://observador.pt/2022/07/12/morreu-o-artista-plastico-sergio-pombo-o-pintor-da-representacao-do-corpo/)
 
