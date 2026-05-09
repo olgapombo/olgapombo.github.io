@@ -206,15 +206,17 @@ Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * Gonçalves, Rui Mário; in *Colóquio Artes*, nº 103, Dez. 1994.
 * Gonçalves, Rui Mário; **100 Pintores Portugueses do Século XX**; Ed. Alfa. Lisboa, 1996.
 * Gonçalves, Rui Mário; **Vontade de Mudança. Cinco Décadas de Artes Plásticas**. Ed. Caminhi. Lisboa, 2004.
-* Júdice, Nuno; **O Voo da Cor no Branco da Memória**, in *Catalogo da exposição A noite alemã e outros dias*, 2005 
+* Júdice, Nuno; **O Voo da Cor no Branco da Memória**, in *Catalogo da exposição A noite alemã e outros dias*, Artistas Unidos, Lisboa, 2005 
 * Melo, Alexandre; **Sérgio Pombo. Estudos para um Retrato (entrevista)**, in *Jornal de Letras*, nº 128, pp. 18-24, Dez. 1984.
 * Melo, Alexandre; **Nove Artistas, 1987/1997**, in *Catálogo de Exposição*. Ed. César Galeria. Lisboa, 1997.
 * Melo, Jorge Silva e; **Com a Rapidez das Estrelas Cadentes, Fulgurantes**, in *Sérgio Pombo, Pintura, 1980-2007*, pp. 5-11. Lisboa, 2007.
+* Melo, Jorge Silva e; ****, in*Catálogo de Exposição Sérgio Pombo. O Corpo e a Linha*, Artistas Unidos, Lisboa, 2013.
 * Molder, Jorge; **Sérgio Pombo**, in *Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
 * Nabais, Nuno; **Sérgio Pombo. O Fascínio pelo Retrato**, in *Jornal de Letras*, nº 80, pp. 17-23, Jan. 1984.
 * Correa, Carlos Natividade; in *Grande Reportagem*, 14 de Dez. de 1984.
 * Pinharanda, João; **Alguns Corpos. Imagens da Arte Portuguesa entre 1950 e 1990**. Ed. EDP. Lisboa, 1998.
-* Pinharanda, João; **Ulisses no Lugar de Penélope**, in *Sérgio Pombo. Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001. 
+* Pinharanda, João; **Ulisses no Lugar de Penélope**, in *Sérgio Pombo. Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
+* Pinharanda, João; **A Medida de Todas as Coisas**, in *Catálogo de Exposição Sérgio Pombo. O Corpo e a Linha*, Artiastas Unidos, Lisboa, 2013
 * Porfírio, José Luís; in *Revista Expresso*, 15 de Dez. de 1984.
 * Rocha de Sousa, **Toda a Cidade é um Museu Encoberto**, in *Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra*. Ed. Câmara Municipal de Coimbra. Coimbra, 2003.
 
