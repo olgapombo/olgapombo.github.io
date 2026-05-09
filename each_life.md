@@ -122,6 +122,7 @@ José Alexandre de São Marco
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte, **Pintura e Desenho**.
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
+* 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**]((https://www.youtube.com/watch?v=lnOg5u98dCk)), **apresentação video** 
 * 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, comissariada por João Pinharanda.
 
 ## Exposições Colectivas (selecção)
@@ -212,18 +213,26 @@ José Alexandre de São Marco
 * Pinharanda, João; **Ulisses no Lugar de Penélope**, in *Sérgio Pombo. Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
 * Pinharanda, João; **A Medida de Todas as Coisas**, in *Catálogo de Exposição Sérgio Pombo. O Corpo e a Linha*, Artiastas Unidos, Lisboa, 2013
 * Porfírio, José Luís; in *Revista Expresso*, 15 de Dez. de 1984.
+* rato, Vanessa; **Escultura como Pintura como Escultura**, in *Público. Ipsilon*, 13 de Março de 2013.
 * Rocha de Sousa, **Toda a Cidade é um Museu Encoberto**, in *Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra*. Ed. Câmara Municipal de Coimbra. Coimbra, 2003.
+
+## Registos video
+* Sergio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018
+* Sergio Pombo - Fundação Carmona e Costa [**Conversa com Sergio Pombo e convidados** (João Pinharanda, Jorge Silva e Melo, José Alexandre de S. Marcos](https://www.youtube.com/watch?v=lAZKjriBqZM), 2017
 
 ## Outra informação
 * Sérgio Pombo – [Artistas Unidos](https://artistasunidos.pt/sergio-pombo)
 * Segio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/noticias/sergio-pombo-1947-2022/)
-* Segio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/artist/srgio-pombo/)
+* Sergio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/artist/srgio-pombo/)
+* Sergio Pombo  – [Centro de Arte Moderna - Gulbenkian](https://gulbenkian.pt/cam/en/read-watch-listen/new-work-by-sergio-pombo-at-the-cam)
 * Sérgio Pombo – [Centro Nacional de Cultura](https://www.cnc.pt/sergio-pombo-1947-2022)
 * Sergio Pombo - [Notícia - Jornal Publico](https://www.publico.pt/2022/07/12/culturaipsilon/noticia/morreu-artista-plastico-sergio-pombo-autor-pintura-tao-brilhantemente-viva-ofusca-2013367)
 * Sérgio Pombo – [Noticia - Observador](https://observador.pt/2022/07/12/morreu-o-artista-plastico-sergio-pombo-o-pintor-da-representacao-do-corpo/)
 * Sérgio Pombo – [Fundação PLMJ](https://www.fundacaoplmj.com/pt/colecao/artistas/sergio-pombo/997/)
 * Sergio Pombo - [Parlamento €uropeu](https://art-collection.europarl.europa.eu/pt/artists/sergio-pombo/)
+* Sergio Pombo - [Parlamento €uropeu](https://art-collection.europarl.europa.eu/pt/collections/sem-titulo-6)
 * Sergio Pombo - [Fundação Elídio Pinho](https://arte.fundacaoip.pt/artist/197)
+* Sergio pombo - [Artnet](https://www.artnet.com/artists/s%C3%A9rgio-pombo/)
 * Sérgio Pombo – [Wikipédia](https://pt.wikipedia.org/wiki/S%C3%A9rgio_Pombo)
 * Sérgio Pombo - [Facebook](https://www.facebook.com/profile.php?id=100009665319498)
 
