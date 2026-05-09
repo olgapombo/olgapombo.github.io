@@ -63,6 +63,10 @@ _________________________
 
 ## A minha mãe
 
+![foto_mae](images/foto_mae.jpg "foto_mae.jpg")
+
+![foto_desenho_sergio_mae](images/foto_desenho_sergio_mae.jpg "foto_desenho_sergio_mae.jpg")
+
 _________________________
 
 
