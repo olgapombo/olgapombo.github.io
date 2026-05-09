@@ -70,8 +70,6 @@ _________________________
 
 
 
-
-
 Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972), foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
 Entre as décadas de 1970 e 1980, fez parte do coletivo Grupo 5+1, que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues.
@@ -89,8 +87,8 @@ João Pinharanda
 > * «No seu trabalho ecoam a potência masculina da vida (a vitalidade sujeita à morte) e a potência espiritual feminina (transportadora de vida)
 > * «Sérgio Pombo exprime a sua subjectividade dominante e o seu «sentimento trágico da vida» através de uma figuração exacerbada; cria o seu próprio tempo e universo mas insere-os num tempo cronológico que os ultrapassa e num campo longo, expressionista (ainda não inteiramente revelado e estudado), da criação artística portuguesa. A sua obra está presa à angústia que os românticos e os modernos deixaram como herança à contemporaneidade: a vã procura do fio de Ariadne deitado ao chão por Teseu. 
 
-> *  Jorge Silva Melo
-> *  > * «A pintura de Sérgio Pombo — pintura, desenho, com figuras ou sem, a pintura que nele tudo é pintura, irredutivelmente pintura — é tão brilhantemente viva que ofusca, é tão desassombrada que nos assalta o equilíbrio, sofre, o dia em que nasci morra e pereça, dizia Job, amaldiçoa-nos — mas promete-nos o humano, o humano presente, o humano simplesmente, a vida de hoje, esta, sufocantemente bela na sua crueza rápida, na sua imensa solidão.
+Jorge Silva Melo
+> * «A pintura de Sérgio Pombo — pintura, desenho, com figuras ou sem, a pintura que nele tudo é pintura, irredutivelmente pintura — é tão brilhantemente viva que ofusca, é tão desassombrada que nos assalta o equilíbrio, sofre, o dia em que nasci morra e pereça, dizia Job, amaldiçoa-nos — mas promete-nos o humano, o humano presente, o humano simplesmente, a vida de hoje, esta, sufocantemente bela na sua crueza rápida, na sua imensa solidão.
 > * «Porque Sérgio Pombo, com a rapidez das estrelas cadentes no céu de todas as noites, persegue a beleza, promete-nos que ela aí vem, está a chegar, voluptuosa, fulgurante, escandalosamente nova, de ontem à noite sempre, nua ainda.»
 
 José Alexandre de São Marco
