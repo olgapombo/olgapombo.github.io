@@ -196,10 +196,13 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 * Museu do Carmo
 * Colecções privadas.
 
-## Prémios
+## Prémios e representações oficiais
+* 1980 - Representação Nacional no Festival de Pintura de Cagnes-sur-Mer
 * 1981 – Prémio Nacional de Gravura.
 * 1983 – Prémio de Gravura do Banco de Fomento Nacional.
 * 1984 – Prémio de Aquisição de Lagos.
+* 1984 - Representação Portuguesa à XVIII Bienal de S. Paulo.
+* 1992 - Representação Nacional na XII Bienal de Paris.
 * 1993 – Prémio Banif de Pintura.
 
 ## Bibliografia
