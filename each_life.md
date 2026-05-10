@@ -9,7 +9,7 @@ This page is very incomplete, for the moment. Will it ever be complete ?
 
 _________________________
 
-| [O meu pai](#o_meu_pai) |  [A minha mãe](#a_minha_mãe) | [O meu irmao](#o_meu_irmao)
+| [O meu pai](#o_meu_pai) |  [A minha mãe](#a_minha_mãe) | [O meu irmao](#o_meu_irmao) | A minha filha Patricia | A minha filha Catarina
 
 ## O meu pai 
 
@@ -75,7 +75,6 @@ _________________________
 ## O meu irmao
 
 
-
 Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972), foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
 Entre as décadas de 1970 e 1980, fez parte do coletivo Grupo 5+1, que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues.
@@ -100,9 +99,9 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 > * José Alexandre de São Marco
 > * > * «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito.»
 
-**O meu irmão era um grande artista e um Homem com letra grande, bom, forte, magnanimo e generoso. Para mim, era, além disso, o companheiro seguro, incondicional, sempre presente da minha vida. Sem ele, não sei como viver sem ele.**
+**O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magnanimo e generoso. Para mim, era, além disso, o companheiro seguro, incondicional, sempre presente da minha vida. Sem ele, não sei como viver sem ele.**
 
-###### My brother was a great artist and a Man with capital letters, a good, strong, magnanimous and generous person.  But for me he was the absolute companion, tender, unconditional, always present all along my life. I do not know how I will survive without him.
+###### My brother was a great artist and a Man with capital letters. A good, strong, magnanimous and generous person.  But for me, further, he was the absolute companion, tender, unconditional, always present all along my life. Without him, I do not know how I will survive without him.
 
 
 
@@ -265,3 +264,15 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 * Sérgio Pombo - [Veritas Art Auctioneers](https://veritas.art/lot/sergio-pombo-interior-do-ateliertecnica-mista-sobre-tela)
 * Sérgio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
 
+
+_________________________
+
+
+## A minha filha Patricia
+
+
+
+_________________________
+
+
+## A minha filha Catarina
