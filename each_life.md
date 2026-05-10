@@ -67,6 +67,8 @@ _________________________
 
 ![foto_desenho_sergio_mae](images/foto_desenho_sergio_mae.jpg "foto_desenho_sergio_mae.jpg")
 
+> * > * ***"Na Mãe havia um núcleo deslumbrante, irredutível: a minha mãe. Dizem sempre que eu sofro mais porque toda a minha vida vivi com ela. Mas o meu sofrimento vem do facto de ela ser quem era; e foi por ela ter sido quem foi que eu vivi com ela. À Mãe como Bem ela acrescentava esse dom de ser uma alma particular. Eu podia dizer, como o Narrador de Proust sobre a morte da sua avó: <Não estava apenas decidido a sofrer, mas a respeitar a originalidade do meu sofrimento>. Porque essa originalidade era o reflexo daquilo que nela havia de absolutamente irredutível e, por isso mesmo, perdido para sempre. Diz-se que o luto, com o seu trabalho progressivo, apaga lentamente a dor. Eu não podia nem posso acreditar nisso, porque, para mim, o Tempo elimina a emoção da perda (não choro), é tudo. Quanto ao resto, tudo ficou imóvel. Porque aquilo que eu perdi não é uma Figura (a Mãe), mas um ser; e não um ser, mas uma qualidade (uma alma): não o indispensável, mas o insubstituível. Eu podia viver sem a Mãe (todos nós podemos, mais cedo ou mais tarde); mas a vida que me restava seria certamente e até ao fim inqualificável (sem qualidade)."***  Roland Barthes, *A Câmara Clara*, pp. 85-6
+
 _________________________
 
 
