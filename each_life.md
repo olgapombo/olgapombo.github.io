@@ -21,13 +21,9 @@ _________________________
 
 ![foto tirada pelo meu pai em S. Cosmado, em 1952](images/foto_meu_pai-Scosmado_1952.jpg "foto tirada pelo meu pai em S. Cosmado, em 1952")
 
-É a fotografia de um menino, como havia muitos na aldeia. Descalço, vestido de trapos, ele era bem a expressao do nosso país nos anos 50. Da miséria, da pobreza, do abandono. O que deslumbra é a força serena mas interrogativa com que o menino nos olha de frente. 
+É a fotografia de um menino, como havia muitos na aldeia. Descalço, vestido de trapos, ele era bem a expressao do nosso país nos anos 50. Da miséria, da pobreza, do abandono. O que deslumbra é a força serena mas interrogativa com que o menino nos olha de frente. Lembro-me bem. Faz parte de mim. Esta imagem trago-a comigo desde a minha infância. Ela ensinou-me a distinguir o verdadeiro do falso, o belo do feio, o justo do injusto, o digno do indigno. Nunca esqueci. 
 
-Lembro-me bem. Faz parte de mim. Esta imagem trago-a comigo desde a minha infância. Ela ensinou-me a distinguir o verdadeiro do falso, o belo do feio, o justo do injusto, o digno do indigno. Nunca esqueci. 
-
-###### It is the photograph of a boy, one of many in the village. Barefoot, dressed in rags, he embodied the Portugal of the 1950s — a country marked by poverty, hardship, and neglect. What astonishes is the calm yet questioning strength with which he looks straight at us. 
-
-###### I remember it well. It is part of me. I have carried this image with me since my childhood. It taught me to distinguish the true from the false, the beautiful from the ugly, the just from the unjust, the worthy from the unworthy. I have never forgotten.
+###### It is the photograph of a boy, one of many in the village. Barefoot, dressed in rags, he embodied the Portugal of the 1950s — a country marked by poverty, hardship, and neglect. What astonishes is the calm yet questioning strength with which he looks straight at us. I remember it well. It is part of me. I have carried this image with me since my childhood. It taught me to distinguish the true from the false, the beautiful from the ugly, the just from the unjust, the worthy from the unworthy. I have never forgotten.
 
 Mas, a grande paixao do meu pai eram os livros. Tinha-os por todo o lado.  No escritorio, na sala, nos corredores, na casa de jantar, atras das portas, nos quartos, na marquise, na dispensa, em prateleiras até ao tecto, em tudo o que era armário, ou secretária, ou mesinha de cabeceira. Um admirável estudioso, um erudito dominado por uma curiosidade comovente. Ele era também um bibliófilo que amava os livros na sua materialidade. O seu cheiro, o seu peso, a sua espessura. 
 
