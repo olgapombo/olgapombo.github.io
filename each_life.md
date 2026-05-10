@@ -98,6 +98,11 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 > * José Alexandre de São Marco
 > * > * «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito.»
 
+O meu irmão era um grande artista e um homem com letra grande, bom, forte, magnanimo e generoso. Para mim, era, além disso, o companheiro seguro, incondicional, sempre presente da minha vida. Sem ele, não sei como viver sem ele.
+
+My brother was a great artist and a Man with capital letters, a good, strong and generous person.  But for me he was the absolute companion, tender, unconditional, always present all along my life. I do not know how I will survive without him.
+
+
 
 ## Exposições Individuais (selecção)
 * 1973 – Lisboa, Galeria de 5. Francisco.
