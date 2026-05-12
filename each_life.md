@@ -132,7 +132,7 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte, **Pintura e Desenho**.
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
-* 2013 - Lisboa, Museu do Carmo (escultura [**see here**](image/sergio_pombo_museu_carmo.image))
+* 2013 - Lisboa, Museu do Carmo (escultura [**see here**](image/sergio-pombo_museu_carmo.jpg))
 * 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**]((https://www.youtube.com/watch?v=lnOg5u98dCk)), **apresentação video**
 * 2018 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sergio Pombo Agora**](https://artistasunidos.pt/sergio-pombo-agora-2)
 * 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, comissariada por João Pinharanda. 
