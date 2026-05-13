@@ -79,7 +79,7 @@ _________________________
 
 Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972), foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
-Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](images/foto_grupo_511.jpg "foto_grupo_511.jpg"), que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**]((images/foto_grupo_512.jpg "foto_grupo_512.jpg").
+Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](images/foto_grupo_511.jpg "foto_grupo_511.jpg"), que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](images/foto_grupo_512.jpg "foto_grupo_512.jpg").
 
 Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, Sérgio Pombo falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
 > * "Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmo – a representação geométrica”.
