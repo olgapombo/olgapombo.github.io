@@ -11,7 +11,7 @@ _________________________
 
 | [O meu pai](#o_meu_pai) | [A minha mãe](#a_minha_mãe) | [O meu irmao](#o_meu_irmao) | A minha filha Patricia | A minha filha Catarina | A minha neta Alice | Amigos | Os livros que nao escrevi
 
-## O meu pai 
+##  <a name="o_meu_pai"></a>O meu pai
 
 ![fot-meu-pai-perfil](images/fot-meu-pai-perfil.jpg "fot-meu-pai-perfil.jpg")
 
@@ -61,7 +61,7 @@ Resta dizer que todos os dias converso com ele. Que ele permanece presente ao me
 
 _________________________
 
-## A minha mãe
+## <a name="a_minha_mãe"></a>A minha mãe
 
 ![foto_mae](images/foto_mae.jpg "foto_mae.jpg")
 
@@ -72,7 +72,7 @@ _________________________
 _________________________
 
 
-## O meu irmao
+## <a name="o_meu_irmao"></a>O meu irmao
 
 ![foto_sergio_60](images/foto_sergio_60.jpg "foto_sergio_60.jpg")
 
