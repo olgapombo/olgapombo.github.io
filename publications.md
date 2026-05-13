@@ -277,7 +277,7 @@ see also [here](pdf-text/OP_prefacio_barros_veloso.PDF)
 * Pombo, Olga (2004) **From Thomas More to Rousseau**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
 * Pombo, Olga (2004) **Utopia at XIX century. Utopian Socialism. The Hope in the Future City**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
 Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
-* Pombo, Olga (2003) **Enciclopédia, Hipertexto e Condição Humana**, A Condição Humana exhibition by Rodrigo Vilhena, Lisboa ([here](OP_room_text_rodrigo_vilhena.pdf)).
+* Pombo, Olga (2003) **Enciclopédia, Hipertexto e Condição Humana**, A Condição Humana exhibition by Rodrigo Vilhena, Lisboa ([here](pdf-text/OP_room_text_rodrigo_vilhena.pdf)).
 * Pombo, Olga (1996) **Nenhum Vento**, Olhares Soltos exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
 
 
