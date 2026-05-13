@@ -189,7 +189,7 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 * 2019 - Setubal, Galeria Municioal do 11, [**5+1: Uma Constelação nas Artes Visuais**](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais)
 
 ## Colecções (selecção)
-* CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian.
+* CAM – Centro de Arte Moderna. Fundação Calouste Gulbenkian.
 * Ministério da Cultura.
 * Museu de Arte Contemporânea.
 * Caixa Geral de Depósitos.
