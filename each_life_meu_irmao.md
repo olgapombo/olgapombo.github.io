@@ -7,10 +7,11 @@ O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magn
 ###### My brother was a great artist and a Man with capital letters. A good, strong, magnanimous and generous person.  For me,  he was my brother, the absolute companion, tender, unconditional, always present all along my life. Without him, I do not know how to live without him.
 
 > Deixou uma obra singularmente poderosa, vigorosa, independente: pintura, escultura, desenho, serigrafia, gravura. 
-> 
-> 
-> 
-> 
+
+
+
+
+
 
 
 
