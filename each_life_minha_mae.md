@@ -5,7 +5,7 @@
     <img src="images/foto_desenho_sergio_mae.jpg" alt="foto_desenho_sergio_mae" style="max-width: 300px; height: auto;">
 </div>
 
-<div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 10px;">
+<div style="display: flex; gap: 10px; align-items: flex-start; margin-top: 10px;">
     <img src="images/foto_mae.jpg" alt="foto_mae" style="max-width: 30px; height: auto;">
     <img src="images/foto_desenho_sergio_mae.jpg" alt="foto_desenho_sergio_mae" style="max-width: 30px; 
 height: auto;">
