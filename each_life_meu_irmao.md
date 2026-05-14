@@ -14,7 +14,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](images/f
 Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, Sérgio Pombo falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
 > "Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmo – a representação geométrica”.
 
-
+image/sergio_ pombo_livro.webp.image)
 [Sérgio Pombo - Obras 1973-2017, Lisboa: Documenta, 2018](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), 
 
 Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
