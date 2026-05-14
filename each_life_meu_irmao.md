@@ -209,3 +209,11 @@ _______________________________________________________________
 * Sérgio Pombo - [MutualArt](https://www.mutualart.com/Artist/Sergio-Pombo/B7B012F83DAA7EFC)
 * Sérgio Pombo - [Veritas Art Auctioneers](https://veritas.art/lot/sergio-pombo-interior-do-ateliertecnica-mista-sobre-tela)
 * Sérgio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
+
+
+[](images/sergio_pombo_livro_catarina.jpg)
+
+
+[](images/sergio-pombo_livro.webp)
+
+[](images/sergio-pombo_museu_carmo.jpg)
