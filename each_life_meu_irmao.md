@@ -2,6 +2,10 @@
 
 ![foto_sergio_60](images/foto_sergio_60.jpg "foto_sergio_60.jpg")
 
+**O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magnanimo e generoso. Para mim, era, além disso, o companheiro seguro, incondicional, sempre presente da minha vida. Sem ele, não sei como viver sem ele.**
+
+###### My brother was a great artist and a Man with capital letters. A good, strong, magnanimous and generous person.  But for me, further, he was the absolute companion, tender, unconditional, always present all along my life. Without him, I do not know how I will survive without him.
+
 
 Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972), foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
@@ -26,9 +30,7 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 > **José Alexandre de São Marco**
 > «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito.»
 
-**O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magnanimo e generoso. Para mim, era, além disso, o companheiro seguro, incondicional, sempre presente da minha vida. Sem ele, não sei como viver sem ele.**
 
-###### My brother was a great artist and a Man with capital letters. A good, strong, magnanimous and generous person.  But for me, further, he was the absolute companion, tender, unconditional, always present all along my life. Without him, I do not know how I will survive without him.
 
 
 
