@@ -1,6 +1,6 @@
 # O meu irmao
 
-![foto_sergio_60](images/foto_sergio_60.jpg "foto_sergio_60.jpg")
+[foto_sergio_60](images/foto_sergio_60.jpg "foto_sergio_60.jpg")
 
 O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magnanimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Enfrentou a vida e a morte com coragem. Para mim, ele era o meu irmao. O companheiro seguro, terno, incondicional, sempre presente na minha vida. Sem ele, não sei como viver sem ele.
 
