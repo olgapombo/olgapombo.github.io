@@ -43,4 +43,4 @@ Resta dizer que todos os dias converso com ele. Que ele permanece presente ao me
 ![foto-meu-pai_jovem](images/foto-meu-pai_jovem.jpg "foto-meu-pai_jovem.jpg")
 
 
-![foto-meu-pai-corpo-inteiro](images/foto-meu-pai-corpo-inteiro.jpg "foto-meu-pai-corpo-inteiro")
+<img src="images/foto-meu-pai-corpo-inteiro.jpg" alt="foto-meu-pai-corpo-inteiro" style="max-width: 300px; height: auto; display: block; margin: 20px 0;">
