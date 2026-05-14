@@ -7,7 +7,7 @@ O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magn
 ###### My brother was a great artist and a Man with capital letters. A good, strong, magnanimous and generous person.  For me,  he was my brother, the absolute companion, tender, unconditional, always present all along my life. Without him, I do not know how to live without him.
 
 
-![sergio_ pombo_livro](image/sergio_ pombo_livro.webp.jpg)
+![sergio_ pombo_livro.webp](images/sergio_ pombo_livro.webp.jpg)
 
 [Sérgio Pombo - Obras 1973-2017, Lisboa: Documenta, 2018](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), 
 
