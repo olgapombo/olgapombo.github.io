@@ -40,7 +40,7 @@ Resta dizer que todos os dias converso com ele. Que ele permanece presente ao me
 
 
 
-![foto-meu-pai_jovem](images/foto-meu-pai_jovem.jpg "foto-meu-pai_jovem.jpg")
-
-
-<img src="images/foto-meu-pai-corpo-inteiro.jpg" alt="foto-meu-pai-corpo-inteiro" style="max-width: 300px; height: auto; display: block; margin: 20px 0;">
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 20px;">
+    <img src="images/foto-meu-pai_jovem.jpg" alt="foto-meu-pai_jovem" style="max-width: 300px; height: auto;">
+    <img src="images/foto-meu-pai-corpo-inteiro.jpg" alt="foto-meu-pai-corpo-inteiro" style="max-width: 300px; height: auto;">
+</div>
