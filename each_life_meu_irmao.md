@@ -27,7 +27,7 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 > «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito.»
 
 
-> [sergio_ pombo_livro_catarina](images/sergio_ pombo_livro_catarina.jpg)
+> [sergio_ pombo_livro_catarina](images/sergio_ pombo_livro_catarina.jpg.images)
 > 
 > **Para Chegar ao Branco da Última Palavra**, Porto: Officium Lectionis, 2025, nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
 
