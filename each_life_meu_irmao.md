@@ -6,6 +6,12 @@ O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magn
 
 ###### My brother was a great artist and a Man with capital letters. A good, strong, magnanimous and generous person.  For me,  he was my brother, the absolute companion, tender, unconditional, always present all along my life. Without him, I do not know how to live without him.
 
+> Deixou uma obra poderosa, vigorosa, singular, independente: pintura, escultura, desenho, serigrafia, gravura. 
+
+
+
+
+
 
 ![sergio_ pombo_livro.webp](images/sergio_ pombo_livro.webp.image)
 
@@ -24,6 +30,8 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 > **José Alexandre de São Marco**
 > «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito.»
 
+> Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
+> > **"Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmos – a representação geométrica”**.
 
 ![sergio_pombo_livro_catarina](image/sergio_pombo_livro_catarina.jpg)
 > 
@@ -36,9 +44,6 @@ _______________________________________________________________
 > Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972), foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
 > Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](images/foto_grupo_512.jpg "foto_grupo_512.jpg"), que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](images/foto_grupo_511.jpg "foto_grupo_511.jpg")).
-
-> Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, Sérgio Pombo falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
-> > **"Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmo – a representação geométrica”**.
 
 
 ## Exposições Individuais (selecção)
