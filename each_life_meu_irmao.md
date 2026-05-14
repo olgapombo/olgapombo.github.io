@@ -2,14 +2,14 @@
 
 ![foto_sergio_60](images/foto_sergio_60.jpg "foto_sergio_60.jpg")
 
-O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magnanimo e generoso. Para mim, era, além disso, o companheiro seguro, incondicional, sempre presente da minha vida. Sem ele, não sei como viver sem ele.
+O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magnanimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Enfrentou a vida e a morte com coragem. Para mim, ele era o meu irmao. O companheiro seguro, terno, incondicional, sempre presente na minha vida. Sem ele, não sei como viver sem ele.
 
-###### My brother was a great artist and a Man with capital letters. A good, strong, magnanimous and generous person.  But for me, further, he was the absolute companion, tender, unconditional, always present all along my life. Without him, I do not know how I will survive without him.
-
-
+###### My brother was a great artist and a Man with capital letters. A good, strong, magnanimous and generous person.  For me,  he was my brother, the absolute companion, tender, unconditional, always present all along my life. Without him, I do not know how to live without him.
 
 
-> [sergio_ pombo_livro](image/sergio_ pombo_livro.webp.image)
+
+
+> [sergio_ pombo_livro](image/sergio_ pombo_livro.jpg)
 
 [Sérgio Pombo - Obras 1973-2017, Lisboa: Documenta, 2018](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), 
 
