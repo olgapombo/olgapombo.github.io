@@ -6,7 +6,7 @@
 </div>
 
 
-Maria do Rosário Pombo, Dentro de mim so há Marão, Lisboa, 2006 (livro [aqui](pdf-text/MRP_livro_dentro_ de_mim.pdf)) 
+Maria do Rosário Pombo, **Dentro de mim so há Marão**, Lisboa, 2006 (livro [aqui](pdf-text/MRP_livro_dentro_ de_mim.pdf)) 
 
 
 
