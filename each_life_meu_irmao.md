@@ -2,17 +2,12 @@
 
 ![foto_sergio_60](images/foto_sergio_60.jpg "foto_sergio_60.jpg")
 
-**O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magnanimo e generoso. Para mim, era, além disso, o companheiro seguro, incondicional, sempre presente da minha vida. Sem ele, não sei como viver sem ele.**
+O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magnanimo e generoso. Para mim, era, além disso, o companheiro seguro, incondicional, sempre presente da minha vida. Sem ele, não sei como viver sem ele.
 
 ###### My brother was a great artist and a Man with capital letters. A good, strong, magnanimous and generous person.  But for me, further, he was the absolute companion, tender, unconditional, always present all along my life. Without him, I do not know how I will survive without him.
 
 
-Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972), foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
-Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](images/foto_grupo_512.jpg "foto_grupo_512.jpg"), que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](images/foto_grupo_511.jpg "foto_grupo_511.jpg")).
-
-Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, Sérgio Pombo falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
-> "Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmo – a representação geométrica”.
 
 > [sergio_ pombo_livro](image/sergio_ pombo_livro.webp.image)
 
@@ -33,6 +28,17 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 
 
 > [sergio_ pombo_livro_catarina](image/sergio_ pombo_livro_catarina.image)
+> **Para Chegar ao Branco da Última Palavra**, Porto: Officium Lectionis, 2025, nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
+
+_______________________________________________________________
+
+> Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972), foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
+
+> Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](images/foto_grupo_512.jpg "foto_grupo_512.jpg"), que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](images/foto_grupo_511.jpg "foto_grupo_511.jpg")).
+
+> Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, Sérgio Pombo falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
+> > **"Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmo – a representação geométrica”**.
+
 
 ## Exposições Individuais (selecção)
 * 1973 – Lisboa, Galeria de 5. Francisco.
