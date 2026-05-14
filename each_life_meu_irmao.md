@@ -211,9 +211,8 @@ _______________________________________________________________
 * Sérgio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
 
 
-[](images/sergio_pombo_livro_catarina.jpg)
+![](images/sergio_pombo_livro_catarina.jpg)
 
+![](images/sergio-pombo_livro.webp)
 
-[](images/sergio-pombo_livro.webp)
-
-[](images/sergio-pombo_museu_carmo.jpg)
+![](images/sergio-pombo_museu_carmo.jpg)
