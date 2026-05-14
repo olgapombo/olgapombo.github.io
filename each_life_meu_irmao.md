@@ -16,7 +16,6 @@ Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em L
 
 > [sergio_ pombo_livro](image/sergio_ pombo_livro.webp "sergio_ pombo_livro.webp")
 
-(image/sergio_ pombo_livro.webp.image)
 [Sérgio Pombo - Obras 1973-2017, Lisboa: Documenta, 2018](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), 
 
 Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
@@ -33,8 +32,7 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 > «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito.»
 
 
-(image/sergio_pombo_livro_catarina.jpg.image)
-
+> [sergio_ pombo_livro_catarina](image/sergio_ pombo_livro_catarina.jpg "sergio_ pombo_livro-catarina.jpg")
 
 ## Exposições Individuais (selecção)
 * 1973 – Lisboa, Galeria de 5. Francisco.
