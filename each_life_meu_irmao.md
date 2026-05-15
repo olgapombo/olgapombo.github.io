@@ -36,6 +36,8 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 > > **"Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmos – a representação geométrica”**.
 
 ![sergio_pombo_livro_catarina](image/sergio_pombo_livro_catarina.jpg)
+
+![](images/sergio_pombo_livro_catarina_reduzido.jpg)
 > 
 > **Para Chegar ao Branco da Última Palavra**, Porto: Officium Lectionis, 2025,
 > O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
@@ -220,7 +222,6 @@ _______________________________________________________________
 * Sérgio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
 
 
-![](images/sergio_pombo_livro_catarina.jpg)
 
 ![](images/sergio_pombo_livro_catarina_reduzido.jpg)
 
