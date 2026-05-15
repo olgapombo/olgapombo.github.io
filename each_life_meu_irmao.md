@@ -35,8 +35,6 @@ Livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, co
 > Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
 > > **"Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmos – a representação geométrica”**.
 
-![sergio_pombo_livro_catarina](image/sergio_pombo_livro_catarina.jpg)
-
 ![](images/sergio_pombo_livro_catarina_reduzido.jpg)
 > 
 > **Para Chegar ao Branco da Última Palavra**, Porto: Officium Lectionis, 2025,
@@ -221,9 +219,6 @@ _______________________________________________________________
 * Sérgio Pombo - [Veritas Art Auctioneers](https://veritas.art/lot/sergio-pombo-interior-do-ateliertecnica-mista-sobre-tela)
 * Sérgio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
 
-
-
-![](images/sergio_pombo_livro_catarina_reduzido.jpg)
 
 ![](images/sergio-pombo_livro.webp)
 
