@@ -13,7 +13,7 @@
 
 
 
-![](images/sergio_ pombo_livro.webp)
+![](images/sergio_ pombo_livro.webp.jpg)
 
 [Sérgio Pombo - Obras 1973-2017, Lisboa: Documenta, 2018](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), 
 
