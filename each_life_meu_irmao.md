@@ -34,7 +34,7 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 
 ![](images/sergio_pombo_livro_catarina_reduzido.jpg)
 > 
-> **Para Chegar ao Branco da Última Palavra**, Porto: Officium Lectionis, 2025,
+> **Para Chegar ao Branco da Última Palavra, Porto: Officium Lectionis, 2025**,
 > O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
 
 
