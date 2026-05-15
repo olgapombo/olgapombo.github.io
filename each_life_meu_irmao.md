@@ -2,7 +2,7 @@
 
 ![foto_sergio_60](images/foto_sergio_60.jpg "foto_sergio_60.jpg")
 
-O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magnanimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Enfrentou a vida e a morte com coragem. Para mim, ele era o meu irmao. O companheiro seguro, terno, incondicional, sempre presente na minha vida. Sem ele, não sei como viver sem ele.
+> O meu irmão era um grande artista e um Homem com letra grande. Bom, forte, magnanimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Enfrentou a vida e a morte com coragem. Para mim, ele era o meu irmao. O companheiro seguro, terno, incondicional, sempre presente na minha vida. Sem ele, não sei como viver sem ele.
 
 ###### My brother was a great artist and a Man with capital letters. A good, strong, magnanimous and generous person.  For me,  he was my brother, the absolute companion, tender, unconditional, always present all along my life. Without him, I do not know how to live without him.
 
