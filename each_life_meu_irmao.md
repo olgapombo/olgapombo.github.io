@@ -16,6 +16,8 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 
 ![](images/sergio_ pombo_livro.webp)
 
+![](images/livro_sergio_ pombo_reduzido.jpg.PNG)
+
 ***Sérgio Pombo - Obras 1973-2017*, Lisboa: Documenta, 2018**, [livro publicado](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417) por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
 
 
