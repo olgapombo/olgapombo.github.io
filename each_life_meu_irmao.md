@@ -2,9 +2,9 @@
 
 ![foto_sergio_60](images/foto_sergio_60.jpg "foto_sergio_60.jpg")
 
-> O meu irmão era um Homem com letra grande: bom, forte, magnanimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Para mim, ele era o meu irmao. O companheiro absoluto, terno, incondicional.
+O meu irmão era um Homem com letra grande: bom, forte, magnanimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Para mim, ele era o meu irmao. O companheiro absoluto, terno, incondicional.
 
-> Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente, em pintura, escultura, desenho, serigrafia, gravura. 
+Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente, em pintura, escultura, desenho, serigrafia, gravura. 
 
 ###### My brother was a Man with capital letters: a good, strong, magnanimous and generous person.  For me,  he was my brother, the absolute companion, tender, unconditional. 
 ###### He left a singularly powerful, vigorous, free, independent artistic work in painting, sculpture, drawing, screen printing, and engraving.
