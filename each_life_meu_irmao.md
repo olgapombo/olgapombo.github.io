@@ -28,7 +28,7 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 
 > «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito.», **José Alexandre de São Marco**
 
-> Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
+Em 2013, aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, falava à agência Lusa das suas preocupações, plasmadas na obra que produzia:
 > > **"Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento”, que é “muito mais excitante, enervante e tenso, do que a representação de um cosmos – a representação geométrica”**.
 
 ![](images/sergio_pombo_livro_catarina_reduzido.jpg)
