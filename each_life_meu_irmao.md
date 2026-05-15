@@ -47,6 +47,13 @@ _______________________________________________________________
 
 > Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](images/foto_grupo_512.jpg "foto_grupo_512.jpg"), que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](images/foto_grupo_511.jpg "foto_grupo_511.jpg")).
 
+## Registos video e audio
+* Sérgio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018.
+* Sérgio Pombo - Fundação Carmona e Costa [**Conversa com Sergio Pombo e convidados** (João Pinharanda, Jorge Silva e Melo, José Alexandre de S. Marcos](https://www.youtube.com/watch?v=lAZKjriBqZM), 2017.
+* Sérgio Pombo - RTP1 - *Programa Moldura* [**Entrevista a Sergio Pombo com joaquim Letria**](https://arquivos.rtp.pt/conteudos/ja-esta-parte-ii-33) (from 33 on), 1988.
+* Sérgio Pombo - RTP 1 [**Entrevista a Sergio Pombo**](https://arquivos.rtp.pt/conteudos/entrevista-a-sergio-pombo), 1979.
+* Sérgio Pombo - Radio Observador - *O Elogio Público* [**Sergio Pombo sobre Guilherme Parente**](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo)
+
 
 ## Exposições Individuais (selecção)
 * 1973 – Lisboa, Galeria de 5. Francisco.
@@ -183,7 +190,7 @@ _______________________________________________________________
 ## Registos video e audio
 * Sérgio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018.
 * Sérgio Pombo - Fundação Carmona e Costa [**Conversa com Sergio Pombo e convidados** (João Pinharanda, Jorge Silva e Melo, José Alexandre de S. Marcos](https://www.youtube.com/watch?v=lAZKjriBqZM), 2017.
-* Sérgio Pombo - RTP1 - *Programa Moldura* com Joaquim Letria, [**Entrevista a Sergio Pombo**](https://arquivos.rtp.pt/conteudos/ja-esta-parte-ii-33) (from 33 on), 1988.
+* Sérgio Pombo - RTP1 - *Programa Moldura* [**Entrevista a Sergio Pombo com joaquim Letria**](https://arquivos.rtp.pt/conteudos/ja-esta-parte-ii-33) (from 33 on), 1988.
 * Sérgio Pombo - RTP 1 [**Entrevista a Sergio Pombo**](https://arquivos.rtp.pt/conteudos/entrevista-a-sergio-pombo), 1979.
 * Sérgio Pombo - Radio Observador - *O Elogio Público* [**Sergio Pombo sobre Guilherme Parente**](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo)
 
