@@ -222,6 +222,8 @@ _______________________________________________________________
 
 ![](images/sergio_pombo_livro_catarina.jpg)
 
+![](images/sergio_pombo_livro_catarina_reduzido.jpg)
+
 ![](images/sergio-pombo_livro.webp)
 
 ![](images/sergio-pombo_museu_carmo.jpg)
