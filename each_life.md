@@ -3,10 +3,9 @@
 
 Being done, being done, being done, being done, being done…
 
+**First similitude between life and encyclopaedia:** This page is very incomplete, for the moment. 
+Will it ever be complete?
 
-**First similitude between life and encyclopaedia:**
-
-This page is very incomplete, for the moment. Will it ever be complete?
 
 - [O meu pai](each_life_meu_pai.md)
 - [A minha mãe](each_life_minha_mae.md)
