@@ -1,0 +1,30 @@
+{{- $dest := .Destination -}}
+{{- $isLocal := not (findRE "^(https?://|mailto:|tel:)" $dest) -}}
+{{- $img := false -}}
+
+{{- if $isLocal -}}
+  {{- $path := strings.TrimPrefix "../static/" $dest -}}
+  {{- $path = strings.TrimPrefix "/" $path -}}
+  {{- $img = resources.Get $path -}}
+{{- end -}}
+
+{{- if $img -}}
+  {{- /* Automated Image Optimization */ -}}
+  {{- $optimized := $img -}}
+  {{- if gt $img.Width 1000 -}}
+    {{- $optimized = $img.Resize "1000x webp" -}}
+  {{- else if ne $img.MediaType.SubType "webp" -}}
+    {{- $optimized = $img.Process "webp" -}}
+  {{- end -}}
+  <img src="{{ $optimized.RelPermalink }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}"{{ end }} class="content-image" width="{{ $optimized.Width }}" height="{{ $optimized.Height }}" loading="lazy">
+{{- else -}}
+  {{- /* Fallback for external or missing images */ -}}
+  {{- if $isLocal -}}
+    {{- $dest = strings.TrimPrefix "../static/" $dest -}}
+    {{- if not (strings.HasPrefix $dest "/") -}}
+      {{- $dest = printf "/%s" $dest -}}
+    {{- end -}}
+    {{- $dest = $dest | relURL -}}
+  {{- end -}}
+  <img src="{{ $dest | safeURL }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}"{{ end }} class="content-image" loading="lazy">
+{{- end -}}

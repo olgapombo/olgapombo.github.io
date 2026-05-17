@@ -1,0 +1,85 @@
+baseURL = 'https://olgapombo.github.io'
+locale = 'en-us'
+title = 'Olga Pombo'
+theme = ''
+canonifyURLs = false
+relativeURLs = true
+uglyURLs = true
+
+[permalinks]
+  posts = '/:contentbasename.html'
+  page = '/:contentbasename.html'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+
+[params]
+  description = 'Personal Webpage of Olga Pombo'
+  author = 'Olga Pombo'
+  showTOC = true
+  # googleAnalytics = "UA-XXXXX-X" # Uncomment and add your ID if needed
+
+[module]
+  [[module.mounts]]
+    source = 'static/images'
+    target = 'assets/images'
+  [[module.mounts]]
+    source = 'static/assets'
+    target = 'assets/assets'
+
+disableKinds = ["taxonomy", "term"]
+
+[[menu.main]]
+  name = "Opening statement"
+  url = "opening_statement.html"
+  weight = 10
+
+[[menu.main]]
+  name = "Academic profile"
+  url = "academic_profile.html"
+  weight = 20
+
+[[menu.main]]
+  name = "Publications"
+  url = "publications.html"
+  weight = 30
+
+[[menu.main]]
+  name = "Talks"
+  url = "onlinetalks.html"
+  weight = 40
+
+[[menu.main]]
+  name = "Research"
+  url = "research.html"
+  weight = 50
+
+[[menu.main]]
+  name = "Supervision"
+  url = "supervision.html"
+  weight = 60
+
+[[menu.main]]
+  name = "Teaching"
+  url = "teaching_doctoral_program.html"
+  weight = 70
+
+[[menu.main]]
+  name = "Preprints"
+  url = "preprints.html"
+  weight = 80
+
+[[menu.main]]
+  name = "Interviews"
+  url = "interviews.html"
+  weight = 90
+
+[[menu.main]]
+  name = "Each life..."
+  url = "each_life.html"
+  weight = 100

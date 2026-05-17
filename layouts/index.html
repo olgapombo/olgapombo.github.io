@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="home-content">
+  <article>
+    {{ .Content | replaceRE "src=\"\\.\\./static/" "src=\"/" | replaceRE "href=\"\\.\\./static/" "href=\"/" | replaceRE "href=\"([^\"]+)\\.md\"" "href=\"$1.html\"" | safeHTML }}
+  </article>
+</div>
+{{ end }}

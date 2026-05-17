@@ -1,0 +1,12 @@
+{{- $dest := .Destination -}}
+{{- if not (findRE "^(https?://|mailto:|tel:)" $dest) -}}
+  {{- $dest = strings.TrimPrefix "../static/" $dest -}}
+  {{- if strings.HasSuffix $dest ".md" -}}
+    {{- $dest = replace $dest ".md" ".html" -}}
+  {{- end -}}
+  {{- if not (strings.HasPrefix $dest "/") -}}
+    {{- $dest = printf "/%s" $dest -}}
+  {{- end -}}
+  {{- $dest = $dest | relURL -}}
+{{- end -}}
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
