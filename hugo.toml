@@ -1,7 +1,6 @@
 baseURL = 'https://olgapombo.github.io'
 locale = 'en-us'
 title = 'Olga Pombo'
-theme = ''
 canonifyURLs = false
 relativeURLs = true
 uglyURLs = true
