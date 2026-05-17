@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "assets/css/style.css" | relURL }}">
+    
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+    {{ template "_internal/schema.html" . }}
+</head>
+<body class="{{ if eq .Params.bg_image "quinta" }}has-bg-quinta{{ end }}">
+    <div class="overlay">
+        {{ if not .IsHome }}
+        <header id="site-header">
+            <div class="header-content">
+                <h1><a href="{{ "/" | relURL }}" style="text-decoration: none; color: inherit;">{{ .Site.Title }}</a></h1>
+                
+                <button id="menu-toggle" aria-label="Toggle navigation">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </button>
+
+                <nav id="primary-site-navigation-desktop">
+                    {{ range .Site.Menus.main }}
+                        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+                    {{ end }}
+                </nav>
+            </div>
+        </header>
+        {{ end }}
+
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+
+        <footer>
+            <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
+        </footer>
+
+        <button id="back-to-top" title="Go to top">↑</button>
+    </div>
+    <script>
+        // Check if menu-toggle exists before adding listener
+        var menuToggle = document.getElementById('menu-toggle');
+        if (menuToggle) {
+            menuToggle.addEventListener('click', function() {
+                document.getElementById('site-header').classList.toggle('nav-open');
+            });
+        }
+
+        // Back to top button logic
+        var backToTopBtn = document.getElementById("back-to-top");
+        window.onscroll = function() {
+            if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+                backToTopBtn.style.display = "block";
+            } else {
+                backToTopBtn.style.display = "none";
+            }
+        };
+        backToTopBtn.onclick = function() {
+            window.scrollTo({top: 0, behavior: 'smooth'});
+        };
+    </script>
+</body>
+</html>
