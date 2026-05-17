@@ -1,6 +1,6 @@
 # Olga Pombo's Website (Hugo)
 
-Hugo now powers this repository****.
+[Hugo](https://gohugo.io/) static site generator now powers this repository****.
 
 The website content is located in the `content/` directory.
 
@@ -14,3 +14,8 @@ To preview the site locally, install Hugo and run:
 ```bash
 hugo server -D
 ```
+
+---
+
+The site is built and deployed using [GitHub Actions](https://github.com/features/actions) workflow.
+The workflow is defined in the [hugo.yml](`.github/workflows/hugo.yml`) file.
