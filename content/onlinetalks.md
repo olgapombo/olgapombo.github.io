@@ -213,6 +213,7 @@ draft: false
 *	[**Ciências e formas. Para uma topografia da razão**](https://www.youtube.com/watch?v=xLjGbAxSato), invited talk at Conferência Internacional Fernando Gil, organized by FCSH, Unova University, Gulbenkian Foundation, Lisbon, 18 - 19 March 2026 ([webpage and program](https://ifilnova.pt/coloquio-internacional-fernando-gil/))
 
 
+
 ### <a name="public-talks"></a> Public Talks 
 
 * **Deriva a partir de Rousseau**, Portuguese Philosophy Society,  Lisboa, 24 May 1979. 
