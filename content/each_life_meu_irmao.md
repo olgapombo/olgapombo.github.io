@@ -40,11 +40,11 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 
 
 ## Algumas imagens das suas obras: 
-**Pintura** 
-**Escultura** 
-**Desenho** 
-**Serigrafia**
 
+* **Pintura** 
+* **Escultura** 
+* **Desenho** 
+* **Serigrafia**
 
 ## Registos video e audio
 * Sérgio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018.
