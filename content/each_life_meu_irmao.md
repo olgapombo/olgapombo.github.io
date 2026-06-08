@@ -39,6 +39,9 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 > O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
 
 
+## Algumas imagens das suas obras: **Pintura**, **Escultura**, **Desenho** e **Serigrafia**
+
+
 ## Registos video e audio
 * Sérgio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018.
 * Sérgio Pombo - Fundação Carmona e Costa [**Conversa com Sergio Pombo e convidados** (João Pinharanda, Jorge Silva e Melo, José Alexandre de S. Marcos](https://www.youtube.com/watch?v=lAZKjriBqZM), 2017.
