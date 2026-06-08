@@ -136,6 +136,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../stati
 * 2008 – Lisboa, Espaço Arte Contemporânea da Fundação Carmona e Costa, **Aquilo sou Eu: Auto-retratos de Artistas Contemporâneos**, obras da colecção [Safira e Luís] Serpa.
 * 2011 – Lisboa, Pavilhão do Conhecimento Ciência Viva, **Corpo Imagem, representação do corpo na ciência e na arte**.
 * 2019 - Setubal, Galeria Municioal do 11, [**5+1: Uma Constelação nas Artes Visuais**](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais)
+* 2026 - Lisboa, MAAT (Museu Arte, Arquitectura, Tecnologia), **Turn Around. Um olhar sobre a coleção de Arte da Fundação EDP**
 
 ## Colecções (selecção)
 * CAM – Centro de Arte Moderna. Fundação Calouste Gulbenkian.
