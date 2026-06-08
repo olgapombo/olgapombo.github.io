@@ -39,7 +39,11 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 > O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
 
 
-## Algumas imagens das suas obras: **Pintura**, **Escultura**, **Desenho** e **Serigrafia**
+## Algumas imagens das suas obras: 
+**Pintura** 
+**Escultura** 
+**Desenho** 
+**Serigrafia**
 
 
 ## Registos video e audio
