@@ -10,7 +10,7 @@ draft: false
 O meu irmão era um Homem com letra grande: bom, forte, magnanimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Para mim, ele era o meu irmao. O companheiro absoluto, terno, incondicional.
 Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente, em pintura, escultura, desenho, serigrafia, gravura. 
 
-###### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother, the absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in painting, sculpture, drawing, screen printing, and engraving.
+###### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother, the absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in painting, sculpture, drawing, screen printing, engraving.
 
 
 
@@ -37,14 +37,6 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 > 
 > ***Para Chegar ao Branco da Última Palavra*, Porto: Officium Lectionis, 2025**,
 > O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
-
-
-## Algumas imagens das suas obras: 
-
-* **Pintura** 
-* **Escultura** 
-* **Desenho** 
-* **Serigrafia**
 
 ## Registos video e audio
 * Sérgio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018.
