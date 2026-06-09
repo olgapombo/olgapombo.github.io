@@ -95,7 +95,7 @@ ISBN: 978-972-754-293-2.
 12.	 Pombo, Olga (1995), **“Nota de Abertura”**, in *Dois Textos sobre Educação. Hannah Arendt e Eric Weil, 2º Caderno de História e Filosofia da Educação*, edited by Olga Pombo, Lisboa: DEFCUL, pp. 1-2. 
 13.	 Pombo, Olga (1996), **“A Matemática e o trabalho de dar a ver”** ((Mathematics and the Work of 'Making it Visible’), in *Dez Anos de PROFMAT. Intervenções*, edited by Henrique Guimarães, Lisboa: A.P.M., pp. 105-121 (reprint).  
 14.	 Pombo, Olga (1996), **“Nota de Abertura”**, in *A Invenção da Escola na Grécia. Materiais de Estudo, 3º Caderno de História e Filosofia da Educação*, edited by Olga Pombo, Lisboa: DEFCUL, pp. 1-2.
-16.	Pombo, Olga (1996), **”The Place of the ‘Dissertatio De Stylo Philosophico Nizolii’ in the Leibnizian Praise of the German Language”**, in *Italia ed Europa nella Linguistica del Rinascimento*, edited by Mirko Tavoni, Ferrara: Franco Cosimo Panini Editore/Istituto di Studi Rinascimentali, vol. II, pp. 57-67. ISBN: 8876866728 9788876866722
+15.	 Pombo, Olga (1996), **”The Place of the ‘Dissertatio De Stylo Philosophico Nizolii’ in the Leibnizian Praise of the German Language”**, in *Italia ed Europa nella Linguistica del Rinascimento*, edited by Mirko Tavoni, Ferrara: Franco Cosimo Panini Editore/Istituto di Studi Rinascimentali, vol. II, pp. 57-67. ISBN: 8876866728 9788876866722
 17.	Pombo, Olga (1996), **“Leibnizian Strategies for the Semantical Foundation of the Universal Language”**, in *Im Spiegel des Verstandes. Studien zu Leibniz*, edited by Klaus D. Dutz and Stefano Gensini, Münster: Nodus Publikationen, pp. 161-171.  ISBN: 3893232680
 18.	Pombo, Olga (1997), **Museu e Biblioteca. A Alma da Escola**(Museum and Library: The Soul of the School), in *O Museu de Alexandria, 4º Caderno de História e Filosofia da Educação*, edited by Olga Pombo, Lisboa: DEFCUL, pp. 3-21.
 19.	 Pombo, Olga (2000), **“Comunicação e Construção do Conhecimento”** (Communication and the Construction of Knowledge), in *Itinerários. Investigar em Educação*, edited by Odete Valente, Lisboa: CIE, pp. 755-760 (reprint).
@@ -183,7 +183,7 @@ ISBN: 978-65-80103-02-7
 98.	Pombo, Olga: Gaertner, Klaus; Jesuino, Jorge (2023), “**Introduction**”, in *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century*, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/ Heidelberg/ London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. ix-xvi. ISBN: 978-3-031-20404-3.
 99.	Pombo, Olga, “**For a cartography of the concept of creation**”, in Nuno Proença (ed.), *Invention and Imagination*, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming).
 100.	Pombo, Olga, “**Cruzamentos da enciclopédia de Fernando Gil ou a enciclopédia como prática filosófica**”, in *Obras Completas de Fernando Gil*, 2º volume, Lisboa: Imprensa Nacional Casa da Moeda (forthcoming)
-
+101.	Pombo, Olga, “Sobre a Curiosidade”, in Inacio Valentim (org), Volume colaborativo a editar pela PUCRS, Brasil, Editora Fenix (forthcoming).
 
 ### <a name="encyclopaedia-entries"></a>Encyclopaedia entries
 
