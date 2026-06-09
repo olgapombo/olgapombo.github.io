@@ -56,7 +56,7 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 _______________________________________________________________
 
 
-## Sergio Pombo - Nota Biobibliográfica
+## Sergio Pombo - Nota Biográfica
 
 Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972). Foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
