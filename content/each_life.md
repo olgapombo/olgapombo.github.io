@@ -1,5 +1,6 @@
 ---
 title: "each life"
+toc: false
 draft: false
 ---
 
