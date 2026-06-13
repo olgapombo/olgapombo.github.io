@@ -386,7 +386,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * *Os lugares da ciência e da filosofia*/ The places of science and philosophy 
 * *Da universidade medieval à universidade mundial electrónica*/ From the medieval University to the global electronic University 
 * *Plínio e a internet / Enciclopédia e internet*/Pliny and the internet/Encyclopaedia and internet
-* [*Enciclopédias filosóficas*](pdf-text/enciclopedias_filosoficas.pdf) / Philosophical Encyclopaedias
+* [*Enciclopédias filosóficas*](pdf-text/static/pdf-text/enciclopedias_filosoficas.pdf) / Philosophical Encyclopaedias
 * *Filosofia e matemática – Da mathesis universalis a Lewis Carroll*/ Philosophy and mathematics – From Mathesis Universalis to LewisCarroll 
 * *O Lugar de Leibniz na História da Lógica*/ Leibniz’s place in the History of Logic
 * *Por que não somos ainda leibnizianos*/ Why we are not yet Leibnizians 
