@@ -180,11 +180,91 @@ h2, h3, h4 {
     text-transform: none !important;
 }
 
+.home-title {
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+    text-shadow: 2px 2px 4px #000;
+    font-size: 3rem;
+}
+
 .home-navigation-links {
     margin-top: 2rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    gap: 20px;
+}
+
+.home-main-area {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 2rem;
+}
+
+.home-image-container {
+    flex: 0 0 auto;
+}
+
+.home-quote-container {
+    flex: 1;
+}
+
+.home-quote {
+    font-style: italic;
+    border-left: 4px solid #ff0;
+    padding-left: 15px;
+    margin: 0;
+    font-size: 1.2rem;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.home-quote-cite {
+    text-align: right;
+    font-size: 1rem;
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 768px) {
+    .home-title {
+        font-size: 2rem;
+        letter-spacing: 2px;
+        margin-bottom: 20px;
+    }
+
+    .home-main-area {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+
+    .home-image-container {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .home-quote {
+        font-size: 1.1rem;
+        border-left: none;
+        border-top: 2px solid #ff0;
+        padding-top: 15px;
+        padding-left: 0;
+    }
+
+    .home-quote-cite {
+        text-align: center;
+    }
+
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    main {
+        padding: 1.5rem;
+    }
 }
 
 .home-navigation-links a {
@@ -213,7 +293,24 @@ body.has-bg-quinta .home-navigation-links a:hover {
     min-height: 70vh;
 }
 
+header.is-home {
+    display: none;
+}
+
 @media screen and (max-width: 768px) {
+    header.is-home {
+        display: block;
+        padding: 1rem 0;
+    }
+    
+    header.is-home h1 {
+        display: none; /* Hide redundant title on mobile home if needed, or keep it */
+    }
+
+    .home-navigation-links.mobile-hidden {
+        display: none;
+    }
+
     .header-content {
         flex-direction: row;
         justify-content: space-between;
@@ -266,6 +363,15 @@ body.has-bg-quinta .home-navigation-links a:hover {
     }
     .nav-open #menu-toggle .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
+    }
+
+    /* Fix menu items color and background on mobile home */
+    body.has-bg-quinta .nav-open nav#primary-site-navigation-desktop {
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    
+    .nav-open nav#primary-site-navigation-desktop a {
+        color: #fff;
     }
 }
 
