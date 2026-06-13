@@ -23,7 +23,7 @@ bg_image: quinta
 
 <hr>
 
-<div class="home-navigation-links" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 40px;">
+<div class="home-navigation-links" style="width: 100vw; margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); padding: 0 20px; box-sizing: border-box; overflow-x: auto;">
     <a href="opening_statement.md">Opening statement</a>
     <a href="academic_profile.md">Academic profile</a>
     <a href="publications.md">Publications</a>
