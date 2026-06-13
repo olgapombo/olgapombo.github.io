@@ -183,18 +183,16 @@ h2, h3, h4 {
 .home-navigation-links {
     margin-top: 2rem;
     display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .home-navigation-links a {
-    margin: 10px 0;
+    margin: 10px 20px;
     text-decoration: none;
     font-weight: bold;
     font-size: 1.1rem;
     text-transform: none !important;
-    white-space: nowrap;
 }
 
 body.has-bg-quinta .home-navigation-links a {
