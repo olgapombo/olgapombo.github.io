@@ -15,8 +15,7 @@
 </head>
 <body class="{{ if eq .Params.bg_image "quinta" }}has-bg-quinta{{ end }}">
     <div class="overlay">
-        {{ if not .IsHome }}
-        <header id="site-header">
+        <header id="site-header" class="{{ if .IsHome }}is-home{{ end }}">
             <div class="header-content">
                 <h1><a href="{{ "/" | relURL }}" style="text-decoration: none; color: inherit;">{{ .Site.Title }}</a></h1>
                 
@@ -33,7 +32,6 @@
                 </nav>
             </div>
         </header>
-        {{ end }}
 
         <main>
             {{ block "main" . }}{{ end }}
