@@ -1,12 +1,35 @@
 {{- $dest := .Destination -}}
 {{- if not (findRE "^(https?://|mailto:|tel:)" $dest) -}}
   {{- $dest = strings.TrimPrefix "../static/" $dest -}}
-  {{- if strings.HasSuffix $dest ".md" -}}
-    {{- $dest = replace $dest ".md" ".html" -}}
+  {{- if not (or (strings.HasPrefix $dest "/") (findRE "^(https?://|mailto:|tel:)" $dest)) -}}
+    {{- $lookup := $dest -}}
+    {{- if strings.HasPrefix $lookup "./" -}}
+      {{- $lookup = strings.TrimPrefix "./" $lookup -}}
+    {{- end -}}
+    {{- $page := .Page.GetPage $lookup -}}
+    {{- if not $page -}}
+      {{- $ext := path.Ext $lookup -}}
+      {{- if eq $ext ".md" -}}
+        {{- $base := strings.TrimSuffix ".md" $lookup -}}
+        {{- $page = .Page.GetPage $base -}}
+      {{- end -}}
+    {{- end -}}
+    {{- with $page -}}
+      {{- $dest = .RelPermalink -}}
+    {{- else -}}
+      {{- if strings.HasSuffix $dest ".md" -}}
+        {{- $dest = replace $dest ".md" ".html" -}}
+      {{- end -}}
+      {{- if not (strings.HasPrefix $dest "/") -}}
+        {{- $dest = printf "/%s" $dest -}}
+      {{- end -}}
+      {{- $dest = $dest | relURL -}}
+    {{- end -}}
   {{- end -}}
-  {{- if not (strings.HasPrefix $dest "/") -}}
-    {{- $dest = printf "/%s" $dest -}}
+{{- end -}}
+{{- if not (findRE "^(https?://|mailto:|tel:)" $dest) -}}
+  {{- if not (or (strings.HasPrefix $dest "/") (strings.HasPrefix $dest ".")) -}}
+    {{- $dest = printf "/%s" $dest | relURL -}}
   {{- end -}}
-  {{- $dest = $dest | relURL -}}
 {{- end -}}
 <a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>

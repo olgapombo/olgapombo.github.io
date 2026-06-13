@@ -33,5 +33,5 @@ bg_image: quinta
     <a href="teaching_doctoral_program.md">Teaching</a>
     <a href="preprints.md">Preprints</a>
     <a href="interviews.md">Interviews</a>
-    <a href="each_life.md">Each life...</a>
+    <a href="each_life/each_life.md">Each life...</a>
 </div>

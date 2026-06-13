@@ -4,10 +4,12 @@ title = 'Olga Pombo'
 canonifyURLs = false
 relativeURLs = true
 uglyURLs = true
+disablePathToLower = false
 
 [permalinks]
-  posts = '/:contentbasename.html'
-  page = '/:contentbasename.html'
+  posts = '/:contentbasename'
+  page = '/:sections/:contentbasename'
+  each_life = '/each_life/:contentbasename'
 
 [markup]
   [markup.goldmark]
@@ -80,5 +82,5 @@ disableKinds = ["taxonomy", "term"]
 
 [[menu.main]]
   name = "Each life..."
-  url = "each_life.html"
+  url = "each_life/each_life.html"
   weight = 100

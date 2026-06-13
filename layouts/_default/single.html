@@ -11,6 +11,9 @@
       {{ end }}
     {{ end }}
 
-    {{ .Content | replaceRE "src=\"\\.\\./static/" "src=\"/" | replaceRE "href=\"\\.\\./static/" "href=\"/" | replaceRE "href=\"([^\"]+)\\.md\"" "href=\"$1.html\"" | safeHTML }}
+    {{ $content := .Content }}
+    {{ $content = replace $content `../static/` `/` }}
+    {{ $content = replaceRE `href="([^" ]+)\.md"` `href="/$1.html"` $content }}
+    {{ $content | safeHTML }}
   </article>
 {{ end }}
