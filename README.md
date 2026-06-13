@@ -1,6 +1,6 @@
 # Olga Pombo's Website (Hugo)
 
-[Hugo](https://gohugo.io/) static site generator now powers this repository****.
+[Hugo](https://gohugo.io/) static site generator now powers this repository.
 
 The website content is located in the `content/` directory.
 
