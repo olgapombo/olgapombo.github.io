@@ -5,7 +5,7 @@ url: /
 bg_image: quinta
 ---
 
-<h1 style="text-align: center; font-weight: 300; letter-spacing: 5px; text-transform: uppercase; margin-bottom: 40px; text-shadow: 2px 2px 4px #000;">Olga Pombo</h1>
+<h1 style="text-align: center; font-weight: 300; letter-spacing: 5px; margin-bottom: 40px; text-shadow: 2px 2px 4px #000;">Olga Pombo</h1>
 
 <div id="navigation-menu" style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px;">
     <div style="flex: 0 0 auto;">
