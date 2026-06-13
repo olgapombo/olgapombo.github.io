@@ -18,4 +18,4 @@ hugo server -D
 ---
 
 The site is built and deployed using [GitHub Actions](https://github.com/features/actions) workflow.
-The workflow is defined in the [hugo.yml](`.github/workflows/hugo.yml`) file.
+The workflow is defined in the [hugo.yml](.github/workflows/hugo.yml) file.
