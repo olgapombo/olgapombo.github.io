@@ -1,6 +1,7 @@
 ---
 title: "organization scientific meetings"
 draft: false
+toc: false
 ---
 
 ## Organization of scientific meetings

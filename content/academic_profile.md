@@ -1,6 +1,7 @@
 ---
 title: "academic profile"
 draft: false
+toc: false
 ---
 
 

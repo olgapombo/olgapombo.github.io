@@ -1,6 +1,7 @@
 ---
 title: "each life meu pai"
 draft: false
+toc: false
 ---
 
 # O meu pai

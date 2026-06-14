@@ -1,6 +1,7 @@
 ---
 title: "publications"
 draft: false
+toc: false
 ---
 
 ## Publications 

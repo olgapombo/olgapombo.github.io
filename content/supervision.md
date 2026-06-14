@@ -1,6 +1,7 @@
 ---
 title: "supervision"
 draft: false
+toc: false
 ---
 
 ## Supervision 

@@ -1,6 +1,7 @@
 ---
 title: "teaching doctoral program"
 draft: false
+toc: false
 ---
 
 ## Teaching

@@ -1,6 +1,7 @@
 ---
 title: "publications-kairos"
 draft: false
+toc: false
 ---
 
 ### <a name="Kairos.-Journal-of-Philosophy-&-Science"></a>Kairos Journal of Philosophy & Science

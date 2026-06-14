@@ -1,6 +1,7 @@
 ---
 title: "each life meu irmao"
 draft: false
+toc: false
 ---
 
 # O meu irmao
