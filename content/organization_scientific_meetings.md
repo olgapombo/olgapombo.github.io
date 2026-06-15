@@ -6,7 +6,7 @@ toc: false
 
 ## Organization of scientific meetings
 
-###### [International meetings](#international-meetings) | [Other scientific meetings](#other-scientific-meetings) |  [Science communication and outreach](#science-communication-and-outreach) | [Exhibitions](#exhibitions)
+###### [International meetings](#international-scientific-meetings) | [Other scientific meetings](#other-scientific-meetings) |  [Science communication and outreach](#science-communication-and-outreach) | [Exhibitions](#exhibitions)
 
 
 ### <a name="international-meetings"></a> International scientific meetings

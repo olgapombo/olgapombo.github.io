@@ -7,7 +7,7 @@ toc: false
 
 ## Interviews
 
-###### [Online interviews](#online-interviews) | [Televison and radio interviews](#televison-and-radio-interviews) | [Press interviews](#press-interviews) 
+###### [Online interviews](#online-interviews) | [Television and radio interviews](#televison-and-radio-interviews) | [Press interviews](#press-interviews) 
 
 ### <a name="online-interviews"></a> Online interviews 
 

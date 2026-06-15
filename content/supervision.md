@@ -6,7 +6,7 @@ toc: false
 
 ## Supervision 
 
-###### [Phd dissertations](#phd-dissertations) | [Master dissertations](#master-dissertations) | [Post-Docs researchers](#post-docs-researchers) |[Doctoral students stages](#doctoral-students-stages) | [Sabbatical research stays](#sabbatical-research-stays) | [Academic committees](#academic-committees)
+###### [PhD dissertations](#phd-dissertations) | [Master dissertations](#master-dissertations) | [Post-docs researchers](#post-docs-researchers) |[Doctoral students internships](#doctoral-students-internships) | [Visiting Professors on sabbatical](#visiting-professors-on-sabbatical) | [Academic committees](#academic-committees)
 
 ### <a name="phd-dissertations"></a> PhD dissertations
 

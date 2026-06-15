@@ -1,5 +1,7 @@
 {{- $dest := .Destination -}}
-{{- if not (findRE "^(https?://|mailto:|tel:)" $dest) -}}
+{{- if strings.HasPrefix $dest "#" -}}
+  {{- /* Same-page anchor - do nothing */ -}}
+{{- else if not (findRE "^(https?://|mailto:|tel:)" $dest) -}}
   {{- $dest = strings.TrimPrefix "../static/" $dest -}}
   {{- if not (or (strings.HasPrefix $dest "/") (findRE "^(https?://|mailto:|tel:)" $dest)) -}}
     {{- $lookup := $dest -}}
@@ -20,7 +22,7 @@
       {{- if strings.HasSuffix $dest ".md" -}}
         {{- $dest = replace $dest ".md" ".html" -}}
       {{- end -}}
-      {{- if not (strings.HasPrefix $dest "/") -}}
+      {{- if not (or (strings.HasPrefix $dest "/") (strings.HasPrefix $dest "#")) -}}
         {{- $dest = printf "/%s" $dest -}}
       {{- end -}}
       {{- $dest = $dest | relURL -}}
@@ -28,7 +30,7 @@
   {{- end -}}
 {{- end -}}
 {{- if not (findRE "^(https?://|mailto:|tel:)" $dest) -}}
-  {{- if not (or (strings.HasPrefix $dest "/") (strings.HasPrefix $dest ".")) -}}
+  {{- if not (or (strings.HasPrefix $dest "/") (strings.HasPrefix $dest ".") (strings.HasPrefix $dest "#")) -}}
     {{- $dest = printf "/%s" $dest | relURL -}}
   {{- end -}}
 {{- end -}}

@@ -5,7 +5,7 @@ toc: false
 ---
 
 ## Research 
-###### [Research centers](#research-centers) | [Research projects](#research-projects) | [Scientific societies](#scientific-societies) | [Networks](#networks) | [Journal boards](#journal-boards)  | [Organization of Scientific meetings](./organization_scientific_meetings.md)
+###### [Research centers](#research-centers) | [Research projects](#research-projects) | [Scientific societies](#scientific-societies) | [Networks](#networks) | [Journal boards](#journal-boards)  | [Organization of Scientific meetings](organization_scientific_meetings.md)
 
 
 ### <a name="research-centers"></a> Research centers

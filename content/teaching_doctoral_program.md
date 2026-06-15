@@ -7,7 +7,7 @@ toc: false
 ## Teaching
 
 
-###### [Doctoral Program FCTAS](#Doctoral-program-fctas-ul) | [Faculty of Sciences University of Lisbon](#Faculty-of-sciences-university-of-lisbon) | [Other Universities](#Other-universities) | 
+###### [Doctoral Program FCTAS](#doctoral-program-philosophy-of-science-technology-art-and-society-fctas) | [Faculty of Sciences University of Lisbon](#faculty-of-sciences-of-the-university-of-lisbon) | [Other Universities](#other-universities) | 
 
 
 ## [Doctoral Program "Philosophy of Science, Technology, Art and Society" (FCTAS)](https://phd-fctas.campus.ciencias.ulisboa.pt/apresentacao/)
