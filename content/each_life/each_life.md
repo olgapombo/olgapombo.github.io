@@ -4,7 +4,7 @@ toc: false
 draft: false
 ---
 
-# Yes, each life is an encyclopedia 
+## Yes, each life is an encyclopedia 
 
 
 Being done, being done, being done, being done, being done…

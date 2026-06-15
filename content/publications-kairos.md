@@ -4,7 +4,7 @@ draft: false
 toc: false
 ---
 
-### <a name="Kairos.-Journal-of-Philosophy-&-Science"></a>Kairos Journal of Philosophy & Science
+## Kairos Journal of Philosophy & Science
 
 #### Volume 1 (2010)
 - [cover](../static/pdf-text/kairos/vol-1-2010/1_Kairos_vol_1.pdf)
