@@ -3,7 +3,9 @@
 {{- $img := false -}}
 
 {{- if $isLocal -}}
-  {{- $path := strings.TrimPrefix "../static/" $dest -}}
+  {{- $path := $dest -}}
+  {{- $path = strings.TrimPrefix "../../static/" $path -}}
+  {{- $path = strings.TrimPrefix "../static/" $path -}}
   {{- $path = strings.TrimPrefix "/" $path -}}
   {{- $img = resources.Get $path -}}
 {{- end -}}
@@ -20,6 +22,7 @@
 {{- else -}}
   {{- /* Fallback for external or missing images */ -}}
   {{- if $isLocal -}}
+    {{- $dest = strings.TrimPrefix "../../static/" $dest -}}
     {{- $dest = strings.TrimPrefix "../static/" $dest -}}
     {{- if not (strings.HasPrefix $dest "/") -}}
       {{- $dest = printf "/%s" $dest -}}

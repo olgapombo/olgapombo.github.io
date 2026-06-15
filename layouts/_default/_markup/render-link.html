@@ -2,6 +2,7 @@
 {{- if strings.HasPrefix $dest "#" -}}
   {{- /* Same-page anchor - do nothing */ -}}
 {{- else if not (findRE "^(https?://|mailto:|tel:)" $dest) -}}
+  {{- $dest = strings.TrimPrefix "../../static/" $dest -}}
   {{- $dest = strings.TrimPrefix "../static/" $dest -}}
   {{- if not (or (strings.HasPrefix $dest "/") (findRE "^(https?://|mailto:|tel:)" $dest)) -}}
     {{- $lookup := $dest -}}

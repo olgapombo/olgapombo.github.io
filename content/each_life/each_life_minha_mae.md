@@ -7,12 +7,12 @@ toc: false
 # A minha mãe
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-    <img src="../static/images/foto_mae.jpg" alt="foto_mae" style="max-width: 300px; height: auto;">
-    <img src="../static/images/foto_desenho_sergio_mae.jpg" alt="foto_desenho_sergio_mae" style="max-width: 300px; height: auto;">
+    <img src="../../static/images/foto_mae.jpg" alt="foto_mae" style="max-width: 300px; height: auto;">
+    <img src="../../static/images/foto_desenho_sergio_mae.jpg" alt="foto_desenho_sergio_mae" style="max-width: 300px; height: auto;">
 </div>
 
 
-> Maria do Rosário Pombo, **Dentro de mim so há Marão**, Lisboa, 2006 [aqui](../static/pdf-text/MRP_livro_dentro_de_mim.pdf) 
+> Maria do Rosário Pombo, **Dentro de mim so há Marão**, Lisboa, 2006 [aqui](../../static/pdf-text/MRP_livro_dentro_de_mim.pdf) 
 
 
 
