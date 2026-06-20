@@ -54,4 +54,4 @@ toc: false
 * [**Entrevista à *Revista Ser***](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/Entrevista%20Revista%20SER%20(Ispa).pdf) with Antonio Gonzales (ISPA), *Revista Ser*, 2004 
 * **Persistência da Memória** (**Memory Persistence**), interview by the journalist Daniel Branco, *Jornal de Letras*, 8 January 2003. 
 * **Que Escola Queremos para os Nossos Filhos** (**What School do We Want for Our Children**), interview (with Paulo Feytor-Pinto) by the journalist Paula Moura Pinheiro, *Magazine Elle*, 158, November 2001, pp. 140-148.
-* [**questionario brasil, INterdiscioplinaridade e universidade**](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/questionario_brasil.pdf) 
+* [**Interdiscioplinaridade na universidade**](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/questionario_brasil.pdf), interview by the Pós-graduation program in Teaching Methodology, Universidade Federal de São Carlos, 2006 
