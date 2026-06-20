@@ -53,4 +53,5 @@ toc: false
 * [**Àcerca do livro ‘Interdisciplinaridade: Ambições e Limites**](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op122005.pdf) (**About the Book "Interdisciplinaridade: Ambições e Limites”**), *Infociências* nº 142, 1 February 2005, pp. 12-14 [here](http://cfcul.fc.ul.pt/divulgacao/entrevistas/docs/op122005.pdf)
 * [**Entrevista à *Revista Ser***](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/Entrevista%20Revista%20SER%20(Ispa).pdf) with Antonio Gonzales (ISPA), *Revista Ser*, 2004 
 * **Persistência da Memória** (**Memory Persistence**), interview by the journalist Daniel Branco, *Jornal de Letras*, 8 January 2003. 
-* **Que Escola Queremos para os Nossos Filhos** (**What School do We Want for Our Children**), interview (with Paulo Feytor-Pinto) by the journalist Paula Moura Pinheiro, *Magazine Elle*, 158, November 2001, pp. 140-148. 
+* **Que Escola Queremos para os Nossos Filhos** (**What School do We Want for Our Children**), interview (with Paulo Feytor-Pinto) by the journalist Paula Moura Pinheiro, *Magazine Elle*, 158, November 2001, pp. 140-148.
+* [**questionario brasil, INterdiscioplinaridade e universidade**](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/questionario_brasil.pdf) 
