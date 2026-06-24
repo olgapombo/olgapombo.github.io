@@ -14,7 +14,7 @@ toc: false
 
 > Maria do Rosário Pombo, [**Dentro de mim so há Marão**](../../static/pdf-text/MRP_livro_dentro_de_mim.pdf), Lisboa, 2006. 
 
-> O livro de poesia que a minha mãe nunca publicou. Fomos nós, seus filhos e netos que,  volvidos 100 anos do seu nascimento, quisemos reunir os poemas que restaram da devastação a que a sua poesia foi sujeita e publicámos, em edição de autor, o livro postumo com os poemas que conseguimos reunir [aqui](../../static/pdf-text/MRP_livro_dentro_de_mim.pdf). A historia esta contada no seu interior, entre as páginas  
+> O livro de poesia que a minha mãe nunca publicou. Fomos nós, seus filhos e netos que,  volvidos 100 anos do seu nascimento, quisemos reunir os poemas que restaram da devastação a que a sua poesia foi sujeita, e publicámos, em edição de autor, o livro postumo com os poemas que conseguimos reunir. A historia está contada no seu interior, entre as páginas  
 
 > **Cartas à tia Adeliza** - um episodio que revela levemente quem era a minha mãe.
 
