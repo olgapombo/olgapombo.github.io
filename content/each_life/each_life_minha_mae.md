@@ -12,10 +12,11 @@ toc: false
 </div>
 
 
-> Maria do Rosário Pombo,[**Dentro de mim so há Marão**, Lisboa, 2016.
-> A capa foi construída a partir de um desenho magnifico de Sergio Pombo, seu filho, tomando como base uma fotografia antiga. O livro foi editado pela sua neta Catarina Pombo Nabais, em 2016. Nele se reune o espólio literario da minha mãe (poemas manuscritos e publicados em jornais da época, textos de intervenção, alguma correspondencia, fotografias, fac-similes e outros fragmentos) bem assim como um conjunto de testemunhos das suas duas netas e do seu neto (Patricia Pombo Medeiros, Catarina Pombo Nabais e Marcos Magalhães Pombo).
+> Maria do Rosário Pombo,**Dentro de mim so há Marão**, Lisboa, 2016.
 
-> [**Dentro de mim so há Marão**](../../static/pdf-text/MRP_livro_dentro_de_mim.pdf) é o livro de poesia que a minha mãe nunca publicou. Fomos nós, seus filhos e netos que,  volvidos 100 anos do seu nascimento, quisemos reunir os poemas que restaram da devastação a que a sua poesia foi sujeita, e publicámos, em edição de autor, um livro com os poemas que conseguimos reunir. O acontecimento - inaudito, inconcebivel, inqualificavel - que está na origem do descaminho (destruição) da maior parte da obra poética da minha mae, e que explica a edição póstuma deste livro está contado no seu interior, entre as páginas 29 e 30. Como aí é dito, o livro procura interromper o desaparecimento a que a obra poética da minha mae foi condenada. 
+> A capa foi construída a partir de um desenho magnifico de Sergio Pombo, seu filho, tomando como base uma fotografia antiga. O livro foi editado por Catarina Pombo Nabais, sua neta, em 2016. Nele se reúne tudo o que foi possivel resgatar da escrita da minha mãe: poemas manuscritos, versos dispersos publicados em jornais da época, textos de intervenção, algumas cartas, fotografias, fac-símiles e outros fragmentos que sobreviveram ao tempo e ao esquecimento. Inclui inda testemunhos das suas duas netas e do seu neto - Patricia Pombo Medeiros, Catarina Pombo Nabais e Marcos Magalhães Pombo.
+
+> [**Dentro de mim so há Marão**](../../static/pdf-text/MRP_livro_dentro_de_mim.pdf) é o livro de poesia que a minha mãe nunca publicou. Fomos nós, seus filhos e netos que, cem anos após o seu nascimento, quisemos reunir os poemas que restaram da devastação a que a sua poesia foi sujeita, e publicámos, em edição de autor, um livro com os poemas que conseguimos salvar. O acontecimento - inaudito, inconcebivel, inqualificavel - que está na origem da destruição da maior parte da obra poética da minha mae, e que explica esta edição póstuma, está narrado no interior do livro, entre as páginas 29 e 30. Este livro é, por isso, um gesto que procura interromper o desaparecimento a que a poesia da minha mãe foi condenada. 
 
 > **Cartas à tia Adeliza** - um episódio indelével que revela quem era a minha mãe.
 
