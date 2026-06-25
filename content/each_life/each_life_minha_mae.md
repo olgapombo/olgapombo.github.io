@@ -8,6 +8,7 @@ toc: false
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
     <img src="../../static/images/foto_mae.jpg" alt="foto_mae" style="max-width: 300px; height: auto;">
+    < fotografia de Maria do Rosario Pombo (1916-2006)
     <img src="../../static/images/foto_desenho_sergio_mae.jpg" alt="foto_desenho_sergio_mae" style="max-width: 300px; height: auto;">
 </div>
 
