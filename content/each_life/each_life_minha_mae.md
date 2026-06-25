@@ -11,6 +11,7 @@ toc: false
 fotografia de Maria do Rosario Pombo (1916-2006)
     <img src="../../static/images/foto_desenho_sergio_mae.jpg" alt="foto_desenho_sergio_mae" style="max-width: 300px; height: auto;">
 </div>
+> 
 > Desenho de Sergio Pombo, 2016
 >
 >
