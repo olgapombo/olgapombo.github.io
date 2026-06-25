@@ -12,7 +12,7 @@ toc: false
 ### <a name="online-conferences-and-talks"></a>Online conferences and talks  
 
 * [**Filosofia, Física e a Unidade da Ciência**](https://www.youtube.com/watch?v=BYRnpdQxbhU) (**Philosophy, Physics and the Unity of Science**), Conference Cycle “Física sem Fronteiras", Portuguese Physics Society and Physics Department of the Universitdade do Porto, Oporto, 7 May 2005.
-* **Darwin and the Scientific Illustration**, research project “Image in Science and Art” in collaboration with Ciência Viva, Knowledge Pavilion, Lisbon, 21-22 April 2009 ([here](https://arquivos.rtp.pt/conteudos/com-ciencia-episodio-17/)).
+* [**Darwin and the Scientific Illustration**](https://arquivos.rtp.pt/conteudos/com-ciencia-episodio-17/), research project “Image in Science and Art” in collaboration with Ciência Viva, Knowledge Pavilion, Lisbon, 21-22 April 2009 ([here](https://arquivos.rtp.pt/conteudos/com-ciencia-episodio-17/)).
 * **Interdisciplinary Changes for the Study of Emergent Phenomena**, “Encontros da Arrábida” (ISCTE), 7-9 June 2009 ([here](https://vimeo.com/5788444)).
 * [**Models and Representations of Knowledge Organization**](https://vimeo.com/15233007), at “ECCS'10 European Conference on Complex Systems”, 2010. 
 * [**Filosofia, Educação e Interdisciplinaridade**](https://www.youtube.com/watch?v=2kcCznweujs) (**Philosophy, Education and Interdiscilinarity**), Federal University of Goiás (UFG) and Pontifícia Universidade Católica de Goiás (PUC), Goias, 9 October 2012. 
