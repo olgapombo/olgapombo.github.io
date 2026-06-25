@@ -24,7 +24,7 @@ toc: false
 ### <a name="televison-and-radio-interviews"></a> Televison and radio interviews
 
 *  **Sobre a Curiosidade (On Curiosity)**, television interview by the journalist Luis Castro, at the RTP2 program “Sociedade civil” (gravado a 9 de setembro 2025), 9 and 10 October 2025.
-*  **À Conversa com Olga Pombo (A conversation with Olga Pombo)**(https://www.youtube.com/watch?v=EA0UJBqb4RE), interview conducted by Rui Remígio, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 16 October 2025. 
+*  [**À Conversa com Olga Pombo (A conversation with Olga Pombo)**](https://www.youtube.com/watch?v=EA0UJBqb4RE), interview conducted by Rui Remígio, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 16 October 2025. 
 *  [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 program "Vamos beber um café e falar sobre isso", television interview by the journalist José Navarro de Andrade, 24 January 2022.  
 * **O Bosão de Higgs**, television program "Prós e Contras" RTP1, moderated by the journalist Fatima Campos Ferreira, 9 July 2012. [notice](https://www.astropt.org/2012/10/10/pros-e-contras-sobre-o-bosao-de-higgs/) 
 * [**Imagem na Ciência e na Arte' Desvenda Corpo Humano (Image in Science and Art Unveils the Human Body)**], televison interview  by the journalist Lucia Alves, at the RTP1 program “TV Ciência”, 14 February 2011 [(notice)](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op18022011.pdf)
