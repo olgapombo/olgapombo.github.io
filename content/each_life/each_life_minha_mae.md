@@ -12,7 +12,7 @@ toc: false
 </div>
 
 
-> Maria do Rosário Pombo, [**Dentro de mim so há Marão**](../../static/pdf-text/MRP_livro_dentro_de_mim.pdf), Lisboa, 2016. Capa construída a partir de um desenho magnifico de Sergio Pombo, seu filho, tomando como base uma fotografia antiga. O livro foi editado pela sua neta e minha filha Catarina Pombo Nabais em 2016. 
+> Maria do Rosário Pombo, [**Dentro de mim so há Marão**](../../static/pdf-text/MRP_livro_dentro_de_mim.pdf), Lisboa, 2016. A capa foi construída a partir de um desenho magnifico de Sergio Pombo, seu filho, tomando como base uma fotografia antiga. O livro foi editado pela sua neta e minha filha Catarina Pombo Nabais em 2016. 
 
 > O livro de poesia que a minha mãe nunca publicou. Fomos nós, seus filhos e netos que,  volvidos 100 anos do seu nascimento, quisemos reunir os poemas que restaram da devastação a que a sua poesia foi sujeita, e publicámos, em edição de autor, um livro com os poemas que conseguimos reunir. O acontecimento - inaudito, inconcebivel, inqualificavel - que está na origem do descaminho (destruição) da maior parte da obra poética da minha mae, e que explica a edição póstuma deste livro está contado no seu interior, entre as páginas 29 e 30. Como aí é dito, o livro procura interromper o desaparecimento a que a obra poética da minha mae foi então condenada. 
 
