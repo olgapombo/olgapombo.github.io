@@ -51,11 +51,11 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 ### <a name="research_fields_and_areas_of_interest"><Research fields and areas of interest
 
-•	**Epistemology and Philosophy of Science** - Philosophy of Scientific knowledge; Unity of Science; Interdisciplinarity; Cartography of Knowledge; Classification; 
-•	**Science and Art** - Scientific Imagery and Modeling; Creation in Science and Art
+•	**Epistemology and Philosophy of Science** - Philosophy of Scientific knowledge; Unity of Science; Interdisciplinarity; Disciplinary Maps and Cartography of Knowledge; Classification; 
+•	**Science and Art** - Scientific Imagery and Modeling; Creation in Science and Art; Science and Art Affinities and Differences;
 •	**Modern Philosophy of Language** - Historical and conceptual studies on language and meaning (Focus on: Leibniz, Hobbes, Spinoza, Rousseau, Hegel)
 •	**History and Philosophy of Encyclopaedia, Hypertext and the Internet** -Evolution of knowledge systems; Digital epistemology; Transformation of textual architectures
-•	**History and Philosophy of School and Teaching** - Cultural institutions and knowledge transmission (School-University, Museum, Library, Book, Reading)
+•	**History and Philosophy of School and Teaching** - Universal  institutions and knowledge transmission (School-University, Museum, Library, Book, Reading)
   
 
 ### Appointments  
