@@ -49,7 +49,9 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1971 – *Licence degree in "Philosophy"*, Faculty of Letters, University of Lisbon.
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
-### Interests and research areas
+### <a name="Interests_and_research_areas"><Interests and research areas
+
+Leibniz, Unity of Science, Interdisciplinarity, Science and Art,  
 
 ### Appointments  
 
