@@ -9,7 +9,7 @@ toc: false
 
 ###### This academic profile is not a full academic *curriculum vitae* (which can be found **here**). Rather than an exhaustive record of a professional career, it provides a selection of the most significant aspects of my academic life (education, appointments, responsabilities, fellowships, consultancy) and scientific production (publications, research, teaching, conferences, talks, lectures as well as organization of meetings and other initiatives). It also aims to provide online access to almost all of my articles, books, and other writtings, as well as interviews, media appearances, and other forms of academic and public reception of my work.
 
-###### | [Trajectory](#trajectory) | [Education](#education-and-degrees) |  [Interests and research areas](#Interests-and-research-areas) | [Appointments](#appointments) | [Academic responsibilities](#academic-responsibilities) | [Fellowships](#fellowships-and-research-stays-abroad) | [Consultancy](#consultancy) | [Publications](publications.md) | [Journal editor](#journal-editor) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research.md) | [Organization of scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Media and Scholar Reception](#media-and-scholar-reception) | [Honours](#honours-awards-and-public-distinctions) | [Languages](#languages) | [Full CV](https://webpages.ciencias.ulisboa.pt/~ommartins/academic_profile/index.htm) |
+###### | [Trajectory](#trajectory) | [Education](#education-and-degrees) |  [Research fields and areas of interest](#research-fields-and-areas-of-interest) | [Appointments](#appointments) | [Academic responsibilities](#academic-responsibilities) | [Fellowships](#fellowships-and-research-stays-abroad) | [Consultancy](#consultancy) | [Publications](publications.md) | [Journal editor](#journal-editor) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research.md) | [Organization of scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Media and Scholar Reception](#media-and-scholar-reception) | [Honours](#honours-awards-and-public-distinctions) | [Languages](#languages) | [Full CV](https://webpages.ciencias.ulisboa.pt/~ommartins/academic_profile/index.htm) |
 
 
 
@@ -49,9 +49,14 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1971 – *Licence degree in "Philosophy"*, Faculty of Letters, University of Lisbon.
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
-### <a name="Interests_and_research_areas"><Interests and research areas
+### <a name="research_fields_and_areas_of_interest"><Research fields and areas of interest
 
-Leibniz, Unity of Science, Interdisciplinarity, Science and Art,  
+•	**Epistemology and Philosophy of Science** - Philosophy of Scientific knowledge; Unity of Science; Interdisciplinarity; Cartography of Knowledge; Classification; 
+•	**Science and Art** - Scientific Imagery and Modeling; Creation in Science and Art
+•	**Modern Philosophy of Language** - Historical and conceptual studies on language and meaning (Focus on: Leibniz, Hobbes, Spinoza, Rousseau, Hegel)
+•	**History and Philosophy of Encyclopaedia, Hypertext and the Internet** -Evolution of knowledge systems; Digital epistemology; Transformation of textual architectures
+•	**History and Philosophy of School and Teaching** - Cultural institutions and knowledge transmission (School-University, Museum, Library, Book, Reading)
+  
 
 ### Appointments  
 
