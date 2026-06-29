@@ -50,7 +50,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
 ### <a name="research_fields_and_areas_of_interest"><Research fields and areas of interest
-### <"research_fields_and_areas_of_interest"><Research fields and areas of interest
+
 *	**Epistemology, Philosophy of Science and Science and Art** - Philosophy of Scientific knowledge; Unity of Science; Interdisciplinarity; Disciplinary Maps and Cartography of Knowledge; Classification; Scientific Imagery and Modeling; Creation in Science and Art; Science and Art affinities and differences 
 *	**Modern Philosophy of Language** - Historical and conceptual studies on language and meaning (Focus on: Leibniz, Hobbes, Spinoza, Rousseau, Hegel)
 *	**History and Philosophy of Encyclopaedia, Hypertext and the Internet** -Encyclopaedism (Focus on: Ramon Lull, Comenius, Bacon, Leibniz, Diderot, Comte, Hegel, Neurath, XX century encyclopaedism), Evolution of knowledge systems; Digital epistemology; Transformation of textual architectures
