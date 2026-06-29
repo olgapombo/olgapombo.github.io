@@ -42,20 +42,19 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 * 2009 – *Habilitation (Aggregation) in "History and Philosophy of Science"*, University of Lisbon with the public lesson “*Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century*).
 * 1998 - *PhD in Philosophy of Education*, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “*Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge*).  
-* 1986 - *Master in "Modern Philosophy”», Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "*Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language*).
-* 1982 - *Post-Graduation in "Modern Philosophy"*, Faculty of Human and Social Sciences, New University of Lisbon.
+* 1986 - *Master in Modern Philosophy*, Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "*Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language*).
+* 1982 - *Post-Graduation in Modern Philosophy*, Faculty of Human and Social Sciences, New University of Lisbon.
 * 1973 - *National Certified as Philosophy Teacher (State Examination*), Lisbon.
 * 1972 - 1973 – *Classical Stage for the Teaching of Philosophy* (D. Pedro V School, Lisbon).
-* 1971 – *Licence degree in "Philosophy"*, Faculty of Letters, University of Lisbon.
+* 1971 – *Licence degree in Philosophy*, Faculty of Letters, University of Lisbon.
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
 ### <a name="research_fields_and_areas_of_interest"><Research fields and areas of interest
 
-•	**Epistemology and Philosophy of Science** - Philosophy of Scientific knowledge; Unity of Science; Interdisciplinarity; Disciplinary Maps and Cartography of Knowledge; Classification; 
-•	**Science and Art** - Scientific Imagery and Modeling; Creation in Science and Art; Science and Art Affinities and Differences;
-•	**Modern Philosophy of Language** - Historical and conceptual studies on language and meaning (Focus on: Leibniz, Hobbes, Spinoza, Rousseau, Hegel)
-•	**History and Philosophy of Encyclopaedia, Hypertext and the Internet** -Evolution of knowledge systems; Digital epistemology; Transformation of textual architectures
-•	**History and Philosophy of School and Teaching** - Universal  institutions and knowledge transmission (School-University, Museum, Library, Book, Reading)
+*	**Epistemology, Philosophy of Science and Science and Art** - Philosophy of Scientific knowledge; Unity of Science; Interdisciplinarity; Disciplinary Maps and Cartography of Knowledge; Classification; Scientific Imagery and Modeling; Creation in Science and Art; Science and Art affinities and differences 
+*	**Modern Philosophy of Language** - Historical and conceptual studies on language and meaning (Focus on: Leibniz, Hobbes, Spinoza, Rousseau, Hegel)
+*	**History and Philosophy of Encyclopaedia, Hypertext and the Internet** -Encyclopaedism (Focus on: Ramon Lull, Comenius, Bacon, Leibniz, Diderot, Comte, Hegel, Neurath, XX century encyclopaedism), Evolution of knowledge systems; Digital epistemology; Transformation of textual architectures
+*	**History and Philosophy of School-University and Teaching** - Universal  institutions and knowledge transmission (School-University, Scientific community, Museum, Library, Book, Reading), Teaching of Sciences and Philosophy
   
 
 ### Appointments  
