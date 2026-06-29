@@ -49,7 +49,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1971 – *Licence degree in Philosophy*, Faculty of Letters, University of Lisbon.
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
-### <a name="research_fields_and_areas_of_interest"><Research fields and areas of interest
+### a name="research_fields_and_areas_of_interest"><Research fields and areas of interest
 
 *	**Epistemology, Philosophy of Science and Science and Art** - Philosophy of Scientific knowledge; Unity of Science; Interdisciplinarity; Disciplinary Maps and Cartography of Knowledge; Classification; Scientific Imagery and Modeling; Creation in Science and Art; Science and Art affinities and differences 
 *	**Modern Philosophy of Language** - Historical and conceptual studies on language and meaning (Focus on: Leibniz, Hobbes, Spinoza, Rousseau, Hegel)
