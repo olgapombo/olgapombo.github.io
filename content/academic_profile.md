@@ -7,7 +7,7 @@ toc: false
 
 ## Academic profile      
 
-###### This academic profile is not a full academic *curriculum vitae* (which can be found **here**). Rather than an exhaustive record of a professional career, it provides a selection of the most significant aspects of my academic life (education, appointments, responsabilities, fellowships, consultancy) and scientific production (publications, research, teaching, conferences, talks, lectures as well as organization of meetings and other initiatives). It also aims to provide online access to almost all of my articles, books, and other writtings, as well as interviews, media appearances, and other forms of academic and public reception of my work.
+###### This academic profile is not a full academic *curriculum vitae* (which can be found **here, in pdf format**). Here I gather a selection of the most significant aspects of my academic life (education, appointments, responsabilities, fellowships, consultancy) and of my scientific production (research, teaching, conferences, talks, lectures as well as organization of meetings and other initiatives). It also aims to provide online access to all of my publications, articles, books, and other writtings, as well as interviews, media appearances, and other forms of academic and public reception of my work. Not everything is available — some texts are inaccessible or cannot be shared for technical reasons — but the aim is to offer as broad and up‑to‑date a view of my work as possible.
 
 ###### | [Trajectory](#trajectory) | [Education](#education-and-degrees) |  [Research fields and areas of interest](#research-fields-and-areas-of-interest) | [Appointments](#appointments) | [Academic responsibilities](#academic-responsibilities) | [Fellowships](#fellowships-and-research-stays-abroad) | [Consultancy](#consultancy) | [Publications](publications.md) | [Journal editor](#journal-editor) | [Conferences and talks](onlinetalks.md) | [Interviews](interviews.md) | [Research](research.md) | [Organization of scientific meetings](organization_scientific_meetings.md) | [Teaching](teaching_doctoral_program.md) | [Supervision](supervision.md) | [Media and Scholar Reception](#media-and-scholar-reception) | [Honours](#honours-awards-and-public-distinctions) | [Languages](#languages) | [Full CV](https://webpages.ciencias.ulisboa.pt/~ommartins/academic_profile/index.htm) |
 
@@ -59,7 +59,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 ### Appointments  
 
-* 2017 - ongoing - *Professor with Habilitation* (retitred with [collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
+* 2017 - *Professor with Habilitation* (retitred with [collaboration agreement](https://ciencias.ulisboa.pt/pt/perfil/ommartins)), “Department of History and Philosophy of Sciences”, Faculty of Sciences of the University of Lisbon (FCUL).
 * 2009 – 2016 - *Professor with Habilitation*, “Department of History and Philosophy of Sciences”, FCUL (since the 9th June 2009 up until retirement, the 1st January 2017). 
 * 2007¬–2009 – *Professor Tenured*, "Department of History and Philosophy of Science", FCUL (since its founding on 1 August 2007)
 * 2002 - 2007 - *Professor Tenured*, “Department of Education”, FCUL (since 26th March 2003). 
@@ -162,7 +162,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * Human Resources and Mobility Programa (ECO-SOC), 2004, 2006, 2007
 * Marie Curie International Research Staff Exchange Scheme (IRSES), 2008, 2009.
 * Research Executive Agency (REA), FP7-PEOPLE-2010-IOF, IEF, IIF, 2010, 2011
-* Vice chair, Marie Curie Individual Fellowships (Eco-SOC), IEF- IOF- IIF, 2012.
+* Vice chair, Marie Curie Individual Fellowships (ECO-SOC), IEF- IOF- IIF, 2012.
 * Independent Observer, FP7-PEOPLE, IRSES, 2013
 * H2020- Marie Skłodowska Curie Action-IF-2014ST- ECO-SOC, 2014, 2015.
 * H2020 - Science with and for Society (SEAC) 2015.
