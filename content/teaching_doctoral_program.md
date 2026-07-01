@@ -25,8 +25,8 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 * Themes and Problems of Contemporary Philosophy of Science (2014-2016)
 * Doctoral Seminar I and II (2014)
 * Doctoral Seminar I, II, III (2015)
-* Doctoral seminar I, II, III, IV (2016)
-* Doctoral seminar I, II, III, IV, V (2017-2024)
+* Doctoral Seminar I, II, III, IV (2016)
+* Doctoral Seminar I, II, III, IV, V (2017-2024)
 * Science and Art. Image Theories, Representation and Production of the Real (participation in the lecturing)(2014-2019) 
 
  
@@ -43,13 +43,13 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 #### Minor in History and Philosophy of Science (*Department of History and Philosophy of Science*)
 
 * [*Temas e Problemas de Epistemologia e Filosofia da Ciência*](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/temas.htm) (2006-2013) also offered as FCUL free option (2003–2007) (poster [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/cartaz3.pdf)) (*also offered as free option*)
-* [*Temas da filosofia da ciencia contemporanea*](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014))
+* [*Temas da Filosofia da Ciencia Contemporanea*](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/minor_Themes%20%20of%20contemporary.pdf), (2013-2014))
 * [Science and Art](../static/pdf-text/6_PROGRAMA_CC_ARTE_2015-16.pdf) (2009-2016) (*also offered in the licence of "General Studies"*) (*sillabus* [**here**](https://webpages.ciencias.ulisboa.pt/~ommartins/docencia/ciencia_arte.htm))
 * *Science and Culture* (2011-2013) (*also offered in the licence of "General Studies"*)
 
 #### Minor in Biochemistry (*Department of Biochemistry*)
 
-* *Philosophy of science* (2001-2004) 
+* *Philosophy of Science* (2001-2004) 
 
 #### Undergraduate Courses - Cultural, Social and Ethical Training (*University of Lisbon*)
 
@@ -61,7 +61,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 #### Master in Science Teaching (*Department of Education*) 
 
 * *Epistemology and Science Teaching* (1986-1987; 1988-1989)
-* *Production, Circulation and Transmission of Scientific knowledge* (1987-1988)
+* *Production, Circulation and Transmission of Scientific Knowledge* (1987-1988)
 * *Philosophy of Education* (1985-86; 1988-1989; 1994-1995; 2002-03)
 * *Experiences of Transversality* (2007-2008)  
   
@@ -69,10 +69,10 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 
 * *Philosophy of Education* (1985-86; 1988-1989)
 * *Observation and Analysis* (1984-1985; 1992-1993; 1994-1996) 
-* *Interdisciplinary seminar* (1985-1989;1992-1993) 
-* *Interdisciplinarity*, Science and Mathematics (1992-1994) 
+* *Interdisciplinary Seminar* (1985-1989;1992-1993) 
+* *Interdisciplinarity. Science and Mathematics* (1992-1994) 
 * *History and Philosophy of Education* (1992-2006)
-* *Thematic seminar* (1999-2004) 
+* *Thematic Seminar* (1999-2004) 
 
 #### Tutorials and stage advising (*Department of Education*)
 
@@ -83,7 +83,7 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 
 #### Continuing training courses (*Department of Education*)
 
-* *Filosofia do conhecimento cientifico*, secondary school teachers,  *Accreditation*: CCPFC/ACC61744/10 (1st semester 2011-2012)
+* *Filosofia do Conhecimento Cientifico*, secondary school teachers,  *Accreditation*: CCPFC/ACC61744/10 (1st semester 2011-2012)
 * *Ciencia e Arte*, secondary school teachers,  *Accreditation*: CCPFC/ACC-61355/09 (2nd semester 2011-2012)
 
 
@@ -111,9 +111,9 @@ Com início no ano lectivo 2014-2015, o Programa de Doutoramento em Filosofia da
 #### International teaching  
 
 * Federal Universidade of Pará, Brazil (April 2021).
-* Scuola di alti studi, "Natura naturans. Della natura e della condizione umana: trasformazioni, problemi e prospettive”, Accademia Vivarium Novum, Rome, Italy (October- November 2019)
+* Scuola di alti studi, Accademia Vivarium Novum, Rome, Italy (October- November 2019)
 * Federal University of Goiás, Brazil (October 2012)
-* Cátedra Latino-Americana Leopoldo Zea, Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
+* Federal University for Latin-American Integration, Brazil (Dec 2010; Aug 2011)
 * Portuguese School, Maputo, Mozambique (May 2006)
 * University Lille 3, France (January 2003)
 * Viena University, Austria (September-October 1999)
