@@ -10,7 +10,7 @@
     "city": "Lisboa",
     "pages": 96,
     "isbn": "972-47-0462-9",
-    "cover": "15_ID_teresa_henrique.jpg",
+    "cover": "15_ID_teresa_henrique.webp",
     "links": [
       { "label": "Library catalogue", "url": "https://biblioteca.cm-valedecambra.pt/nyron/Library/catalog/winlibsrch.aspx?skey=96427A1FC89A4AF28279FA03D2B7FE15&pesq=5&thes1=9831&dtype=lista&doc=8527" }
     ],
@@ -27,7 +27,7 @@
     "city": "Lisboa",
     "pages": 320,
     "isbn": "972-9493-29-4",
-    "cover": "5_leibniz_port.jpg",
+    "cover": "5_leibniz_port.webp",
     "links": [
       { "label": "ResearchGate", "url": "https://www.researchgate.net/publication/259932965_Olga_Pombo_Leibniz_e_o_Problema_de_uma_Lingua_Universal_Lisboa_ed_JNICT_1997_320_p" }
     ],
@@ -78,7 +78,7 @@
     "city": "Porto",
     "pages": 303,
     "isbn": "989-625-042-1",
-    "cover": "1_antologia_porto.jpg",
+    "cover": "1_antologia_porto.webp",
     "links": [
       { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?mfn=49244" }
     ],
@@ -128,7 +128,7 @@
     "city": "London",
     "pages": 224,
     "isbn": "978-184-8900073",
-    "cover": "3_diagramatico.jpg",
+    "cover": "3_diagramatico.webp",
     "links": [
       { "label": "Amazon", "url": "https://www.amazon.com/Studies-Diagrammatology-Diagram-Praxis-Logic/dp/1848900074" }
     ],
@@ -179,7 +179,7 @@
     "city": "Lisboa",
     "pages": 343,
     "isbn": "978-989-8247-41-4",
-    "cover": "35_UC_gradiva.jpg",
+    "cover": "35_UC_gradiva.webp",
     "links": [
       { "label": "Author's page", "url": "https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/livro_olga_uc.htm" }
     ],
@@ -452,7 +452,7 @@
     "publisher": "Mathesis / DEFCUL",
     "city": "Lisboa",
     "pages": 177,
-    "cover": "capa_antologia_1.jpg",
+    "cover": "capa_antologia_1.webp",
     "links": [],
     "language": "pt"
   },
@@ -465,7 +465,7 @@
     "publisher": "Mathesis / DEFCUL",
     "city": "Lisboa",
     "pages": 214,
-    "cover": "capa_antologia_2.jpg",
+    "cover": "capa_antologia_2.webp",
     "links": [],
     "language": "pt"
   },
@@ -514,7 +514,7 @@
     "city": "Lisboa",
     "pages": 217,
     "isbn": "972-99794.2.1",
-    "cover": "capa_caderno_cartas_problematica.jpg",
+    "cover": "capa_caderno_cartas_problematica.webp",
     "links": [],
     "series": "Cadernos de Filosofia das Ciências, vol. 3",
     "language": "pt"
@@ -546,7 +546,7 @@
     "city": "Lisboa",
     "pages": 283,
     "isbn": "978-989-8247-00-1",
-    "cover": "capa_logica_filciencia_com_nepomuceno.jpg",
+    "cover": "capa_logica_filciencia_com_nepomuceno.webp",
     "links": [
       { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=134331&qf_AU==JORNADAS%20IBERICAS%20LOGICA%20E%20FILOSOFIA%20DA%20CIENCIA.%203.%20LISBOA.%202008" }
     ],
@@ -597,7 +597,7 @@
     "city": "Lisboa",
     "pages": 314,
     "isbn": "978-989-8247-53-7",
-    "cover": "capa_circulo_saberes.jpg",
+    "cover": "capa_circulo_saberes.webp",
     "links": [
       { "label": "Full text (PDF)", "url": "../pdf-text/circulo_saberes_final.pdf" }
     ],
@@ -614,7 +614,7 @@
     "city": "Lisboa",
     "pages": 217,
     "isbn": "978-989-8247-60-5",
-    "cover": "capa_tarefas_epistemologia.jpg",
+    "cover": "capa_tarefas_epistemologia.webp",
     "links": [
       { "label": "Full text (PDF)", "url": "https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/tarefas_livro_finalissimo.pdf" },
       { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?1865876" }
@@ -681,7 +681,7 @@
     "city": "Lisboa",
     "pages": 392,
     "isbn": "978-989-8247-75-9",
-    "cover": "capa_debates_filcc_com_paulocastro.jpg",
+    "cover": "capa_debates_filcc_com_paulocastro.webp",
     "links": [
       { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?mfn=198399&cl=en" }
     ],
@@ -697,7 +697,7 @@
     "city": "Lisboa",
     "pages": 231,
     "isbn": "978-972-574-286-4",
-    "cover": "capa_image_science_art.jfif",
+    "cover": "capa_image_science_art.webp",
     "links": [
       { "label": "Wook", "url": "https://www.wook.pt/livro/image-in-science-and-art-olga-pombo/23416273" },
       { "label": "ResearchGate", "url": "https://www.researchgate.net/publication/338346248_Image_in_Science_and_Art" }

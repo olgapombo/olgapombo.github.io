@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6, nav, .header-content {
 }
 
 body.has-bg-quinta {
-    background: url('../../images/quinta.jpg') no-repeat center center fixed;
+    background: url('../../images/quinta.webp') no-repeat center center fixed;
     background-size: cover;
     color: #fff;
 }
