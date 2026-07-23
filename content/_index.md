@@ -10,7 +10,7 @@ description: "Personal academic webpage of Olga Pombo, Professor of Philosophy o
 
 <div class="home-main-area">
     <div class="home-image-container">
-        <img src="../static/images/foto-neuronios-cortada.jpg" alt="Neuronios" class="content-image">
+        <img src="../static/images/foto-neuronios-cortada.webp" alt="Neuronios" class="content-image">
     </div>
     <div class="home-quote-container">
     <blockquote class="home-quote">

@@ -6,18 +6,18 @@ toc: false
 
 # Sergio Pombo, o meu irmão
 
-![foto_sergio_60](../../static/images/foto_sergio_60.jpg "foto_sergio_60.jpg")
+![foto_sergio_60](../../static/images/foto_sergio_60.webp "foto_sergio_60.webp")
 
 O meu irmão era um Homem com letra grande: bom, forte, magnanimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Para mim, ele era o meu irmao. O companheiro absoluto, terno, incondicional.
-Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente, em [pintura](../../static/images/pintura_sergio-pombo_aa9.jfif), [escultura](../../static/images/esc_sergio_pombo_2.jpg), [desenho](../../static/images/desenho_sergio_pombo_3.jfif), [serigrafia](../../static/images/ser_sergio_pombo_5.jpg), gravura. 
+Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente, em [pintura](../../static/images/pintura_sergio-pombo_aa9.webp), [escultura](../../static/images/esc_sergio_pombo_2.webp), [desenho](../../static/images/desenho_sergio_pombo_3.webp), [serigrafia](../../static/images/ser_sergio_pombo_5.webp), gravura. 
 
 ###### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother, the absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in painting, sculpture, drawing, screen printing, engraving.
 
-![pintura_sergio_pombo](../../static/images/pintura_sergio_pombo_4.jpg)
+![pintura_sergio_pombo](../../static/images/pintura_sergio_pombo_4.webp)
 
 ##### «Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento, que é muito mais excitante, enervante e tenso, do que a representação de um cosmos – a representação geométrica», Sergio Pombo (aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, em 2013).
 
-![pintura_sergio_pombo_33](../../static/images/pintura_sergio_pombo_33.jpg)
+![pintura_sergio_pombo_33](../../static/images/pintura_sergio_pombo_33-jpg.webp)
 
 >> ##### «A pintura de Sérgio Pombo — pintura, desenho, com figuras ou sem, a pintura que nele tudo é pintura, irredutivelmente pintura — é tão brilhantemente viva que ofusca, é tão desassombrada que nos assalta o equilíbrio, sofre, o dia em que nasci morra e pereça, dizia Job, amaldiçoa-nos — mas promete-nos o humano, o humano presente, o humano simplesmente, a vida de hoje, esta, sufocantemente bela na sua crueza rápida, na sua imensa solidão, Jorge Silva Melo.
 
@@ -31,7 +31,7 @@ _______________________________________________________________
 
 Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972). Foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
-Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../static/images/foto_grupo_512.jpg "foto_grupo_512.jpg"), que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](../../static/images/foto_grupo_511.jpg "foto_grupo_511.jpg")).
+Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../static/images/foto_grupo_512.webp "foto_grupo_512.webp"), que integrava igualmente os pintores João Hogan, Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](../../static/images/foto_grupo_511.webp "foto_grupo_511.webp")).
 
 ## Exposições Individuais (selecção)
 * 1973 – Lisboa, Galeria de 5. Francisco.
@@ -60,7 +60,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte, **Pintura e Desenho**.
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
-* 2013 - Lisboa, Museu do Carmo, **Escultura** [**here**](../../static/images/sergio-pombo_museu_carmo.jpg "sergio-pombo_museu_carmo.jpg")
+* 2013 - Lisboa, Museu do Carmo, **Escultura** [**here**](../../static/images/sergio-pombo_museu_carmo.webp "sergio-pombo_museu_carmo.webp")
 * 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**]((https://www.youtube.com/watch?v=lnOg5u98dCk)), **apresentação video**
 * 2018 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sergio Pombo Agora**](https://artistasunidos.pt/sergio-pombo-agora-2)
 * 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, comissariada por João Pinharanda. 
@@ -149,7 +149,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 
 >>> ##### «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito.», José Alexandre de São Marco
 
-![](../../static/images/sergio_pombo_livro_catarina_reduzido.jpg)
+![](../../static/images/sergio_pombo_livro_catarina_reduzido.webp)
  
 ***Para Chegar ao Branco da Última Palavra*, Porto: Officium Lectionis, 2025**,
 O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
@@ -220,4 +220,4 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
 * Sérgio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
 
 
-![](../../static/images/sergio-pombo_museu_carmo.jpg)
+![](../../static/images/sergio-pombo_museu_carmo.webp)

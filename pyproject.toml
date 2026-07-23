@@ -1,0 +1,28 @@
+[project]
+name = "site-image-optimizer"
+version = "0.1.0"
+description = "Convert static-site images to WebP and update local references"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "pillow>=11.0.0",
+]
+
+[project.scripts]
+site-image-optimize = "site_image_optimizer.cli:main"
+
+[dependency-groups]
+dev = [
+  "pytest>=8.3.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/site_image_optimizer"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
