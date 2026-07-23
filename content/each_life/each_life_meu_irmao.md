@@ -13,8 +13,6 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 
 ###### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother, the absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in painting, sculpture, drawing, screen printing, engraving.
 
-![pintura_sergio_pombo](../../static/images/pintura_sergio_pombo_4.webp)
-
 <p align="center">
   <img src="../../static/images/pintura_sergio_pombo_4.webp" alt="pintura_sergio_pombo" width="450">
 </p>
