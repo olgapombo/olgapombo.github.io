@@ -1,0 +1,40 @@
+{{/* Meta description — page-level first, fallback to site description */}}
+{{ $desc := .Description | default .Site.Params.description }}
+{{ with $desc }}<meta name="description" content="{{ . | plainify | htmlEscape }}">{{ end }}
+
+{{/* Canonical URL */}}
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{/* JSON-LD structured data
+     Build as a Go dict and use printf+safeHTML to avoid Hugo's JS-context
+     escaping that would corrupt quote characters inside <script> blocks. */}}
+{{ $siteURL := .Site.BaseURL }}
+{{ $pageURL := .Permalink }}
+{{ if .IsHome }}
+{{ $ldJson := dict
+  "@context" "https://schema.org"
+  "@type" "ProfilePage"
+  "url" $pageURL
+  "mainEntity" (dict
+    "@type" "Person"
+    "name" "Olga Pombo"
+    "url" $siteURL
+    "jobTitle" "Professor of Philosophy of Science"
+    "knowsAbout" (slice "Philosophy of Science" "Epistemology" "Interdisciplinarity" "Philosophy of Language" "Unity of Science" "Leibniz")
+    "affiliation" (dict "@type" "Organization" "name" "University of Lisbon, Faculty of Sciences")
+    "description" ($desc | default "")
+  )
+}}
+{{ printf "<script type=\"application/ld+json\">%s</script>" ($ldJson | jsonify) | safeHTML }}
+{{ else }}
+{{ $ldJson := dict
+  "@context" "https://schema.org"
+  "@type" "WebPage"
+  "name" (printf "%s | %s" .Title .Site.Title)
+  "url" $pageURL
+  "description" ($desc | default "")
+  "isPartOf" (dict "@type" "WebSite" "name" .Site.Title "url" $siteURL)
+  "author" (dict "@type" "Person" "name" "Olga Pombo" "url" $siteURL)
+}}
+{{ printf "<script type=\"application/ld+json\">%s</script>" ($ldJson | jsonify) | safeHTML }}
+{{ end }}

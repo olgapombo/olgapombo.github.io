@@ -1,0 +1,12 @@
+<div class="book-gallery">
+  {{ $path := .Get "path" | default "static/book-covers" }}
+  {{ $files := readDir $path }}
+  {{ range $files }}
+    {{ if and (not .IsDir) (ne .Name "readme.md") }}
+      {{ $imgUrl := printf "book-covers/%s" .Name | absURL }}
+      <div class="book-item">
+        <img src="{{ $imgUrl }}" alt="{{ .Name }}" loading="lazy">
+      </div>
+    {{ end }}
+  {{ end }}
+</div>

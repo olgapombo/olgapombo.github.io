@@ -1,0 +1,93 @@
+{{ $books := hugo.Data.books }}
+<div class="books-page">
+
+  <div class="books-controls">
+    <input type="text" id="book-search" class="book-search-input" placeholder="Search by title, author, or publisher…" aria-label="Search books">
+    <div class="book-filter-group" role="group" aria-label="Filter by role">
+      <button class="filter-btn active" data-filter="all">All <span class="filter-count" id="count-all">{{ len $books }}</span></button>
+      <button class="filter-btn" data-filter="author">As author <span class="filter-count" id="count-author">{{ len (where $books "role" "author") }}</span></button>
+      <button class="filter-btn" data-filter="editor">As editor <span class="filter-count" id="count-editor">{{ len (where $books "role" "editor") }}</span></button>
+    </div>
+  </div>
+
+  <p class="books-result-count"><span id="visible-count">{{ len $books }}</span> books</p>
+
+  <div class="books-grid" id="books-grid">
+    {{ range sort $books "year" "desc" }}
+    {{ $book := . }}
+    {{ $searchable := print (.title | lower) " " (.publisher | lower) " " (delimit .authors " " | lower) " " (.year | string) }}
+    {{ with .titleEn }}{{ $searchable = print $searchable " " (. | lower) }}{{ end }}
+    <article class="book-card"
+             data-role="{{ $book.role }}"
+             data-year="{{ $book.year }}"
+             data-searchable="{{ $searchable }}">
+      {{ with $book.cover }}
+      <div class="book-cover">
+        <img src="{{ printf "book-covers/%s" . | absURL }}"
+             alt="{{ $book.title }}"
+             loading="lazy">
+      </div>
+      {{ end }}
+      <div class="book-info">
+        <span class="book-role-badge book-role-{{ $book.role }}">{{ if eq $book.role "author" }}Author{{ else }}Editor{{ end }}</span>
+        <h3 class="book-title">{{ $book.title }}</h3>
+        {{ with $book.titleEn }}<p class="book-title-en">{{ . }}</p>{{ end }}
+        <p class="book-contributors">
+          {{ delimit $book.authors ", " }}{{ if eq $book.role "editor" }} (eds.){{ end }}
+        </p>
+        <p class="book-meta">
+          <span class="book-publisher">{{ $book.publisher }}{{ with $book.city }}, {{ . }}{{ end }}</span>
+          · <span class="book-year">{{ $book.year }}</span>
+          {{ with $book.pages }}<span class="book-pages"> · {{ . }} pp.</span>{{ end }}
+        </p>
+        {{ with $book.series }}<p class="book-series">{{ . }}</p>{{ end }}
+        {{ with $book.isbn }}<p class="book-isbn">ISBN: {{ . }}</p>{{ end }}
+        {{ with $book.doi }}<p class="book-doi">DOI: {{ . }}</p>{{ end }}
+        {{ with $book.links }}
+        <div class="book-links">
+          {{ range . }}<a href="{{ .url }}" class="book-link" target="_blank" rel="noopener noreferrer">{{ .label }}</a>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+
+  <p class="books-no-results" id="books-no-results" style="display:none">No books match your search.</p>
+</div>
+
+<script>
+(function () {
+  var searchInput = document.getElementById('book-search');
+  var filterBtns = document.querySelectorAll('.filter-btn');
+  var cards = document.querySelectorAll('.book-card');
+  var visibleCount = document.getElementById('visible-count');
+  var noResults = document.getElementById('books-no-results');
+  var currentFilter = 'all';
+
+  function update() {
+    var term = searchInput.value.toLowerCase().trim();
+    var count = 0;
+    cards.forEach(function (card) {
+      var roleMatch = currentFilter === 'all' || card.dataset.role === currentFilter;
+      var searchMatch = !term || card.dataset.searchable.indexOf(term) !== -1;
+      var visible = roleMatch && searchMatch;
+      card.style.display = visible ? '' : 'none';
+      if (visible) count++;
+    });
+    visibleCount.textContent = count;
+    noResults.style.display = count > 0 ? 'none' : '';
+  }
+
+  searchInput.addEventListener('input', update);
+
+  filterBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      filterBtns.forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      currentFilter = btn.dataset.filter;
+      update();
+    });
+  });
+})();
+</script>

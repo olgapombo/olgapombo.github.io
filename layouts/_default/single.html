@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <article>
+    {{ if and .Site.Params.showTOC (ne .Params.toc false) }}
+      {{ if .TableOfContents }}
+      <nav id="toc">
+        <h2>Table of Contents</h2>
+        {{ .TableOfContents }}
+      </nav>
+      {{ end }}
+    {{ end }}
+
+    {{ $content := .Content }}
+    {{ $content = replace $content `../static/` `/` }}
+    {{ $content = replaceRE `href="([^" ]+)\.md"` `href="/$1.html"` $content }}
+    {{ $content | safeHTML }}
+  </article>
+{{ end }}

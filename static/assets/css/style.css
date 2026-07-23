@@ -1,0 +1,715 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
+    background-color: #fff;
+    color: #333;
+    line-height: 1.8;
+    font-size: 1.1rem;
+}
+
+h1, h2, h3, h4, h5, h6, nav, .header-content {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+}
+
+body.has-bg-quinta {
+    background: url('../../images/quinta.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+.overlay {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+body.has-bg-quinta .overlay {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+header {
+    width: 100%;
+    padding: 2rem 0;
+    text-align: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+body.has-bg-quinta header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding: 0 1rem;
+    gap: 1rem;
+}
+
+nav#primary-site-navigation-desktop {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    z-index: 100;
+}
+
+#menu-toggle .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    background-color: #000;
+    transition: all 0.3s ease-in-out;
+}
+
+body.has-bg-quinta #menu-toggle .bar {
+    background-color: #fff;
+}
+
+header h1 {
+    margin: 0;
+    font-weight: 300;
+    letter-spacing: 2px;
+    color: #000;
+    text-transform: none !important;
+}
+
+body.has-bg-quinta header h1 {
+    color: #fff;
+}
+
+nav {
+    margin-top: 1rem;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-transform: none !important;
+}
+
+body.has-bg-quinta nav a {
+    color: #ff0;
+}
+
+nav a:hover {
+    color: #000;
+}
+
+body.has-bg-quinta nav a:hover {
+    color: #fff;
+}
+
+main a {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+main a:hover {
+    color: #0056b3;
+}
+
+body.has-bg-quinta main a {
+    color: #ff0;
+    text-decoration: none;
+}
+
+body.has-bg-quinta main a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+main {
+    width: 100%;
+    margin: 0;
+    padding: 3rem;
+    box-sizing: border-box;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.8rem;
+    color: #777;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.content-image {
+    max-width: 300px;
+    height: auto;
+    display: block;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 5px solid #007bff;
+    padding-left: 20px;
+    margin-left: 0;
+    font-size: 1.1rem;
+    color: inherit;
+}
+
+body.has-bg-quinta blockquote {
+    border-left: 5px solid #ff0;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+}
+
+h2, h3, h4 {
+    font-weight: 400;
+    text-transform: none !important;
+}
+
+.home-title {
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+    text-shadow: 2px 2px 4px #000;
+    font-size: 3rem;
+}
+
+.home-navigation-links {
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 20px;
+}
+
+.home-main-area {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 2rem;
+}
+
+.home-image-container {
+    flex: 0 0 auto;
+}
+
+.home-quote-container {
+    flex: 1;
+}
+
+.home-quote {
+    font-style: italic;
+    border-left: 4px solid #ff0;
+    padding-left: 15px;
+    margin: 0;
+    font-size: 1.2rem;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.home-quote-cite {
+    text-align: right;
+    font-size: 1rem;
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 768px) {
+    .home-title {
+        font-size: 2rem;
+        letter-spacing: 2px;
+        margin-bottom: 20px;
+    }
+
+    .home-main-area {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+
+    .home-image-container {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .home-quote {
+        font-size: 1.1rem;
+        border-left: none;
+        border-top: 2px solid #ff0;
+        padding-top: 15px;
+        padding-left: 0;
+    }
+
+    .home-quote-cite {
+        text-align: center;
+    }
+
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    main {
+        padding: 1.5rem;
+    }
+}
+
+.home-navigation-links a {
+    margin: 5px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.95rem;
+    text-transform: none !important;
+}
+
+body.has-bg-quinta .home-navigation-links a {
+    color: #ff0;
+    text-shadow: 1px 1px 2px #000;
+}
+
+body.has-bg-quinta .home-navigation-links a:hover {
+    color: #fff;
+}
+
+.home-content {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 70vh;
+}
+
+header.is-home {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    header.is-home {
+        display: block;
+        padding: 1rem 0;
+    }
+    
+    header.is-home h1 {
+        display: none; /* Hide redundant title on mobile home if needed, or keep it */
+    }
+
+    .home-navigation-links.mobile-hidden {
+        display: none;
+    }
+
+    .header-content {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    #menu-toggle {
+        display: block;
+    }
+
+    nav#primary-site-navigation-desktop {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.95);
+        position: absolute;
+        top: 100%;
+        left: 0;
+        padding: 1rem 0;
+        z-index: 99;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    }
+
+    body.has-bg-quinta nav#primary-site-navigation-desktop {
+        background-color: rgba(20, 20, 20, 0.95);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .nav-open nav#primary-site-navigation-desktop {
+        display: flex;
+    }
+
+    nav#primary-site-navigation-desktop a {
+        margin: 5px 0;
+        padding: 10px;
+        display: block;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    }
+
+    body.has-bg-quinta nav#primary-site-navigation-desktop a {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    /* Animation for hamburger to X */
+    .nav-open #menu-toggle .bar:nth-child(2) {
+        opacity: 0;
+    }
+    .nav-open #menu-toggle .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+    .nav-open #menu-toggle .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+    /* Fix menu items color and background on mobile home */
+    body.has-bg-quinta .nav-open nav#primary-site-navigation-desktop {
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    
+    .nav-open nav#primary-site-navigation-desktop a {
+        color: #fff;
+    }
+}
+
+/* Table of Contents */
+#toc {
+    background: #f9f9f9;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    margin-bottom: 2rem;
+    border-radius: 4px;
+}
+
+#toc h2 {
+    margin-top: 0;
+    font-size: 1.2rem;
+}
+
+#toc ul {
+    list-style-type: none;
+    padding-left: 1rem;
+}
+
+#toc a {
+    text-decoration: none;
+}
+
+/* Back to top button */
+#back-to-top {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+    transition: background-color 0.3s;
+}
+
+#back-to-top:hover {
+    background-color: #0056b3;
+}
+
+/* Book Gallery (legacy shortcode) */
+.book-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 2rem;
+    padding: 1rem 0;
+}
+
+.book-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.3s ease;
+}
+
+.book-item:hover {
+    transform: translateY(-5px);
+}
+
+.book-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    object-fit: cover;
+}
+
+@media screen and (max-width: 480px) {
+    .book-gallery {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 1rem;
+    }
+}
+
+/* Enhanced Books Page */
+.books-page {
+    margin-top: 1.5rem;
+}
+
+.books-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.book-search-input {
+    flex: 1 1 260px;
+    padding: 0.55rem 0.9rem;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 0.95rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    transition: border-color 0.2s;
+    color: #333;
+}
+
+.book-search-input:focus {
+    border-color: #555;
+}
+
+.book-filter-group {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.filter-btn {
+    padding: 0.4rem 0.85rem;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 0.85rem;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background: #fff;
+    color: #555;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s, border-color 0.2s;
+    white-space: nowrap;
+}
+
+.filter-btn:hover {
+    border-color: #888;
+    color: #222;
+}
+
+.filter-btn.active {
+    background: #333;
+    color: #fff;
+    border-color: #333;
+}
+
+.filter-count {
+    display: inline-block;
+    background: rgba(255,255,255,0.25);
+    border-radius: 10px;
+    padding: 0 0.4em;
+    font-size: 0.8em;
+    margin-left: 0.2em;
+}
+
+.filter-btn:not(.active) .filter-count {
+    background: rgba(0,0,0,0.08);
+    color: #666;
+}
+
+.books-result-count {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 0.85rem;
+    color: #888;
+    margin: 0 0 1.2rem;
+}
+
+.books-no-results {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    color: #888;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.books-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 2rem;
+    align-items: start;
+}
+
+.book-card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #e8e8e8;
+    border-radius: 6px;
+    overflow: hidden;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    background: #fff;
+}
+
+.book-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.book-cover {
+    width: 100%;
+    background: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    aspect-ratio: 3 / 4;
+}
+
+.book-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.book-info {
+    padding: 0.9rem 1rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    flex: 1;
+}
+
+.book-role-badge {
+    display: inline-block;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.2em 0.6em;
+    border-radius: 3px;
+    width: fit-content;
+    margin-bottom: 0.2rem;
+}
+
+.book-role-author {
+    background: #e8f0fe;
+    color: #1a56db;
+}
+
+.book-role-editor {
+    background: #fef3e2;
+    color: #b45309;
+}
+
+.book-title {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 0.95rem;
+    font-weight: 700;
+    line-height: 1.4;
+    margin: 0;
+    color: #222;
+}
+
+.book-title-en {
+    font-family: 'Merriweather', Georgia, serif;
+    font-size: 0.8rem;
+    font-style: italic;
+    color: #666;
+    margin: 0;
+    line-height: 1.4;
+}
+
+.book-contributors {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 0.82rem;
+    color: #555;
+    margin: 0;
+    line-height: 1.4;
+}
+
+.book-meta {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 0.82rem;
+    color: #444;
+    margin: 0;
+    line-height: 1.5;
+}
+
+.book-year {
+    font-weight: 700;
+}
+
+.book-series {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 0.78rem;
+    font-style: italic;
+    color: #777;
+    margin: 0;
+}
+
+.book-isbn,
+.book-doi {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 0.75rem;
+    color: #999;
+    margin: 0;
+}
+
+.book-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.5rem;
+}
+
+.book-link {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 0.78rem;
+    padding: 0.25rem 0.6rem;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #444;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+    white-space: nowrap;
+}
+
+.book-link:hover {
+    background: #333;
+    color: #fff;
+    border-color: #333;
+}
+
+@media screen and (max-width: 600px) {
+    .books-controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .book-search-input {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .books-grid {
+        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+        gap: 1.2rem;
+    }
+
+    .book-info {
+        padding: 0.7rem 0.8rem 0.8rem;
+    }
+}

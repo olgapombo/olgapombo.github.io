@@ -1,0 +1,35 @@
+name: Deploy to Cloudflare Workers
+
+#on:
+#  push:
+#    branches: [main]
+#  workflow_dispatch:
+#
+#concurrency:
+#  group: cloudflare-deploy
+#  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # full git history required for enableGitInfo (lastmod dates)
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.163.1'
+          extended: true
+
+      - name: Build with Hugo
+        run: hugo --gc --minify
+
+      - name: Deploy to Cloudflare Workers
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy

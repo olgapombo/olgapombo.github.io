@@ -1,0 +1,19 @@
+---
+title: "each life amigos"
+draft: false
+toc: false
+---
+
+# Amigos
+
+> **Na infancia, o meu unico amigo era o meu irmão**. Brincávamos ao botão, ao berlinde. Andavamos de patins e trotinete no corredor. Desenhavamos bichos e paisagens na mesa da casa de jantar. O Sergio tambem fazia plasticina. Eu lia e relia as mesmas historias, via as imagens. O jardim da Ninita. Moravamos num terceiro andar sem elevador, numa rua movimentada. Nunca saíamos senão com a minha mãe para ir ás compras com ela. Ou com o meu avô que nos levava, no verão, ao parque Eduardo Sétimo. Fomos uma vez ou outra à feira popular com o meu pai. Só andávamos uma vez no carrocel, uma volta no barco a pedal que havia no lago e entrávamos uma vez na casa dos espelhos. Comiamos uma nuvem de acucar e faziamos um furo, cada um, na caixa dos chocolates. Não andávamos mas ficávamos a ver os carrinhos de choque e as motas no poço da morte.
+> **Depois, recordo vultos na escola primaria**. Mas não vejo as caras. Sinto a turbulencia da sala de aula. O cheiro abafado. A lousa, o giz, o caderno de duas linhas. O frasquinho do tinteiro. As manchas de tinta nos dedos. O barulho do intervalo que nunca tive. Eu era uma das meninas que não tinha intervalo porque tinha bata e sapatos. Só as de pé descalço iam ao intervalo. Eu ficava na sala de aula, presa e protegida, a comer o lanche que a minha avó preparava: pao com manteiga, com doce de tomate, ou com carapau frito na vespera. Só no fim da aula, quando tocava a campainha, podia brincar. Não na sala do recreio, dentro da escola, mas no empedrado da entrada do quartel de Junot. Brincava à cabra cega, ao elastico, à macaca.
+> **Tambem tinha amigas na casa da minha tia**.  A minha tia vivia no rez do chao e por isso tinha um pequeno jardim onde havia uma roseira Stª Teresinha. Aí se reunia a criançada do prédio. Os amigos eram a menina do 1º andar que nao recordo o nome, a Manuela e as irmãs do segundo andar. Uns dias bricávamos a perder o comboio. Fiziamos um comboio com as cadeiras da sala de jantar e depois, cada uma de nós, carregadas de malas a fingir, corriamos para apanhar o comboio. Mas, invariavelmente, o comboio já a caminho, pouca terra, pouca terra. E nós ficavamos exaustas, com as malas, caídas no cais a fingir. Uma vez, bricámos aos cabeleireiros. Lavámos as cabeças umas das outras,  com sabao azul e branco, em alguidares no chão que ia ficando cada vez mais escorregadio, o que permitiu transformar o chao de cimento vermelho do quintal em ringue de patinagem.
+> **E tive muitos amigos na aldeia onde iamos passar as ferias grandes**. Amigos com quem brincavams, eu e o meu irmao, de manha à noite: a Aida, a Preciosa e as filhas do Zé Pinto. Bricávamos a apanhar abelhinhas que guardavamos num copo de vidro. Tinhamos um baloiço no quintal. Uma cabra por baixo do nosso quarto. Galinhas, duas ou tres ovelhas, uma vaca. Íamos com a Aida à fonte buscar agua, e ao pinhal apanhar palhuço para a estrumeira. Brincavamos na eira, escorregavamos na palha guardada na cabana e apanhavamos agrião na poça da Maria Joao.  Dávamos grandes passeios pelos pinhais, pelas leiras, pelos soutos de castanheiros, pela estrada a ver o luar de agosto. Apanhávamos nozes ainda verdes. Participávamos das debulhadas, das vindimas. O Sérgio fugia com os pastores. Andava a aldeia toda à procura do menino serginho. E iamos ao correio depois do almoco. O Sr. Mergulhão, que era meu padrinho, dava-me sempre um rebuçado. Lia o correio. Presente. Eu levo-lhe. No correio, havia uma casinha de madeira onde estava o telefone. Ouvia-se tudo.
+> **Depois tive as amigas do liceu**
+> **Os amigos da ginastica**
+> **os amigos da CPA (Comissao Pró Associação)** 
+> **Os amigos da Faculdade**
+> **Os amigos professores, colegas de trabalho**
+> **Os amigos antigos alunos**
+> **Hoje, tenho os amigos do dia 25**

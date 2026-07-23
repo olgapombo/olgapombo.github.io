@@ -1,0 +1,761 @@
+[
+  {
+    "id": "interdisciplinaridade-reflexao-1993",
+    "title": "A Interdisciplinaridade: Reflexão e Experiência",
+    "titleEn": "Interdisciplinarity: Reflection and Experience",
+    "role": "author",
+    "authors": ["Olga Pombo", "Teresa Levy", "Henrique Guimarães"],
+    "year": 1993,
+    "publisher": "Texto",
+    "city": "Lisboa",
+    "pages": 96,
+    "isbn": "972-47-0462-9",
+    "cover": "15_ID_teresa_henrique.jpg",
+    "links": [
+      { "label": "Library catalogue", "url": "https://biblioteca.cm-valedecambra.pt/nyron/Library/catalog/winlibsrch.aspx?skey=96427A1FC89A4AF28279FA03D2B7FE15&pesq=5&thes1=9831&dtype=lista&doc=8527" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "leibniz-lingua-universal-1997",
+    "title": "Leibniz e o Problema de uma Língua Universal",
+    "titleEn": "Leibniz and the Problem of a Universal Language",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 1997,
+    "publisher": "Junta Nacional de Investigação Científica e Tecnológica (JNICT)",
+    "city": "Lisboa",
+    "pages": 320,
+    "isbn": "972-9493-29-4",
+    "cover": "5_leibniz_port.jpg",
+    "links": [
+      { "label": "ResearchGate", "url": "https://www.researchgate.net/publication/259932965_Olga_Pombo_Leibniz_e_o_Problema_de_uma_Lingua_Universal_Lisboa_ed_JNICT_1997_320_p" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "escola-recta-circulo-2002",
+    "title": "A Escola, a Recta e o Círculo",
+    "titleEn": "The School, the Straight Line and the Circle",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2002,
+    "publisher": "Relógio d'Água",
+    "city": "Lisboa",
+    "pages": 316,
+    "isbn": "9789727086788",
+    "cover": "4_escola_recta_circulo_RA.webp",
+    "links": [
+      { "label": "Publisher page", "url": "https://www.relogiodagua.pt/produto/a-escola-a-recta-e-o-circulo/" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "interdisciplinaridade-ambicoes-2004",
+    "title": "Interdisciplinaridade: Ambições e Limites",
+    "titleEn": "Interdisciplinarity: Ambitions and Limits",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2004,
+    "publisher": "Relógio d'Água",
+    "city": "Lisboa",
+    "pages": 203,
+    "isbn": "9789727088140",
+    "cover": "14_ID_ra.webp",
+    "links": [
+      { "label": "Publisher page", "url": "https://www.relogiodagua.pt/produto/interdisciplinaridade-ambicoes-e-limites/" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "interdisciplinaridade-antologia-2006",
+    "title": "Interdisciplinaridade. Antologia",
+    "titleEn": "Interdisciplinarity: Anthology",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Teresa Levy", "Henrique Guimarães"],
+    "year": 2006,
+    "publisher": "Campo das Letras",
+    "city": "Porto",
+    "pages": 303,
+    "isbn": "989-625-042-1",
+    "cover": "1_antologia_porto.jpg",
+    "links": [
+      { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?mfn=49244" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "enciclopedia-hipertexto-2006",
+    "title": "Enciclopédia e Hipertexto",
+    "titleEn": "Encyclopaedia and Hypertext",
+    "role": "editor",
+    "authors": ["Olga Pombo", "António Guerreiro", "António Franco Alexandre"],
+    "year": 2006,
+    "publisher": "Editora Duarte Reis",
+    "city": "Lisboa",
+    "pages": 556,
+    "isbn": "972-8745-22-2",
+    "cover": "2_enciclopedia_hiper.webp",
+    "links": [
+      { "label": "Goodreads", "url": "https://www.goodreads.com/book/show/13500237-enciclop-dia-e-hipertexto" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "palavra-esplendor-2010",
+    "title": "Palavra e Esplendor do Mundo. Estudos sobre Leibniz",
+    "titleEn": "Word and World Splendor. Studies on Leibniz",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2010,
+    "publisher": "Fim de Século",
+    "city": "Lisboa",
+    "pages": 300,
+    "isbn": "978-972-754-280-2",
+    "cover": "16-palavra_esplendor_fs.webp",
+    "links": [
+      { "label": "Full text (PDF)", "url": "https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/esplendor-livro.pdf" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "diagrammatology-2010",
+    "title": "Studies in Diagrammatology and Diagram Praxis",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Alexander Gerner"],
+    "year": 2010,
+    "publisher": "College Publications",
+    "city": "London",
+    "pages": 224,
+    "isbn": "978-184-8900073",
+    "cover": "3_diagramatico.jpg",
+    "links": [
+      { "label": "Amazon", "url": "https://www.amazon.com/Studies-Diagrammatology-Diagram-Praxis-Logic/dp/1848900074" }
+    ],
+    "series": "Logic and Cognitive Systems",
+    "language": "en"
+  },
+  {
+    "id": "neuroaesthetics-2010",
+    "title": "Neuroaesthetics: Can Science Explain Art?",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Silvia di Marco", "Marco Pina"],
+    "year": 2010,
+    "publisher": "Fim de Século",
+    "city": "Lisboa",
+    "pages": 175,
+    "isbn": "9789727542765",
+    "cover": "18_neuroestetica_fs.webp",
+    "links": [
+      { "label": "Wook", "url": "https://www.wook.pt/livro/neuroaesthetics-olga-pombo/10287054" }
+    ],
+    "language": "en"
+  },
+  {
+    "id": "imagens-ciencia-2010",
+    "title": "As Imagens com que a Ciência se Faz",
+    "titleEn": "Images with which Science is Done",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Silvia di Marco"],
+    "year": 2010,
+    "publisher": "Fim de Século",
+    "city": "Lisboa",
+    "pages": 286,
+    "isbn": "978-972-754-279-6",
+    "cover": "20_imagens_que_cc_faz_fs.webp",
+    "links": [
+      { "label": "Fnac", "url": "https://www.fnac.pt/As-Imagens-com-que-a-Ciencia-se-Faz-POMBO-OLGA-E-SILVIA-DI-MARCO/a341870" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "unidade-ciencia-2011",
+    "title": "Unidade da Ciência. Programas, Figuras e Metáforas",
+    "titleEn": "Unity of Science. Programs, Figures and Metaphors",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2011,
+    "publisher": "CFCUL / Gradiva",
+    "city": "Lisboa",
+    "pages": 343,
+    "isbn": "978-989-8247-41-4",
+    "cover": "35_UC_gradiva.jpg",
+    "links": [
+      { "label": "Author's page", "url": "https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/livro_olga_uc.htm" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "neurath-unity-2011",
+    "title": "Otto Neurath and the Unity of Science",
+    "role": "editor",
+    "authors": ["Olga Pombo", "John Symons", "Juan Manuel Torres"],
+    "year": 2011,
+    "publisher": "Springer",
+    "city": "Dordrecht",
+    "pages": 250,
+    "isbn": "978-94-007-0142-7",
+    "cover": "10_neurath_springer.webp",
+    "links": [
+      { "label": "Springer", "url": "https://link.springer.com/book/10.1007/978-94-007-0143-4" }
+    ],
+    "series": "Logic, Epistemology, and the Unity of Science",
+    "doi": "10.1007/978-94-007-0143-4",
+    "language": "en"
+  },
+  {
+    "id": "special-sciences-2012",
+    "title": "Special Sciences and the Unity of Science",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Shahid Rahman", "John Symons", "Juan Manuel Torres"],
+    "year": 2012,
+    "publisher": "Springer",
+    "city": "Dordrecht",
+    "pages": 299,
+    "isbn": "978-94-007-2029-9",
+    "cover": "9_special_sciences_springer.webp",
+    "links": [
+      { "label": "Springer", "url": "https://link.springer.com/book/10.1007/978-94-007-2030-5" }
+    ],
+    "series": "Logic, Epistemology, and the Unity of Science",
+    "doi": "10.1007/978-94-007-2030-5",
+    "language": "en"
+  },
+  {
+    "id": "darwin-2012",
+    "title": "Em torno de Darwin",
+    "titleEn": "On Darwin",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Marco Pina"],
+    "year": 2012,
+    "publisher": "Fim de Século",
+    "city": "Lisboa",
+    "pages": 187,
+    "isbn": "978-972-754-291-8",
+    "cover": "22_darwin_FS.webp",
+    "links": [
+      { "label": "Wook", "url": "https://www.wook.pt/livro/em-torno-de-darwin-marco-pina/12735819" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "civilizacao-palavra-imagem-2012",
+    "title": "Da Civilização da Palavra à Civilização da Imagem",
+    "titleEn": "From Word Civilization to Image Civilization",
+    "role": "editor",
+    "authors": ["Olga Pombo", "António Guerreiro"],
+    "year": 2012,
+    "publisher": "Fim de Século",
+    "city": "Lisboa",
+    "pages": 186,
+    "isbn": "978-972-754-293-2",
+    "cover": "19_cvpalavra_cvimagem_fs.webp",
+    "links": [
+      { "label": "Wook", "url": "https://www.wook.pt/livro/da-civilizacao-da-palavra-a-civilizacao-da-imagem-olga-pombo/15066641" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "cartas-problematica-2012",
+    "title": "As Cartas de Problemática de António Sérgio dirigidas a um grupo de jovens amigos",
+    "role": "editor",
+    "authors": ["Olga Pombo", "João Cordovil"],
+    "year": 2012,
+    "publisher": "Fim de Século",
+    "city": "Lisboa",
+    "pages": 228,
+    "isbn": "978-972-754-294-9",
+    "cover": "36_problematica_fs.webp",
+    "links": [
+      { "label": "Website", "url": "https://aviagemdosargonautas.net/2012/04/29/cfcul-as-cartas-de-problematica-de-antonio-sergio-olga-pombo-e-joao-luis-cordovil-org/" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "filosofia-ciencia-universidade-2013",
+    "title": "O Lugar da Filosofia da Ciência na Universidade de Lisboa",
+    "titleEn": "The Place of Philosophy of Science at the University of Lisbon",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Nuno Nabais"],
+    "year": 2013,
+    "publisher": "CFCUL",
+    "city": "Lisboa",
+    "pages": 250,
+    "isbn": "978-989-8247-61-2",
+    "cover": "13_fil_univ_com_nuno.webp",
+    "links": [
+      { "label": "Amazon", "url": "https://www.amazon.com.br/lugar-filosofia-ci%C3%AAncia-universidade-lisboa/dp/9898247614" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "epistemology-knowledge-interaction-2016",
+    "title": "Epistemology, Knowledge and the Impact of Interaction",
+    "role": "editor",
+    "authors": ["Juan Redmond", "Olga Pombo", "Ángel Nepomuceno"],
+    "year": 2016,
+    "publisher": "Springer",
+    "city": "Switzerland",
+    "pages": 554,
+    "isbn": "978-3-319-26504-9",
+    "cover": "11_epistemology_redmond_springer.webp",
+    "links": [
+      { "label": "Springer", "url": "https://link.springer.com/book/10.1007/978-3-319-26506-3" }
+    ],
+    "series": "Logic, Epistemology, and the Unity of Science, vol. 38",
+    "doi": "10.1007/978-3-319-26506-3",
+    "language": "en"
+  },
+  {
+    "id": "epistemologia-logica-linguagem-2018",
+    "title": "Epistemologia, Lógica e Linguagem",
+    "titleEn": "Epistemology, Logic and Language",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Ana Pato", "Juan Redmond"],
+    "year": 2018,
+    "publisher": "CFCUL",
+    "city": "Lisboa",
+    "pages": 189,
+    "isbn": "978-989-8247-78-0",
+    "cover": "17_epistemologia_anapato_redmond.webp",
+    "links": [
+      { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?2040823" }
+    ],
+    "series": "Documenta, vol. 11",
+    "language": "pt"
+  },
+  {
+    "id": "modelos-imagens-2018",
+    "title": "Modelos e Imagens",
+    "titleEn": "Models and Images",
+    "role": "editor",
+    "authors": ["Olga Pombo"],
+    "year": 2018,
+    "publisher": "Fim de Século",
+    "city": "Lisboa",
+    "pages": 299,
+    "isbn": "978-972-754-287-1",
+    "cover": "21_modelos_fs.webp",
+    "links": [
+      { "label": "Wook", "url": "https://www.wook.pt/livro/modelos-e-imagens-olga-pombo/21821748" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "corpoimagem-2019",
+    "title": "CorpoIMAGEM. Representações do Corpo na Ciência e na Arte",
+    "titleEn": "BodyIMAGE: Body Representations in Science and Art",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Catarina Nabais", "Sara Fuentes"],
+    "year": 2019,
+    "publisher": "Fim de Século",
+    "city": "Lisboa",
+    "pages": 249,
+    "isbn": "978-972-754-285-7",
+    "cover": "capa_representacoes_corpo.webp",
+    "links": [
+      { "label": "Fnac", "url": "https://www.fnac.pt/CorpoIMAGEM-Representacoes-do-Corpo-na-Ciencia-e-na-Arte-Olga-Pombo/a7497228" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "interdisciplinaridade-aletheia-2021",
+    "title": "Interdisciplinaridade: Ambições e Limites",
+    "titleEn": "Interdisciplinarity: Ambitions and Limits",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2021,
+    "publisher": "Aletheia",
+    "city": "Lisboa",
+    "pages": 211,
+    "isbn": "978-989-8906-94",
+    "cover": "6_id_aletheia.webp",
+    "links": [
+      { "label": "Full text (PDF)", "url": "https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/10/Interdisciplinaridade_OPombo_livro.pdf" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "ciencia-racionalidade-politica-2021",
+    "title": "Ciência, Racionalidade e Política. Ensaios (in)Atuais",
+    "titleEn": "Science, Rationality and Politics. (In)Actual Essays",
+    "role": "editor",
+    "authors": ["Olga Pombo"],
+    "year": 2021,
+    "publisher": "Aletheia",
+    "city": "Lisboa",
+    "isbn": "978-989-8906",
+    "cover": "livro-racionalidade-aletheia.webp",
+    "links": [
+      { "label": "Fnac", "url": "https://www.fnac.pt/Ciencia-Racionalidade-e-Politica-Ensaios-In-Atuais-Olga-Pombo/a8512715" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "brilho-escola-2022",
+    "title": "O Insuportável Brilho da Escola. Elementos para uma Filosofia da Escola e do Ensino",
+    "titleEn": "The Unbearable Brightness of School. Elements for a Philosophy of School and Teaching",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2022,
+    "publisher": "Aletheia",
+    "city": "Lisboa",
+    "pages": 285,
+    "isbn": "978-989-9077-76",
+    "cover": "7_brilho_escola_aletheia.webp",
+    "links": [
+      { "label": "Full text (PDF)", "url": "https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/10/brilho-escola-opombo-livro.pdf" },
+      { "label": "PhilPapers", "url": "https://philpapers.org/rec/POMIA" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "theory-practice-interdisciplinary-2023",
+    "title": "Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Klaus Gaertner", "Jorge Jesuíno"],
+    "year": 2023,
+    "publisher": "Springer",
+    "city": "Dordrecht",
+    "pages": 309,
+    "isbn": "978-3-031-20404-3",
+    "cover": "12-theory_practice_springer.webp",
+    "links": [
+      { "label": "Springer", "url": "https://link.springer.com/book/10.1007/978-3-031-20405-0" }
+    ],
+    "series": "Logic, Argumentation & Reasoning, vol. 31",
+    "doi": "10.1007/978-3-031-20405-0",
+    "language": "en"
+  },
+  {
+    "id": "leibniz-universal-language-1987",
+    "title": "Leibniz and the Problem of a Universal Language",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 1987,
+    "publisher": "Nodus Publikationen",
+    "city": "Münster",
+    "pages": 321,
+    "isbn": "3-89323-303-2",
+    "cover": "capa_leibniz_munster.webp",
+    "links": [
+      { "label": "Full text (PDF)", "url": "https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf" }
+    ],
+    "language": "en"
+  },
+  {
+    "id": "antologia-i-1990",
+    "title": "Antologia I. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Teresa Levy", "Henrique Guimarães"],
+    "year": 1990,
+    "publisher": "Mathesis / DEFCUL",
+    "city": "Lisboa",
+    "pages": 177,
+    "cover": "capa_antologia_1.jpg",
+    "links": [],
+    "language": "pt"
+  },
+  {
+    "id": "antologia-ii-1992",
+    "title": "Antologia II. Ciência Integrada, Interdisciplinaridade e Ensino Integrado das Ciências",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Teresa Levy", "Henrique Guimarães", "José Manuel Conceição"],
+    "year": 1992,
+    "publisher": "Mathesis / DEFCUL",
+    "city": "Lisboa",
+    "pages": 214,
+    "cover": "capa_antologia_2.jpg",
+    "links": [],
+    "language": "pt"
+  },
+  {
+    "id": "quatro-textos-excentricos-2000",
+    "title": "Quatro Textos Excêntricos. Hannah Arendt, Eric Weil, Bertrand Russell e Ortega Y Gasset",
+    "titleEn": "Four Eccentric Texts. Hannah Arendt, Eric Weil, Bertrand Russell and Ortega Y Gasset",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2000,
+    "publisher": "Relógio d'Água",
+    "city": "Lisboa",
+    "pages": 105,
+    "isbn": "9789727085699",
+    "cover": "capa_textos_excentricos.webp",
+    "links": [
+      { "label": "Publisher page", "url": "https://www.relogiodagua.pt/produto/quatro-textos-excentricos/" },
+      { "label": "Preface (PDF)", "url": "https://relogiodagua.pt/wp-content/uploads/2016/03/9789727085699.pdf" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "unidade-ciencia-duarte-reis-2006",
+    "title": "Unidade da Ciência. Programas, Figuras e Metáforas",
+    "titleEn": "Unity of Science. Programs, Figures and Metaphors",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2006,
+    "publisher": "Duarte Reis",
+    "city": "Lisboa",
+    "pages": 324,
+    "isbn": "972-8745-27-3",
+    "cover": "capa_unidade_ciencia_duartereis.webp",
+    "links": [
+      { "label": "Author's page", "url": "https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/livro_olga_uc.htm" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "cartas-problematica-2006",
+    "title": "As Cartas de Problemática de António Sérgio",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Manuel Beirão", "J. Cordovil"],
+    "year": 2006,
+    "publisher": "CFCUL",
+    "city": "Lisboa",
+    "pages": 217,
+    "isbn": "972-99794.2.1",
+    "cover": "capa_caderno_cartas_problematica.jpg",
+    "links": [],
+    "series": "Cadernos de Filosofia das Ciências, vol. 3",
+    "language": "pt"
+  },
+  {
+    "id": "abduction-scientific-discovery-2007",
+    "title": "Abduction and the Process of Scientific Discovery",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Alexander Gerner"],
+    "year": 2007,
+    "publisher": "CFCUL / Publidisa",
+    "city": "Lisboa",
+    "pages": 386,
+    "cover": "capa_abduction_com_alex.webp",
+    "links": [
+      { "label": "Full text (PDF)", "url": "https://www.researchgate.net/profile/Olga-Pombo/publication/281806489_Abduction_and_the_Process_of_Scientific_Discovery_Olga_Pombo_Alexander_Gerner_Lisboa_CFCUL_Publidisa_2007_386_pp_for_the_series_Documenta/links/5ec1b712299bf1c09ac4b861/Abduction-and-the-Process-of-Scientific-Discovery-Olga-Pombo-Alexander-Gerner-Lisboa-CFCUL-Publidisa-2007-386-pp-for-the-series-Documenta.pdf?origin=publication_list" }
+    ],
+    "series": "Documenta, vol. 1",
+    "language": "en"
+  },
+  {
+    "id": "logica-filosofia-ciencia-2009",
+    "title": "Lógica e Filosofia da Ciência",
+    "titleEn": "Logic and Philosophy of Science",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Angel Nepomuceno"],
+    "year": 2009,
+    "publisher": "CFCUL / CRUP",
+    "city": "Lisboa",
+    "pages": 283,
+    "isbn": "978-989-8247-00-1",
+    "cover": "capa_logica_filciencia_com_nepomuceno.jpg",
+    "links": [
+      { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=134331&qf_AU==JORNADAS%20IBERICAS%20LOGICA%20E%20FILOSOFIA%20DA%20CIENCIA.%203.%20LISBOA.%202008" }
+    ],
+    "series": "Documenta, vol. 2",
+    "language": "pt"
+  },
+  {
+    "id": "logica-universal-unidade-ciencia-2011",
+    "title": "Lógica Universal e Unidade da Ciência",
+    "titleEn": "Universal Logic and Unity of Science",
+    "role": "editor",
+    "authors": ["Olga Pombo"],
+    "year": 2011,
+    "publisher": "CFCUL",
+    "city": "Lisboa",
+    "pages": 196,
+    "isbn": "978-989-8247-50-6",
+    "cover": "capa_logica_universal_unidade_ciencia.webp",
+    "links": [
+      { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=150407&qf_AU==JORNADAS%20IBERICAS%20%22LOGICA%20UNIVERSAL%20E%20UNIDADE%20DA%20CIENCIA%22.%205.%20LISBOA.%202010" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "corpoimagem-catalogue-2011",
+    "title": "CorpoIMAGEM - Uma exposição de Ciência e Arte",
+    "titleEn": "BodyIMAGE - An Exhibition of Science and Art",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Catarina Nabais", "Cristina Tavares", "Manuel Valente Alves", "Marco Pina", "Pedro Silva", "Ricardo Santos", "Silvia Di Marco"],
+    "year": 2011,
+    "publisher": "Ciência Viva",
+    "city": "Lisboa",
+    "pages": 27,
+    "cover": "capa_catalogo.webp",
+    "links": [
+      { "label": "ResearchGate", "url": "https://www.researchgate.net/publication/303053499_Roteiro_da_exposicao_corpoIMAGEM_Representacoes_do_Corpo_na_Ciencia_e_na_Arte" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "circulo-saberes-2012",
+    "title": "O Círculo dos Saberes",
+    "titleEn": "The Circles of Knowledge",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2012,
+    "publisher": "CFCUL / Gradiva",
+    "city": "Lisboa",
+    "pages": 314,
+    "isbn": "978-989-8247-53-7",
+    "cover": "capa_circulo_saberes.jpg",
+    "links": [
+      { "label": "Full text (PDF)", "url": "../pdf-text/circulo_saberes_final.pdf" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "tarefas-filosofia-ciencia-2013",
+    "title": "Tarefas da Filosofia da Ciência para o Século XXI",
+    "titleEn": "Tasks of the Philosophy of Science for the 21st Century",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2013,
+    "publisher": "CFCUL",
+    "city": "Lisboa",
+    "pages": 217,
+    "isbn": "978-989-8247-60-5",
+    "cover": "capa_tarefas_epistemologia.jpg",
+    "links": [
+      { "label": "Full text (PDF)", "url": "https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/tarefas_livro_finalissimo.pdf" },
+      { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?1865876" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "rousseau-ciencias-2013",
+    "title": "Rousseau e as Ciências",
+    "titleEn": "Rousseau and the Sciences",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Nuno Melim"],
+    "year": 2013,
+    "publisher": "CFCUL",
+    "city": "Lisboa",
+    "pages": 222,
+    "isbn": "978-989-8247-63-6",
+    "cover": "capa_rousseau_ciencias.webp",
+    "links": [
+      { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?1865764&cl=en" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "philosophy-science-xxi-century-2016",
+    "title": "Philosophy of Science in the XXI Century: Challenges and Tasks",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Gil Costa"],
+    "year": 2016,
+    "publisher": "CFCUL",
+    "city": "Lisboa",
+    "pages": 352,
+    "isbn": "978-989-8247-72-8",
+    "cover": "capa_fil_ciencia_com_gil.webp",
+    "links": [
+      { "label": "Full text (PDF)", "url": "https://research.unl.pt/ws/portalfiles/portal/3352158/NunoFonseca.pdf" }
+    ],
+    "language": "en"
+  },
+  {
+    "id": "afinal-o-que-e-ciencia-2016",
+    "title": "Afinal, o que é a Ciência? Relatório de um Projecto",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Ricardo Santos"],
+    "year": 2016,
+    "publisher": "Ciência Viva",
+    "city": "Lisboa",
+    "pages": 122,
+    "isbn": "978-989-8247-70-4",
+    "cover": "capa_afinal_oque_e_aciencia.webp",
+    "links": [
+      { "label": "ResearchGate", "url": "https://www.researchgate.net/publication/303967324_Afinal_o_que_e_a_ciencia_Relatorio_de_um_projecto" },
+      { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?1947167" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "debates-filosofia-ciencia-2017",
+    "title": "Debates da Filosofia da Ciência Contemporânea",
+    "role": "editor",
+    "authors": ["Olga Pombo", "Paulo Castro"],
+    "year": 2017,
+    "publisher": "CFCUL",
+    "city": "Lisboa",
+    "pages": 392,
+    "isbn": "978-989-8247-75-9",
+    "cover": "capa_debates_filcc_com_paulocastro.jpg",
+    "links": [
+      { "label": "Biblioteca Nacional", "url": "https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?mfn=198399&cl=en" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "image-science-art-2017",
+    "title": "Image in Science and Art",
+    "role": "editor",
+    "authors": ["Olga Pombo"],
+    "year": 2017,
+    "publisher": "Fim de Século",
+    "city": "Lisboa",
+    "pages": 231,
+    "isbn": "978-972-574-286-4",
+    "cover": "capa_image_science_art.jfif",
+    "links": [
+      { "label": "Wook", "url": "https://www.wook.pt/livro/image-in-science-and-art-olga-pombo/23416273" },
+      { "label": "ResearchGate", "url": "https://www.researchgate.net/publication/338346248_Image_in_Science_and_Art" }
+    ],
+    "language": "en"
+  },
+  {
+    "id": "controversies-interdisciplinarity-2020",
+    "title": "Controversies and Interdisciplinarity. Beyond Disciplinary Fragmentation for a New Knowledge Model",
+    "role": "editor",
+    "authors": ["Jens Allwood", "Olga Pombo", "Clara Renna", "Giovanni Scarafile"],
+    "year": 2020,
+    "publisher": "John Benjamins Publishing Company",
+    "city": "Amsterdam / Philadelphia",
+    "pages": 279,
+    "isbn": "978-90-272-0754-8",
+    "cover": "capa_controversias_id.webp",
+    "links": [
+      { "label": "Publisher page", "url": "https://www.degruyter.com/document/doi/10.1075/cvs.16/html" }
+    ],
+    "series": "Controversies. Ethics and Interdisciplinarity, vol. 16",
+    "doi": "10.1075/cvs.16",
+    "language": "en"
+  },
+  {
+    "id": "regresso-protagoras-2021",
+    "title": "Regresso ao Protágoras, de Platão",
+    "titleEn": "Return to Plato's Protagoras",
+    "role": "editor",
+    "authors": ["Olga Pombo"],
+    "year": 2021,
+    "publisher": "Mariposa Azul",
+    "city": "Lisboa",
+    "pages": 227,
+    "isbn": "978-972-8481-70-4",
+    "cover": "capa_protágoras.webp",
+    "links": [
+      { "label": "Publisher page", "url": "https://amariposa.net/regresso-ao-protagoras-de-platao/" },
+      { "label": "Full text (PDF)", "url": "https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/Prota%CC%81goras_OP_2021.pdf" }
+    ],
+    "language": "pt"
+  },
+  {
+    "id": "estudos-filosofia-ciencia-2022",
+    "title": "Estudos de Filosofia da Ciência",
+    "titleEn": "Studies in Philosophy of Science",
+    "role": "author",
+    "authors": ["Olga Pombo"],
+    "year": 2022,
+    "publisher": "Mariposa Azul",
+    "city": "Lisboa",
+    "pages": 348,
+    "isbn": "978-972-8481-74-2",
+    "cover": "capa_filosofia_ciencia.webp",
+    "links": [
+      { "label": "Full text (PDF)", "url": "https://cfcul.ciencias.ulisboa.pt/wp-content/uploads/2023/09/FilosofiaDaCiencia_OP_2022.pdf" },
+      { "label": "Publisher page", "url": "https://amariposa.net/estudos-de-filosofia-da-ciencia/" }
+    ],
+    "language": "pt"
+  }
+]

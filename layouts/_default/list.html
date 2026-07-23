@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <article>
+    {{ $content := .Content }}
+    {{ $content = replace $content `../static/` `/` }}
+    {{ $content = replaceRE `href="([^" ]+)\.md"` `href="/$1.html"` $content }}
+    {{ $content | safeHTML }}
+  </article>
+{{ end }}

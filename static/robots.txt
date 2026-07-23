@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olgapombo.github.io/sitemap.xml
