@@ -15,6 +15,11 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 
 ![pintura_sergio_pombo](../../static/images/pintura_sergio_pombo_4.webp)
 
+<p align="center">
+  <img src="../../static/images/pintura_sergio_pombo_4.webp" alt="pintura_sergio_pombo" width="450">
+</p>
+
+
 ##### «Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento, que é muito mais excitante, enervante e tenso, do que a representação de um cosmos – a representação geométrica», Sergio Pombo (aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, em 2013).
 
 ![pintura_sergio_pombo_33](../../static/images/pintura_sergio_pombo_33-jpg.webp)
