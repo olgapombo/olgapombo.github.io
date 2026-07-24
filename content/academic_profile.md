@@ -52,10 +52,10 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 ### Research fields and areas of interest
 
-*	**Epistemology, Philosophy of Science and Science and Art** - Philosophy of Scientific knowledge; Unity of Science; Interdisciplinarity; Disciplinary Maps and Cartography of Knowledge; Classification; Scientific Imagery and Modeling; Creation in Science and Art; Science and Art Differences, Affinities and Common Roots. 
-*	**History and Philosophy of Language** - Historical and conceptual studies on language and meaning (Focus on: Leibniz, Hobbes, Spinoza, Rousseau, Hegel), Universal Symbolic Systems, Philosophical Language, Universal Languages. 
+*	**Epistemology, Philosophy of Science and Science and Art** - Philosophy of scientific knowledge; Unity of Science; Interdisciplinarity; Disciplinary maps and Cartography of knowledge; Classification; Scientific Imagery and modeling; Creation in Science and Art; Science and Art differences, affinities and common roots. 
+*	**History and Philosophy of Language** - Historical and conceptual studies on language and meaning (Focus on: Leibniz, Hobbes, Spinoza, Rousseau, Hegel), Universal symbolic systems, Philosophical language, Universal languages. 
 *	**History and Philosophy of Encyclopaedia, Hypertext and the Internet** -(Focus on: Ramon Lull, Comenius, Bacon, Leibniz, Diderot, Comte, Hegel, Neurath, XX century encyclopaedism), Evolution of knowledge systems; Digital epistemology; Transformation of textual architectures.
-*	**History and Philosophy of School-University and Teaching** - Universal  institutions and knowledge transmission (School-University, Scientific Community, Museum, Library), History and Philosophy of Book and Reading, Teaching of Sciences and Philosophy.
+*	**History and Philosophy of School-University and Teaching** - Universal  institutions of knowledge transmission (School-University, Scientific Community, Museum, Library), History and Philosophy of Book and Reading, Teaching of Sciences and Philosophy.
   
 
 ### Appointments  
