@@ -45,17 +45,16 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 1998 - *PhD in Philosophy of Education*, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “*Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge*).  
 * 1986 - *Master in Modern Philosophy*, Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "*Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language*).
 * 1982 - *Post-Graduation in Modern Philosophy*, Faculty of Human and Social Sciences, New University of Lisbon.
-* 1973 - *National Certified as Philosophy Teacher (State Examination*), Lisbon.
-* 1972 - 1973 – *Classical Stage for the Teaching of Philosophy* (D. Pedro V School, Lisbon).
-* 1971 – *Licence degree in Philosophy*, Faculty of Letters, University of Lisbon.
+* 1973 - *National Certification as Philosophy Teacher*, State Examination, Ministry of National Education, Portugal.
+* 1971 – *Licenciate degree (pre-Bologna) in Philosophy*, Faculty of Letters, University of Lisbon.
 * 1970 – *Bachelor's degree  in Pedagogical Sciences*, Faculty of Letters, University of Lisbon.
 
 ### Research fields and areas of interest
 
 *	**Epistemology, Philosophy of Science and Science and Art** - Philosophy of scientific knowledge; Unity of Science; Interdisciplinarity; Disciplinary maps and Cartography of knowledge; Classification; Scientific Imagery and modeling; Creation in Science and Art; Science and Art differences, affinities and common roots. 
-*	**History and Philosophy of Language** - Historical and conceptual studies on language and meaning (Focus on: Leibniz, Hobbes, Spinoza, Rousseau, Hegel), Universal symbolic systems, Philosophical language, Universal languages. 
-*	**History and Philosophy of Encyclopaedia, Hypertext and the Internet** -(Focus on: Ramon Lull, Comenius, Bacon, Leibniz, Diderot, Comte, Hegel, Neurath, XX century encyclopaedism), Evolution of knowledge systems; Digital epistemology; Transformation of textual architectures.
-*	**History and Philosophy of School-University and Teaching** - Universal  institutions of knowledge transmission (School-University, Scientific Community, Museum, Library), History and Philosophy of Book and Reading, Teaching of Sciences and Philosophy.
+*	**History and Philosophy of Language** - Historical and conceptual studies on language and meaning (Focus on: Leibniz, Hobbes, Spinoza, Rousseau, Hegel); Universal symbolic systems, Philosophical language, Universal languages. 
+*	**History and Philosophy of Encyclopaedia, Hypertext and the Internet** -(Focus on: Ramon Lull, Comenius, Bacon, Leibniz, Diderot, Comte, Hegel, Neurath, XX century encyclopaedism); Evolution of knowledge systems; Digital epistemology; Transformation of textual architectures.
+*	**History and Philosophy of School-University and Teaching** - Universal  institutions of knowledge transmission (School-University, Scientific Community, Museum, Library); History and Philosophy of Book and Reading; Teaching of Sciences and Philosophy.
   
 
 ### Appointments  
@@ -64,13 +63,15 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 2009 – 2016 - *Professor with Habilitation*, “Department of History and Philosophy of Sciences”, FCUL (since the 9th June 2009 up until retirement, the 1st January 2017). 
 * 2007¬–2009 – *Professor Tenured*, "Department of History and Philosophy of Science", FCUL (since its founding on 1 August 2007)
 * 2002 - 2007 - *Professor Tenured*, “Department of Education”, FCUL (since 26th March 2003). 
-* 1988 - 2002 – *Professor* of the “Department of Education”, FCUL.
+* 1988 - 2002 – *Adjunt Professor* of the “Department of Education”, FCUL.
 * 1984 - 1988 – *Assistant Professor* of the “Department of Education” (appointed via public contest), FCUL.
 * 1980 - 1984 – *National Counsellor for the Teaching of Philosophy* (appointed via national public contest).
 * 1979 - 1980 - *Stage Supervisor for the Teaching of Philosophy*, D. Pedro V High School, Lisbon (by nomination).
 * 1979 - 1980 – *Full Teacher of Philosophy*, D. Pedro V High School, Lisbon.  
 * 1973 - 1979 – *Aggregated Teacher of Philosophy*, D. Pedro V High School, Lisbon.
+* 1972 - 1973 – *Classical Stage for the Teaching of Philosophy* (D. Pedro V High School, Lisbon), with final *State Examination* and *National Certification as Philosophy Teacher*.
 * 1970 - 1972 – *Assistant Teacher of Philosophy and History*, M. Amália Vaz de Carvalho High School, Lisbon.
+
 
 ### Academic responsibilities 
 
