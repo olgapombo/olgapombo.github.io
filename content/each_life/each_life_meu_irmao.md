@@ -53,7 +53,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 1997 – Faro, Galeria Trem.
 * 1999 – Funchal, Galeria Edicarte.
 * 2000 – Lisboa, Galeria Reverso, **Escultura**.
-* 2001 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian, [Sergio Pombo](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095), comissariada por Jorge Molder
+* 2001 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian, [Sergio Pombo](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095), comissariada por Jorge Molder, Catálogo [here](https://gulbenkian.pt/cam/publications/sergio-pombo/)
 * 2002 – Colares, Galeria de Colares, **O Voo da Cor no Branco da Memória**.
 * 2005 - Lisboa, Teatro Taborda, [**A noite alemã e outros dias**](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo). 
 * 2007 – Lisboa, Galeria CiDiarte, **Pintura**.
