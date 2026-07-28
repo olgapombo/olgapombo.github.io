@@ -15,9 +15,15 @@ toc: false
 **E tive muitos amigos na aldeia onde íamos passar as ferias grandes**. Amigos com quem brincávamos, eu e o meu irmão, de manha à noite: a Aida, a Preciosa e as filhas do Zé Pinto. Brincávamos a apanhar abelhinhas que guardávamos num copo de vidro. Tínhamos um baloiço no quintal. Uma cabra por baixo do nosso quarto. Galinhas, duas ou três ovelhas, uma vaca. Íamos com a Aida à fonte buscar agua, e ao pinhal apanhar palhuço para a estrumeira. Brincávamos na eira, escorregávamos na palha guardada na cabana e apanhávamos agrião na poça da Maria Joao.  Dávamos grandes passeios pelos pinhais, pelas leiras, pelos soutos de castanheiros, pela estrada a ver o luar de agosto. Apanhávamos nozes ainda verdes. Participávamos das debulhadas, das vindimas. O Sérgio fugia com os pastores. Andava a aldeia toda à procura do menino Serginho. E íamos ao correio depois do almoço. O Sr. Mergulhão, que era meu padrinho, dava-me sempre um rebuçado. Era ele que lia o correio. Presente. Eu levo-lhe. No correio, havia uma casinha de madeira onde estava o telefone. Ouvia-se tudo. Ao fim da tarde, íamos assistir à cerimonia sagrada de distribuição da água pelos terrenos cultivados, essa imagem que trago desde menina de um campo de trigo na hora da rega.
 
 **Depois tive as amigas do liceu**
+
 **As amigos da ginástica**
+
 **Os amigos da CPA (Comissão Pró Associação)** 
+
 **Os amigos da Faculdade**
+
 **Os amigos professores, colegas de trabalho**
+
 **Os amigos antigos alunos**
+
 **Hoje, tenho os amigos do dia 25**
