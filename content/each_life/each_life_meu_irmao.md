@@ -157,6 +157,9 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 ***Para Chegar ao Branco da Última Palavra*, Porto: Officium Lectionis, 2025**,
 O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
 
+>>> ##### "Muitíssimo para lá da representação, a obra de Sérgio Pombo coloca-nos perante linhas e formas que se misturam à velocidade do desejo criando um novo corpo, exuberante, total, sublime, que é a obra em si. E, aí, apercebemo-nos que já estamos para lá da pintura.
+>>> ##### Entramos no plano da imanência da sensação. Escultura da cor. Gravura da tela. Reverberação da tinta", Catarina Pombo Nabais
+
 
 ## Registos video e audio
 * Sérgio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018.
