@@ -20,10 +20,14 @@ toc: false
 
 **Os amigos da CPA (Comissão Pró Associação)** 
 
-**Os amigos da Faculdade**
+**Colegas da Faculdade** (Leonor Martins Pereira, Ana Carita)
 
-**Os amigos professores, colegas de trabalho**
+**Os amigos professores**, (Maria José Palla, 
 
-**Os amigos antigos alunos**
+**Colegas de trabalho** (Linda Santos Costa, Orlando Lourenço, 
+Rui Nunes, 
 
-**Hoje, tenho os amigos do dia 25**
+**Os amigos antigos alunos** (Ana Paula Silva, Hugo , Liz Vahia
+
+**Hoje, a minha pagina de face book, onde rarissimamente vou, assinala 733 amigos
+tenho os amigos do dia 25**
