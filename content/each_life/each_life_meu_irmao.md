@@ -178,7 +178,7 @@ Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](htt
 * Sérgio Pombo - Radio Observador - *O Elogio Público* [**Sergio Pombo sobre Guilherme Parente**](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo)
 
 
-**Catálogos e outros Textos sobre Sergio Pombo**
+## Catálogos e outros Textos sobre Sergio Pombo
 
 * A.A.B.B.; Sérgio Pombo. **Catálogo da XII Bienal de Paris**. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Calouste Gulbenkian. Paris, 1982.
 * A.A.B.B.; **O Grande Livro dos Portugueses**. Ed. Círculo de Leitores, 1990.
