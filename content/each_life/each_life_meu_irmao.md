@@ -28,7 +28,10 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 
 >> ##### «Com a rapidez das estrelas cadentes no céu de todas as noites, Sérgio Pombo persegue a beleza, promete-nos que ela aí vem, está a chegar, voluptuosa, fulgurante, escandalosamente nova, de ontem à noite sempre, nua ainda», Jorge Silva Melo
 
-![ser_sergio-pombo_meu](../../static/images/ser_sergio-pombo_meu.webp) 
+
+<p align="center">
+  <img src="../../static/images/ser_sergio-pombo_meu.webp" height="300">
+</p>
 
 _______________________________________________________________
 
