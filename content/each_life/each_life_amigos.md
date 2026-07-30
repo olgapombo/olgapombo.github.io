@@ -14,21 +14,21 @@ toc: false
   
 **E tive muitos amigos na aldeia onde íamos passar as ferias grandes**. Amigos com quem brincávamos, eu e o meu irmão, de manha à noite: a Aida, a Preciosa e as filhas do Zé Pinto. Brincávamos a apanhar abelhinhas que guardávamos num copo de vidro. Tínhamos um baloiço no quintal. Uma cabra por baixo do nosso quarto. Galinhas, duas ou três ovelhas, uma vaca. Íamos com a Aida à fonte buscar agua, e ao pinhal apanhar palhuço para a estrumeira. Brincávamos na eira, escorregávamos na palha guardada na cabana e apanhávamos agrião na poça da Maria Joao.  Dávamos grandes passeios pelos pinhais, pelas leiras, pelos soutos de castanheiros, pela estrada a ver o luar de agosto. Apanhávamos nozes ainda verdes. Participávamos das debulhadas, das vindimas. O Sérgio fugia com os pastores. Andava a aldeia toda à procura do menino Serginho. E íamos ao correio depois do almoço. O Sr. Mergulhão, que era meu padrinho, dava-me sempre um rebuçado. Era ele que lia o correio. Presente. Eu levo-lhe. No correio, havia uma casinha de madeira onde estava o telefone. Ouvia-se tudo. Ao fim da tarde, íamos assistir à cerimonia sagrada de distribuição da água pelos terrenos cultivados, essa imagem que trago desde menina de um campo de trigo na hora da rega.
 
-**Depois tive as amigas do liceu**
+**Depois tive as amigas do liceu**. Digo "amigas" porque, no Liceu Maria Amália de então, só entravam mulheres. Parece que havia um jardineiro mas, mesmo esse, estava proibido de se dar a ver às alunas. E os namorados que algumas alunas adolescentes se atreviam a ter, eram proibidos de se aproximar do Liceu num raio de 250 metros. Tive a felicidade de ser amiga da Ana Poiares que me convidava com grande frequência a ir ao ballet e à opera, no camarote que a família tinha no S. Carlos. Ana Rita. Recentemente, recebi um e-mail de uma antiga colega que me dizia ter sido minha colega de turma durante vários anos.
 
 **As amigos da ginástica**
 
 **Os amigos da CPA (Comissão Pró Associação)** 
 
-**Colegas da Faculdade** (Leonor Martins Pereira, Ana Carita)
+**Entre os colegas da Faculdade**, (Leonor Martins Pereira, Ana Carita)
 
 **Os amigos professores**, (Maria José Palla, 
 
 **Colegas de trabalho** (Linda Santos Costa, Orlando Lourenço, 
 Rui Nunes, 
 
-**Os amigos antigos alunos** (Ana Paula Silva, Hugo , Liz Vahia
+**Os amigos antigos alunos** (Ana Paula Silva, Hugo Vale, Liz Vahia, 
 
-**Hoje, [a minha pagina de face book](https://www.facebook.com/olga.pombo.96), onde rarissimamente vou, assinala 733 amigos. 
+**[A minha pagina de face book](https://www.facebook.com/olga.pombo.96), onde rarissimamente vou, assinala 733 amigos. Entretanto, não sei porquê (ou melhor, sei uma vez que nada percebo do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), tenho 467 amigos. Ou seja, de acordo com o facebook, tenho 1200 amigos (o numero será menor pois alguns dos amigos estão repetidos nas duas paginas). 
 
 **Os amigos do dia 25**
