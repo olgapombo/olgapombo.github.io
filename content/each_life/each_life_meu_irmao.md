@@ -26,9 +26,6 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
   <img src="../../static/images/pintura_sergio_pombo_33-jpg.webp" alt="pintura_sergio_pombo" width="450">
 </p>
 
-
-![pintura_sergio_pombo_33](../../static/images/pintura_sergio_pombo_33-jpg.webp)
-
 >> ##### «A pintura de Sérgio Pombo — pintura, desenho, com figuras ou sem, a pintura que nele tudo é pintura, irredutivelmente pintura — é tão brilhantemente viva que ofusca, é tão desassombrada que nos assalta o equilíbrio, sofre, o dia em que nasci morra e pereça, dizia Job, amaldiçoa-nos — mas promete-nos o humano, o humano presente, o humano simplesmente, a vida de hoje, esta, sufocantemente bela na sua crueza rápida, na sua imensa solidão, Jorge Silva Melo.
 
 >> ##### «Com a rapidez das estrelas cadentes no céu de todas as noites, Sérgio Pombo persegue a beleza, promete-nos que ela aí vem, está a chegar, voluptuosa, fulgurante, escandalosamente nova, de ontem à noite sempre, nua ainda», Jorge Silva Melo
