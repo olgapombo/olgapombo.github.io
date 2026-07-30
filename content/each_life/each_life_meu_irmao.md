@@ -225,13 +225,6 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
 * Sérgio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
 
 
-<div style="display: flex; justify-content: center; gap: 40px;">
-  <img src="../../static/images/sergio-pombo_museu_carmo.webp" height="300">
-  <img src="../../static/images/escultura_sergio-pombo_cam.webp" height="300">
-</div>
-
-
-
 <p align="center">
   <img src="../../static/images/sergio-pombo_museu_carmo.webp" height="300" style="margin-right: 40px;">
   <img src="../../static/images/escultura_sergio-pombo_cam.webp" height="300">
