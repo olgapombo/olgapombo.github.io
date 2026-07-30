@@ -29,5 +29,6 @@ Rui Nunes,
 
 **Os amigos antigos alunos** (Ana Paula Silva, Hugo , Liz Vahia
 
-**Hoje, a minha pagina de face book, onde rarissimamente vou, assinala 733 amigos
-tenho os amigos do dia 25**
+**Hoje, [a minha pagina de face book](https://www.facebook.com/olga.pombo.96), onde rarissimamente vou, assinala 733 amigos. 
+
+**Os amigos do dia 25**
