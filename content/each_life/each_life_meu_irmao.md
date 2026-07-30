@@ -61,7 +61,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 1997 – Faro, Galeria Trem.
 * 1999 – Funchal, Galeria Edicarte.
 * 2000 – Lisboa, Galeria Reverso, **Escultura**.
-* 2001 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**Sergio Pombo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095), comissariada por Jorge Molder e João Pinharanda, [Catálogo](https://gulbenkian.pt/cam/publications/sergio-pombo/)
+* 2001 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**Sergio Pombo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095), comissariada por Jorge Molder e João Pinharanda, ([Catálogo](https://gulbenkian.pt/cam/publications/sergio-pombo/))
 * 2002 – Colares, Galeria de Colares, **O Voo da Cor no Branco da Memória**.
 * 2005 - Lisboa, Teatro Taborda, [**A noite alemã e outros dias**](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo). 
 * 2007 – Lisboa, Galeria CiDiarte, **Pintura**.
@@ -74,7 +74,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 2013 - Lisboa, Museu do Carmo, [**Escultura**](../../static/images/sergio-pombo_museu_carmo.webp "sergio-pombo_museu_carmo.webp")
 * 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk). ([slide show](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667))
 * 2018 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sergio Pombo Agora**](https://artistasunidos.pt/sergio-pombo-agora-2)
-* 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, comissariada por João Pinharanda. ([slide show](https://www.facebook.com/photo?fbid=2524951094240529&set=pcb.2524954544240184), [slide show](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)
+* 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, comissariada por João Pinharanda. ([slide show 1](https://www.facebook.com/photo?fbid=2524951094240529&set=pcb.2524954544240184), [slide show 2](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)
 
 
 ## Exposições Colectivas (selecção)
@@ -125,11 +125,10 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 2007 – Lisboa, Fundação Caloust Gulbenkian, **50 Anos de Arte Portuguesa**.
 * 2008 – Lisboa, Espaço Arte Contemporânea da Fundação Carmona e Costa, **Aquilo sou Eu: Auto-retratos de Artistas Contemporâneos**, obras da colecção [Safira e Luís] Serpa.
 * 2011 – Lisboa, Pavilhão do Conhecimento Ciência Viva, **Corpo Imagem, representação do corpo na ciência e na arte**.
-* 2019 - Setubal, Galeria Municipal do 11, [**5+1: Uma Constelação nas Artes Visuais**](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais)
-* 2021 - “Sofia Areal em Diálogo com Sérgio Pombo”, Teatro Municipal da Guarda.
-9 de junho 2021 ([video](https://www.facebook.com/reel/487604682453996))
-* 2022 - "48 artistas, 48 anos", Lisboa, curadoria António Brito Guterres, Alexandre Farto, Carla Cardoso, João Pinharanda, 13 de Junho 2022, Lisboa ([video](https://www.facebook.com/100000663544891/videos/pcb.5518783471487050/371680814947254))
-* 2026 - Lisboa, MAAT (Museu Arte, Arquitectura, Tecnologia), [**Turn Around. Um olhar sobre a coleção de Arte da Fundação EDP**](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda)
+* 2019 - 5+1. Uma Constelação nas Artes Visuais, Galeria Municipal do 11, Setúbal, março 2019, [room text](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais)
+* 2021 - **“Sofia Areal em Diálogo com Sérgio Pombo”**, Teatro Municipal da Guarda, Guarda, 9 de junho 2021 ([video](https://www.facebook.com/reel/487604682453996))
+* 2022 - ["48 artistas, 48 anos"](https://www.maat.pt/pt/exhibition/48-artistas-48-anos-de-liberdade), curadoria de António Brito Guterres, Alexandre Farto, Carla Cardoso, João Pinharanda, Jardins do MAAT, Lisboa, 10 de Junho 2022, ([video](https://www.facebook.com/100000663544891/videos/pcb.5518783471487050/371680814947254))
+* 2026 - [**Turn Around. Um olhar sobre a coleção de Arte da Fundação EDP**](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), MAAT, Lisboa, 29 de abril 2026.
 
 ## Colecções (selecção)
 * CAM – Centro de Arte Moderna. Fundação Calouste Gulbenkian.
