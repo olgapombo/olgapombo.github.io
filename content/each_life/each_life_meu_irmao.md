@@ -22,6 +22,11 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 
 ###### «A part of my painting has revolved around the representation of the body: blood, feeling, pleasure, taste, strength, muscle, tendon and movement — which is far more exciting, nerve‑wracking and tense than the representation of a cosmos, the geometric representation», Sérgio Pombo (on the occasion of an exhibition at Teatro da Politécnica, Lisbon, 2013).
 
+<p align="center">
+  <img src="../../static/images/pintura_sergio_pombo_33-jpg.webp" alt="pintura_sergio_pombo" width="450">
+</p>
+
+
 ![pintura_sergio_pombo_33](../../static/images/pintura_sergio_pombo_33-jpg.webp)
 
 >> ##### «A pintura de Sérgio Pombo — pintura, desenho, com figuras ou sem, a pintura que nele tudo é pintura, irredutivelmente pintura — é tão brilhantemente viva que ofusca, é tão desassombrada que nos assalta o equilíbrio, sofre, o dia em que nasci morra e pereça, dizia Job, amaldiçoa-nos — mas promete-nos o humano, o humano presente, o humano simplesmente, a vida de hoje, esta, sufocantemente bela na sua crueza rápida, na sua imensa solidão, Jorge Silva Melo.
