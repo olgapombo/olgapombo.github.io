@@ -128,7 +128,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 2019 - ["O Tempo Construído". Grupo 5+1 de 1976 a 2019](https://www.rostos.pt/inicio2.asp?cronica=9008000), Galeria Municipal do 11, Setúbal, março 2019, [M. Augusto, "5+1. Uma Constelação nas Artes Visuais"](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais)
 * 2021 - **“Sofia Areal em Diálogo com Sérgio Pombo”**, Teatro Municipal da Guarda, Guarda, 9 de junho 2021 ([video](https://www.facebook.com/reel/487604682453996))
 * 2022 - ["48 artistas, 48 anos"](https://www.maat.pt/pt/exhibition/48-artistas-48-anos-de-liberdade), curadoria de António Brito Guterres, Alexandre Farto, Carla Cardoso, João Pinharanda, Jardins do MAAT, Lisboa, 10 de Junho 2022, ([video](https://www.facebook.com/100000663544891/videos/pcb.5518783471487050/371680814947254))
-* 2026 - [**Turn Around. Um olhar sobre a coleção de Arte da Fundação EDP**](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), MAAT, Lisboa, 29 de abril 2026.
+* 2026 - [**Turn Around. Um olhar sobre a coleção de Arte da Fundação EDP**](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), curadoria de João Pinharanda, MAAT, Lisboa, 29 de abril 2026.
 
 ## Colecções (selecção)
 * CAM – Centro de Arte Moderna. Fundação Calouste Gulbenkian.
