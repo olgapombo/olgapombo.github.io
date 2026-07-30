@@ -69,7 +69,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * –––––– Lisboa, Galeria Valbom.
 * –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Desenho de Sérgio Pombo**](https://artistasunidos.pt/desenho-de-sergio-pombo).
 * 2008 – Cascais, Galeria Vértice.
-* –––––– Lisboa, Galeria Giefarte, **Pintura e Desenho**.
+* –––––– Lisboa, Galeria Giefarte, **Sério Pombo. Pintura e Desenho**.
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
 * 2013 - Lisboa, Museu do Carmo, [**Escultura**](../../static/images/sergio-pombo_museu_carmo.webp "sergio-pombo_museu_carmo.webp")
 * 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk). ([slide show](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667))
@@ -104,12 +104,12 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * ––––– Lisboa, Instituto Alemão.
 * ––––– Porto, Museu Soares dos Reis.
 * ––––– Cáceres, Espanha, **Exposição Ibérica de Arte Moderna**.
-* 1985 – Lisboa, CAM – Centro de Arte Moderna da Fundação Caloust Gulbenkian.
-* ––––– Lisboa, Fundação Caloust Gulbenkian, **Imaginário da Cidade de Lisboa**.
+* 1985 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian.
+* ––––– Lisboa, Fundação Calouste Gulbenkian, **Imaginário da Cidade de Lisboa**.
 * ––––– Ministério da Cultura, **Exposição Itinerante, Situações**.
 * ––––– S. Paulo, Brasil, **XVIII Bienal de S. Paulo**.
 * ––––– Mérida, Espanha, **Pintado em Portugal**.
-* 1986 – CAM, Centro de Arte Moderna da Fundação Caloust Gulbenkian, **III Exposição de Artes Plásticas**.
+* 1986 – CAM, Centro de Arte Moderna da Fundação Calouste Gulbenkian, **III Exposição de Artes Plásticas**.
 * –––––– Bruxelas, Bélgica, **Le XXème au Portugal**.
 * 1987 – Madrid, Espanha, **Arte Contemporâneo Portugués**.
 * –––––– Brasília/Rio de Janeiro/São Paulo, Brasil, **70-80 Arte Portuguesa**.
@@ -122,13 +122,13 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * –––––– Parlamento Europeu, **Exposição de Artes Plásticas Portuguesas**.
 * 1995 – Lisboa, FIL – **Feira de Arte**.
 * 1997 – Lisboa, Galeria César.
-* 2007 – Lisboa, Fundação Caloust Gulbenkian, **50 Anos de Arte Portuguesa**.
-* 2008 – Lisboa, Espaço Arte Contemporânea da Fundação Carmona e Costa, **Aquilo sou Eu: Auto-retratos de Artistas Contemporâneos**, obras da colecção [Safira e Luís] Serpa.
+* 2007 – Lisboa, Fundação Calouste Gulbenkian, **50 Anos de Arte Portuguesa**.
+* 2008 – Lisboa, Espaço Arte Contemporânea da Fundação Carmona e Costa, **Aquilo sou Eu: Auto-retratos de Artistas Contemporâneos**, obras da colecção Safira e Luís Serpa.
 * 2011 – Lisboa, Pavilhão do Conhecimento Ciência Viva, **Corpo Imagem, representação do corpo na ciência e na arte**.
-* 2019 - ["O Tempo Construído". Grupo 5+1 de 1976 a 2019](https://www.rostos.pt/inicio2.asp?cronica=9008000), Galeria Municipal do 11, Setúbal, março 2019, [M. Augusto, "5+1. Uma Constelação nas Artes Visuais"](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais)
-* 2021 - **“Sofia Areal em Diálogo com Sérgio Pombo”**, Teatro Municipal da Guarda, Guarda, 9 de junho 2021 ([video](https://www.facebook.com/reel/487604682453996))
-* 2022 - ["48 artistas, 48 anos"](https://www.maat.pt/pt/exhibition/48-artistas-48-anos-de-liberdade), curadoria de António Brito Guterres, Alexandre Farto, Carla Cardoso, João Pinharanda, Jardins do MAAT, Lisboa, 10 de Junho 2022, ([video](https://www.facebook.com/100000663544891/videos/pcb.5518783471487050/371680814947254))
-* 2026 - [**Turn Around. Um olhar sobre a coleção de Arte da Fundação EDP**](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), curadoria de João Pinharanda, MAAT, Lisboa, 29 de abril 2026.
+* 2019 - Setúbal, Galeria Municipal do 11, ["O Tempo Construído". Grupo 5+1 de 1976 a 2019](https://www.rostos.pt/inicio2.asp?cronica=9008000), (["5+1. Uma Constelação nas Artes Visuais"](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais)
+* 2021 - Guarda, Teatro Municipal da Guarda,**Sofia Areal em Diálogo com Sérgio Pombo**, ([video](https://www.facebook.com/reel/487604682453996))
+* 2022 - Lisboa, MAAT (jardim), ["48 artistas, 48 anos"](https://www.maat.pt/pt/exhibition/48-artistas-48-anos-de-liberdade), curadoria de António Brito Guterres, Alexandre Farto, Carla Cardoso, João Pinharanda, ([video](https://www.facebook.com/100000663544891/videos/pcb.5518783471487050/371680814947254))
+* 2026 - Lisboa, MAAT [**Turn Around. Um olhar sobre a coleção de Arte da Fundação EDP**](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), curadoria de João Pinharanda.
 
 ## Colecções (selecção)
 * CAM – Centro de Arte Moderna. Fundação Calouste Gulbenkian.
@@ -184,7 +184,7 @@ Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](htt
 * Sérgio Pombo - Radio Observador - *O Elogio Público* [**Sergio Pombo sobre Guilherme Parente**](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo)
 
 
-## Catálogos e outros Textos sobre Sergio Pombo
+## Catálogos e outros textos
 
 * A.A.B.B.; Sérgio Pombo. **Catálogo da XII Bienal de Paris**. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Calouste Gulbenkian. Paris, 1982.
 * Álvaro, Egídio; **Signes Énigmatiques et Obsédants de la Réalité Quotidienne**, in *Catálogo de Exposição Individual*. Ed. Galeria Diagonal, Paris, 1977.
@@ -244,6 +244,6 @@ Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](htt
 
 
 <p align="center">
-  <img src="../../static/images/escultura_sergio-pombo_cam.webp" height="450" style="margin-right: 40px;">
-  <img src="../../static/images/sergio-pombo_museu_carmo.webp" height="450">
+  <img src="../../static/images/escultura_sergio-pombo_cam.webp" height="450" style="margin-right: 350px;">
+  <img src="../../static/images/sergio-pombo_museu_carmo.webp" height="350">
 </p>
