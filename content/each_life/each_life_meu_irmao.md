@@ -30,7 +30,7 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 
 
 <p align="center">
-  <img src="../../static/images/ser_sergio-pombo_meu.webp" height="380">
+  <img src="../../static/images/ser_sergio-pombo_meu.webp" height="400">
 </p>
 
 _______________________________________________________________
