@@ -175,8 +175,9 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
 * Sérgio Pombo - Radio Observador - *O Elogio Público* [**Sergio Pombo sobre Guilherme Parente**](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo)
 
 
-**Sobre Sergio Pombo**
+**Catálogos e outros Textos sobre Sergio Pombo**
 
+* A.A.B.B.; Sérgio Pombo. **Catálogo Galeria Diagonale** Paris, 1977.
 * A.A.B.B.; Sérgio Pombo. **Catálogo da XII Bienal de Paris**. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Caloust Gulbenkian. Paris, 1982.
 * A.A.B.B.; **O Grande Livro dos Portugueses**. Ed. Círculo de Leitores, 1990.
 * Álvaro, Egídio; **Signes Énigmatiques et Obsédants de la Réalité Quotidienne**, in *Catálogo de Exposição Individual*. Ed. Galeria Diagonal, Paris, 1977.
@@ -228,7 +229,9 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
 * Sérgio Pombo - [Facebook](https://www.facebook.com/profile.php?id=100009665319498)
 * Sérgio Pombo - [Artnet](https://www.artnet.com/artists/s%C3%A9rgio-pombo)
 * Sérgio Pombo - [MutualArt](https://www.mutualart.com/Artist/Sergio-Pombo/B7B012F83DAA7EFC)
-* Sérgio Pombo - [Veritas Art Auctioneers](https://veritas.art/lot/sergio-pombo-interior-do-ateliertecnica-mista-sobre-tela)
+* Sérgio Pombo - AskArt
+* Sérgio Pombo - Artprice
+* Sérgio Pombo - [Veritas Art](https://veritas.art/lot/sergio-pombo-interior-do-ateliertecnica-mista-sobre-tela)
 * Sérgio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
 
 
