@@ -181,8 +181,8 @@ Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](htt
 ## Catálogos e outros Textos sobre Sergio Pombo
 
 * A.A.B.B.; Sérgio Pombo. **Catálogo da XII Bienal de Paris**. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Calouste Gulbenkian. Paris, 1982.
-* A.A.B.B.; **O Grande Livro dos Portugueses**. Ed. Círculo de Leitores, 1990.
 * Álvaro, Egídio; **Signes Énigmatiques et Obsédants de la Réalité Quotidienne**, in *Catálogo de Exposição Individual*. Ed. Galeria Diagonal, Paris, 1977.
+* Alves de Oliveira, Manuel; **O Grande Livro dos Portugueses**. Ed. Círculo de Leitores, 1990.
 * Cardoso, Luisa; **New York by Sergio Pombo at CAM**, in [CAM Gulbenkian](https://gulbenkian.pt/cam/en/sem-categoria/new-work-by-sergio-pombo-at-the-cam/) 
 * Gonçalves, Rui Mário; **Sérgio Pombo**, in *Catálogo da XII Bienal de Paris*. 1982.
 * Gonçalves, Rui Mário; in *Colóquio Artes*, nº 48.
