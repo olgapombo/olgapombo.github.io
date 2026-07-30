@@ -142,7 +142,9 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 
 ## Bibliografia
 
-![](../../static/images/sergio_pombo_livro.webp)
+<p align="center">
+  <img src="../../static/images/sergio_pombo_livro.webp" height="300">
+</p>
 
 ***Sérgio Pombo - Obras 1973-2017*, Lisboa: Documenta, 2018**, [livro publicado](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417) por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
 
