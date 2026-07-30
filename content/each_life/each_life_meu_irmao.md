@@ -177,7 +177,6 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
 
 **Catálogos e outros Textos sobre Sergio Pombo**
 
-* A.A.B.B.; Sérgio Pombo. **Catálogo Galeria Diagonale** Paris, 1977.
 * A.A.B.B.; Sérgio Pombo. **Catálogo da XII Bienal de Paris**. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Caloust Gulbenkian. Paris, 1982.
 * A.A.B.B.; **O Grande Livro dos Portugueses**. Ed. Círculo de Leitores, 1990.
 * Álvaro, Egídio; **Signes Énigmatiques et Obsédants de la Réalité Quotidienne**, in *Catálogo de Exposição Individual*. Ed. Galeria Diagonal, Paris, 1977.
