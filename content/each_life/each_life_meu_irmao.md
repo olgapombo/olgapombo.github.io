@@ -122,7 +122,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 2008 – Lisboa, Espaço Arte Contemporânea da Fundação Carmona e Costa, **Aquilo sou Eu: Auto-retratos de Artistas Contemporâneos**, obras da colecção [Safira e Luís] Serpa.
 * 2011 – Lisboa, Pavilhão do Conhecimento Ciência Viva, **Corpo Imagem, representação do corpo na ciência e na arte**.
 * 2019 - Setubal, Galeria Municipal do 11, [**5+1: Uma Constelação nas Artes Visuais**](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais)
-* 2026 - Lisboa, MAAT (Museu Arte, Arquitectura, Tecnologia), **Turn Around. Um olhar sobre a coleção de Arte da Fundação EDP**
+* 2026 - Lisboa, MAAT (Museu Arte, Arquitectura, Tecnologia), [**Turn Around. Um olhar sobre a coleção de Arte da Fundação EDP**](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda)
 
 ## Colecções (selecção)
 * CAM – Centro de Arte Moderna. Fundação Calouste Gulbenkian.
@@ -164,6 +164,9 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
 
 >>> ##### "Muitíssimo para lá da representação, a obra de Sérgio Pombo coloca-nos perante linhas e formas que se misturam à velocidade do desejo criando um novo corpo, exuberante, total, sublime, que é a obra em si. E, aí, apercebemo-nos que já estamos para lá da pintura", *Catarina Pombo Nabais*
+
+Sessão de [Lançamento do livro "para Chegar ao Branco da última palavra"](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), conversa com Rui Nunes, Catarina Pombo Nabais e Joâo Pinharanda, Maat, Lisboa, 2026.
+
 
 
 ## Registos video e audio
