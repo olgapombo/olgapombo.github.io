@@ -98,7 +98,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * –––––– França, **Festival Internacional de Pintura de Cagnes-sur-Mer**.
 * 1981 – Lisboa, Fundação Calouste Gulbenkian, **Terceira Exposição Nacional de Gravura**.
 * 1982 – Paris, **XII Bienal de Paris**.
-* 1983 – Lisboa, SNBA, **Depois do Modernismo**.
+* 1983 – Lisboa, SNBA, **Depois do Modernismo** ([Catalogo, coordenado por Luis Serpa](https://www.livraria-ler-com-gosto.com/depois-do-modernismo)).
 * ––––– Lisboa, SNBA, **Perspectivas Actuais da Arte Portuguesa**.
 * 1984 –  Lisboa, **Primeira Exposição de Arte do Banco de Fomento Nacional**.
 * ––––– Lisboa, Instituto Alemão.
@@ -107,23 +107,23 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 1985 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian.
 * ––––– Lisboa, Fundação Calouste Gulbenkian, **Imaginário da Cidade de Lisboa**.
 * ––––– Ministério da Cultura, **Exposição Itinerante, Situações**.
-* ––––– S. Paulo, Brasil, **XVIII Bienal de S. Paulo**.
+* ––––– S. Paulo, Brasil, [**XVIII Bienal de S. Paulo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1250/).
 * ––––– Mérida, Espanha, **Pintado em Portugal**.
-* 1986 – CAM, Centro de Arte Moderna da Fundação Calouste Gulbenkian, **III Exposição de Artes Plásticas**.
-* –––––– Bruxelas, Bélgica, **Le XXème au Portugal**.
-* 1987 – Madrid, Espanha, **Arte Contemporâneo Portugués**.
-* –––––– Brasília/Rio de Janeiro/São Paulo, Brasil, **70-80 Arte Portuguesa**.
+* 1986 – CAM, Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**III Exposição de Artes Plásticas**](https://gulbenkian.pt/dacosta/exhibitions/iii-exposicao-de-artes-plasticas/).
+* –––––– Bruxelas, Bélgica, [**Le XXème au Portugal**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/477/).
+* 1987 – Madrid, Espanha, [**Arte Contemporâneo Portugués**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/587/).
+* –––––– Brasília/Rio de Janeiro/São Paulo, Brasil, [**70-80 Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
 * –––––– Madrid, Espanha, **ARCO – Feira Internacional**.
-* –––––– Moscovo, URSS, **Pintura Portuguesa Contemporânea**.
-* 1988 – Filadélfia, EUA, **Arte Portuguesa**.
-* –––––– Atenas, Grécia, **Pintura Portuguesa**.
-* 1989 – Lisboa, FAC, **II Fórum de Arte Contemporânea**.
-* 1991 – Lisboa, SNBA, **Exposição de Artes Plásticas Portuguesas**.
-* –––––– Parlamento Europeu, **Exposição de Artes Plásticas Portuguesas**.
+* –––––– Moscovo, URSS, [**Pintura Portuguesa Contemporânea**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/603/).
+* –––––– Filadélfia, EUA, [**70-80. Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
+* 1988 – Atenas, Grécia, [**Portuguese Painting from the last 3 Decades**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/682/).
+* 1989 – Lisboa, FAC, **II Fórum de Arte Contemporânea** ([catalogo](https://www.instagram.com/p/DYojwePiLLA/?img_index=3)).
+* 1991 – Lisboa, SNBA **Exposição de Artes Plásticas Portuguesas**.
+* 1992 – Strasburg, Palais de l'Europe, **Arte Portuguesa. Parlamento Europeu**.
 * 1995 – Lisboa, FIL – **Feira de Arte**.
 * 1997 – Lisboa, Galeria César.
-* 2007 – Lisboa, Fundação Calouste Gulbenkian, **50 Anos de Arte Portuguesa**.
-* 2008 – Lisboa, Espaço Arte Contemporânea da Fundação Carmona e Costa, **Aquilo sou Eu: Auto-retratos de Artistas Contemporâneos**, obras da colecção Safira e Luís Serpa.
+* 2007 – Lisboa, Fundação Calouste Gulbenkian, [**50 Anos de Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/93/).
+* 2008 – Lisboa, Espaço Arte Contemporânea da Fundação Carmona e Costa, [**Aquilo sou Eu: Auto-retratos de Artistas Contemporâneos**](https://www.fundacaocarmona.org.pt/pt/espaco_arte_contemporanea/exposicoes_detalhe_00_1.aspx), obras da colecção Safira e Luís Serpa.
 * 2011 – Lisboa, Pavilhão do Conhecimento Ciência Viva, **Corpo Imagem, representação do corpo na ciência e na arte**.
 * 2019 - Setúbal, Galeria Municipal do 11, ["O Tempo Construído". Grupo 5+1 de 1976 a 2019](https://www.rostos.pt/inicio2.asp?cronica=9008000), (["5+1. Uma Constelação nas Artes Visuais"](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais)
 * 2021 - Guarda, Teatro Municipal da Guarda,**Sofia Areal em Diálogo com Sérgio Pombo**, ([video](https://www.facebook.com/reel/487604682453996))
