@@ -30,8 +30,6 @@ Deixou uma obra artistica singularmente poderosa, vigorosa, livre e independente
 
 ![ser_sergio-pombo_meu](../../static/images/ser_sergio-pombo_meu.webp) 
 
-![escultura_sergio-pombo_cam](../../static/images/escultura_sergio-pombo_cam.webp)
-
 _______________________________________________________________
 
 ## Sergio Pombo - Nota Biográfica
