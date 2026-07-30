@@ -151,7 +151,9 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 
 >>> ##### «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito.», José Alexandre de São Marco
 
-![](../../static/images/sergio_pombo_livro_catarina_reduzido.webp)
+<p align="center">
+  <img src="../../static/images/sergio_pombo_livro_catarina_reduzido.webp" height="300">
+</p>
  
 ***Para Chegar ao Branco da Última Palavra*, Porto: Officium Lectionis, 2025**,
 O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
@@ -230,9 +232,4 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
   <img src="../../static/images/escultura_sergio-pombo_cam.webp" height="300">
 </p>
 
-
-<p align="center">
-  <img src="../../static/images/sergio-pombo_museu_carmo.webp" height="300" style="margin-right: 80px;">
-  <img src="../../static/images/escultura_sergio-pombo_cam.webp" height="300">
-</p>
 
