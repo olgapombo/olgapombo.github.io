@@ -231,9 +231,3 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
   <img src="../../static/images/escultura_sergio-pombo_cam.webp" width="300">
 </div>
 
-
-
-
-![](../../static/images/sergio-pombo_museu_carmo.webp)
-
-![escultura_sergio-pombo_cam](../../static/images/escultura_sergio-pombo_cam.webp)
