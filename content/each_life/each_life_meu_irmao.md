@@ -149,22 +149,21 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
   <img src="../../static/images/sergio_pombo_livro.webp" height="300">
 </p>
 
-***Sérgio Pombo - Obras 1973-2017*, Lisboa: Documenta, 2018**, [livro publicado](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417) por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, com curadoria de João Pinharanda, realizada na Fundação Carmona e Costa, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
+***[Sérgio Pombo - Obras 1973-2017*](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), Lisboa: Documenta, 2018**, livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, realizada na Fundação Carmona e Costa, com curadoria de João Pinharanda, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
 
 >>> ##### "No seu trabalho ecoam a potência masculina da vida (a vitalidade sujeita à morte) e a potência espiritual feminina (transportadora de vida)
 >>> ##### «Sérgio Pombo exprime a sua subjectividade dominante e o seu «sentimento trágico da vida» através de uma figuração exacerbada; cria o seu próprio tempo e universo mas insere-os num tempo cronológico que os ultrapassa e num campo longo, expressionista (ainda não inteiramente revelado e estudado), da criação artística portuguesa. A sua obra está presa à angústia que os românticos e os modernos deixaram como herança à contemporaneidade: a vã procura do fio de Ariadne deitado ao chão por Teseu", **João Pinharanda** 
 
->>> ##### «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito.», José Alexandre de São Marco
+>>> ##### «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito», *José Alexandre de São Marco*
 
 <p align="center">
   <img src="../../static/images/sergio_pombo_livro_catarina_reduzido.webp" height="300">
 </p>
  
-***Para Chegar ao Branco da Última Palavra*, Porto: Officium Lectionis, 2025**,
+***[Para Chegar ao Branco da Última Palavra*](https://officiumlectionis.pt/produto/catarina-pombo-nabais-para-chegar-ao-branco-da-ultima-palavra/), Porto: Officium Lectionis, 2025**,
 O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
 
->>> ##### "Muitíssimo para lá da representação, a obra de Sérgio Pombo coloca-nos perante linhas e formas que se misturam à velocidade do desejo criando um novo corpo, exuberante, total, sublime, que é a obra em si. E, aí, apercebemo-nos que já estamos para lá da pintura.
->>> ##### Entramos no plano da imanência da sensação. Escultura da cor. Gravura da tela. Reverberação da tinta", Catarina Pombo Nabais
+>>> ##### "Muitíssimo para lá da representação, a obra de Sérgio Pombo coloca-nos perante linhas e formas que se misturam à velocidade do desejo criando um novo corpo, exuberante, total, sublime, que é a obra em si. E, aí, apercebemo-nos que já estamos para lá da pintura", *Catarina Pombo Nabais*
 
 
 ## Registos video e audio
@@ -177,33 +176,33 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
 
 **Catálogos e outros Textos sobre Sergio Pombo**
 
-* A.A.B.B.; Sérgio Pombo. **Catálogo da XII Bienal de Paris**. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Caloust Gulbenkian. Paris, 1982.
+* A.A.B.B.; Sérgio Pombo. **Catálogo da XII Bienal de Paris**. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Calouste Gulbenkian. Paris, 1982.
 * A.A.B.B.; **O Grande Livro dos Portugueses**. Ed. Círculo de Leitores, 1990.
 * Álvaro, Egídio; **Signes Énigmatiques et Obsédants de la Réalité Quotidienne**, in *Catálogo de Exposição Individual*. Ed. Galeria Diagonal, Paris, 1977.
 * Cardoso, Luisa; **New York by Sergio Pombo at CAM**, in [CAM Gulbenkian](https://gulbenkian.pt/cam/en/sem-categoria/new-work-by-sergio-pombo-at-the-cam/) 
 * Gonçalves, Rui Mário; **Sérgio Pombo**, in *Catálogo da XII Bienal de Paris*. 1982.
 * Gonçalves, Rui Mário; in *Colóquio Artes*, nº 48.
 * Gonçalves, Rui Mário; in *Jornal de Letras*, nº 79, pp. 10-16, 1984.
-* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 60, Mar. 1984.
+* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 60, março 1984.
 * Gonçalves, Rui Mário; **10 Anos de Artes Plásticas em Portugal, 1974-1984**. Ed. Caminho. Lisboa, 1985.
 * Gonçalves, Rui Mário; in *Colóquio Artes*, nº 67, 1985.
-* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 103, Dez. 1994.
+* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 103, dezembro 1994.
 * Gonçalves, Rui Mário; **100 Pintores Portugueses do Século XX**; Ed. Alfa. Lisboa, 1996.
 * Gonçalves, Rui Mário; **Vontade de Mudança. Cinco Décadas de Artes Plásticas**. Ed. Caminhi. Lisboa, 2004.
 * Júdice, Nuno; **O Voo da Cor no Branco da Memória**, in *Catalogo da exposição A noite alemã e outros dias*, Artistas Unidos, Lisboa, 2005 
-* Melo, Alexandre; **Sérgio Pombo. Estudos para um Retrato (entrevista)**, in *Jornal de Letras*, nº 128, pp. 18-24, Dez. 1984.
+* Melo, Alexandre; **Sérgio Pombo. Estudos para um Retrato (entrevista)**, in *Jornal de Letras*, nº 128, pp. 18-24, dezembro 1984.
 * Melo, Alexandre; **Nove Artistas, 1987/1997**, in *Catálogo de Exposição*. Ed. César Galeria. Lisboa, 1997.
 * Melo, Jorge Silva e; **Com a Rapidez das Estrelas Cadentes, Fulgurantes**, in *Sérgio Pombo, Pintura, 1980-2007*, pp. 5-11. Lisboa, 2007.
 * Melo, Jorge Silva e; **A Pintura de Sérgio Pombo**, in *Catálogo de Exposição Sérgio Pombo. O Corpo e a Linha*, Artistas Unidos, Lisboa, 2013.
 * Melo, Jorge Silva e; **Sergio Pombo Agora**, in *Catálogo de Exposição Sérgio Pombo Agora*, Artistas Unidos, Lisboa, 2018
-* Molder, Jorge; **Sérgio Pombo**, in *Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
-* Nabais, Nuno; **Sérgio Pombo. O Fascínio pelo Retrato**, in *Jornal de Letras*, nº 80, pp. 17-23, Jan. 1984.
-* Correa, Carlos Natividade; in *Grande Reportagem*, 14 de Dez. de 1984.
+* Molder, Jorge; **Sérgio Pombo**, in *Catálogo de Exposição*. Ed. Fundação Calouste Gulbenkian. Lisboa, 2001.
+* Nabais, Nuno; **Sérgio Pombo. O Fascínio pelo Retrato**, in *Jornal de Letras*, nº 80, pp. 17-23, janeiro 1984.
+* Correa, Carlos Natividade; in *Grande Reportagem*, 14 de dezembro 1984.
 * Pinharanda, João; **Alguns Corpos. Imagens da Arte Portuguesa entre 1950 e 1990**. Ed. EDP. Lisboa, 1998.
-* Pinharanda, João; **Ulisses no Lugar de Penélope**, in *Sérgio Pombo. Catálogo de Exposição*. Ed. Fundação Caloust Gulbenkian. Lisboa, 2001.
+* Pinharanda, João; **Ulisses no Lugar de Penélope**, in *Sérgio Pombo. Catálogo de Exposição*. Ed. Fundação Calouste Gulbenkian. Lisboa, 2001.
 * Pinharanda, João; **A Medida de Todas as Coisas**, in *Catálogo de Exposição Sérgio Pombo. O Corpo e a Linha*, Artiastas Unidos, Lisboa, 2013
-* Porfírio, José Luís; in *Revista Expresso*, 15 de Dez. de 1984.
-* Rato, Vanessa; **Escultura como Pintura como Escultura**, in *Público. Ipsilon*, 13 de Março de 2013.
+* Porfírio, José Luís; in *Revista Expresso*, 15 de dezembro 1984.
+* Rato, Vanessa; **Escultura como Pintura como Escultura**, in *Público. Ipsilon*, 13 de março 2013.
 * Rocha de Sousa, **Toda a Cidade é um Museu Encoberto**, in *Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra*. Ed. Câmara Municipal de Coimbra. Coimbra, 2003.
 * Pombo Nabais, Catarina, **Para Chegar ao Branco da Última Palavra. Conversa com Sergio Pombo e Rui Numes**, Porto: Officium Lectionis, 2025
 
