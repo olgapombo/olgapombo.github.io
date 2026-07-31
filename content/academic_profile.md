@@ -225,6 +225,7 @@ DOI: 10.1007/s10516-014-9264-5
 
 ### Media and scholar reception
 
+*Joseph L. Subbiondo, in *Historiographia Linguistica*, Volume 17, Issue 3, Jan 1990, p. 406 – 411, review of the book “Leibniz and the Problem of a Universal Language by Olga Pombo”, Münster: Nodus Publikationen, 1987 ([p. 406](https://www.jbe-platform.com/content/journals/10.1075/hl.17.3.15sub)) DOI: https://doi.org/10.1075/hl.17.3.15sub
 * António Guerreiro (1998), review of the book: ["Olga Pombo, Leibniz e o Problema de uma Língua Universal](https://arquivo.pt/wayback/20081022125858/http:/aeiou.primeirasedicoes.expresso.pt/ed1342/c251.asp), Lisboa: ed. Junta Nacional de Investigação Científica e Tecnológica (JNICT), 1997, 322 págs., in *Expresso – Cartaz*, 18.07.1998 
 * M.J.C. (2000), review of the book: "Olga Pombo, Quatro Textos Excêntricos: Hannah Arendt, Eric Weil, Bertrand Russell e Ortega y Gasset", Relógio d’Água, 2000, in *Expresso – Cartaz*, 02.09.2000
 * Linda Santos Costa (2002), review of the book: "Olga Pombo, A Escola, a Recta e o Círculo", Lisboa: Relógio d’Água, 2002, in *Público – Mil Folhas*, 23.11.2002 [(review article)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/publico23-11-02.htm)
