@@ -243,15 +243,9 @@ Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](htt
 * Sérgio Pombo - [Cabral Moncada](https://www.cml.pt/leiloes/2017/190-leilao/1-sessao/272/sem-titulo)
 
 
-<p align="center">
-  <img src="../../static/images/escultura_sergio-pombo_cam.webp" height="450" style="margin-right: 350px;">
-  <img src="../../static/images/sergio-pombo_museu_carmo.webp" height="350">
-</p>
-
-<p style="text-align: center;">
+<div style="display: flex; justify-content: center; gap: 50px;">
   <img src="../../static/images/escultura_sergio-pombo_cam.webp"
-       style="height: 450px; width: auto; object-fit: cover; margin-right: 50px;">
+       style="height: 450px; object-fit: cover;">
   <img src="../../static/images/sergio-pombo_museu_carmo.webp"
-       style="height: 450px; width: auto; object-fit: cover;">
-</p>
-
+       style="height: 450px; object-fit: cover;">
+</div>
