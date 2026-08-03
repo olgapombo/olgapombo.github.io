@@ -8,9 +8,10 @@ toc: false
 
 ![foto_sergio_60](../../static/images/foto_sergio_60.webp "foto_sergio_60.webp")
 
-O meu irmão era um Homem com letra grande: bom, forte, magnânimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Para mim, ele era o meu irmão. [O companheiro absoluto, terno, incondicional](../../static/images/foto_eu_e-sergio_espelhos.jpeg). Deixou uma obra artística singularmente poderosa, vigorosa, livre e independente, em [pintura](../../static/images/pintura_sergio-pombo_aa9.webp), [escultura](../../static/images/esc_sergio_pombo_2.webp), [desenho](../../static/images/desenho_sergio_pombo_3.webp), [serigrafia](../../static/images/ser_sergio_pombo_5.webp), [gravura](../../static/images/gravura_sergio_pombo_espera.webp). 
+O meu irmão era um Homem com letra grande: bom, forte, magnânimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Para mim, ele era o meu irmão. [Companheiro absoluto, terno, incondicional](../../static/images/foto_eu_e-sergio_espelhos.jpeg). Deixou uma obra artística singularmente poderosa, vigorosa, livre e independente, em [pintura](../../static/images/pintura_sergio-pombo_aa9.webp), [escultura](../../static/images/esc_sergio_pombo_2.webp), [desenho](../../static/images/desenho_sergio_pombo_3.webp), [serigrafia](../../static/images/ser_sergio_pombo_5.webp), [gravura](../../static/images/gravura_sergio_pombo_espera.webp). 
 
-###### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother, the absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in painting, sculpture, drawing, screen printing, engraving.
+###### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother, the absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in 
+[**painting**](../../static/images/pintura_sergio-pombo_aa9.webp), [**sculpture**](../../static/images/esc_sergio_pombo_2.webp), [**drawing**](../../static/images/desenho_sergio_pombo_3.webp), [**screen printing**](../../static/images/ser_sergio_pombo_5.webp), [**engraving**](../../static/images/gravura_sergio_pombo_espera.webp). 
 
 <p align="center">
   <img src="../../static/images/pintura_sergio_pombo_4.webp" alt="pintura_sergio_pombo" width="450">
