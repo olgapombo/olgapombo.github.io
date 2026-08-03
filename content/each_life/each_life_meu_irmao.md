@@ -96,25 +96,23 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 
 
 ## Exposições Internacionais (selecção)
-
-1976 – Caracas, **Pintura Portuguesa**.
-1977 – Viena, Áustria, **Exposição 5+1**.
-1980 – França, **Festival Internacional de Pintura de Cagnes-sur-Mer**.
-1982 – Paris, **XII Bienal de Paris**.
-1984 – Cáceres, Espanha, **Exposição Ibérica de Arte Moderna**.
-1985 – S. Paulo, Brasil, [**XVIII Bienal de S. Paulo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1250/).
-1985 – Mérida, Espanha, **Pintado em Portugal**
-1986 – Bruxelas, Bélgica, [**Le XXème au Portugal**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/477/).
-1987 – Madrid, Espanha, [**Arte Contemporâneo Portugués**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/587/).
-1987 – Brasília/Rio de Janeiro/São Paulo, Brasil, [**70-80 Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
-1987 – Madrid, Espanha, **ARCO – Feira Internacional**.
-1987 – Moscovo, URSS, [**Pintura Portuguesa Contemporânea**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/603/).
-1988 – Filadélfia, EUA, [**70-80. Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
-1988 – Atenas, Grécia, [**Portuguese Painting from the last 3 Decades**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/682/).
-1992 – Strasburg, França, Palais de l'Europe, **Arte Portuguesa. Parlamento Europeu**.
+* 1976 – Caracas, **Pintura Portuguesa**.
+* 1977 – Viena, Áustria, **Exposição 5+1**.
+* 1980 – França, **Festival Internacional de Pintura de Cagnes-sur-Mer**.
+* 1982 – Paris, **XII Bienal de Paris**.
+* 1984 – Cáceres, Espanha, **Exposição Ibérica de Arte Moderna**.
+* 1985 – S. Paulo, Brasil, [**XVIII Bienal de S. Paulo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1250/).
+* 1985 – Mérida, Espanha, **Pintado em Portugal**
+* 1986 – Bruxelas, Bélgica, [**Le XXème au Portugal**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/477/).
+* 1987 – Madrid, Espanha, [**Arte Contemporâneo Portugués**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/587/).
+* 1987 – Brasília/Rio de Janeiro/São Paulo, Brasil, [**70-80 Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
+* 1987 – Madrid, Espanha, **ARCO – Feira Internacional**.
+* 1987 – Moscovo, URSS, [**Pintura Portuguesa Contemporânea**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/603/).
+* 1988 – Filadélfia, EUA, [**70-80. Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
+* 1988 – Atenas, Grécia, [**Portuguese Painting from the last 3 Decades**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/682/).
+* 1992 – Strasburg, França, Palais de l'Europe, **Arte Portuguesa. Parlamento Europeu**.
 
 ## Exposições Colectivas (selecção)
-
 * 1965 – Lisboa, SNBA, **Salão de Outubro**.
 * 1967 – Lisboa, Exposição Conventos dos Marianos.
 * 1972 – Lisboa, Exposição do Banco Português do Atlântico.
@@ -154,12 +152,12 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 2026 - Lisboa, MAAT [**Turn Around. Um olhar sobre a coleção de Arte da Fundação EDP**](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), curadoria de João Pinharanda.
 
 ## Colecções (selecção)
-* CAM – Centro de Arte Moderna. Fundação Calouste Gulbenkian.
+* CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian.
 * Ministério da Cultura.
 * Museu de Arte Contemporânea.
 * Caixa Geral de Depósitos.
 * Parlamento Europeu.
-* Museu do Carmo
+* Museu do Carmo.
 * Colecções privadas.
 
 ## Prémios e representações oficiais
