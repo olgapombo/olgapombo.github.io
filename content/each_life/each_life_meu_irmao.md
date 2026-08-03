@@ -155,6 +155,9 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 1992 - Representação Nacional na XII Bienal de Paris.
 * 1993 – Prémio Banif de Pintura.
 
+tres imagens
+
+
 
 ## Bibliografia
 
