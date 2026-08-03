@@ -86,14 +86,35 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Desenho de Sérgio Pombo**](https://artistasunidos.pt/desenho-de-sergio-pombo).
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte, **Sério Pombo. Pintura e Desenho**.
+* –––––– Lisboa, Galeria CDuarte
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
-* 2013 - Lisboa, Museu do Carmo, [**Escultura**](../../static/images/sergio-pombo_museu_carmo.webp "sergio-pombo_museu_carmo.webp")
+* 2013 - Lisboa, Museu Arqueológico do Carmo, [**Escultura**](../../static/images/sergio-pombo_museu_carmo.webp "sergio-pombo_museu_carmo.webp")
+* 2017 - Lisboa, Artistas Unidos, Teatro Politécnica.
 * 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk). ([slide show](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)), (catálogo)
 * 2018 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sergio Pombo Agora**](https://artistasunidos.pt/sergio-pombo-agora-2)
 * 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, comissariada por João Pinharanda. ([slide show 1](https://www.facebook.com/photo?fbid=2524951094240529&set=pcb.2524954544240184), [slide show 2](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)
 
 
+## Exposições Internacionais (selecção)
+
+1976 – Caracas, **Pintura Portuguesa**.
+1977 – Viena, Áustria, **Exposição 5+1**.
+1980 – França, **Festival Internacional de Pintura de Cagnes-sur-Mer**.
+1982 – Paris, **XII Bienal de Paris**.
+1984 – Cáceres, Espanha, **Exposição Ibérica de Arte Moderna**.
+1985 – S. Paulo, Brasil, [**XVIII Bienal de S. Paulo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1250/).
+1985 – Mérida, Espanha, **Pintado em Portugal**
+1986 – Bruxelas, Bélgica, [**Le XXème au Portugal**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/477/).
+1987 – Madrid, Espanha, [**Arte Contemporâneo Portugués**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/587/).
+1987 – Brasília/Rio de Janeiro/São Paulo, Brasil, [**70-80 Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
+1987 – Madrid, Espanha, **ARCO – Feira Internacional**.
+1987 – Moscovo, URSS, [**Pintura Portuguesa Contemporânea**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/603/).
+1988 – Filadélfia, EUA, [**70-80. Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
+1988 – Atenas, Grécia, [**Portuguese Painting from the last 3 Decades**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/682/).
+1992 – Strasburg, França, Palais de l'Europe, **Arte Portuguesa. Parlamento Europeu**.
+
 ## Exposições Colectivas (selecção)
+
 * 1965 – Lisboa, SNBA, **Salão de Outubro**.
 * 1967 – Lisboa, Exposição Conventos dos Marianos.
 * 1972 – Lisboa, Exposição do Banco Português do Atlântico.
@@ -102,40 +123,26 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * –––––– Lisboa, **Painel Colectivo de 10 de Junho**.
 * 1975 – Lisboa, SNBA, **Figuração Hoje**.
 * –––––– Lisboa, Exposição de **100 Obras do Ministério da Comunicação Social**.
-* 1976 –  Lisboa, SNBA, **Grupo 5+1**.
+* 1976 – Lisboa, SNBA, **Grupo 5+1**.
 * –––––– Lisboa, Fundação Caloust Gulbenkian, **Vinte anos de Gravura**.
 * –––––– Lisboa, Secretaria de Estado da Cultura, **Gravura Portuguesa Contemporânea**.
-* –––––– Caracas, **Pintura Portuguesa**.
 * 1977 – Lisboa, SNBA, **Mitologias**.
-* –––––– Viena, Áustria, **Exposição 5+1**.
 * 1978 – Lisboa, SNBA, **Exposição 5+ 1**.
 * 1979 – Porto, Cooperativa Árvore, **Exposição 5+ 1**.
 * 1980 – Lisboa, Galeria de Arte Moderna, **Exposição Inventário 3**.
-* –––––– França, **Festival Internacional de Pintura de Cagnes-sur-Mer**.
 * 1981 – Lisboa, Fundação Calouste Gulbenkian, **Terceira Exposição Nacional de Gravura**.
-* 1982 – Paris, **XII Bienal de Paris**.
 * 1983 – Lisboa, SNBA, **Depois do Modernismo** ([Catalogo, coordenado por Luis Serpa](https://www.livraria-ler-com-gosto.com/depois-do-modernismo)).
 * ––––– Lisboa, SNBA, **Perspectivas Actuais da Arte Portuguesa**.
-* 1984 –  Lisboa, **Primeira Exposição de Arte do Banco de Fomento Nacional**.
+* 1984 – Lisboa, **Primeira Exposição de Arte do Banco de Fomento Nacional**.
 * ––––– Lisboa, Instituto Alemão, **Onze Jovens Pintores Portugueses** (catálogo).
 * ––––– Porto, Museu Soares dos Reis.
-* ––––– Cáceres, Espanha, **Exposição Ibérica de Arte Moderna**.
 * 1985 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian.
 * ––––– Lisboa, Fundação Calouste Gulbenkian, **Imaginário da Cidade de Lisboa**.
 * ––––– Ministério da Cultura, **Exposição Itinerante, Situações**.
-* ––––– S. Paulo, Brasil, [**XVIII Bienal de S. Paulo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1250/).
-* ––––– Mérida, Espanha, **Pintado em Portugal**.
 * 1986 – CAM, Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**III Exposição de Artes Plásticas**](https://gulbenkian.pt/dacosta/exhibitions/iii-exposicao-de-artes-plasticas/).
-* –––––– Bruxelas, Bélgica, [**Le XXème au Portugal**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/477/).
-* 1987 – Madrid, Espanha, [**Arte Contemporâneo Portugués**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/587/).
-* –––––– Brasília/Rio de Janeiro/São Paulo, Brasil, [**70-80 Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
-* –––––– Madrid, Espanha, **ARCO – Feira Internacional**.
-* –––––– Moscovo, URSS, [**Pintura Portuguesa Contemporânea**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/603/).
-* –––––– Filadélfia, EUA, [**70-80. Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
-* 1988 – Atenas, Grécia, [**Portuguese Painting from the last 3 Decades**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/682/).
 * 1989 – Lisboa, FAC, **II Fórum de Arte Contemporânea** ([catalogo](https://www.instagram.com/p/DYojwePiLLA/?img_index=3)).
 * 1991 – Lisboa, SNBA **Exposição de Artes Plásticas Portuguesas**.
-* 1992 – Strasburg, Palais de l'Europe, **Arte Portuguesa. Parlamento Europeu**.
+* 1993 - Lisboa, Prémio Banif de Pintura.
 * 1995 – Lisboa, FIL – **Feira de Arte**.
 * 1997 – Lisboa, Galeria César.
 * 2007 – Lisboa, Fundação Calouste Gulbenkian, [**50 Anos de Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/93/).
