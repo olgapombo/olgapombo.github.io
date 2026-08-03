@@ -45,9 +45,9 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 
 <div style="display: flex; justify-content: center; gap: 50px;">
   <img src="../../static/images/pintura_mulher_costas_sp..jpg"
-       style="height: 450px; object-fit: cover;">
+       style="height: 400px; object-fit: cover;">
   <img src="../../static/images/pintura77_sergio_pombo.jpg"
-       style="height: 450px; object-fit: cover;">
+       style="height: 400px; object-fit: cover;">
 </div>
 
 
