@@ -245,6 +245,6 @@ Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](htt
 <div style="display: flex; justify-content: center; gap: 50px;">
   <img src="../../static/images/escultura_sergio-pombo_cam.webp"
        style="height: 450px; object-fit: cover;">
-  <img src="../../static/images/sergio-pombo_museu_carmo.webp"
+  <img src="../../static/images/sergio-no_carmo.jpg"
        style="height: 450px; object-fit: cover;">
 </div>
