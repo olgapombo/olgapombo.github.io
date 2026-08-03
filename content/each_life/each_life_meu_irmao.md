@@ -117,7 +117,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 1983 – Lisboa, SNBA, **Depois do Modernismo** ([Catalogo, coordenado por Luis Serpa](https://www.livraria-ler-com-gosto.com/depois-do-modernismo)).
 * ––––– Lisboa, SNBA, **Perspectivas Actuais da Arte Portuguesa**.
 * 1984 –  Lisboa, **Primeira Exposição de Arte do Banco de Fomento Nacional**.
-* ––––– Lisboa, Instituto Alemão.
+* ––––– Lisboa, Instituto Alemão, **Onze Jovens Pintores Portugueses** (catálogo).
 * ––––– Porto, Museu Soares dos Reis.
 * ––––– Cáceres, Espanha, **Exposição Ibérica de Arte Moderna**.
 * 1985 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian.
