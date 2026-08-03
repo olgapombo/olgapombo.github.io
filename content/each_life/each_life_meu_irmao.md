@@ -10,7 +10,7 @@ toc: false
 
 O meu irmão era um Homem com letra grande: bom, forte, magnânimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Para mim, ele era o meu irmão. [Companheiro absoluto, terno, incondicional](../../static/images/foto_eu_e-sergio_espelhos.jpeg). Deixou uma obra artística singularmente poderosa, vigorosa, livre e independente, em [pintura](../../static/images/pintura_sergio-pombo_aa9.webp), [escultura](../../static/images/esc_sergio_pombo_2.webp), [desenho](../../static/images/desenho_sergio_pombo_3.webp), [serigrafia](../../static/images/ser_sergio_pombo_5.webp), [gravura](../../static/images/gravura_sergio_pombo_espera.webp). 
 
-###### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother, the absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in [painting](../../static/images/pintura_sergio-pombo_aa9.webp), [sculpture](../../static/images/esc_sergio_pombo_2.webp), [drawing](../../static/images/desenho_sergio_pombo_3.webp), [screen printing](../../static/images/ser_sergio_pombo_5.webp), [engraving](../../static/images/gravura_sergio_pombo_espera.webp). 
+###### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother, the absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in painting, sculpture, drawing, screen printing, engraving. 
 
 <p align="center">
   <img src="../../static/images/pintura_sergio_pombo_4.webp" alt="pintura_sergio_pombo" width="450">
@@ -31,7 +31,7 @@ O meu irmão era um Homem com letra grande: bom, forte, magnânimo e generoso. H
 
 
 <p align="center">
-  <img src="../../static/images/ser_sergio-pombo_meu.webp" height="350">
+  <img src="../../static/images/ser_sergio-pombo_meu.webp" height="300">
 </p>
 
 _______________________________________________________________
@@ -44,6 +44,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 
 
 ## Registos video e audio
+
 * Sérgio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018.
 * Sérgio Pombo - Fundação Carmona e Costa [**Conversa com Sergio Pombo e convidados** (João Pinharanda, Jorge Silva e Melo, José Alexandre de S. Marcos](https://www.youtube.com/watch?v=lAZKjriBqZM), 2017.
 * Sérgio Pombo - RTP1 - *Programa Moldura* [**Entrevista a Sergio Pombo com joaquim Letria**](https://arquivos.rtp.pt/conteudos/ja-esta-parte-ii-33) (from 33 on), 1988.
@@ -167,7 +168,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 ## Bibliografia
 
 <p align="center">
-  <img src="../../static/images/sergio_pombo_livro.webp" height="300">
+  <img src="../../static/images/sergio_pombo_livro.webp" height="400">
 </p>
 
 **[*Sérgio Pombo - Obras 1973-2017*](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), Lisboa: Documenta, 2018**, livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, realizada na Fundação Carmona e Costa, com curadoria de João Pinharanda, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
@@ -251,7 +252,7 @@ Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](htt
 
 <div style="display: flex; justify-content: center; gap: 50px;">
   <img src="../../static/images/escultura_sergio-pombo_cam.webp"
-       style="height: 450px; object-fit: cover;">
+       style="height: 500px; object-fit: cover;">
   <img src="../../static/images/sergio-no_carmo.jpg"
-       style="height: 450px; object-fit: cover;">
+       style="height: 500px; object-fit: cover;">
 </div>
