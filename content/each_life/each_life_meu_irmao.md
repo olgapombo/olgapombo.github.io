@@ -200,7 +200,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 **Sérgio Pombo**. Fotografias de [Maria José Palla](https://mariajosepalla.com/), volume fotocopiado com arranjo gráfico de Ana Horta e Maria José Palla e apoio técnico de Maria José Palma, Lisboa: 2002 
 
 
-**Sergio Pombo. Pintura 1980-2007**. Texto de Jorge Silva Melo, Lisboa: Grifos, 2007, ISBN: 978-989-95400-0-2.
+**Sergio Pombo. Pintura 1980-2007**. Texto de [Jorge Silva Melo](https://artistasunidos.pt/jorge-silva-melo/), Lisboa: Grifos, 2007, ISBN: 978-989-95400-0-2.
 
 
 
