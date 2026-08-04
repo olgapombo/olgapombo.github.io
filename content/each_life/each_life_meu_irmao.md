@@ -71,7 +71,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * –––––– Lisboa, Galeria Quadrum.
 * 1985 - Palmela, Galeria de Palmela.
 * 1986 – Lisboa, Altamira.
-* 1987 – Lisboa, Fundação Calouste Gulbenkian, [Premio nacional de gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/). [**Catálogo**]
+* 1987 – Lisboa, Fundação Calouste Gulbenkian, [Premio Nacional de Gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/). [**Catálogo**]
 * –––––– Lisboa, Galeria Quadrum.
 * 1988 – Lisboa, Loja de Desenho.
 * 1990 – Lisboa, Galeria Alda Cortez.
