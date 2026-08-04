@@ -42,7 +42,7 @@ Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e 
 
 Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../static/images/foto_grupo_512.webp "foto_grupo_512.webp"), que integrava igualmente os pintores [João Hogan](../../static/images/pintura_spombo_hogan.jpg), Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](../../static/images/foto_grupo_511.webp "foto_grupo_511.webp")). 
 
-Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe do seu filho, o maestro [Marcos Magalhães Pombo](https://cesem.fcsh.unl.pt/pessoa/marcos-magalhaes/). Depois de um primeiro atelier em Santos o Velho, teve atelier nos Corucheus, em Lisboa, em Colónia, Alemanha, e, posteriormente, na Parede, onde reunia com frequência os seus muitos amigos e onde viveu os últimos anos da sua vida. 
+Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe do seu filho, o maestro [Marcos Magalhães Pombo](https://cesem.fcsh.unl.pt/pessoa/marcos-magalhaes/). Depois de um primeiro atelier em Santos o Velho, teve atelier nos Corucheus, em Lisboa, em Colónia, na Alemanha, e, posteriormente, na casa da Parede, onde reunia com frequência os seus muitos amigos e onde viveu os últimos anos da sua vida. 
 
 
 ## Registos video e audio
