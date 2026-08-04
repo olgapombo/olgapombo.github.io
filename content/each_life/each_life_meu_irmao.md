@@ -195,6 +195,10 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
   
 ## Bibliografia
 
+**Sergio Pombo. Pintura 1980-2007. Texto de Jorge Silva Melo**, Lisboa: Grifos, 2007, ISBN: 978-989-95400-0-2.
+
+
+
 <p align="center">
   <img src="../../static/images/sergio_pombo_livro.webp" height="400">
 </p>
