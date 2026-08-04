@@ -65,7 +65,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 1975 - Lisboa, Galeria Gordilho.
 * 1977 – Paris, Galeria Diagonale.
 * 1978 – Lisboa, SNBA, Galeria de Arte Moderna.
-* 1981 - Lisboa, Fundação Calouste Gulbenkian, **Exposição do Premio Nacional de Gravura**, (Catálogo).
+* 1981 - Lisboa, Fundação Calouste Gulbenkian, **Exposição do Premio Nacional de Gravura**, [**Catálogo**].
 * 1983 – Cascais, Galeria Diagonal, **Escultura/Pintura**
 * 1984 – Lisboa, Galeria Cómicos.
 * –––––– Lisboa, Galeria Quadrum.
