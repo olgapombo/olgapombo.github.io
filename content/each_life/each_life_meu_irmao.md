@@ -169,7 +169,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 2007 – Lisboa, Fundação Calouste Gulbenkian, [**50 Anos de Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/93/).
 * 2008 – Lisboa, Espaço Arte Contemporânea da Fundação Carmona e Costa, [**Aquilo sou Eu: Auto-retratos de Artistas Contemporâneos**](https://www.fundacaocarmona.org.pt/pt/espaco_arte_contemporanea/exposicoes_detalhe_00_1.aspx), obras da colecção Safira e Luís Serpa.
 * 2011 – Lisboa, Pavilhão do Conhecimento Ciência Viva, **Corpo Imagem, representação do corpo na ciência e na arte**.
-* 2019 - Setúbal, Galeria Municipal do 11, ["O Tempo Construído". Grupo 5+1 de 1976 a 2019](https://www.rostos.pt/inicio2.asp?cronica=9008000), (press realise [here](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais))
+* 2019 - Setúbal, Galeria Municipal do 11, ["O Tempo Construído". Grupo 5+1 de 1976 a 2019](https://www.rostos.pt/inicio2.asp?cronica=9008000), [**Catálogo**], (press release [here](https://www.abrilabril.pt/cultura/51-uma-constelacao-nas-artes-visuais))
 * 2019 - Amadora, Galeria Municipal Artur Bual - Casa Aprígio Gomes, **O Tempo Transformado. O Tempo e a Cidade, Grupo 5+1. De 1976 a 2019**, [**Catálogo**]
 * 2021 - Guarda, Teatro Municipal da Guarda,**Sofia Areal em Diálogo com Sérgio Pombo**, ([video](https://www.facebook.com/reel/487604682453996))
 * 2022 - Lisboa, MAAT (jardim), ["48 artistas, 48 anos"](https://www.maat.pt/pt/exhibition/48-artistas-48-anos-de-liberdade), curadoria de António Brito Guterres, Alexandre Farto, Carla Cardoso, João Pinharanda, ([video](https://www.facebook.com/100000663544891/videos/pcb.5518783471487050/371680814947254))
