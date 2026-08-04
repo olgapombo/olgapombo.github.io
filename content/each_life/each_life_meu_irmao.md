@@ -69,30 +69,32 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 1978 – Lisboa, SNBA, Galeria de Arte Moderna.
 * 1981 - Lisboa, Fundação Calouste Gulbenkian, **Exposição do Premio Nacional de Gravura**, [**Catálogo**].
 * 1983 – Cascais, Galeria Diagonal, **Escultura/Pintura**
-* 1984 – Lisboa, Galeria Cómicos.
-* –––––– Lisboa, Galeria Quadrum.
-* 1985 - Palmela, Galeria de Palmela.
+* 1984 – Lisboa, Galeria Quadrum.
+* –––––– Lisboa, Galeria Cómicos. 
+* 1985 - Palmela, Galeria Palmela.
+* 1985 - Cascais, Galeria Alfarroba.
 * 1986 – Lisboa, Altamira, [**Catálogo**].
 * 1987 – Lisboa, Fundação Calouste Gulbenkian, [Premio Nacional de Gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/). [**Catálogo**]
 * –––––– Lisboa, Galeria Quadrum.
 * 1988 – Lisboa, Loja de Desenho.
+* 1988 – Lisboa, Galeria Vertice.
 * 1990 – Lisboa, Galeria Alda Cortez, **Sérgio Pombo. Pintura**, [**Catálogo**].
 * 1992 – Lisboa, Galeria Giefarte.
 * 1994 – Lisboa, Galeria Giefarte.
 * 1997 – Faro, Galeria Trem.
 * 1999 – Funchal, Galeria Edicarte.
 * 2000 – Lisboa, Galeria Reverso, **Escultura**.
-* 2001 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**Sergio Pombo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095), comissariada por Jorge Molder e João Pinharanda, ([**Catálogo**](https://gulbenkian.pt/cam/publications/sergio-pombo/))
+* 2001 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**Sergio Pombo. Pintura**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095), comissariada por Jorge Molder e João Pinharanda, ([**Catálogo**](https://gulbenkian.pt/cam/publications/sergio-pombo/))
 * 2002 – Colares, Galeria de Colares, **O Voo da Cor no Branco da Memória**.
 * 2005 - Lisboa, Teatro Taborda, [**A noite alemã e outros dias**](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo). 
 * 2007 – Lisboa, Galeria CiDiarte, **Pintura**.
 * –––––– Lisboa, Galeria Valbom, **Sergio Pombo. Pintura 2002-2007** [**Catálogo**].
-* –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Desenho de Sérgio Pombo**](https://artistasunidos.pt/desenho-de-sergio-pombo).
+* –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Sérgio Pombo. Desenho**](https://artistasunidos.pt/desenho-de-sergio-pombo).
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte, **Sério Pombo. Pintura e Desenho**.
 * –––––– Lisboa, Galeria CiDiarte, **Sério Pombo. Pintura**, [**Catálogo**].
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
-* 2013 - Lisboa, Museu Arqueológico do Carmo, [**Escultura**](../../static/images/sergio-pombo_museu_carmo.webp "sergio-pombo_museu_carmo.webp")
+* 2013 - Lisboa, Museu Arqueológico do Carmo, [**Sérgio Pombo. O Corpo e a Memória. Escultura**](../../static/images/sergio-pombo_museu_carmo.webp "sergio-pombo_museu_carmo.webp")
 * 2017 - Lisboa, Artistas Unidos, Teatro Politécnica.
 * 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk). ([slide show](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)), [**Catálogo**]
 * 2018 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sergio Pombo Agora**](https://artistasunidos.pt/sergio-pombo-agora-2)
@@ -115,11 +117,12 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 1988 – Filadélfia, EUA, [**70-80. Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
 * 1988 – Atenas, Grécia, [**Portuguese Painting from the last 3 Decades**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/682/).
 * 1992 – Strasburg, França, Palais de l'Europe, **Arte Portuguesa. Parlamento Europeu**.
-* 2007 – Maputo, Galeria Moçambicana de Fotografia, **Sergio Pombo. Pintura**.
+* 2007 – Maputo, Moçambique, Galeria Moçambicana de Fotografia, **Sergio Pombo. Pintura**.
 
 ## Exposições Colectivas (selecção)
 * 1965 – Lisboa, SNBA, **Salão de Outubro**.
 * 1966 - Lisboa, Exposição dos Alunos da Gravura.
+* 1966 - Lisboa, Estudantil de Artes Plásticas.
 * 1967 – Lisboa, Exposição Conventos dos Marianos.
 * 1972 – Lisboa, Exposição do Banco Português do Atlântico.
 * 1972 - Lisboa, SNBA, **Exposição 72**
@@ -130,8 +133,9 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * –––––– Luanda, **Salão Luanda**
 * 1975 – Lisboa, SNBA, **Figuração Hoje**.
 * –––––– Lisboa, Exposição de **100 Obras do Ministério da Comunicação Social**.
+* –––––– Lisboa, Galeria Gordilho.
 * 1976 – Lisboa, SNBA, **Grupo 5+1**.
-* –––––– Lisboa, Fundação Caloust Gulbenkian, **Vinte anos de Gravura**.
+* –––––– Lisboa, Fundação Calouste Gulbenkian, **20 anos de Gravura**.
 * –––––– Lisboa, Secretaria de Estado da Cultura, **Gravura Portuguesa Contemporânea**.
 * –––––– Lisboa, SNBA, **Arte Moderna Portuguesa**
 * 1977 – Lisboa, SNBA, **Mitologias**.
@@ -146,13 +150,13 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 1981 – Lisboa, Galeria de Exposições Temporárias, Fundação Calouste Gulbenkian, **IV Exposição Nacional de Gravura**.
 * 1982 - Lagos, **Exposição Lagos 82**.
 * 1983 – Lisboa, SNBA, **Depois do Modernismo** ([Catalogo, coordenado por Luis Serpa](https://www.livraria-ler-com-gosto.com/depois-do-modernismo)).
-* ––––– Lisboa, SNBA, **Perspectivas Actuais da Arte Portuguesa**.
-* 1983 - Lisboa, Centro de Arte Moderna, Fundação Calouste Gulbenkian, **Alternativa 3**
-* 1983 - Almada, **Festival de Arte Viva**
+* –––––- Lisboa, SNBA, **Perspectivas Actuais da Arte Portuguesa**.
+* –––––- Lisboa, Centro de Arte Moderna, Fundação Calouste Gulbenkian, **Alternativa 3**
+* –––––- Almada, **Festival de Arte Viva**
 * 1984 – Lisboa, **Primeira Exposição de Arte do Banco de Fomento Nacional**.
-* –––––– Lisboa, Palácio de Queluz, **Exposição Incendio**
-* –––––– Lisboa, Instituto Alemão, **Onze Jovens Pintores Portugueses** [**Catálogo**].
-* –––––– Porto, Museu Soares dos Reis, **Exposição ARUS**.
+* –––––– Lisboa, Palácio de Queluz, **Exposição Incêndio**
+* –––––– Lisboa / Porto, Instituto Alemão / Museu Soares dos Reis, **Onze Jovens Pintores Portugueses** [**Catálogo**].
+* –––––– Porto / Lisboa, Museu Soares dos Reis / SNBA, **Exposição ARUS**.
 * 1985 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian.
 * –––––– Lisboa, Fundação Calouste Gulbenkian, **Imaginário da Cidade de Lisboa**.
 * –––––– Lisboa, Ministério da Cultura, **Situações. Exposição Itinerante**.
@@ -161,7 +165,10 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 1986 – Lisboa, CAM - Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**III Exposição de Artes Plásticas**](https://gulbenkian.pt/dacosta/exhibitions/iii-exposicao-de-artes-plasticas/).
 * –––––– Lisboa, Galeria Olharte, **Máscaras**
 * –––––– Lisboa, Palácio dos Corucheus, **Artistas do Centro de Artes Plásticas dos Corucheus** [**Catálogo**]
-* 1989 – Lisboa, FAC, **II Fórum de Arte Contemporânea** ([catalogo](https://www.instagram.com/p/DYojwePiLLA/?img_index=3)).
+* 1987 – Funchal, **Marca**
+* –––––– Porto, Serralves, **Exposição Nacional de Arte Moderna**
+* 1988 – Lisboa, FAC, **II Fórum de Arte Contemporânea** ([catalogo](https://www.instagram.com/p/DYojwePiLLA/?img_index=3)).
+* –––––– Covilhã, **Pintura Portuguesa**
 * 1991 – Lisboa, SNBA **Exposição de Artes Plásticas Portuguesas**.
 * 1993 - Lisboa, **Prémio Banif de Pintura**.
 * 1995 – Lisboa, FIL – **Feira de Arte**.
