@@ -42,7 +42,7 @@ Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e 
 
 Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../static/images/foto_grupo_512.webp "foto_grupo_512.webp"), que integrava igualmente os pintores [João Hogan](../../static/images/pintura_spombo_hogan.jpg), Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](../../static/images/foto_grupo_511.webp "foto_grupo_511.webp")). 
 
-Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe do seu filho, o maestro [Marcos Magalhães Pombo](https://cesem.fcsh.unl.pt/pessoa/marcos-magalhaes/). Depois de um primeiro atelier em Santos o Velho, teve atelier nos Corucheus em Lisboa e, posteriormente, na Parede, onde reunia com frequência os seus muitos amigos e onde viveu os últimos anos da sua vida. 
+Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe do seu filho, o maestro [Marcos Magalhães Pombo](https://cesem.fcsh.unl.pt/pessoa/marcos-magalhaes/). Depois de um primeiro atelier em Santos o Velho, teve atelier nos Corucheus, em Lisboa, em Colónia, Alemanha, e, posteriormente, na Parede, onde reunia com frequência os seus muitos amigos e onde viveu os últimos anos da sua vida. 
 
 
 ## Registos video e audio
@@ -76,7 +76,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 1987 – Lisboa, Fundação Calouste Gulbenkian, [Premio Nacional de Gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/). [**Catálogo**]
 * –––––– Lisboa, Galeria Quadrum.
 * 1988 – Lisboa, Loja de Desenho.
-* 1990 – Lisboa, Galeria Alda Cortez.
+* 1990 – Lisboa, Galeria Alda Cortez, **Sérgio Pombo. Pintura**, [**Catálogo**].
 * 1992 – Lisboa, Galeria Giefarte.
 * 1994 – Lisboa, Galeria Giefarte.
 * 1997 – Faro, Galeria Trem.
@@ -87,11 +87,11 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 2005 - Lisboa, Teatro Taborda, [**A noite alemã e outros dias**](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo). 
 * 2007 – Lisboa, Galeria CiDiarte, **Pintura**.
 * –––––– Maputo, Galeria Moçambicana de Fotografia.
-* –––––– Lisboa, Galeria Valbom.
+* –––––– Lisboa, Galeria Valbom, **Sergio Pombo. Pintura 2002-2007** [**Catálogo**].
 * –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Desenho de Sérgio Pombo**](https://artistasunidos.pt/desenho-de-sergio-pombo).
 * 2008 – Cascais, Galeria Vértice.
 * –––––– Lisboa, Galeria Giefarte, **Sério Pombo. Pintura e Desenho**.
-* –––––– Lisboa, Galeria CDuarte
+* –––––– Lisboa, Galeria CiDiarte, **Sério Pombo. Pintura**, [**Catálogo**].
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
 * 2013 - Lisboa, Museu Arqueológico do Carmo, [**Escultura**](../../static/images/sergio-pombo_museu_carmo.webp "sergio-pombo_museu_carmo.webp")
 * 2017 - Lisboa, Artistas Unidos, Teatro Politécnica.
@@ -107,7 +107,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 1982 – Paris, **XII Bienal de Paris** [**Catálogo**].
 * 1984 – Cáceres, Espanha, **EIAM - I Exposição Ibérica de Arte Moderna**.
 * 1985 – S. Paulo, Brasil, [**XVIII Bienal de S. Paulo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1250/).
-* 1985 – Mérida, Espanha, **Pintado em Portugal**
+* 1985 – Mérida, Espanha, **Pintado em Portugal**, [**Catálogo**]
 * 1986 – Bruxelas, Bélgica, [**Le XXème au Portugal**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/477/).
 * 1987 – Madrid, Espanha, [**Arte Contemporâneo Portugués**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/587/).
 * 1987 – Brasília/Rio de Janeiro/São Paulo, Brasil, [**70-80 Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
@@ -242,13 +242,13 @@ Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](htt
 * Melo, Jorge Silva e; **Sergio Pombo Agora**, in *Catálogo de Exposição Sérgio Pombo Agora*, Artistas Unidos, Lisboa, 2018
 * Molder, Jorge; **Sérgio Pombo**, in *Catálogo de Exposição*. Ed. Fundação Calouste Gulbenkian. Lisboa, 2001.
 * Nabais, Nuno; **Sérgio Pombo. O Fascínio pelo Retrato**, in *Jornal de Letras*, nº 80, pp. 17-23, janeiro 1984.
-* Correa, Carlos Natividade; in *Grande Reportagem*, 14 de dezembro 1984.
+* Correa, Carlos Natividade, *Grande Reportagem*, 14 de dezembro 1984.
 * Pinharanda, João; **Alguns Corpos. Imagens da Arte Portuguesa entre 1950 e 1990**. Ed. EDP. Lisboa, 1998.
 * Pinharanda, João; **Ulisses no Lugar de Penélope**, in *Sérgio Pombo. Catálogo de Exposição*. Ed. Fundação Calouste Gulbenkian. Lisboa, 2001.
 * Pinharanda, João; **A Medida de Todas as Coisas**, in *Catálogo de Exposição Sérgio Pombo. O Corpo e a Linha*, Artiastas Unidos, Lisboa, 2013
 * Porfírio, José Luís; in *Revista Expresso*, 15 de dezembro 1984.
 * Rato, Vanessa; **Escultura como Pintura como Escultura**, in *Público. Ipsilon*, 13 de março 2013.
-* Rocha de Sousa, **Toda a Cidade é um Museu Encoberto**, in *Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra*. Ed. Câmara Municipal de Coimbra. Coimbra, 2003.
+* Rocha de Sousa, **Toda a Cidade é um Museu Encoberto**, in *Pintura Portuguesa Contemporânea nas Colecções Particulares de Coimbra*. Ed. Câmara Municipal de Coimbra, Coimbra, 2003.
 * Pombo Nabais, Catarina, **Para Chegar ao Branco da Última Palavra. Conversa com Sergio Pombo e Rui Numes**, Porto: Officium Lectionis, 2025
 
 
