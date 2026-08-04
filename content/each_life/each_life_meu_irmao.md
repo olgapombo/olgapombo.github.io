@@ -160,7 +160,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * –––––– Lisboa, Galeria Quadrum, **Pequeno Formato**
 * 1986 – Lisboa, CAM - Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**III Exposição de Artes Plásticas**](https://gulbenkian.pt/dacosta/exhibitions/iii-exposicao-de-artes-plasticas/).
 * –––––– Lisboa, Galeria Olharte, **Máscaras**
-* –––––– Lisboa, Palácio dos Corucheus, **Artistas dos Corucheus**
+* –––––– Lisboa, Palácio dos Corucheus, **Artistas do Centro de Artes Plásticas dos Corucheus** [**Catálogo**]
 * 1989 – Lisboa, FAC, **II Fórum de Arte Contemporânea** ([catalogo](https://www.instagram.com/p/DYojwePiLLA/?img_index=3)).
 * 1991 – Lisboa, SNBA **Exposição de Artes Plásticas Portuguesas**.
 * 1993 - Lisboa, **Prémio Banif de Pintura**.
