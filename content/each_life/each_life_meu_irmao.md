@@ -72,7 +72,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 1984 – Lisboa, Galeria Cómicos.
 * –––––– Lisboa, Galeria Quadrum.
 * 1985 - Palmela, Galeria de Palmela.
-* 1986 – Lisboa, Altamira.
+* 1986 – Lisboa, Altamira, [**Catálogo**].
 * 1987 – Lisboa, Fundação Calouste Gulbenkian, [Premio Nacional de Gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/). [**Catálogo**]
 * –––––– Lisboa, Galeria Quadrum.
 * 1988 – Lisboa, Loja de Desenho.
@@ -136,8 +136,8 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * –––––– Lisboa, SNBA, **Arte Moderna Portuguesa**
 * 1977 – Lisboa, SNBA, **Mitologias**.
 * 1977 - Lisboa, SNBA, **Solidariedade e Apoio aos Prisioneiros Anti-fascistas Brasileiros**
-* 1978 – Lisboa, SNBA, **Exposição 5+ 1**.
-* 1978 – Évora, Museu de Évora, **Exposição 5+ 1**.
+* 1978 – Lisboa, SNBA, **Exposição 5+ 1**, [**Catálogo**].
+* 1978 – Évora, Museu de Évora, **Exposição 5+ 1**, [**Catálogo**].
 * 1979 – Porto, Cooperativa Árvore, **Exposição 5+ 1**.
 * 1980 – Lisboa, Galeria de Arte Moderna, **Exposição Inventário 3**.
 * 1980 – Lisboa, **Exposição CNARPE**
