@@ -38,7 +38,7 @@ _______________________________________________________________
 
 ## Sergio Pombo - Nota Biográfica
 
-Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Sociedade Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972). Foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
+Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972). Foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, em 1984, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
 Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../static/images/foto_grupo_512.webp "foto_grupo_512.webp"), que integrava igualmente os pintores [João Hogan](../../static/images/pintura_spombo_hogan.jpg), Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](../../static/images/foto_grupo_511.webp "foto_grupo_511.webp")).
 
@@ -62,13 +62,16 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 
 ## Exposições Individuais (selecção)
 * 1973 – Lisboa, Galeria de 5. Francisco.
+* 1975 - Lisboa, Galeria Gordilho.
 * 1977 – Paris, Galeria Diagonale.
 * 1978 – Lisboa, SNBA, Galeria de Arte Moderna.
+* 1981 - Lisboa, Fundação Calouste Gulbenkian, **Exposição do Premio Nacional de Gravura**, (Catálogo).
 * 1983 – Cascais, Galeria Diagonal, **Escultura/Pintura**
 * 1984 – Lisboa, Galeria Cómicos.
 * –––––– Lisboa, Galeria Quadrum.
+* 1985 - Palmela, Galeria de Palmela.
 * 1986 – Lisboa, Altamira.
-* 1987 – Lisboa, Fundação Calouste Gulbenkian, [Premio nacional de gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/).
+* 1987 – Lisboa, Fundação Calouste Gulbenkian, [Premio nacional de gravura 1987](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/568/). [**Catálogo**]
 * –––––– Lisboa, Galeria Quadrum.
 * 1988 – Lisboa, Loja de Desenho.
 * 1990 – Lisboa, Galeria Alda Cortez.
@@ -77,7 +80,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 1997 – Faro, Galeria Trem.
 * 1999 – Funchal, Galeria Edicarte.
 * 2000 – Lisboa, Galeria Reverso, **Escultura**.
-* 2001 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**Sergio Pombo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095), comissariada por Jorge Molder e João Pinharanda, ([Catálogo](https://gulbenkian.pt/cam/publications/sergio-pombo/))
+* 2001 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**Sergio Pombo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1095), comissariada por Jorge Molder e João Pinharanda, ([**Catálogo**](https://gulbenkian.pt/cam/publications/sergio-pombo/))
 * 2002 – Colares, Galeria de Colares, **O Voo da Cor no Branco da Memória**.
 * 2005 - Lisboa, Teatro Taborda, [**A noite alemã e outros dias**](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo). 
 * 2007 – Lisboa, Galeria CiDiarte, **Pintura**.
@@ -100,7 +103,7 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 * 1977 – Viena, Áustria, **Exposição 5+1**.
 * 1980 – França, **Festival Internacional de Pintura de Cagnes-sur-Mer**.
 * 1982 – Paris, **XII Bienal de Paris**.
-* 1984 – Cáceres, Espanha, **Exposição Ibérica de Arte Moderna**.
+* 1984 – Cáceres, Espanha, **EIAM - I Exposição Ibérica de Arte Moderna**.
 * 1985 – S. Paulo, Brasil, [**XVIII Bienal de S. Paulo**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/1250/).
 * 1985 – Mérida, Espanha, **Pintado em Portugal**
 * 1986 – Bruxelas, Bélgica, [**Le XXème au Portugal**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/477/).
@@ -114,33 +117,51 @@ Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../st
 
 ## Exposições Colectivas (selecção)
 * 1965 – Lisboa, SNBA, **Salão de Outubro**.
+* 1966 - Lisboa, Exposição dos Alunos da Gravura.
 * 1967 – Lisboa, Exposição Conventos dos Marianos.
 * 1972 – Lisboa, Exposição do Banco Português do Atlântico.
+* 1972 - Lisboa, SNBA, **Exposição 72**
 * 1973 – Famalicão, **Primeira Bienal dos Artistas Novos**.
+* 1973 - Lisboa, SNBA, **Salão de Marco**. 
 * 1974 – Lisboa, SNBA, **Salão 74**.
 * –––––– Lisboa, **Painel Colectivo de 10 de Junho**.
+* –––––– Luanda, **Salão Luanda**
 * 1975 – Lisboa, SNBA, **Figuração Hoje**.
 * –––––– Lisboa, Exposição de **100 Obras do Ministério da Comunicação Social**.
 * 1976 – Lisboa, SNBA, **Grupo 5+1**.
 * –––––– Lisboa, Fundação Caloust Gulbenkian, **Vinte anos de Gravura**.
 * –––––– Lisboa, Secretaria de Estado da Cultura, **Gravura Portuguesa Contemporânea**.
+* –––––– Lisboa, SNBA, **Arte Moderna Portuguesa**
 * 1977 – Lisboa, SNBA, **Mitologias**.
+* 1977 - Lisboa, SNBA, **Solidariedade e Apoio aos Prisioneiros Anti-fascistas Brasileiros**
 * 1978 – Lisboa, SNBA, **Exposição 5+ 1**.
+* 1978 – Évora, Museu de Évora, **Exposição 5+ 1**.
 * 1979 – Porto, Cooperativa Árvore, **Exposição 5+ 1**.
 * 1980 – Lisboa, Galeria de Arte Moderna, **Exposição Inventário 3**.
-* 1981 – Lisboa, Fundação Calouste Gulbenkian, **Terceira Exposição Nacional de Gravura**.
+* 1980 – Lisboa, **Exposição CNARPE**
+* 1980 – Lisboa, Palácio dos Corucheus, **Exposição Ateliers Municipais de Lisboa**
+* 1980 – Lisboa, SNB, **Figurações. Intervenções**
+* 1981 – Lisboa, Galeria de Exposições Temporárias, Fundação Calouste Gulbenkian, **IV Exposição Nacional de Gravura**.
+* 1982 - Lagos, **Exposição Lagos 82**.
 * 1983 – Lisboa, SNBA, **Depois do Modernismo** ([Catalogo, coordenado por Luis Serpa](https://www.livraria-ler-com-gosto.com/depois-do-modernismo)).
 * ––––– Lisboa, SNBA, **Perspectivas Actuais da Arte Portuguesa**.
+* 1983 - Lisboa, Centro de Arte Moderna, Fundação Calouste Gulbenkian, **Alternativa 3**
+* 1983 - Almada, **Festival de Arte Viva**
 * 1984 – Lisboa, **Primeira Exposição de Arte do Banco de Fomento Nacional**.
-* ––––– Lisboa, Instituto Alemão, **Onze Jovens Pintores Portugueses** (catálogo).
-* ––––– Porto, Museu Soares dos Reis.
+* –––––– Lisboa, Palácio de Queluz, **Exposição Incendio**
+* –––––– Lisboa, Instituto Alemão, **Onze Jovens Pintores Portugueses** (catálogo).
+* –––––– Porto, Museu Soares dos Reis, **Exposição ARUS**.
 * 1985 – Lisboa, CAM – Centro de Arte Moderna da Fundação Calouste Gulbenkian.
-* ––––– Lisboa, Fundação Calouste Gulbenkian, **Imaginário da Cidade de Lisboa**.
-* ––––– Ministério da Cultura, **Exposição Itinerante, Situações**.
-* 1986 – CAM, Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**III Exposição de Artes Plásticas**](https://gulbenkian.pt/dacosta/exhibitions/iii-exposicao-de-artes-plasticas/).
+* –––––– Lisboa, Fundação Calouste Gulbenkian, **Imaginário da Cidade de Lisboa**.
+* –––––– Lisboa, Ministério da Cultura, **Situações. Exposição Itinerante**.
+* –––––– Lisboa, Galeria Quadrum, **Colectiva Quadrum**
+* –––––– Lisboa, Galeria Quadrum, **Pequeno Formato**
+* 1986 – Lisboa, CAM - Centro de Arte Moderna da Fundação Calouste Gulbenkian, [**III Exposição de Artes Plásticas**](https://gulbenkian.pt/dacosta/exhibitions/iii-exposicao-de-artes-plasticas/).
+* –––––– Lisboa, Galeria Olharte, **Máscaras**
+* –––––– Lisboa, Palácio dos Corucheus, **Artistas dos Corucheus**
 * 1989 – Lisboa, FAC, **II Fórum de Arte Contemporânea** ([catalogo](https://www.instagram.com/p/DYojwePiLLA/?img_index=3)).
 * 1991 – Lisboa, SNBA **Exposição de Artes Plásticas Portuguesas**.
-* 1993 - Lisboa, Prémio Banif de Pintura.
+* 1993 - Lisboa, **Prémio Banif de Pintura**.
 * 1995 – Lisboa, FIL – **Feira de Arte**.
 * 1997 – Lisboa, Galeria César.
 * 2007 – Lisboa, Fundação Calouste Gulbenkian, [**50 Anos de Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/93/).
@@ -199,15 +220,15 @@ Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](htt
 ## Catálogos e outros textos
 
 * A.A.B.B.; Sérgio Pombo. **Catálogo da XII Bienal de Paris**. Ed. Ministère des Afaires Étrangers. Ministère de la Culture et Coordination Scientifique, Fondation Calouste Gulbenkian. Paris, 1982.
-* Álvaro, Egídio; **Signes Énigmatiques et Obsédants de la Réalité Quotidienne**, in *Catálogo de Exposição Individual*. Ed. Galeria Diagonal, Paris, 1977.
+* Álvaro, Egídio; **Signes Énigmatiques et Obsédants de la Réalité Quotidienne**, in *Catálogo de Exposição Individual*. Ed. Galerie Diagonal, Paris, 1977.
 * Alves de Oliveira, Manuel; **O Grande Livro dos Portugueses**. Ed. Círculo de Leitores, 1990.
 * Cardoso, Luisa; **New York by Sergio Pombo at CAM**, in [CAM Gulbenkian](https://gulbenkian.pt/cam/en/sem-categoria/new-work-by-sergio-pombo-at-the-cam/) 
 * Gonçalves, Rui Mário; **Sérgio Pombo**, in *Catálogo da XII Bienal de Paris*. 1982.
 * Gonçalves, Rui Mário; in *Colóquio Artes*, nº 48.
 * Gonçalves, Rui Mário; in *Jornal de Letras*, nº 79, pp. 10-16, 1984.
-* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 60, março 1984.
+* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 60, março 1984, pp.61-62
 * Gonçalves, Rui Mário; **10 Anos de Artes Plásticas em Portugal, 1974-1984**. Ed. Caminho. Lisboa, 1985.
-* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 67, 1985.
+* Gonçalves, Rui Mário; in *Colóquio Artes*, nº 67, dezembro 1985.
 * Gonçalves, Rui Mário; in *Colóquio Artes*, nº 103, dezembro 1994.
 * Gonçalves, Rui Mário; **100 Pintores Portugueses do Século XX**; Ed. Alfa. Lisboa, 1996.
 * Gonçalves, Rui Mário; **Vontade de Mudança. Cinco Décadas de Artes Plásticas**. Ed. Caminhi. Lisboa, 2004.
