@@ -86,7 +86,6 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 2002 – Colares, Galeria de Colares, **O Voo da Cor no Branco da Memória**.
 * 2005 - Lisboa, Teatro Taborda, [**A noite alemã e outros dias**](https://artistasunidos.pt/a-noite-alema-e-os-outros-dias-de-sergio-pombo). 
 * 2007 – Lisboa, Galeria CiDiarte, **Pintura**.
-* –––––– Maputo, Galeria Moçambicana de Fotografia.
 * –––––– Lisboa, Galeria Valbom, **Sergio Pombo. Pintura 2002-2007** [**Catálogo**].
 * –––––– Lisboa, Artistas Unidos, Convento das Mónicas, [**Desenho de Sérgio Pombo**](https://artistasunidos.pt/desenho-de-sergio-pombo).
 * 2008 – Cascais, Galeria Vértice.
@@ -116,6 +115,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 1988 – Filadélfia, EUA, [**70-80. Arte Portuguesa**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/561/).
 * 1988 – Atenas, Grécia, [**Portuguese Painting from the last 3 Decades**](https://gulbenkian.pt/historia-das-exposicoes/exhibitions/682/).
 * 1992 – Strasburg, França, Palais de l'Europe, **Arte Portuguesa. Parlamento Europeu**.
+* 2007 – Maputo, Galeria Moçambicana de Fotografia, **Sergio Pombo. Pintura**.
 
 ## Exposições Colectivas (selecção)
 * 1965 – Lisboa, SNBA, **Salão de Outubro**.
