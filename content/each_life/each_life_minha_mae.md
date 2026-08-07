@@ -10,7 +10,7 @@ toc: false
 <div style="display:flex; gap:80px; justify-content:center; margin:50px 0;">
 
   <div style="text-align:center;">
-    <div style="width:500px; height:600px; overflow:hidden; border-radius:6px;">
+    <div style="width:550px; height:600px; overflow:hidden; border-radius:6px;">
       <img src="../../static/images/foto_mae.webp"
            alt="foto_mae"
            style="width:100%; height:100%; object-fit:cover;">
@@ -21,7 +21,7 @@ toc: false
   </div>
 
   <div style="text-align:center;">
-    <div style="width:500px; height:600px; overflow:hidden; border-radius:6px;">
+    <div style="width:550px; height:600px; overflow:hidden; border-radius:6px;">
       <img src="../../static/images/foto_desenho_sergio_mae.webp"
            alt="foto_desenho_sergio_mae"
            style="width:100%; height:100%; object-fit:cover;">
