@@ -7,7 +7,7 @@ toc: false
 # A minha mãe
 
 
-<div style="display:flex; gap:70px; justify-content:center; margin:50px 0;">
+<div style="display:flex; gap:80px; justify-content:center; margin:50px 0;">
 
   <div style="text-align:center;">
     <div style="width:500px; height:600px; overflow:hidden; border-radius:6px;">
