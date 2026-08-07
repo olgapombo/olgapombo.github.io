@@ -6,16 +6,26 @@ toc: false
 
 # A minha mãe
 
-  <div style="display:flex; gap:20px; align-items:flex-start; margin-top:20px; margin-bottom:20px;">
+<div style="display:flex; gap:30px; justify-content:center; margin:30px 0;">
+  
   <div style="text-align:center;">
-    <img src="../../static/images/foto_mae.webp" alt="foto_mae" style="width:300px; height:auto;">
-    <div style="margin-top:8px; font-size:14px;">Fotografia de Maria do Rosário Pombo (1916–2006)</div>
+    <img src="../../static/images/foto_mae.webp"
+         alt="foto_mae"
+         style="width:350px; height:auto; border-radius:4px;">
+    <div style="margin-top:8px; font-size:14px;">
+      Fotografia de Maria do Rosário Pombo (1916–2006)
+    </div>
   </div>
 
   <div style="text-align:center;">
-    <img src="../../static/images/foto_desenho_sergio_mae.webp" alt="foto_desenho_sergio_mae" style="width:300px; height:auto;">
-    <div style="margin-top:8px; font-size:14px;">Desenho de Sérgio Pombo, 2016</div>
+    <img src="../../static/images/foto_desenho_sergio_mae.webp"
+         alt="foto_desenho_sergio_mae"
+         style="width:350px; height:auto; border-radius:4px;">
+    <div style="margin-top:8px; font-size:14px;">
+      Desenho de Sérgio Pombo, 2016
+    </div>
   </div>
+
 </div>
 
 >
