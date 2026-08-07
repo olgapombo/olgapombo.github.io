@@ -11,7 +11,7 @@ toc: false
   <div style="text-align:center;">
     <img src="../../static/images/foto_mae.webp"
          alt="foto_mae"
-         style="width:350px; height:auto; border-radius:4px;">
+         style="width:400px; height:auto; border-radius:4px;">
     <div style="margin-top:8px; font-size:14px;">
       Fotografia de Maria do Rosário Pombo (1916–2006)
     </div>
@@ -20,7 +20,7 @@ toc: false
   <div style="text-align:center;">
     <img src="../../static/images/foto_desenho_sergio_mae.webp"
          alt="foto_desenho_sergio_mae"
-         style="width:350px; height:auto; border-radius:4px;">
+         style="width:400px; height:auto; border-radius:4px;">
     <div style="margin-top:8px; font-size:14px;">
       Desenho de Sérgio Pombo, 2016
     </div>
