@@ -5,27 +5,32 @@ toc: false
 ---
 
 # A minha mãe
-<div style="display:flex; gap:30px; justify-content:center; margin:30px 0;">
+<div style="display:flex; gap:40px; justify-content:center; margin:40px 0;">
 
   <div style="text-align:center;">
-    <img src="../../static/images/foto_mae.webp"
-         alt="foto_mae"
-         style="height:380px; width:300px; object-fit:cover; border-radius:4px;">
-    <div style="margin-top:8px; font-size:14px;">
+    <div style="width:400px; height:500px; overflow:hidden; border-radius:6px;">
+      <img src="../../static/images/foto_mae.webp"
+           alt="foto_mae"
+           style="width:100%; height:100%; object-fit:cover;">
+    </div>
+    <div style="margin-top:10px; font-size:15px;">
       Fotografia de Maria do Rosário Pombo (1916–2006)
     </div>
   </div>
 
   <div style="text-align:center;">
-    <img src="../../static/images/foto_desenho_sergio_mae.webp"
-         alt="foto_desenho_sergio_mae"
-         style="height:380px; width:300px; object-fit:cover; border-radius:4px;">
-    <div style="margin-top:8px; font-size:14px;">
+    <div style="width:400px; height:500px; overflow:hidden; border-radius:6px;">
+      <img src="../../static/images/foto_desenho_sergio_mae.webp"
+           alt="foto_desenho_sergio_mae"
+           style="width:100%; height:100%; object-fit:cover;">
+    </div>
+    <div style="margin-top:10px; font-size:15px;">
       Desenho de Sérgio Pombo, 2016
     </div>
   </div>
 
 </div>
+
 
 >
 >
