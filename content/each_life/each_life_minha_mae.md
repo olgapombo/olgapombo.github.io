@@ -36,7 +36,7 @@ toc: false
 
 >
 >
-Maria do Rosário Pombo, *Dentro de mim so há Marão*, Lisboa, 2016.
+Maria do Rosário Pombo, *[**Dentro de mim so há Marão**](../../static/pdf-text/MRP_livro_dentro_de_mim.pdf)*, Lisboa, 2016.
 
 A capa foi construída a partir de um desenho magnifico de Sergio Pombo (em cima, à direita), seu filho, tomando como base uma fotografia antiga (em cima à esquerda). O livro foi editado por Catarina Pombo Nabais, sua neta, em 2016. Nele se reúne tudo o que foi possível resgatar da escrita da minha mãe: poemas manuscritos, versos dispersos publicados em jornais da época, textos de intervenção, algumas fotografias, fac-símiles e outros fragmentos que sobreviveram ao tempo e ao esquecimento. Inclui ainda testemunhos das suas duas netas e do seu neto - Patricia Pombo Medeiros, Catarina Pombo Nabais e Marcos Magalhães Pombo.
 
