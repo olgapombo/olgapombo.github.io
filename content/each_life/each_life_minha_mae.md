@@ -6,14 +6,6 @@ toc: false
 
 # A minha mãe
 
-<div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
-    <img src="../../static/images/foto_mae.webp" alt="foto_mae" style="max-width: 300px; height: auto;">
->>>>fotografia de Maria do Rosario Pombo (1916-2006)
-    <img src="../../static/images/foto_desenho_sergio_mae.webp" alt="foto_desenho_sergio_mae" style="max-width: 300px; height: auto;">
-</div>
-
-
-
   <div style="display:flex; gap:20px; align-items:flex-start; margin-top:20px; margin-bottom:20px;">
   <div style="text-align:center;">
     <img src="../../static/images/foto_mae.webp" alt="foto_mae" style="width:300px; height:auto;">
@@ -26,12 +18,6 @@ toc: false
   </div>
 </div>
 
-
-
-
-
-
-> Desenho de Sergio Pombo, 2016
 >
 >
 Maria do Rosário Pombo, *Dentro de mim so há Marão*, Lisboa, 2016.
