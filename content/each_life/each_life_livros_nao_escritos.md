@@ -6,7 +6,9 @@ draft: false
 # Os livros que escrevi e os que não escrevi
 
 
-**O meu primeiro livro**, *Leibniz and the Problem of Universal Language* tem uma história rocambolesca.
+**O meu primeiro livro** - *Leibniz and the Problem of Universal Language* - tem uma história rocambolesca.
+Tem na sua base uma tese de mestrado que fiz na Universiadde Nova sob orientação de Fernando Gil. 
+
 
 
 Muitos dos **livros que editei** nasceram como gestos de amizade. 
