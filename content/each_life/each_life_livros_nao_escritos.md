@@ -5,6 +5,7 @@ draft: false
 
 # Os livros que escrevi e os que não escrevi
 
+Porque há sempre uma parte da vida que fica fora das páginas, mas que, ainda assim, lhes pertence.
 
 **O meu primeiro livro** - *Leibniz and the Problem of Universal Language* - tem uma história rocambolesca.
 Na sua base está uma tese de mestrado que fiz na Universidade Nova sob orientação de Fernando Gil. 
