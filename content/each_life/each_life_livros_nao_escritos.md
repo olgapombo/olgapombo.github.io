@@ -35,3 +35,19 @@ Estávamos em Maio de 2008. O livro só veio a ser editado em 2021, treze anos d
 >>###### Tudo nos separa do mundo que Platão pensou e recriou com arte sublime. Mas queremos regressar. Não para assistir aos começos ingénuos daquilo que nós hoje possuiríamos na sua forma desenvolvida. Mas para ruminar, reconstruir, e, se possível, reencontrar (absorver) alguma da grandeza desses momentos únicos do mundo antigo. Não para lamentar o imenso que se perdeu, menos ainda para celebrar tudo o que se ganhou. Mas para recuperar forças, para reanimar o desejo, para reforçar o impulso  que nos pode levar a um tempo em que as aspirações filosóficas e artísticas, comunicativas e democráticas então constituídas, voltem a ser possíveis.
 
  
+
+**Os livros que não escrevi**
+
+São três os livros que indiquei como *forthcoming* na lista dos livros que publiquei. 
+
+Dois estão escritos mas não acabados, não fechados, não publicados.  
+
+>> **Estudos de Ciência e Arte / Studies on Science and Art** reune um conjunto de textos que fui escrevendo ao longo dos anos em que propus e coordenei o projecto FCT "A Imagem na Ciencia e na Arte", e ao longo dos quais inventei e leccionei, na FCUL, a cadeira "Ciência e Arte". Na sua maior parte, os textos que constituiriam esse livro  são resultantes de conferencias apresentadas em diversos contextos, umas em português, outras em inglês. 
+
+
+>> **Cartographies of Knowledge**. Sem ter por base um ensino ou um projecto de investigação apresentado a financiamento, este conjunto de textos - conferencias, ensaios, - respondem ao meu interesse pela cartografia do conhecimento ao longo do tempo, pelo mapeamento das disciplinas,  pela classificação dos saberes, pela ordem das instituições universais com que a ciência sempre se fez. 
+
+O terceiro livro -  **Deriva a partir de Rousseau / Derives from Rousseau** - transporta consigo um mistério que não consigo deslindar. O livro está integralmente escrito desde 1995. Trinta anos! Parece mentira. Tem capa, está organizado em capítulos, tem índice e bibliografia, algumas fotografias que uma amiga, a fotógrafa Maria José Palla, me deu para uma publicação que esteve várias vezes eminente mas nunca se efectivou. À ultima hora, eu recuei sempre. Ainda era cedo para fazer entrar na esfera publica a minha leitura de Rousseau. Ainda era cedo para acabar com a misteriosa presença de Rousseau na minha alma. 
+Varias vezes, peguei nele. Procurei reve-lo, reescreve-lo, actualizá-lo. Nunca fui capaz de alterar nada de substancial. Ele é - e simultaneamente não é - um livro académico que poderia beneficiar de novas referencias bibliográficas, que deveria ser enriquecido com novas leituras. Mas tambem não é um texto literário, um monumento intocável.
+
+Lentamente, começou a constituir-se em mim a convicção de que este seria o ultimo livro que eu publicaria. Quando então decidir publicá-lo? Como resistir ao adiamento máximo desse momento?
