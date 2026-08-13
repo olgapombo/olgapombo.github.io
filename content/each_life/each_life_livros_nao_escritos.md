@@ -14,8 +14,6 @@ Na sua base está uma tese de mestrado que fiz na Universidade Nova sob orienta�
 
 **Muitos dos livros que editei nasceram como gestos de amizade**. 
 
-Muitos dos **livros que editei** nasceram como gestos de amizade
-
 Há livros que nascem de longas investigações, outros de urgências interiores, e outros ainda de encontros fortuitos que, sem aviso, se tornam decisivos. Não nascem de um plano, mas de uma constelação de circunstâncias, conversas, afinidades que, pouco a pouco, se reconhecem mutuamente.
 
 
