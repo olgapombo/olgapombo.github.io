@@ -38,7 +38,7 @@ Estávamos em Maio de 2008. O livro só veio a ser editado em 2021, treze anos d
 
 **Os livros que não escrevi**
 
-São três os livros que anunciei  como *forthcoming* na lista das minhas publicações. Livros que, por enquanto, habitam uma zona de penumbra onde respiram, murmuram ao meu ouvido, falam por vezes em voz alta, mas  não existir ainda plenamente.
+São três os livros que anunciei  como *forthcoming* na lista das minhas publicações. Livros que, por enquanto, habitam uma zona de penumbra onde respiram, murmuram ao meu ouvido, falam por vezes em voz alta, mas não existem ainda plenamente.
 
 Dois estão escritos, mas não acabados. Não fechados. Não publicados. São livros que acompanhei durante anos, que cresceram comigo, que aguardam  alguns acertos finais. 
 
