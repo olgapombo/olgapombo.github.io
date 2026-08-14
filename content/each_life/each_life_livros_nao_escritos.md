@@ -14,10 +14,10 @@ Na sua base está uma tese de mestrado que fiz na Universidade Nova sob orienta�
 
 **Muitos dos livros que editei nasceram como gestos de amizade**. 
 
-Há livros que nascem de longas investigações, outros de urgências interiores, e outros ainda de encontros fortuitos que, sem aviso, se tornam decisivos. Não nascem de um plano, mas de uma constelação de circunstâncias, conversas, afinidades que, pouco a pouco, se reconhecem mutuamente.
+Há livros que nascem de longas investigações, outros de urgências interiores,  outros - acontece muito, nos círculos académicos de hoje em dia - nascem de encontros entre colegas, cruzamentos disciplinares, de uma constelação de circunstâncias mais ou menos fortuitas que, num dado momento se tornam decisivas. Outros ainda, raros, nascem de afinidades que, pouco a pouco, se reconhecem mutuamente. De amizades.
 
 
-O pequeno volume sobre **O Protágoras, de Platão** foi um deles. Foi lentamente sonhado, congeminado, preparado em encontros de amigos que, um belo dia, descobriram o seu partilhado e antigo amor por aquele diálogo de Platão. Perante essa constatação, realizamos um conjunto de encontros em que cada um apresentou as razões do seu encantamento perante aquele texto. A ideia de uma publicação conjunta saiu reforçada depois de nos ouvirmos uns aos outros. Não era ainda um projecto: era uma promessa, uma espécie de pacto silencioso que ficou a pairar. No ar. Entre nós.
+O pequeno volume sobre **O Protágoras, de Platão** foi um deles. Foi lentamente sonhado, congeminado, preparado em conversas de amigos que, um belo dia, descobriram o seu comum e antigo amor por aquele diálogo de Platão. Perante essa constatação, realizámos um conjunto de encontros em que cada um falou livremente das razões do seu encantamento perante aquele texto. A ideia de uma publicação conjunta saiu reforçada depois de nos ouvirmos uns aos outros. Não era ainda um projecto: era uma promessa, uma espécie de pacto silencioso que ficou a pairar. No ar. Entre nós.
 
 Entretanto, na cadeira de "Historia e Filosofia da Educação" que então leccionava na Faculdade de Ciências, durante os lectivos 1999-2001, decidi dedicar dois cursos ao "Protágoras" de Platão. Cursos que, surpreendentemente, tiveram uma excepcional recepção junto dos alunos. Eram sobretudo estudantes de Matemática. Ainda hoje me comovo ao recordar como aqueles estudantes, tão afastados da tradição filosófica, ficarem maravilhados com um texto com 2500 anos. Como foram tocados pela beleza dos argumentos, pela elegância das demonstrações, pela luminosa arquitectura interna do diálogo.  
 
@@ -38,11 +38,11 @@ Estávamos em Maio de 2008. O livro só veio a ser editado em 2021, treze anos d
 
 **Os livros que não escrevi**
 
-São três os livros que indiquei como *forthcoming* na lista dos livros que publiquei. 
+São três os livros que indiquei como *forthcoming* na lista das minhas publicações. Livros que, por enquanto, habitam uma zona de penumbra onde respiram, murmuram ao meu ouvido, falam por vezes em voz alta. Mas  hesitam em existir plenamente.
 
-Dois estão escritos mas não acabados, não fechados, não publicados.  
+Dois deles estão escritos, mas não acabados. Não fechados. Não publicados. São livros que acompanhei durante anos, que cresceram comigo, que se foram transformando à medida que eu própria me transformava.
 
->> **Estudos de Ciência e Arte / Studies on Science and Art** reune um conjunto de textos que fui escrevendo ao longo dos anos em que propus e coordenei o projecto FCT "A Imagem na Ciencia e na Arte", e ao longo dos quais inventei e leccionei, na FCUL, a cadeira "Ciência e Arte". Na sua maior parte, os textos que constituiriam esse livro  são resultantes de conferencias apresentadas em diversos contextos, umas em português, outras em inglês. 
+>> **Estudos de Ciência e Arte / Studies on Science and Art** reúne um textos que fui escrevendo ao longo dos anos em que propus e coordenei o projecto FCT "A Imagem na Ciencia e na Arte", e ao longo dos quais inventei e leccionei, na FCUL, a cadeira "Ciência e Arte". Na sua maior parte, são textos resultantes de conferencias, debates, mesas redondas apresentadas em diversos contextos, algumas vezes em português, outras em inglês. Juntos, aspiram a identificar as [afinidades admiráveis e as diferenças sublimes](https://www.youtube.com/watch?v=Bq12-IleNRM) entre a ciência e as artes. 
 
 
 >> **Cartographies of Knowledge**. Sem ter por base um ensino ou um projecto de investigação apresentado a financiamento, este conjunto de textos - conferencias, ensaios, - respondem ao meu interesse pela cartografia do conhecimento ao longo do tempo, pelo mapeamento das disciplinas,  pela classificação dos saberes, pela ordem das instituições universais com que a ciência sempre se fez. 
