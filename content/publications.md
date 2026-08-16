@@ -385,7 +385,6 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * *O valor cognitivo da árvore*/ The cognitive value of the tree 
 * *A infinitude da queda no 'Teeteto' de Platão*/ The infinitude of the fall in Plato’s *Theaetetus* 
 * *Por que é que Rousseau não é um utopista mas parece?*/ Why Rousseau is not an utopian but he seems to be
-* *Os lugares da ciência e da filosofia*/ The places of science and philosophy
 * *Oralidade, escrita. Uma revolução tecnológica eloquente para a compreensao do nosso presente*/ Orality, writing. A technological revolution eloquent for understanding our present
 * *A leitura no mundo de ontem e no mundo de amanhã*/ Reading in the world of yesterday and tomorrow 
 * *Escola e Universidade. O desafio das tecnologias do conhecimento* /School and University. The challenges of Knowledge technologies.
@@ -393,16 +392,17 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * *Interdisciplinaridade e futuro da universidade / Interdisciplinarity and the future of University* 
 * *Plínio e a internet / Enciclopédia e internet*/Pliny and the internet/Encyclopaedia and internet
 * [*Enciclopédias filosóficas*](../static/pdf-text/enciclopedias_filosoficas.pdf) / Philosophical Encyclopaedias
-* *Filosofia e matemática – Da mathesis universalis a Lewis Carroll*/ Philosophy and mathematics – From Mathesis Universalis to LewisCarroll 
+* *Filosofia e matemática – Da 'mathesis universalis' a Lewis Carroll*/ Philosophy and mathematics – From *Mathesis Universalis* to LewisCarroll 
 * *O Lugar de Leibniz na História da Lógica*/ Leibniz’s place in the History of Logic
 * *Por que não somos ainda leibnizianos*/ Why we are not yet Leibnizians 
-* *Ciência, tecnociência e pseudo ciência*/ Science, technoscience, and pseudoscience 
 * *Descontinuidade do tempo e novidade em Bachelard*/ Time discontinuity and novelty in Bachelard 
-* *Mistérios da criação*/ The mysteries of creation 
+* *Os lugares da ciência e da filosofia*/ The places of science and philosophy* 
+* *Epistemologia da imagem científica* / Epistemology of scientific image *
+* *A imagem na ciência e na arte*/ Image in science and art
 * *Towards a cartography of the concept of creation in science and art*
 * *Creation in science and art. Comparative examples*
 * *Science and art. Variations upon a common ground* 
 * *Ciencia e arte. Afinidades admiráveis e diferenças sublimes*/ Science and art: admirable affinities and sublime differences 
-* *A imagem na ciencia e na arte*/ Image in science and art 
+
 
 
