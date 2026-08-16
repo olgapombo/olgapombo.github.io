@@ -373,17 +373,6 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 > 6.	Educar / Ensinar. Materiais de estudo (Educate / Teaching. Study Materials), (2001)
 > 7.	Três Textos sobre Educação para um Mundo Difícil:  Bertrand Russell e Ortega Y Gasset (Three Texts on Education for a Difficult World, (2005)
 
-  
-### <a name="Journal-editor"></a>Journal editor
-
-* Founder and editor of **[Aion. Journal of Philosophy & Science](https://journals.ku.edu/aion)**, University of Kansas Libraries, USA (2024 – on going)
-* Founder and director of [**Kairos. Journal of Philosophy & Science**](./publications-kairos.md), CFCUL/De Gruyter (2010 - 2022) (see [here](https://kairos.campus.ciencias.ulisboa.pt/) and [here](https://kairos.campus.ciencias.ulisboa.pt/comissao-editorial-2/) and [here](https://www.pjip.org/journal-profile.html?search.search=1647-659X)) 
-* Co-founder of the journal **Filosofia**, edited by the Portuguese Society for Philosophy (SPF) (1985 – 1990).
-
-#### Journal guest editor
-
-* Pombo, Olga (2015), [**Axiomathes, Special Issue - Metaphysical and Epistemological Challenges**](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/axiomates%2010.1007_s10516-014-9264-5.pdf) Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
-* Pombo, Olga (2012), **[Kairos. Journal of Philosophy & Science - Dossier Leibniz](https://arquivo.pt/wayback/20150416225706/http://kairos.fc.ul.pt/numeros-anteriores-2/)**, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824 **(more info [here](https://sciendo.com/journal/KJPS?content-tab=editorial-board&top-tab=top-cited))**
 
 ### <a name="Online-works"></a>[Online works](preprints.md)
 
@@ -396,10 +385,12 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * *O valor cognitivo da árvore*/ The cognitive value of the tree 
 * *A infinitude da queda no 'Teeteto' de Platão*/ The infinitude of the fall in Plato’s *Theaetetus* 
 * *Por que é que Rousseau não é um utopista mas parece?*/ Why Rousseau is not an utopian but he seems to be
-* *Oralidade, escrita. Uma eloquente revolução tecnológica*/ Orality, writing. An eloquent technological revolution 
+* *Os lugares da ciência e da filosofia*/ The places of science and philosophy
+* *Oralidade, escrita. Uma revolução tecnológica eloquente para a compreensao do nosso presente*/ Orality, writing. A technological revolution eloquent for understanding our present
 * *A leitura no mundo de ontem e no mundo de amanhã*/ Reading in the world of yesterday and tomorrow 
-* *Os lugares da ciência e da filosofia*/ The places of science and philosophy 
-* *Da universidade medieval à universidade mundial electrónica*/ From the medieval University to the global electronic University 
+* *Escola e Universidade. O desafio das tecnologias do conhecimento* /School and University. The challenges of Knowledge technologies.
+* *Verdade e velocidade. Dois conceitos para pensar o futuro da universidade*/ Thruth and speed. Two concepts to think the future of university
+* *Interdisciplinaridade e futuro da universidade / Interdisciplinarity and the future of University* 
 * *Plínio e a internet / Enciclopédia e internet*/Pliny and the internet/Encyclopaedia and internet
 * [*Enciclopédias filosóficas*](../static/pdf-text/enciclopedias_filosoficas.pdf) / Philosophical Encyclopaedias
 * *Filosofia e matemática – Da mathesis universalis a Lewis Carroll*/ Philosophy and mathematics – From Mathesis Universalis to LewisCarroll 
