@@ -6,7 +6,7 @@ description: "Complete list of publications by Olga Pombo: dissertations, author
 ---
 
 ## Publications 
-######  | [Dissertations](#dissertations) | [Books (author)](#books-author) | [Books (editor)](#books-editor) | [Chapters](#chapters) | [Encyclopaedia entries](#encyclopaedia-entries) | [Articles](#articles) | [Book reviews](#book-reviews) | [Scholar brochures](#scholar-brochures) | [Room texts](#room-texts-at-exhibitions) | [Book series editor](#book-series-editor) | [Journal editor](#journal-editor) | [Online works](#online-works) | [Preprints and working papers](#preprints-and-working-papers) 
+######  | [Dissertations](#dissertations) | [Books (author)](#books-author) | [Books (editor)](#books-editor) | [Chapters](#chapters) | [Encyclopaedia entries](#encyclopaedia-entries) | [Articles](#articles) | [Book reviews](#book-reviews) | [Scholar brochures](#scholar-brochures) | [Room texts](#room-texts-at-exhibitions) | [Journal editor](#journal-editor) | [Book series editor](#book-series-editor) | [Online works](#online-works) | [Preprints and working papers](#preprints-and-working-papers) 
 
 
 
@@ -287,6 +287,19 @@ see also [here](../static/pdf-text/OP_prefacio_barros_veloso.PDF)
 Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearance of the Borders of the Idea of Utopia**, Islands of Utopia exhibition, Lisboa: Livraria Ler Devagar.
 * Pombo, Olga (2003) **Enciclopédia, Hipertexto e Condição Humana**, A Condição Humana exhibition by Rodrigo Vilhena, Lisboa ([here](../static/pdf-text/OP_room_text_rodrigo_vilhena.pdf)).
 * Pombo, Olga (1996) **Nenhum Vento**, Olhares Soltos exhibition by Paulo Nabais, Lisboa: Arquivo Fotográfico da Câmara Municipal de Lisboa.
+
+
+### <a name="Journal-editor"></a>Journal editor
+
+* Founder and editor of **[Aion. Journal of Philosophy & Science](https://journals.ku.edu/aion)**, University of Kansas Libraries, USA (2024 – on going)
+* Founder and director of [**Kairos. Journal of Philosophy & Science**](./publications-kairos.md), CFCUL/De Gruyter (2010 - 2022) (see [here](https://kairos.campus.ciencias.ulisboa.pt/) and [here](https://kairos.campus.ciencias.ulisboa.pt/comissao-editorial-2/) and [here](https://www.pjip.org/journal-profile.html?search.search=1647-659X)) 
+* Co-founder of the journal **Filosofia**, edited by the Portuguese Society for Philosophy (SPF) (1985 – 1990).
+
+
+#### Journal guest editor
+
+* Pombo, Olga (2015), [**Axiomathes, Special Issue - Metaphysical and Epistemological Challenges**](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/axiomates%2010.1007_s10516-014-9264-5.pdf) Papers from the 2013 Lisbon Conference, *Axiomathes*, vol. 25 (1), March, pp.1-143. DOI: 10.1007/s10516-014-9264-5
+* Pombo, Olga (2012), **[Kairos. Journal of Philosophy & Science - Dossier Leibniz](https://arquivo.pt/wayback/20150416225706/http://kairos.fc.ul.pt/numeros-anteriores-2/)**, *Kairos. Journal of Philosophy & Science*, 4, May, pp. 119-151. ISSN (print): 2182-2824 **(more info [here](https://sciendo.com/journal/KJPS?content-tab=editorial-board&top-tab=top-cited))**
 
 
 ### <a name="Book-series-editor"></a>Book series editor
