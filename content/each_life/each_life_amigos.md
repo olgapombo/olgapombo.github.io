@@ -10,8 +10,11 @@ toc: false
 
 ![foto_eu_e_sergio_espelhos](../../static/images/foto_eu_e-sergio_espelhos.jpeg)
 
-<p align="center">
-  <img src="../../static/images/foto_eu_e-sergio_espelhos.jpeg)" 
+
+  <p align="center">
+  <img src="../../static/images/foto_eu_e-sergio_espelhos.jpeg" height="300">
+</p>
+ 
 
 **Depois, na escola primaria**. Recordo vultos mas não vejo as caras das minhas amigas. Sinto a turbulência da sala de aula. O cheiro abafado. A lousa, o giz, o caderno de duas linhas. O frasquinho do tinteiro. As manchas de tinta nos dedos. O barulho do intervalo que nunca tive. Eu era uma das meninas que não tinha intervalo porque tinha bata e sapatos. Só "as de pé descalço", como dizia a professora, iam ao intervalo. Eu ficava na sala de aula, presa e protegida de uma ameaça inexistente, a comer o lanche que a minha avó preparava: pão com manteiga e tomate ou ovo cozido. Só no fim da aula, quando tocava a campainha, podia brincar. Não na sala do recreio, dentro da escola, mas no empedrado da entrada do quartel de Junot. Brincava à cabra cega, ao elástico, à macaca. As minhas amigas eram sobretudo as tais meninas sem sapatos porque as outras, já obedientes, iam rapidamente para casa. Eu tinha autorização expressa do meu pai para ficar um pouco depois da aula, a brincar. Todas as meninas tinham o destino traçado. Algumas iriam para o liceu. As tais meninas não iam. Pedir-lhes o rasto.
   
