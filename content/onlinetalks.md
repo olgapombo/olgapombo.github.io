@@ -284,7 +284,7 @@ description: "Conferences, public lectures, debates, book presentations, and onl
 * **Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência (You have to change your life (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 1 April 2025.
 * **Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (About the New (2014) by Boris Groys. Philosophy, Novelty, Creation**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 6 May 2025.
 * **Da civilização oral á civilização da escrita. "A musa aprende a escrever" de Havelock**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 7 outubro 2005 
-* **Homero, Protágoras e Sócrates. Poesia, retórica e dialéctica**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 4 novembro 2025-
+* **Homero, Protágoras e Sócrates. Poesia, retórica e dialéctica**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 4 novembro 2025
 * **Platão e Aristóteles. Diálogo, argumento e racionalidade. Verdade e democracia**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 2 dezembro 2025
 * **Instituições da escrita 1. Escola e universidade. O desafio das tecnologias do conhecimento**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 6 janeiro 2026
 * **Instituições da escrita 2. Livro e biblioteca. A digitalização e o futuro do livro**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 5 fevereiro 2026
@@ -332,7 +332,7 @@ description: "Conferences, public lectures, debates, book presentations, and onl
 * **Les liens entre interdisciplinarités et valorisation scientifique par les médias audio-visuels**, participation, as animateur, at a round-table of the international colloquium [“Interdisciplinarité(s)”](https://rnmsh-colloque.sciencesconf.org/data/pages/Programme_ateliers_9_10_septembre_2021.pdf), put forward by the Réseau National des Maisons des Sciences de L’Homme, University of Aix en Provence, France, 9-10 September, 2021.
 * **Direito: ciência, arte, cultura**, invited talk at a round table/debate put forward by the Instituto de Investigação Interdisciplinar do Direito da Faculdade de Direito da Universidade de Lisboa (IURIS/FDUL), Faculdade de Direito da Universidade de Lisboa,16 November 2023.
 * **Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior**,  invited  talk at the debate “Possíveis Estratégias para o futuro do Ensino Superior em Portugal. Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 de novembro 2025 [(vídeo)](https://www.engium.uminho.pt/eeum50)
-* **A criação do Novo (On the new)**, invited talk and debate with the writer Rui Nunes, at “Conversas sem rede”, Oficina Impossivel, Lisbon, 22 February 2026.([poster](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/imagem_conversas_sem_rede_fev_2026.jpg))
+* **A criação do Novo (On the new)**, invited talk followed by a debate with the writer Rui Nunes, at “Conversas sem rede”, Oficina Impossivel, Lisbon, 22 February 2026.([poster](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/imagem_conversas_sem_rede_fev_2026.jpg))
 * [poster](github.io/blob/main/static/images/imagem_conversas_sem_rede_fev_2026.jpg)
 
 
