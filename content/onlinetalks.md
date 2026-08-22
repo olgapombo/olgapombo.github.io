@@ -333,7 +333,6 @@ description: "Conferences, public lectures, debates, book presentations, and onl
 * **Direito: ciência, arte, cultura**, invited talk at a round table/debate put forward by the Instituto de Investigação Interdisciplinar do Direito da Faculdade de Direito da Universidade de Lisboa (IURIS/FDUL), Faculdade de Direito da Universidade de Lisboa,16 November 2023.
 * **Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior**,  invited  talk at the debate “Possíveis Estratégias para o futuro do Ensino Superior em Portugal. Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 de novembro 2025 [(vídeo)](https://www.engium.uminho.pt/eeum50)
 * **A criação do Novo (On the new)**, invited talk followed by a debate with the writer Rui Nunes, at “Conversas sem rede”, Oficina Impossivel, Lisbon, 22 February 2026.([poster](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/imagem_conversas_sem_rede_fev_2026.jpg))
-* [poster](github.io/blob/main/static/images/imagem_conversas_sem_rede_fev_2026.jpg)
 
 
 ###  <a name="book-presentations"></a> Book presentations 
