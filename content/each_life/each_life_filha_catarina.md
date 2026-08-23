@@ -6,6 +6,7 @@ toc: false
 
 # A minha filha Catarina
 
+![foto_cat_oficina](../../static/images/foto_cat_oficina.jpg "foto_cat_oficina.jpg")
 
-https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/foto_cat_oficina.jpg
+
 
