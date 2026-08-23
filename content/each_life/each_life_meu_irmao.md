@@ -8,7 +8,7 @@ toc: false
 
 ![foto_sergio_60](../../static/images/foto_sergio_60.webp "foto_sergio_60.webp")
 
-O meu irmão era um Homem com letra grande: bom, forte, magnânimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Para mim, ele era o meu irmão. [Companheiro absoluto, terno, incondicional](../../static/images/foto_eu_e-sergio_espelhos.jpeg). Deixou uma obra artística singularmente poderosa, vigorosa, livre e independente, em [pintura](../../static/images/pintura_sergio-pombo_aa9.webp), [escultura](../../static/images/esc_sergio_pombo_2.webp), [desenho](../../static/images/desenho_sergio_pombo_3.webp), [serigrafia](../../static/images/ser_sergio_pombo_5.webp), [gravura](../../static/images/gravura_sergio_pombo_espera.webp). 
+O meu irmão era um Homem com letra grande: bom, forte, magnânimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Para mim, ele era o meu irmão. [Companheiro absoluto, terno, incondicional](../../static/images/foto_eu_e-sergio_espelhos.webp). Deixou uma obra artística singularmente poderosa, vigorosa, livre e independente, em [pintura](../../static/images/pintura_sergio-pombo_aa9.webp), [escultura](../../static/images/esc_sergio_pombo_2.webp), [desenho](../../static/images/desenho_sergio_pombo_3.webp), [serigrafia](../../static/images/ser_sergio_pombo_5.webp), [gravura](../../static/images/gravura_sergio_pombo_espera.webp). 
 
 ###### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother, the absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in painting, sculpture, drawing, screen printing, engraving. 
 
@@ -40,7 +40,7 @@ _______________________________________________________________
 
 Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972). Foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, em 1984, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
-Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../static/images/foto_grupo_512.webp "foto_grupo_512.webp"), que integrava igualmente os pintores [João Hogan](../../static/images/pintura_spombo_hogan.jpg), Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](../../static/images/foto_grupo_511.webp "foto_grupo_511.webp")). 
+Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../static/images/foto_grupo_512.webp "foto_grupo_512.webp"), que integrava igualmente os pintores [João Hogan](../../static/images/pintura_spombo_hogan.webp), Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](../../static/images/foto_grupo_511.webp "foto_grupo_511.webp")). 
 
 Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe do seu filho, o maestro [Marcos Magalhães Pombo](https://cesem.fcsh.unl.pt/pessoa/marcos-magalhaes/). Depois de um primeiro atelier em Santos o Velho, teve atelier nos Corucheus, em Lisboa, em Colónia, na Alemanha, e, posteriormente, na casa da Parede, onde reunia com frequência os seus muitos amigos e onde viveu os últimos anos da sua vida. 
 
@@ -55,9 +55,9 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 
   
 <div style="display: flex; justify-content: center; gap: 60px;">
-  <img src="../../static/images/pintura_mulher_costas_sp..jpg"
+  <img src="../../static/images/pintura_mulher_costas_sp..webp"
        style="height: 400px; object-fit: cover;">
-  <img src="../../static/images/pintura77_sergio_pombo.jpg"
+  <img src="../../static/images/pintura77_sergio_pombo.webp"
        style="height: 400px; object-fit: cover;">
 </div>
 
@@ -297,6 +297,6 @@ Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](htt
 <div style="display: flex; justify-content: center; gap: 80px;">
   <img src="../../static/images/escultura_sergio-pombo_cam.webp"
        style="height: 500px; object-fit: cover;">
-  <img src="../../static/images/sergio-no_carmo.jpg"
+  <img src="../../static/images/sergio-no_carmo.webp"
        style="height: 500px; object-fit: cover;">
 </div>

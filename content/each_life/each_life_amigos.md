@@ -9,7 +9,7 @@ toc: false
 **Na infância, o meu único amigo era o meu irmão**. Brincávamos ao botão, ao berlinde. Andávamos de patins e trotinete no corredor que tinha 25 metros de comprido. Desenhavamos bichos e paisagens na mesa da casa de jantar. O Sergio também fazia plasticina. Eu lia e relia as mesmas historias, via e revia as imagens dos livros que, então, tinham poucas imagens. O jardim da Ninita. Morávamos num terceiro andar sem elevador, numa rua movimentada, perto do parque Eduardo Sétimo. Nunca saíamos senão com a minha mãe para ir ás compras, ao mercado ou à baixa. Ou com o meu avô que nos levava ao parque, ou, no verão, à estufa fria. Fomos uma vez ou outra à feira popular com o meu pai. E quando íamos, andávamos uma vez no carrossel e dávamos uma volta no barco a pedal no lago que havia onde hoje é a Gulbenkian. Comíamos uma nuvem de açúcar e fazíamos, cada um, um furo na caixa dos chocolates. Não andávamos mas ficávamos a ver os carrinhos de choque e as motas no poço da morte. Uma vez entrámos na casa dos espelhos. 
 
   <p align="center">
-  <img src="../../static/images/foto_eu_e-sergio_espelhos.jpeg" height="300">
+  <img src="../../static/images/foto_eu_e-sergio_espelhos.webp" height="300">
 </p>
  
 
