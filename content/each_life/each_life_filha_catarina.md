@@ -7,5 +7,5 @@ toc: false
 # A minha filha Catarina
 
 
-![foto_cat_oficinaimpossivel](../../static/images/foto_cat_oficina%20impossivel.jpg")
+![foto_cat_oficinaimpossivel](../../static/images/foto_cat_oficinaimpossivel.jpg")
 
