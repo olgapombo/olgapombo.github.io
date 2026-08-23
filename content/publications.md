@@ -378,7 +378,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 ### <a name="Preprints-and-working-papers"></a>Preprints and working papers 
 
-###### This section gathers working papers, manuscripts and conference papers. Many of these ongoing working papers have circulated among colleagues but none has been formally published. 
+###### This section gathers working papers and conference papers. Many of these ongoing manuscripts have circulated among colleagues but none has been formally published. 
  
 * *Cartographies of knowledge and contemporary challenges* 
 * *Mapas disciplinares e cartografias do saber*/ Disciplinary Maps and Cartographies of Knowledge 
@@ -388,7 +388,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * *Oralidade, escrita. Uma revolução tecnológica eloquente para a compreensao do nosso presente*/ Orality, writing. A technological revolution eloquent for understanding our present
 * *A leitura no mundo de ontem e no mundo de amanhã*/ Reading in the world of yesterday and tomorrow 
 * *Escola e Universidade. O desafio das tecnologias do conhecimento* /School and University. The challenges of Knowledge technologies.
-* *Verdade e velocidade. Dois conceitos para pensar o futuro da universidade*/ Thruth and speed. Two concepts to think the future of university
+* *Verdade e velocidade. Dois conceitos para pensar o futuro da universidade*/ Truth and speed. Two concepts to think the future of university
 * *Interdisciplinaridade e futuro da universidade / Interdisciplinarity and the future of University* 
 * *Plínio e a internet / Enciclopédia e internet*/Pliny and the internet/Encyclopaedia and internet
 * [*Enciclopédias filosóficas*](../static/pdf-text/enciclopedias_filosoficas.pdf) / Philosophical Encyclopaedias
@@ -396,8 +396,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 * *O Lugar de Leibniz na História da Lógica*/ Leibniz’s place in the History of Logic
 * *Por que não somos ainda leibnizianos*/ Why we are not yet Leibnizians 
 * *Descontinuidade do tempo e novidade em Bachelard*/ Time discontinuity and novelty in Bachelard 
-* *Os lugares da ciência e da filosofia*/ The places of science and philosophy* 
-* *Epistemologia da imagem científica* / Epistemology of scientific image *
+* *Epistemologia da imagem científica* / Epistemology of scientific image 
 * *A imagem na ciência e na arte*/ Image in science and art
 * *Towards a cartography of the concept of creation in science and art*
 * *Creation in science and art. Comparative examples*
