@@ -2,7 +2,7 @@
 title: "publications"
 draft: false
 toc: false
-description: "Complete list of publications by Olga Pombo: dissertations, authored and edited books, book chapters, journal articles, encyclopaedia entries, online works, preprints and working papers."
+description: "Complete list of publications by Olga Pombo"
 ---
 
 ## Publications 
