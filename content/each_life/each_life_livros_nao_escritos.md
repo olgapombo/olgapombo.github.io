@@ -34,7 +34,14 @@ Estávamos em Maio de 2008. O livro só veio a ser editado em 2021, treze anos d
 
 >>###### Tudo nos separa do mundo que Platão pensou e recriou com arte sublime. Mas queremos regressar. Não para assistir aos começos ingénuos daquilo que nós hoje possuiríamos na sua forma desenvolvida. Mas para ruminar, reconstruir, e, se possível, reencontrar (absorver) alguma da grandeza desses momentos únicos do mundo antigo. Não para lamentar o imenso que se perdeu, menos ainda para celebrar tudo o que se ganhou. Mas para recuperar forças, para reanimar o desejo, para reforçar o impulso  que nos pode levar a um tempo em que as aspirações filosóficas e artísticas, comunicativas e democráticas então constituídas, voltem a ser possíveis.
 
- 
+ O ultimo livro que editei foi tambem. O exerguo diz isso mesmo. 
+
+Pode-se amar profundamente um livro
+Amá-lo porque nos honra
+Amá-lo porque nos exalta
+Amá-lo porque com ele nos sentimos em casa
+Tal é o Protágoras de Platão
+
 
 **Os livros que não escrevi**
 
