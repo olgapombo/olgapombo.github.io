@@ -189,7 +189,7 @@ ISBN: 978-65-80103-02-7
 
 ### <a name="encyclopaedia-entries"></a>Encyclopaedia entries
 
-1. Pombo, Olga (2013), **“Encyclopedia”**, in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257. DOI: http://dx.doi.org/10.4135/9781452276052
+1. Pombo, Olga (2013), [**“Encyclopedia”**](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_sage_%20encyclopedia.pdf), in *Encyclopedia of Philosophy and the Social Sciences*, edited by Byron Kaldis, Los Angelos, London/New Delhi/Singapore/Wahington: Sage Publications, 2013, vol. I, pp. 253-257. DOI: http://dx.doi.org/10.4135/9781452276052
 
 
 ### <a name="Articles"></a>Articles
