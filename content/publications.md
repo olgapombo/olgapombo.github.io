@@ -185,7 +185,7 @@ ISBN: 978-65-80103-02-7
 98. Pombo, Olga: Gaertner, Klaus; Jesuino, Jorge (2023), [“**Introduction**”](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP-jesuino_introduction-two_pages.pdf), in *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century*, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/ Heidelberg/ London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. ix-xvi. ISBN: 978-3-031-20404-3.
 99. Pombo, Olga, “**For a cartography of the concept of creation**”, in Nuno Proença (ed.), *Invention and Imagination*, IFILNOVA e Centro de Filosofia da Universidade de Lisboa (forthcoming)
 100. Pombo, Olga, “**Cruzamentos da enciclopédia de Fernando Gil ou a enciclopédia como prática filosófica**”, in *Obras Completas de Fernando Gil*, 2º volume, Lisboa: Imprensa Nacional Casa da Moeda (forthcoming)
-101. Pombo, Olga, “Sobre a Curiosidade”, in Inacio Valentim (org), Volume colaborativo a editar pela PUCRS, Brasil, Editora Fenix (forthcoming).
+101. Pombo, Olga, “Sobre a Curiosidade”, in Inacio Valentim (org), collaborative volume to be edited by PUCRS, Brasil: Editora Fenix (forthcoming).
 
 ### <a name="encyclopaedia-entries"></a>Encyclopaedia entries
 
