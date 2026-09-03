@@ -223,7 +223,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 >> ##### «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito», *José Alexandre de São Marco*
 
 <p align="center">
-  <img src="../../static/images/sergio_pombo_livro_catarina_reduzido.webp" height="250">
+  <img src="../../static/images/sergio_pombo_livro_catarina_reduzido.webp" height="200">
 </p>
  
 **[*Para Chegar ao Branco da Última Palavra*](https://officiumlectionis.pt/produto/catarina-pombo-nabais-para-chegar-ao-branco-da-ultima-palavra/), Porto: Officium Lectionis, 2025**,
