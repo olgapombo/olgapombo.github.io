@@ -18,7 +18,7 @@ O meu irmão era um Homem com letra grande: bom, forte, magnânimo e generoso. H
 
 >> *«Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento, que é muito mais excitante, enervante e tenso, do que a representação de um cosmos – a representação geométrica»*, Sergio Pombo (aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, em 2013)</span>
 
-###### «A part of my painting has revolved around the representation of the body: blood, feeling, pleasure, taste, strength, muscle, tendon and movement — which is far more exciting, nerve‑wracking and tense than the representation of a cosmos, the geometric representation», Sérgio Pombo (on the occasion of an exhibition at Teatro da Politécnica, Lisbon, 2013).</span>
+>> ###### «A part of my painting has revolved around the representation of the body: blood, feeling, pleasure, taste, strength, muscle, tendon and movement — which is far more exciting, nerve‑wracking and tense than the representation of a cosmos, the geometric representation», Sérgio Pombo (on the occasion of an exhibition at Teatro da Politécnica, Lisbon, 2013).</span>
 
 
 <p align="center">
