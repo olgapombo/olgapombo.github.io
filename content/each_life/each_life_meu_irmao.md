@@ -16,9 +16,9 @@ O meu irmão era um Homem com letra grande: bom, forte, magnânimo e generoso. H
   <img src="../../static/images/pintura_sergio_pombo_4.webp" alt="pintura_sergio_pombo" width="450">
 </p>
 
-> *«Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento, que é muito mais excitante, enervante e tenso, do que a representação de um cosmos – a representação geométrica»*, Sergio Pombo (aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, em 2013)</span>
+>> *«Uma parte da minha pintura andou à volta da representação do corpo: do sangue, do sentimento, do prazer, do sabor, da força, do músculo, do tendão e do movimento, que é muito mais excitante, enervante e tenso, do que a representação de um cosmos – a representação geométrica»*, Sergio Pombo (aquando de uma exposição de escultura no Teatro da Politécnica, em Lisboa, em 2013)</span>
 
-> ###### *«A part of my painting has revolved around the representation of the body: blood, feeling, pleasure, taste, strength, muscle, tendon and movement — which is far more exciting, nerve‑wracking and tense than the representation of a cosmos, the geometric representation»*, Sérgio Pombo (on the occasion of an exhibition at Teatro da Politécnica, Lisbon, 2013).</span>
+>> ###### *«A part of my painting has revolved around the representation of the body: blood, feeling, pleasure, taste, strength, muscle, tendon and movement — which is far more exciting, nerve‑wracking and tense than the representation of a cosmos, the geometric representation»*, Sérgio Pombo (on the occasion of an exhibition at Teatro da Politécnica, Lisbon, 2013).</span>
 
 
 <p align="center">
@@ -217,10 +217,10 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 
 **[*Sérgio Pombo - Obras 1973-2017*](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), Lisboa: Documenta, 2018**, livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, realizada na Fundação Carmona e Costa, com curadoria de João Pinharanda, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
 
->>> ##### "No seu trabalho ecoam a potência masculina da vida (a vitalidade sujeita à morte) e a potência espiritual feminina (transportadora de vida)
->>> ##### «Sérgio Pombo exprime a sua subjectividade dominante e o seu «sentimento trágico da vida» através de uma figuração exacerbada; cria o seu próprio tempo e universo mas insere-os num tempo cronológico que os ultrapassa e num campo longo, expressionista (ainda não inteiramente revelado e estudado), da criação artística portuguesa. A sua obra está presa à angústia que os românticos e os modernos deixaram como herança à contemporaneidade: a vã procura do fio de Ariadne deitado ao chão por Teseu", **João Pinharanda** 
+>> ##### "No seu trabalho ecoam a potência masculina da vida (a vitalidade sujeita à morte) e a potência espiritual feminina (transportadora de vida)
+>> ##### «Sérgio Pombo exprime a sua subjectividade dominante e o seu «sentimento trágico da vida» através de uma figuração exacerbada; cria o seu próprio tempo e universo mas insere-os num tempo cronológico que os ultrapassa e num campo longo, expressionista (ainda não inteiramente revelado e estudado), da criação artística portuguesa. A sua obra está presa à angústia que os românticos e os modernos deixaram como herança à contemporaneidade: a vã procura do fio de Ariadne deitado ao chão por Teseu", **João Pinharanda** 
 
->>> ##### «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito», *José Alexandre de São Marco*
+>> ##### «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito», *José Alexandre de São Marco*
 
 <p align="center">
   <img src="../../static/images/sergio_pombo_livro_catarina_reduzido.webp" height="300">
@@ -229,7 +229,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 **[*Para Chegar ao Branco da Última Palavra*](https://officiumlectionis.pt/produto/catarina-pombo-nabais-para-chegar-ao-branco-da-ultima-palavra/), Porto: Officium Lectionis, 2025**,
 O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
 
->>> ##### "Muitíssimo para lá da representação, a obra de Sérgio Pombo coloca-nos perante linhas e formas que se misturam à velocidade do desejo criando um novo corpo, exuberante, total, sublime, que é a obra em si. E, aí, apercebemo-nos que já estamos para lá da pintura", *Catarina Pombo Nabais*
+>> #### "Muitíssimo para lá da representação, a obra de Sérgio Pombo coloca-nos perante linhas e formas que se misturam à velocidade do desejo criando um novo corpo, exuberante, total, sublime, que é a obra em si. E, aí, apercebemo-nos que já estamos para lá da pintura" *Catarina Pombo Nabais*
 
 Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), conversa com Rui Nunes, Catarina Pombo Nabais e Joâo Pinharanda, Maat, Lisboa, 21 de maio 2026.
 >> #### "Este lançamento foi também uma homenagem póstuma ao artista, celebrando a vitalidade da sua obra e a sua presença contínua na arte portuguesa".
