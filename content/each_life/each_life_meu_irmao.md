@@ -38,7 +38,7 @@ _______________________________________________________________
 
 ## Sergio Pombo - Nota Biográfica
 
-Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura – Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972). Foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976 e 1979, em 1984, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
+Sérgio Pombo nasceu em Lisboa, em 1947,  estudou pintura com Roberto Araújo e frequentou vários cursos na Gravura. Cooperativa de Gravadores Portugueses. Licenciado em Pintura pela Escola Superior de Belas Artes de Lisboa (1972). Foi bolseiro da Fundação Calouste Gulbenkian, em Portugal, entre 1976-1979 e 1984, e na Alemanha, entre 1992 e 1993, onde viveu e trabalhou de 1991 a 1993.
 
 Entre as décadas de 1970 e 1980, fez parte do coletivo [**Grupo 5+1**](../../static/images/foto_grupo_512.webp "foto_grupo_512.webp"), que integrava igualmente os pintores [João Hogan](../../static/images/pintura_spombo_hogan.webp), Júlio Pereira, Guilherme Parente e Teresa Magalhães, assim como o escultor Virgílio Domingues (also [**here**](../../static/images/foto_grupo_511.webp "foto_grupo_511.webp")). 
 
