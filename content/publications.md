@@ -263,7 +263,7 @@ ISSN: 1665-3319.
 see also [here](../static/pdf-text/OP_prefacio_barros_veloso.PDF)
 * Pombo, Olga (1992), **Ana Luísa Janeira, 'Sistemas Epistémicos e Ciências: do Noviciado da Cotovia à Faculdade de Ciências de Lisboa” e José Lopes Ribeiro, 'O Edifício da Faculdade de Ciências. Quatro Séculos de Retratos Institucionais'**, *Revista de Educação*, vol. II, nº 1, Lisboa: DEFCUL, pp. 119-120.
 * Pombo, Olga (1991), [**Agostinho da Silva, ‘Educação de Portugal’**](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/recensao.htm), *Revista de Educação*, vol. II, n.º 1, Lisboa: DEFCUL, pp. 110-115. ([RGhere](https://www.researchgate.net/publication/286920353_Pombo_Olga_Agostinho_da_Silva_'Educacao_de_Portugal'_Agostinho_da_Silva_'Education_of_Portugal'_Revista_de_Educacao_vol_II_n_1_1991_pp_110-115)
-* Pombo, Olga (1984), [**Herbert H. Knecht. ‘La Logique chez Leibniz’**](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_review_%20knecht.pdf), *Análise*, nº 1, Lisboa, Gec, pp. 231-239.
+* Pombo, Olga (1984), [**Herbert H. Knecht. ‘La Logique chez Leibniz’**](), *Análise*, nº 1, Lisboa, Gec, pp. 231-239.
 
 
 ### <a name="Scholar-brochures"></a>Scholar brochures
