@@ -275,7 +275,7 @@ see also [here](../static/pdf-text/OP_prefacio_barros_veloso.PDF)
 * Olga Pombo (ed)(1997) [**Museu de Alexandria**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/Alexandria.jpg) (Anthology of texts translated and commented), *Cadernos de Historia e Filosofia da educação* 4,  Lisboa: DEFCUL, 87 pp. 
 * Olga Pombo (ed.)(1997) [**Utopia e Educação**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/utopia.jpg) (Anthology of texts translated and commented), *Cadernos de Historia e Filosofia da educação* 5, Lisboa: DEFCUL, 160 pp. 
 * Olga Pombo (ed.)(2001) [**Educar / Ensinar**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/images/caderno6.jpg) (Anthology of texts by Olivier Reboul, Jacques Ulmann, John Passmore and Paul Hirst, with introduction and translation), *Cadernos de Historia e Filosofia da educação* 6, Lisboa: DEFCUL, 84 pp.
-* Olga Pombo (ed.)(2005) [**Três Textos sobre Educação para um Mundo Difícil: Bertrand Russell e Ortega Y Gasset**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/capa1.jpg) (Anthology with introduction and revised translation), *Cadernos de Historia e Filosofia da educação* 7, Lisboa: DEFCUL, 40 pp.
+* Olga Pombo (ed.)(2005) [**Três Textos sobre Educação para um Mundo Difícil: Bertrand Russell e Ortega Y Gasset**](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/capa1.jpg) (Anthology with introduction and revised translation), [*Cadernos de Historia e Filosofia da educação* 7](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_caderno7_completo.pdf), Lisboa: DEFCUL, 40 pp. 
 
 
 ### <a name="Room-texts-at-exhibitions"></a>Room texts at exhibitions
