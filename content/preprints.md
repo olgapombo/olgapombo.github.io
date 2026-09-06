@@ -16,7 +16,7 @@ description: "Preprints, working papers, hypertexts, and online works by Olga Po
   3. [**Enciclopedia filosófica** (Philosophical Encyclopaedia)](https://arquivo.pt/wayback/20091218065708/http:/www.educ.fc.ul.pt/hyper/enciclopedia/cap3p1/especificidade.htm)
      see [also](../static/pdf-text/enciclopedias_filosoficas.pdf)
  
-* Pombo, Olga (2004), [**Apontamentos sobre Utopia** (Notes on Utopia)](http://webpages.fc.ul.pt/~ommartins/apontamentos/utopia%20geral.htm), historical overview of the main moments, authors and works since the design of the ideal city (16th century) to the imaginary voyage in space (17th century) or in time (18th century) and the prospective optimistic fiction of the future (19th century).  
+* Pombo, Olga (2004), [**Apontamentos sobre Utopia** (Notes on Utopia)](https://webpages.ciencias.ulisboa.pt/~ommartins/apontamentos/utopia%20geral.htm), historical overview of the main moments, authors and works since the design of the ideal city (16th century) to the imaginary voyage in space (17th century) or in time (18th century) and the prospective optimistic fiction of the future (19th century).  
 
 * Pombo, Olga (ed) (2002) [**O 'Protagoras' de Platão** (Plato's Protagoras)](https://arquivo.pt/wayback/20140930093038/http:/www.educ.fc.ul.pt/docentes/opombo/hfe/protagoras2/index/index1.htm), hypertext on Plato’s "Protagoras", translated and commented. From the main textual *corpus* and the side critical comments provided, a set of links is established that refer to a corresponding set of contextual reading elements considered important, useful, or merely suggestive.
 
