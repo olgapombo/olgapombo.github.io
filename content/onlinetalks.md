@@ -215,7 +215,7 @@ description: "Conferences, public lectures, debates, book presentations, and onl
 *	**Aporias do actual conceito de novo**, Keynote speaker at the 6º Congresso Internacional de Filosofia, organized by  Sociedade Portuguesa de Filosofia, Faculdade de Letras da Universidade de Lisboa. 1 - 3  September, 2025.
 *	[**Ciências e formas. Para uma topografia da razão**](https://www.youtube.com/watch?v=xLjGbAxSato), invited talk at Conferência Internacional Fernando Gil, organized by Filomena Mölder, Diogo P. Aurelio, André S. Campos, Nuno M. Proença, FCSH, Unova University, Gulbenkian Foundation, Lisbon, 18 - 19 March 2026 ([webpage and program](https://ifilnova.pt/coloquio-internacional-fernando-gil/))
 ([abstracts](https://cham.fcsh.unl.pt/backoffice/uploads/file/resumos_abstracts_conferencia-fernando-gil_actualizado.pdf)), ([**video**](https://www.youtube.com/watch?v=xLjGbAxSato))
-
+* **O papel da interdisciplinaridade na ciencia contemporanea**, Keynote speaker at scientific meeting on “NEXUS: Ciência em Rede”, put forward by the Interdisciplinary Center of Social Sciences, Faculty of Social Sciences, Nova University of Lisbon FCSH – CAN), Colégio Almada Negreiros, Lisbon, 11 -11 September 2026 ([**poster**](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_convite_id_ciencia_rede_univ_nova.pdf))
 
 
 ### <a name="public-talks"></a> Public Talks 
