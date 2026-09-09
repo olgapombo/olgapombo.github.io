@@ -269,27 +269,28 @@ description: "Conferences, public lectures, debates, book presentations, and onl
 * **Elogio da transmissão. Mais passado para o futuro; mais futuro para o passado**, invited speaker at the conference series "Escutar a cidade" put forward by Diocese de Lisboa, Forum Lisboa, 5 March 2015 ([**video**)](https://www.youtube.com/watch?v=xBcLBrB_4XQ)). 
 * **In memoriam of Prof. Herminio Martins**, invited speaker (opening session) of the “PhD Program Philosophy of Science, Technology, Art and Society”, FCUL, 5 October 2015. ([cartaz](https://cfcul.mcmlxxvi.net/calendario/PDFCTAS_AberturaOficial2015-2016_Cartaz.pdf))
 * **O projecto epistemológico de Piaget**, “Permanent Seminar of Philosophy of Science” dedicated to Jean Piaget, FCUL, 9 October 2018 
-* **Homens ou cidadãos**, invited speaker at the Conference “Philosophy and Human rights” put forward by the Portuguese Association of Philosophy Teachers (APF), Museu Monográfico de Conimbriga, Conimbriga, 9 March 2019.
-* **Interdisciplinaridade e Cultura Integral**, invited speaker at the series of conferencies put forward by the Associação Bento Jesus Caraça, Biblioteca Municipal Palácio Galveias, Lisbon, 18 January 2024. 
-* **Sobre o conceito de Biblioteca (On the concept of Library)**,  Biblioteca Espaço Cultural Cinema Europa, Lisbon, 9 January 2024.
-* **Progressos e Regressos (Progresses and returns)**,  Biblioteca Espaço Cultural Cinema Europa, Lisbon, 5 March 2024. 
-* **O que é Pensar (On thinking)**, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 7 May 2024. 
-* **O que é a Filosofia (On Philosophy)**, Biblioteca Espaço Cultural Cinema Europa, Lisbon), 7 June 2024. 
-* **O Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia (Plato’s Protagoras (IV aC).  Philosophy, Reason, Virtue and Democracy**), Biblioteca Espaço Cultural Cinema Europa, Lisbon,1 October 2024.
-* **O Discurso do Método (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will**), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 5 November 2024.
-* **O Discurso sobre a Origem da Desigualdade entre os Homens (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men (1754). Philosophy, Fiction, Politics and Human Rights**), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 3 December 2024.
-* **A Alice no País das Maravilhas (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature**), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 7 de January 2025.
-* **Os Espaços Outros (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia**), Biblioteca Espaço Cultural Cinema Europa, Lisbon, 4 February 2025. 
-* **O Princípio Responsabilidade (1979) de Hans Jonas (filosofia, ética, futuro e ecologia (The Principle of Responsibility (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 11 March 2025.
-* **Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência (You have to change your life (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 1 April 2025.
-* **Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (About the New (2014) by Boris Groys. Philosophy, Novelty, Creation**), talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisbon, 6 May 2025.
-* **Da civilização oral á civilização da escrita. "A musa aprende a escrever" de Havelock**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 7 outubro 2005 
-* **Homero, Protágoras e Sócrates. Poesia, retórica e dialéctica**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 4 novembro 2025
-* **Platão e Aristóteles. Diálogo, argumento e racionalidade. Verdade e democracia**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 2 dezembro 2025
-* **Instituições da escrita 1. Escola e universidade. O desafio das tecnologias do conhecimento**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 6 janeiro 2026
-* **Instituições da escrita 2. Livro e biblioteca. A digitalização e o futuro do livro**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 5 fevereiro 2026
-* **Instituições da escrita 3. Enciclopédia. De Plinio á Internet**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 3 março 2026
-* **Da civilização da palavra a civilização da imagem**, talk presented at the Biblioteca Espaço Cultural Cinema Europa, Lisboa, 5 maio 2026
+* **Homens ou cidadãos**, invited speaker at the "Conference Philosophy and Human rights” put forward by the Portuguese Association of Philosophy Teachers (APF), Museu Monográfico de Conimbriga, Conimbriga, 9 March 2019.
+* **Interdisciplinaridade e Cultura Integral**, invited speaker at the series of conferencies put forward by the "Associação Bento Jesus Caraça", Biblioteca Municipal Palácio Galveias, Lisbon, 18 January 2024. 
+* **Sobre o conceito de Biblioteca (On the concept of Library)**,  "Biblioteca Espaço Cultural Cinema Europa", Lisbon, 9 January 2024.
+* **Progressos e Regressos (Progresses and returns)**,  "Biblioteca Espaço Cultural Cinema Europa", Lisbon, 5 March 2024. 
+* **O que é Pensar (On thinking)**, "Biblioteca Espaço Cultural Cinema Europa", Lisbon, 7 May 2024. 
+* **O que é a Filosofia (On Philosophy)**, "Biblioteca Espaço Cultural Cinema Europa", Lisbon), 7 June 2024. 
+* **O Protágoras" (IV aC) de Platão. Filosofia, Razão, Virtude e Democracia (Plato’s Protagoras (IV aC).  Philosophy, Reason, Virtue and Democracy**), "Biblioteca Espaço Cultural Cinema Europa", Lisbon,1 October 2024.
+* **O Discurso do Método (1637) de Descartes. Filosofia, Ciência, Metafisica e Vontade (Descartes' Discourse on Method (1637). Philosophy, Science, Metaphysics and Will**), "Biblioteca Espaço Cultural Cinema Europa", Lisbon, 5 November 2024.
+* **O Discurso sobre a Origem da Desigualdade entre os Homens (1754) de Rousseau. Filosofia, Ficção, Política e Direitos Humanos (Rousseau's Discourse on the Origin of Inequality Among Men (1754). Philosophy, Fiction, Politics and Human Rights**), "Biblioteca Espaço Cultural Cinema Europa", Lisbon, 3 December 2024.
+* **A Alice no País das Maravilhas (1865) de Lewis Carroll. Filosofia, Matemática, Verdade e Literatura (Alice in Wonderland (1865) by Lewis Carroll (Philosophy, Mathematics, Truth and Literature**), "Biblioteca Espaço Cultural Cinema Europa", Lisbon, 7 de January 2025.
+* **Os Espaços Outros (1967) de Michel Foucault. Filosofia, Liberdade, Utopia e Heterotopia (The Other Spaces (1967) by Michel Foucault. Philosophy, Freedom, Utopia and Heterotopia**), "Biblioteca Espaço Cultural Cinema Europa", Lisbon, 4 February 2025. 
+* **O Princípio Responsabilidade (1979) de Hans Jonas (filosofia, ética, futuro e ecologia (The Principle of Responsibility (1979) by Hans Jonas. Philosophy, Ethics, Future and Ecology**), talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisbon, 11 March 2025.
+* **Tens de mudar a tua vida” (2009) de Peter Sloterdijk. Filosofia, Ética e Estética de Existência (You have to change your life (2009) by Peter Sloterdijk. Philosophy, Ethics and Aesthetics of Existence**), talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisbon, 1 April 2025.
+* **Acerca do Novo” (2014) de Boris Groys. Filosofia, Inovação, Criação (About the New (2014) by Boris Groys. Philosophy, Novelty, Creation**), talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisbon, 6 May 2025.
+* **Da civilização oral á civilização da escrita. "A musa aprende a escrever" de Havelock**, talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisboa, 7 outubro 2005 
+* **Homero, Protágoras e Sócrates. Poesia, retórica e dialéctica**, talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisboa, 4 novembro 2025
+* **Platão e Aristóteles. Diálogo, argumento e racionalidade. Verdade e democracia**, talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisboa, 2 dezembro 2025
+* **Instituições da escrita 1. Escola e universidade. O desafio das tecnologias do conhecimento**, talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisboa, 6 janeiro 2026
+* **Instituições da escrita 2. Livro e biblioteca. A digitalização e o futuro do livro**, talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisboa, 5 fevereiro 2026
+* **Instituições da escrita 3. Enciclopédia. De Plinio á Internet**, talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisboa, 3 março 2026
+* **Da civilização da palavra a civilização da imagem**, talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisboa, 5 maio 2026
+* **A última verdade: a morte e o significado da vida**, invited talk at the "Abrantes Philosophy Festival. World Philosophy Day", António Botto Municipal Library, Abrantes, 21 November 2026.
 
 
 ### <a name="debates-and-round-tables"></a> Debates and round tables
