@@ -228,8 +228,7 @@ DOI: http://dx.doi.org/10.22201/ceiich.24485705e.2013.1.46512
 25.	Pombo, Olga (2008), [**“Elogio da Transmissão”** (In Praise of Transmission)](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/elogiodatransmissao.pdf), *Pensar a Escola*, nº 6, Lisboa: Escola Vitorino Nemésio, pp. 29-36.  
 26.	Pombo, Olga (2007), [**“A Escola como Memória do Futuro”** (School as Memory of the Future)](https://cfcul.mcmlxxvi.net/textos/OP%20-%20A%20Escola%20como%20Memoria%20do%20Futuro.pdf), *Revista Convergência Lusíada,  24, Número Especial. Centenário de Agostinho da Silva (1906-2006)*, Real Gabinete Português de Leitura do Rio de Janeiro, Brazil, pp. 281-291. ISNN: 1414-0381 
 27.	Pombo, Olga (2006), [**“Práticas Interdisciplinares”** Interdisciplinary Practices)](https://seer.ufrgs.br/index.php/sociologias/article/view/5570/3181), *Sociologias, Revista do Instituto de Filosofia e Ciências Humanas*, Universidade Federal do Rio Grande do Sul, Brazil, vol. VIII, nº 15, pp. 208-249.ISSN: 1517-4522
-28.	Pombo, Olga (2006), [**“Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”** (Word, Sin and Redemption: The Father’s Place in the Mother Tongue)](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/palabrapecadoyredencion.pdf), *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. 
-ISSN: 1665-3319.
+28.	Pombo, Olga (2006), [**“Palabra, Pecado y Redención: el Lugar del Padre en la Lengua Madre”** (Word, Sin and Redemption: The Father’s Place in the Mother Tongue)](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/palabrapecadoyredencion.pdf), *Devenires. Revista de Filosofia y Filosofia de la Cultura*, Mexico, vol. VII, nº 14, pp. 101-129. ISSN: 1665-3319.
 29.	Pombo, Olga (2005), [**“Interdisciplinaridade e Integração dos Saberes”**(nterdisciplinarity and Integration of Knowledge)](https://revista.ibict.br/liinc/article/view/3082/7363), *LIINC em Revista*, Brazil, vol. 1, nº 1 , pp. 3 -15. DOI: https://doi.org/10.18617/liinc.v1i1.186
  (**full article [here](https://cfcul.mcmlxxvi.net/biblioteca/online/pdf/olgapombo/interdisciplinaridadeintegracao.pdf)**)
 30.	Pombo, Olga (com Rui Canario)[**“Ivan Illich - Um Visionário que é Preciso Reler**](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/Ivan%20Illich%20finalolga.pdf), *Aprender ao Longo da Vida*, nº 4 (May 2005), pp. 40-47 
@@ -264,7 +263,7 @@ ISSN: 1665-3319.
 see also [here](../static/pdf-text/OP_prefacio_barros_veloso.PDF)
 * Pombo, Olga (1992), **Ana Luísa Janeira, 'Sistemas Epistémicos e Ciências: do Noviciado da Cotovia à Faculdade de Ciências de Lisboa” e José Lopes Ribeiro, 'O Edifício da Faculdade de Ciências. Quatro Séculos de Retratos Institucionais'**, *Revista de Educação*, vol. II, nº 1, Lisboa: DEFCUL, pp. 119-120.
 * Pombo, Olga (1991), [**Agostinho da Silva, ‘Educação de Portugal’**](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/recensao.htm), *Revista de Educação*, vol. II, n.º 1, Lisboa: DEFCUL, pp. 110-115. ([RGhere](https://www.researchgate.net/publication/286920353_Pombo_Olga_Agostinho_da_Silva_'Educacao_de_Portugal'_Agostinho_da_Silva_'Education_of_Portugal'_Revista_de_Educacao_vol_II_n_1_1991_pp_110-115)
-* Pombo, Olga (1984), **Herbert H. Knecht. ‘La Logique chez Leibniz’**, *Análise*, nº 1, Lisboa, Gec, pp. 231-239.
+* Pombo, Olga (1984), [**Herbert H. Knecht. ‘La Logique chez Leibniz’**](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_knecht_review.pdf), *Análise*, nº 1, Lisboa, Gec, pp. 231-239.
 
 
 ### <a name="Scholar-brochures"></a>Scholar brochures
