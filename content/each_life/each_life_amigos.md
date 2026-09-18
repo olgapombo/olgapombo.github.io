@@ -40,6 +40,6 @@ Rui Nunes, Maria José Palla,
 
 **Os amigos antigos alunos** (Ana Paula Silva, Hugo Vale, Liz Vahia, 
 
-**[A minha pagina de face book](https://www.facebook.com/olga.pombo.96), onde rarissimamente vou, assinala 734 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que nada percebo do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), tenho 467 amigos. Ou seja, de acordo com o facebook, tenho 1200 amigos (o numero será menor pois alguns dos amigos estão repetidos nas duas paginas). 
+**[A minha pagina de face book](https://www.facebook.com/olga.pombo.96), onde rarissimamente vou, assinala 734 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que nada percebo do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), tenho 538 amigos. Ou seja, de acordo com o facebook, tenho 1272 amigos (o numero será menor pois alguns dos amigos estão repetidos nas duas paginas). 
 
 **Os amigos do dia 25**
