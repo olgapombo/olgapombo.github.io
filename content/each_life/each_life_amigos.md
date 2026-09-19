@@ -34,16 +34,24 @@ A consciência politica era elevada entre algumas colegas da minha turma. Atirá
 Depois, não sei bem já como, o leque das nossas amizades alargou-se. De repente, éramos parte de uma geração de jovens de esquerda que frequentava os mesmos sítios em Lisboa, que se encontrava nos cafés, nos jardins, nas cantinas universitárias, na "Casa dos Estudantes do Império", em reuniões de estudantes mais ou menos clandestinas. Também nos encontravamos em festas particulares como as em casa do Lucas, na Avenida da Republica, ou dos irmaos Marcelo e Marcela, no Alto de St. Amaro. Cantávamos juntos canções de protesto: a Internacional, *Le chant des partisans*. Éramos todos da CPA, comissao pro-associação dos estudantes do ensino secundário e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. 
 
 A minha casa chegou a ser um ponto central das amizades politicas minhas e do meu irmão: a Maria Emilia Neves, o Quim zé Letria, o Chico Xaves, os irmãos Rosas, o Joel, a Lea e o Alfredo Nascimento.  A [Ana Rita](https://www.facebook.com/FascismoNuncaMais/posts/rita-gandra-n-1945militante-da-extrema-esquerda-cidad%C3%A3-antifascista-de-grande-di/3061207500655275/) só tinha licença dos pais para, à tarde, ir a minha casa. Foi lá que conheceu o Rui d'Épiney, seu companheiro na vida e na luta antifascista que ambos desenvolveram com enorme coragem. 
+
 A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos, os ajudava, os alimentava e escondia por vezes.
 
 Mais tarde, **entre os colegas da Faculdade**, recordo com muita saudade a Leonor Martins Pereira que desapareceu subitamente, arrancada no auge da sua vida. Mas também o Jorge Mölder, a Filomena e a Ana Carita de quem ainda hoje sou amiga. Depois, na Sociedade Portuguesa de Filosofia, conheci o João Lopes Alves de quem fiquei muito amiga, mas também a Ana Figueiredo e a Zaza Carneiro de Moura. E,  como aluna do mestrado da Universidade Nova, dirigido pelo Fernando Gil, conheci novos amigos: o Adelino Cardoso, o Diogo Pires Aurélio, o Rui Bertrand. 
 
-**Para além dos colegas de trabalho**, primeiro no ensino secundário (Linda Santos Costa, Orlando Lourenço, Judite Cortesão). Como OP conheci o Henrique Guimaraes de quem fui muito amiga até ao seu desaparecimento, 
+**Para além dos colegas de trabalho**, primeiro no ensino secundário (Linda Santos Costa, Orlando Lourenço, Judite Cortesão). Depois, na FCUL, tive dois grandes amigos: [Teresa Levy](https://cfcul.mcmlxxvi.net/equipa/mlevy.php) e [Henrique Guimaraes](https://www.apm.pt/henriqueguimaraes) de quem fui muito amiga até ao seu desaparecimento. Mas também Odete Valente, João Pedro Ponte, Cristina Tavares, Maria Fernanda Palma, 
 
-Viriato Soromenho Marques, Rui Nunes, Maria José Palla, 
+E, **no estrangeiro**, David Cram (Oxford), Shahid Rahman (Lille), John Symons, Claude Imbert, Vincent Bontemps, Wagner Sanz, 
 
-**Os antigos alunos** no liceu D. Pedro V, o Valerio Arcary e o Zé Artur e, na FCUL, a Ana Paula Silva, o Pedro Caldas, o Diogo Cunha, o Hugo Vale, a Liz Vahia, 
+**Os antigos alunos** no liceu D. Pedro V, o Valerio Arcary e o Zé Artur e, na FCUL, a Ana Paula Silva, o Pedro Caldas, o Diogo Cunha, o Hugo Vale, a Liz Vahia. Os mestrados e doutoramentos que orientei...
 
-Actualmente, **[a minha página de face book](https://www.facebook.com/olga.pombo.96), onde rarissimamente vou, assinala 734 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que não percebo nada do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), tenho 544 amigos. Ou seja, de acordo com o facebook, tenho 1278 amigos (o numero será menor pois alguns dos amigos estão repetidos nas duas paginas). 
+
+A Maria José Palla, o Rui Nunes.  
+A Maria do Carmo Vieira, o Viriato Soromenho Marques,
+Actualmente, **[a minha página de face book](https://www.facebook.com/olga.pombo.96), onde rarissimamente vou, assinala 734 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que não percebo nada do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), estão contabilizados 544 amigos. Ou seja, de acordo com o facebook, tenho 1278 amigos. 
+
+Não me atrevo, de forma alguma, a acreditar estes números. Mas, confesso, sinto-me feliz por ter tido alguns grandes e bons amigos na minha vida. 
+
+
 
 **Os amigos do dia 25**
