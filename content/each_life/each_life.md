@@ -8,7 +8,7 @@ draft: false
 
 Being done, being done, being done, being done, being done…
 
-**First similitude between life and encyclopaedia:** This page is very incomplete. Will it ever be complete?
+This page is very incomplete. Will it ever be complete?
 
 
 * [o meu pai](each_life_meu_pai.md),  [a minha mãe](each_life_minha_mae.md), [o meu irmao](each_life_meu_irmao.md)
