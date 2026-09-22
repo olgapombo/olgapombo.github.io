@@ -54,7 +54,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * Sérgio Pombo - Radio Observador - *O Elogio Público* [**Sergio Pombo sobre Guilherme Parente**](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo)
 
   
-<div style="display: flex; justify-content: center; gap: 60px;">
+<div style="display: flex; justify-content: center; gap: 90px;">
   <img src="../../static/images/pintura_mulher_costas_sp..webp"
        style="height: 400px; object-fit: cover;">
   <img src="../../static/images/pintura77_sergio_pombo.webp"
