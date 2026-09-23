@@ -43,7 +43,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 
 * 2009 – *Habilitation (Aggregation) in "History and Philosophy of Science"*, University of Lisbon with the public lesson “*Tarefas da Epistemologia e Filosofia das Ciências para o século XXI” (Tasks for Epistemology and Philosophy of Science in the XXI Century*).
 * 1998 - *PhD in Philosophy of Education*, Faculty of Sciences, University of Lisbon (FCUL), with the Dissertation: “*Unidade da Ciência e Configuração Disciplinar dos Saberes” (Unity of Science and Disciplinar Configuration of Knowledge*).  
-* 1986 - *Master in Modern Philosophy*, Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "*Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language*).
+* 1985 - *Master in Modern Philosophy*, Faculty of Human and Social Sciences, New University of Lisbon, with the Dissertation "*Leibniz e o Problema de uma Língua Universal” (Leibniz and the Problem of Universal Language*).
 * 1982 - *Post-Graduation in Modern Philosophy*, Faculty of Human and Social Sciences, New University of Lisbon.
 * 1973 - *National Certification as Philosophy Teacher*, State Examination, Ministry of National Education, Portugal.
 * 1971 – *Licenciate degree (pre-Bologna) in Philosophy*, Faculty of Letters, University of Lisbon.
