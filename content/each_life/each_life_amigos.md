@@ -47,15 +47,10 @@ Não interessa a ninguém senão a mim. muitos dos nomes que aqui poderia alinha
 
 Ao pensar retrospectivamente na minha vida, sei que, cada etapa, ficou marcada por novos encontros, pessoas que nos foram mais ou menos próximas, amizades fortuitas e algumas profundas. 
 
-<
-<
-<
-<
-<
-<
-<
-<
-
+........................................
+........................................
+........................................
+........................................
 
 Actualmente, **[a minha página de face book](https://www.facebook.com/olga.pombo.96), onde rarissimamente vou, assinala 734 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que não percebo nada do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), estão contabilizados 544 amigos. Ou seja, de acordo com o facebook, tenho 1278 amigos. 
 
@@ -63,4 +58,4 @@ Não me atrevo, de forma alguma, a acreditar estes números. Mas, confesso, sint
 
 
 
-**Os amigos do dia 25**
+
