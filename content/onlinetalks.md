@@ -215,7 +215,7 @@ description: "Conferences, public lectures, debates, book presentations, and onl
 *	**Aporias do actual conceito de novo**, Keynote speaker at the 6º Congresso Internacional de Filosofia, organized by  Sociedade Portuguesa de Filosofia, Faculdade de Letras da Universidade de Lisboa. 1 - 3  September, 2025.
 *	[**Ciências e formas. Para uma topografia da razão**](https://www.youtube.com/watch?v=xLjGbAxSato), invited talk at Conferência Internacional Fernando Gil, organized by Filomena Mölder, Diogo P. Aurelio, André S. Campos, Nuno M. Proença, FCSH, Unova University, Gulbenkian Foundation, Lisbon, 18 - 19 March 2026 ([webpage and program](https://ifilnova.pt/coloquio-internacional-fernando-gil/))
 ([abstracts](https://cham.fcsh.unl.pt/backoffice/uploads/file/resumos_abstracts_conferencia-fernando-gil_actualizado.pdf)), ([**video**](https://www.youtube.com/watch?v=xLjGbAxSato))
-* **O papel da interdisciplinaridade na ciencia contemporanea**, Keynote speaker at scientific meeting on “NEXUS: Ciência em Rede”, put forward by the Interdisciplinary Center of Social Sciences, Faculty of Social Sciences, Nova University of Lisbon FCSH – CAN), Colégio Almada Negreiros, Lisbon, 11 -11 September 2026 ([**poster**](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_convite_id_ciencia_rede_univ_nova.pdf))
+* **O papel da interdisciplinaridade na ciencia contemporanea**, Keynote speaker at scientific meeting on “NEXUS: Ciência em Rede”, put forward by the Interdisciplinary Center of Social Sciences, Faculty of Social Sciences, Nova University of Lisbon FCSH – CAN), Colégio Almada Negreiros, Lisbon, 11 -11 September 2026 ([**poster**](../static/pdf-text/OP_convite_id_ciencia_rede_univ_nova.pdf))
 
 
 ### <a name="public-talks"></a> Public Talks 
@@ -333,7 +333,7 @@ description: "Conferences, public lectures, debates, book presentations, and onl
 * **Les liens entre interdisciplinarités et valorisation scientifique par les médias audio-visuels**, participation, as animateur, at a round-table of the international colloquium [“Interdisciplinarité(s)”](https://rnmsh-colloque.sciencesconf.org/data/pages/Programme_ateliers_9_10_septembre_2021.pdf), put forward by the Réseau National des Maisons des Sciences de L’Homme, University of Aix en Provence, France, 9-10 September, 2021.
 * **Direito: ciência, arte, cultura**, invited talk at a round table/debate put forward by the Instituto de Investigação Interdisciplinar do Direito da Faculdade de Direito da Universidade de Lisboa (IURIS/FDUL), Faculdade de Direito da Universidade de Lisboa,16 November 2023.
 * **Verdade e Velocidade: Dois Conceitos para Pensar o Futuro do Ensino Superior**,  invited  talk at the debate “Possíveis Estratégias para o futuro do Ensino Superior em Portugal. Comemorações dos 50 anos da Escola de Engenharia da Universidade do Minho”, Campus de Azurém, Guimarães, 19 de novembro 2025 [(vídeo)](https://www.engium.uminho.pt/eeum50)
-* **A criação do Novo (On the new)**, invited talk followed by a debate with the writer Rui Nunes, at “Conversas sem rede”, Oficina Impossivel, Lisbon, 22 February 2026.([poster](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/imagem_conversas_sem_rede_fev_2026.jpg))
+* **A criação do Novo (On the new)**, invited talk followed by a debate with the writer Rui Nunes, at “Conversas sem rede”, Oficina Impossivel, Lisbon, 22 February 2026.([poster](../static/images/imagem_conversas_sem_rede_fev_2026.jpg))
 
 
 ###  <a name="book-presentations"></a> Book presentations 
