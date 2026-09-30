@@ -11,7 +11,7 @@ Talvez que, no interior da incomensurável quantidade de artefactos que os homen
 [O livro como estravagância](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_livro_estravagancia.pdf)
 
 **Quero agora falar dos livros que escrevi**. 
-                                    Há sempre uma parte da vida que fica fora das                                      páginas, mas que, ainda assim, lhes pertence.
+ >>>>Há sempre uma parte da vida que fica fora das páginas, mas que, ainda assim, lhes pertence.
 
 
 **O meu primeiro livro tem uma história rocambolesca** - [*Leibniz and the Problem of Universal Language*](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf). Na sua base está uma tese de mestrado que fiz na Universidade Nova sob orientação de Fernando Gil. Pouco depois de defendida a tese, fui assistir, na universidade de Évora, a uma conferencia de Marcelo Dascal, um conhecido estudioso de Leibniz, autor de alguns estudos importantes sobre o simbolismo em Leibniz, o tema da minha tese. Fui supreendida pelo facto de a sua conferencia sido feita em português. Eu conhecia bem os seus estudos sobre Leibniz, publicados em francês e inglês, mas não sabia que ele era brasileiro. No final da conferencia, fui falar com ele e disse-lhe, em dois minutos qual o tema da tese que eu tinha acabado de concluir e esperava defender em breve. Recordo bem as suas palavras: "me manda sua tese". Assim fiz. Fotocopiei todo o volume e enviei pelo correio um grande pacote: estávamos em 1985. Não havia ainda pdfs, nem email, nem sequer computador portátil.
