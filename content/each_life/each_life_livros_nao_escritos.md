@@ -3,14 +3,22 @@ title: "each life livros nao escritos"
 draft: false
 ---
 
-# Os livros que escrevi e os que não escrevi
+# Os livros que nao escrevi
 
 >>>>"Estranhos objectos esses, os livros que os homens fazem! Nem artefactos orientados para a sobrevivência, como o machado, o arado, o arco e a flecha, ou para a comodidade, como as cadeiras estufadas, os automóveis, as torradeiras eléctricas. Nem objectos enigmaticamente resistentes a toda a finalidade, pertencentes a essa categoria fundamental de entidades inúteis (artísticas) de que gostamos tanto de nos rodear. Ou simplesmente contemplar.
->>>>Talvez que, no interior da incomensurável quantidade de artefactos que os homens fabricam, os livros sejam porventura os mais extravagantes."  [O livro como estravagância](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_livro_estravagancia.pdf)
+>
+>>>>Talvez que, no interior da incomensurável quantidade de artefactos que os homens fabricam, os livros sejam porventura os mais extravagantes."
+>
+...
+(...)
+>>**Estravagantes** antes de mais porque os livros são objectos e não são objectos. São objectos que podem ser feitos de materiais muito diferentes: argila, como na biblioteca de Assurbanípal, osso, metal, pedra como quando Péricles mandou escrever as obras dos poetas trágicos ao longo de uma avenida de Atenas, papiro, pergaminho, papel, espaço digital. São objectos que podem ter muitas formas e formatos muitos diferentes: stela, rolo, infolio, codex, incunábulo manuscrito, tratado, suma, compêndio, volume impresso, livre de poche (boa forma), microfilme, cdrom, ebook. Mas, simultaneamente, não são meros objectos, não se esgotam na sua materialidade. Se perdermos o nosso exemplar da Moby Dick, o grande livro de Melville não se perde. Se uma biblioteca for destruída pelas chamas, os livros que a constituíam não desaparecem, a menos que nela existissem exemplares únicos, como em Alexandria. Dois exemplares diferentes são ainda o mesmo livro. Duas edições diferentes do mesmo livro, seja os Lusíadas, mesmo que separadas por séculos de distância, são ainda o mesmo livro. 
+**Extravagantes** também porque há uma incomensurável variedade de coisas se podem passar dentro de um livro: leis, prescrições médicas, previsões astronómicas, máximas, sentenças, diálogos (como em Platão), exposições didácticas (como em Aristóteles), cartas (como na *Nouvelle Heloíse* de Rousseau), orações, curiosidades, marabilia, compêndios, tratados, textos poéticos, narrativos, argumentativos, demonstrativos, utópicos, ficcionais, romances, contos, novelas. O arado é um instrumento com uma função definida: preparar os campos para a sementeira. O livro é um artefacto infinitamente mais sofisticado, com mil diferentes usos e formas e conteúdos. Não há dois livros iguais. Não se podem fazer livros em série. Cada livro é rigorosamente único.
+**Extravagantes** ainda porque os livros são, ao mesmo tempo, três coisas distintas: próteses de memória poderosíssimas, meios de comunicação extremamente eficazes, deslumbrantes campos de experimentação. Inicialmente, neles se recolhe, transcreve e reproduz o sumptuoso saber da tradição oral, neles se dá letra sólida e firme à sabedoria acústica, melódica e poética, neles se concede espaço ao que era apenas tempo. Mas, para lá da voz que neles se faz traço, grafo, marca, estigma, os livros permitem transmitir, de forma directa e precisa, textos longos, altamente elaborados e complexos. Porque eles estabelecem surpreendentes continuidades entre contemporâneos distantes, entre falantes de línguas diferentes, entre gerações diferentes, entre vivos e mortos. Daí o silêncio de todas as bibliotecas, esses majestosos lugares entre a vida e a morte. Além disso, os livros são o campo onde se exercitam e potenciam os poderes da linguagem, do pensamento e da imaginação. É nos livros que se faz poesia, filosofia, literatura. 
+
+Se quiser, se lhe apetecer, se tiver interesse, paciência e tempo para isso, pode ler o texto inteiro donde tirei as passagens acima transcritas e a que dei justamente o título: [O livro como estravagância](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_livro_estravagancia.pdf)
 
 **Quero agora falar dos livros que escrevi**. 
  >>>>Há sempre uma parte da vida que fica fora das páginas, mas que, ainda assim, lhes pertence.
-
 
 **O meu primeiro livro tem uma história rocambolesca** - [*Leibniz and the Problem of Universal Language*](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf). Na sua base está uma tese de mestrado que fiz na Universidade Nova sob orientação de Fernando Gil. Pouco depois de defendida a tese, fui assistir, na universidade de Évora, a uma conferencia de Marcelo Dascal, um conhecido estudioso de Leibniz, autor de alguns estudos importantes sobre o simbolismo em Leibniz, o tema da minha tese. Fui supreendida pelo facto de a sua conferencia sido feita em português. Eu conhecia bem os seus estudos sobre Leibniz, publicados em francês e inglês, mas não sabia que ele era brasileiro. No final da conferencia, fui falar com ele e disse-lhe, em dois minutos qual o tema da tese que eu tinha acabado de concluir e esperava defender em breve. Recordo bem as suas palavras: "me manda sua tese". Assim fiz. Fotocopiei todo o volume e enviei pelo correio um grande pacote: estávamos em 1985. Não havia ainda pdfs, nem email, nem sequer computador portátil.
 Passaram meses sem qualquer resposta. Nunca mais pensei no assunto. Não gostou, não leu, não terá sequer recebido. Mas, um dia, sem mais nem menos, recebi uma carta manuscrita, que ainda conservo, em que Marcelo Dascal me dizia que, a seu ver, a dissertação deveria ser publicada na Alemanha e que, caso eu estivesse interessada em traduzi-la para inglês, teria todo o gosto de aconselhar a sua edição. A tradução para inglês, feita com o apoio financeiro da Fundação Gulbenkian e realizada com grande competência por [Christopher R. Rollason](https://independent.academia.edu/chrisrollason), foi publicada em Münster, pela editora Nodus Publikationen, em 1987 ([full book](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf)).
@@ -31,7 +39,12 @@ Como digo na contra-capa do livro
 
 **Muitos dos livros que editei nasceram como gestos de amizade**. 
 
-Há livros que nascem de longas investigações, outros de urgências interiores,  outros - acontece muito nos círculos académicos de hoje em dia - nascem de encontros entre colegas, cruzamentos disciplinares, de uma constelação de circunstâncias mais ou menos fortuitas que, num dado momento se tornam decisivas. 
+Há livros que nascem de longas investigações, outros de urgências interiores,  outros - acontece muito nos círculos académicos de hoje em dia - nascem de encontros entre colegas, cruzamentos disciplinares, de uma constelação de circunstâncias mais ou menos fortuitas que, num dado momento se tornam decisivas.
+
+Editei vários livros que se inscrevem nesta categoria. Sobretudo enquanto fui coordenadora do Centro de filosofia das ciências. Trabalhava então com muitos colegas e jovens investigadores. E era movida por uma vontade genuína de apoiar, incentivar, fomentar a colaboração entre colegas e a investigação dos mais jovens. 
+Metia-me então em grandes trabalhos pois, além da coordenação geral do CFCUL, assumia tarefas editoriais que  passavam, não apenas pela escrita dos textos da minha contribuição para o volume, mas também, muitas vezes, pela revisão dos textos dos colaboradores, bem assim como pelas tarefas concretas de organização e realização técnica do volume. 
+
+
 
 Outros ainda, raros, nascem de afinidades que, pouco a pouco, se reconhecem mutuamente. De amizades.
 
