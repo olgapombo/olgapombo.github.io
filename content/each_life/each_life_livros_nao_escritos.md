@@ -3,7 +3,7 @@ title: "each life livros nao escritos"
 draft: false
 ---
 
-# Os livros que nao escrevi
+# Os livros que não escrevi
 
 >>"Estranhos objectos esses, os livros que os homens fazem! Nem artefactos orientados para a sobrevivência, como o machado, o arado, o arco e a flecha, ou para a comodidade, como as cadeiras estufadas, os automóveis, as torradeiras eléctricas. Nem objectos enigmaticamente resistentes a toda a finalidade, pertencentes a essa categoria fundamental de entidades inúteis (artísticas) de que gostamos tanto de nos rodear. Ou simplesmente contemplar.
 >
