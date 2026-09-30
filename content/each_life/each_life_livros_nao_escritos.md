@@ -5,10 +5,8 @@ draft: false
 
 # Os livros que escrevi e os que não escrevi
 
-Estranhos objectos esses, os livros que os homens fazem! Nem artefactos orientados para a sobrevivência, como o machado, o arado, o arco e a flecha, ou para a comodidade, como as cadeiras estufadas, os automóveis, as torradeiras eléctricas. Nem objectos enigmaticamente resistentes a toda a finalidade, pertencentes a essa categoria fundamental de entidades inúteis (artísticas) de que gostamos tanto de nos rodear. Ou simplesmente contemplar.
-Talvez que, no interior da incomensurável quantidade de artefactos que os homens fabricam, os livros sejam porventura os mais extravagantes.  
-
-[O livro como estravagância](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_livro_estravagancia.pdf)
+>>>>"Estranhos objectos esses, os livros que os homens fazem! Nem artefactos orientados para a sobrevivência, como o machado, o arado, o arco e a flecha, ou para a comodidade, como as cadeiras estufadas, os automóveis, as torradeiras eléctricas. Nem objectos enigmaticamente resistentes a toda a finalidade, pertencentes a essa categoria fundamental de entidades inúteis (artísticas) de que gostamos tanto de nos rodear. Ou simplesmente contemplar.
+>>>>Talvez que, no interior da incomensurável quantidade de artefactos que os homens fabricam, os livros sejam porventura os mais extravagantes."  [O livro como estravagância](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_livro_estravagancia.pdf)
 
 **Quero agora falar dos livros que escrevi**. 
  >>>>Há sempre uma parte da vida que fica fora das páginas, mas que, ainda assim, lhes pertence.
