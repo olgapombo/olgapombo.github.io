@@ -37,7 +37,7 @@ Foi lido, discutido e comentado. Fui convidada para conferências na Alemanha, e
 
 Entretanto, em Portugal, pouco depois da publicação do livro na Alemanha, concorri a um concurso para um Departamento de Filosofia. Na altura, era uma das poucas pessoas em Portugal com mestrado em Filosofia — não existiam sequer cursos de doutoramento — e, tanto quanto sei, a única pessoa da área que tinha publicado um livro de filosofia na Alemanha. O concurso acabou por ser cancelado. O meu livro não foi objeto de nenhuma recensão critica em Portugal e, durante anos, nem sequer existia na biblioteca central do departamento de filosofia. 
 
-Tive então de concorrer para o Departamento de Educação da Faculdade de Ciências e de seguir outro caminho académico. E assim, de certo modo, tive de deixar Leibniz.
+Concorri depois para o Departamento de Educação da Faculdade de Ciências onde segui outro caminho académico. E assim, de certo modo, tive de deixar Leibniz.
 
 Mas não o deixei realmente. Continuei a trabalhar sobre ele, embora de outra maneira, digamos subterranea. Quer dizer, o livro sobre Leibniz que não encontrou lugar na instituição encontrou lugar no mundo; e o autor que a instituição lhe fez abandonar continuou a acompanhar-me como minha paixão marginal, quase secreta.
 
