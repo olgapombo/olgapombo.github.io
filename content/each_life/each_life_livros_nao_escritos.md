@@ -16,8 +16,18 @@ draft: false
 
 Se quiser, se lhe apetecer, se tiver interesse, paciência e tempo para isso, pode ler o texto inteiro donde tirei as passagens acima transcritas e a que dei justamente o título: [O livro como estravagância](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_livro_estravagancia.pdf)
 
-**Quero agora falar dos livros que escrevi**. Acredito 
- >>>>Há sempre uma parte da vida que fica fora das páginas, mas que, ainda assim, lhes pertence.
+**Quero agora falar dos livros que escrevi**. 
+ >>>>É que, acredito, "há sempre uma parte da vida que fica fora das páginas, mas que, ainda assim, lhes pertence". Não sei se esta frase que acabei de escrever, foi escrita por mim ou lida algures, há muito tempo. Há nela duas ideias que me dizem muito, que aquilo que fica fora da escrita continua, de algum modo, a habitá-la, mas também que os textos que se escrevem são atravessados por articulações invisíveis, rodeados por silêncios, margens e desvios.
+
+No contexto da sua página — essa espécie de pequena enciclopédia pessoal, onde convivem o trabalho filosófico, a memória familiar, o jardim, os livros escritos e os não escritos 
+
+«Há sempre uma parte da vida que fica fora das páginas, mas que, ainda assim, lhes pertence.»
+
+Ela diz algo importante: que nenhuma biografia, nenhum currículo, nenhuma lista de publicações consegue conter inteiramente uma vida; mas também que aquilo que não está escrito não é exterior à obra — permanece à sua volta, sustenta-a, atravessa-a silenciosamente.
+
+Parece-me, aliás, uma excelente epígrafe para a secção Os livros que não escrevi. Há nela algo de discreto e verdadeiro: os livros escritos não esgotam uma vida intelectual; existem também os livros pensados, adiados, abandonados, imaginados, ou simplesmente vividos sem terem chegado a tornar-se páginas.
+
+Se, um dia, descobrir que a frase é sua, eu diria que merece assiná-la. E, se nunca o descobrir, talvez possa deixá-la sem nome: há frases que pertencem justamente a esse território intermédio entre a leitura, a memória e a vida.
 
 **O meu primeiro livro tem uma história rocambolesca** - [*Leibniz and the Problem of Universal Language*](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf). Na sua base está uma tese de mestrado que fiz na Universidade Nova sob orientação de Fernando Gil. Pouco depois de defendida a tese, fui assistir, na universidade de Évora, a uma conferencia de Marcelo Dascal, um conhecido estudioso de Leibniz, autor de alguns estudos importantes sobre o simbolismo em Leibniz, o tema da minha tese. Fui supreendida pelo facto de a sua conferencia sido feita em português. Eu conhecia bem os seus estudos sobre Leibniz, publicados em francês e inglês, mas não sabia que ele era brasileiro. No final da conferencia, fui falar com ele e disse-lhe, em dois minutos qual o tema da tese que eu tinha acabado de concluir e esperava defender em breve. Recordo bem as suas palavras: "me manda sua tese". Assim fiz. Fotocopiei todo o volume e enviei pelo correio um grande pacote: estávamos em 1985. Não havia ainda pdfs, nem email, nem sequer computador portátil.
 Passaram meses sem qualquer resposta. Nunca mais pensei no assunto. Não gostou, não leu, não terá sequer recebido. Mas, um dia, sem mais nem menos, recebi uma carta manuscrita, que ainda conservo, em que Marcelo Dascal me dizia que, a seu ver, a dissertação deveria ser publicada na Alemanha e que, caso eu estivesse interessada em traduzi-la para inglês, teria todo o gosto de aconselhar a sua edição. A tradução para inglês, feita com o apoio financeiro da Fundação Gulbenkian e realizada com grande competência por [Christopher R. Rollason](https://independent.academia.edu/chrisrollason), foi publicada em Münster, pela editora Nodus Publikationen, em 1987 ([full book](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf)).
