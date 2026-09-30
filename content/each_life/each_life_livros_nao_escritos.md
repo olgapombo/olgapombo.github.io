@@ -5,7 +5,14 @@ draft: false
 
 # Os livros que escrevi e os que não escrevi
 
-Porque há sempre uma parte da vida que fica fora das páginas, mas que, ainda assim, lhes pertence.
+Estranhos objectos esses, os livros que os homens fazem! Nem artefactos orientados para a sobrevivência, como o machado, o arado, o arco e a flecha, ou para a comodidade, como as cadeiras estufadas, os automóveis, as torradeiras eléctricas. Nem objectos enigmaticamente resistentes a toda a finalidade, pertencentes a essa categoria fundamental de entidades inúteis (artísticas) de que gostamos tanto de nos rodear. Ou simplesmente contemplar.
+Talvez que, no interior da incomensurável quantidade de artefactos que os homens fabricam, os livros sejam porventura os mais extravagantes.  
+
+[O livro como estravagância](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_livro_estravagancia.pdf)
+
+**Quero agora falar dos livros que escrevi**. 
+                                    Há sempre uma parte da vida que fica fora das                                      páginas, mas que, ainda assim, lhes pertence.
+
 
 **O meu primeiro livro tem uma história rocambolesca** - [*Leibniz and the Problem of Universal Language*](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf). Na sua base está uma tese de mestrado que fiz na Universidade Nova sob orientação de Fernando Gil. Pouco depois de defendida a tese, fui assistir, na universidade de Évora, a uma conferencia de Marcelo Dascal, um conhecido estudioso de Leibniz, autor de alguns estudos importantes sobre o simbolismo em Leibniz, o tema da minha tese. Fui supreendida pelo facto de a sua conferencia sido feita em português. Eu conhecia bem os seus estudos sobre Leibniz, publicados em francês e inglês, mas não sabia que ele era brasileiro. No final da conferencia, fui falar com ele e disse-lhe, em dois minutos qual o tema da tese que eu tinha acabado de concluir e esperava defender em breve. Recordo bem as suas palavras: "me manda sua tese". Assim fiz. Fotocopiei todo o volume e enviei pelo correio um grande pacote: estávamos em 1985. Não havia ainda pdfs, nem email, nem sequer computador portátil.
 Passaram meses sem qualquer resposta. Nunca mais pensei no assunto. Não gostou, não leu, não terá sequer recebido. Mas, um dia, sem mais nem menos, recebi uma carta manuscrita, que ainda conservo, em que Marcelo Dascal me dizia que, a seu ver, a dissertação deveria ser publicada na Alemanha e que, caso eu estivesse interessada em traduzi-la para inglês, teria todo o gosto de aconselhar a sua edição. A tradução para inglês, feita com o apoio financeiro da Fundação Gulbenkian e realizada com grande competência por [Christopher R. Rollason](https://independent.academia.edu/chrisrollason), foi publicada em Münster, pela editora Nodus Publikationen, em 1987 ([full book](https://webpages.ciencias.ulisboa.pt/~ommartins/pdfs/Leibniz%20and%20the%20Problem%20of%20a%20Universal%20Language.pdf)).
