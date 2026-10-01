@@ -43,7 +43,7 @@ This 3rd part covers the end of the 20th century and the 21st century. In this s
 
 * Pombo, Olga (2006), [**Fernando Gil. Filosofo do conhecimento** (Fernando Gil. Philosopher of knowledge)](https://webpages.ciencias.ulisboa.pt/~ommartins/publicacoes%20opombo/fernandogil.htm#:~:text=O%20conhecimento%20foi%20um%20dos%20problemas%20a%20que,Universalis%29%20que%20surgem%20nos%20anos%2060%20e%2070**). *Knowledge was the problem to which Fernando Gil (1936-2006) devoted most attention. With the curiosity of an anatomist and the depth of an archaeologist, he pursued the elemental affinity between the gesture of thinking and that which is to be thought*.
 
-* Pombo, Olga (1989), [**Recordar Agostinho da Silva: 10 anos Depois** (Remembering Agostinho da Silva: Ten Years Later)](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/apresentacao.htm), web page honouring Agostinho da Silva, during a commemorative session of his visit, at my invitation, to the Faculty of Sciences of Lisbon, 10 years later. 
+* Pombo, Olga (1989), [**Recordar Agostinho da Silva: 10 anos Depois** (Remembering Agostinho da Silva: Ten Years Later)](https://webpages.ciencias.ulisboa.pt/~ommartins/agsilva/apresentacao.htm), web page honouring Agostinho da Silva, during a commemorative session of his visit, at my invitation, to the Faculty of Sciences of Lisbon, 10 years later. (also [here](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_recordar-agostinho-da_silva.pdf))
 
 * Pombo, Olga (1989), [**Biobibliografia de Jean-Jacques Rousseau** (Biobibliography of Jean-Jacques Rousseau)](https://webpages.ciencias.ulisboa.pt/~ommartins/investigacao/biobibliografia.pdf), webpage on Rousseau's biobibliography made upon a selection of quotations.
 
