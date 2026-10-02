@@ -187,7 +187,7 @@ ISBN: 978-65-80103-02-7
 99. Pombo, Olga (2023), [“**Signs of Interdisciplinarity in the second half of XX century and Prospects for the XXI Century**”](https://www.researchgate.net/publication/367011176_Signs_of_Interdisciplinarity_in_the_Second_Half_of_the_XX_Century_and_Prospects_for_the_XXI_Century), in *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century*, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/Heidelberg/London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. 241-299. ISBN: 978-3-031-20404-3
 100. Pombo, Olga: Gaertner, Klaus; Jesuino, Jorge (2023), [“**Introduction**”](../static/pdf-text/OP-jesuino_introduction-two_pages.pdf), in *Theory and Practice in the Interdisciplinary Production and Reproduction of Scientific Knowledge. Interdisciplinarity in the XXI Century*, edited by Olga Pombo; Klaus Gaertner; Jorge Jesuino, Dordrecht/ Heidelberg/ London/New York: Springer, “Logic, Argumentation & Reasoning” vol. 31, pp. ix-xvi. ISBN: 978-3-031-20404-3.
 101. Pombo, Olga, “**Cruzamentos da enciclopédia de Fernando Gil ou a enciclopédia como prática filosófica**”, in *Obras Completas de Fernando Gil*, 2º volume, Lisboa: Imprensa Nacional Casa da Moeda (forthcoming)
-102. Pombo, Olga, “Sobre a Curiosidade”, in Inacio Valentim (org), collaborative volume to be edited by PUCRS, Brasil: Editora Fenix (forthcoming).
+102. Pombo, Olga, **“Sobre a Curiosidade”**, in Inacio Valentim (org), collaborative volume to be edited by PUCRS, Brasil: Editora Fenix (forthcoming).
 
 ### <a name="encyclopaedia-entries"></a>Encyclopaedia entries
 
