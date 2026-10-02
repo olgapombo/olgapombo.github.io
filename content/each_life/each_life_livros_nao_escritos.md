@@ -18,7 +18,7 @@ Se quiser, se lhe apetecer, se tiver interesse, paciência e tempo para isso, po
 
 
 **Quero agora falar dos livros que escrevi**. 
- >>>>É que, acredito, "há sempre uma parte da vida que fica fora das páginas, mas que, ainda assim, lhes pertence".
+ >>>>É que - acredito - "há sempre uma parte da vida que fica fora das páginas, mas que, ainda assim, lhes pertence" (.
 > >>>
 > >>>Não sei se esta frase foi escrita por mim ou se a li algures, há muito tempo, não sei onde. Mantenho-a porque há nela duas ideias que me dizem muito: que aquilo que fica fora da escrita continua, de algum modo, a habitá-la; que, à roda dos textos que se escrevem, ficam silêncios por dizer, territórios por caminhar, margens, desvios, articulações invisíveis por explorar, sombras por iluminar.
 
