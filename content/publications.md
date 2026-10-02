@@ -304,7 +304,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 
 ### <a name="Book-series-editor"></a>Book series editor
 
-* Director of the book series [**A Imagem na Ciência e na Arte** (Image in Science and Art)](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisbon: Fim de Século - 12 volumes published: 
+* Director of the book series [**A Imagem na Ciência e na Arte** (Image in Science and Art)](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/q?mfn=214585&qf_COL==A%20IMAGEM%20NA%20CIENCIA%20E%20NA%20ARTE&qf_ED==FIM%20DE%20SECULO), Lisbon: Fim de Século - [12 volumes published](https://arquivo.pt/wayback/20140925042017/http:/cfcul.fc.ul.pt/publicacoes/CFCUL/#imagem): 
  
 > 1. (2010) *As Cidades, os Castelos e a Onda: Imagens, Diagramas e Metáforas entre Calvino, Escher e Bohr*, by João Araújo;
 > 2. (2010) *Neuroaesthetics : Can Science explain Art?*, edited by Olga Pombo, Silvia Di Marco, Marco Pina;
@@ -319,7 +319,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 >11.	(2018) *Modelos e Imagens*, edited by Olga Pombo;
 >12.	(2019) *CorpoImagem : Representações do Corpo na Ciência e na Arte*, edited by Olga Pombo, Catarina Pombo Nabais, Sara Fuentes.
          
-•	Director of the book series [**Cadernos de Filosofia da Ciência** (Notebooks of Philosophy of Science)](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm), Lisbon: CFCUL - 13 volumes published: 
+•	Director of the book series [**Cadernos de Filosofia da Ciência** (Notebooks of Philosophy of Science)](https://cfcul.mcmlxxvi.net/publicacoes/cadernos.htm), Lisbon: CFCUL - [13 volumes published](https://arquivo.pt/wayback/20140925042017/http:/cfcul.fc.ul.pt/publicacoes/CFCUL/#cadernos): 
 
 > 1. (2005) *Ciência e Género. Quatro Textos de Quatro Mulheres*, edited by Teresa Levy, Clara Queiroz;
 > 2. (2006) *Carta de Edmundo Curvelo a Joaquim de Carvalho (1947-1953) e Outros Inéditos*, edited by  Augusto J. Franco de Oliveira;
@@ -335,7 +335,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 > 12. (2012)	*Poincaré e a Física. Breve antologia de textos de Filosofia da Física de Henri Poincaré*, edited by Isabel Serra, María de Paz;
 > 13. (2015) *As intuições atomísticas (Ensaio de Classificação)*, by Lídia Queiroz.
 
-* Director of the book series **[Documenta](https://cfcul.blogspot.com/p/coleccao-documenta.html)**, Lisbon: CFCUL - 10 published volumes:
+* Director of the book series **[Documenta](https://cfcul.blogspot.com/p/coleccao-documenta.html)**, Lisbon: CFCUL - [10 published volumes](https://arquivo.pt/wayback/20140925042017/http:/cfcul.fc.ul.pt/publicacoes/CFCUL/#documenta):
   
 > 1. (2007) *Abduction and the Process of Scientific Discovery*, edited by Olga Pombo and Alexander Gerner;
 > 2. (2009) *Lógica e Filosofia da Ciência*, edited by Olga Pombo and Ángel Nepomuceno;
@@ -348,7 +348,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 > 9. (2016) *Philosophy of Science in the 21st Century. Challenges and Tasks*, edited by Olga Pombo and Gil Santos;
 > 10. (2019) *Epistemologia, Lógica e Linguagem*, edited by Olga Pombo, Ana Pato and Juan Redmond
  
-* Director of the book series **[Theses](https://cfcul.blogspot.com/p/publicacoes.html)**, Lisbon: CFCUL - 6 published volumes:
+* Director of the book series **[Theses](https://cfcul.blogspot.com/p/publicacoes.html)**, Lisbon: CFCUL - [6 volumes published](https://arquivo.pt/wayback/20140925042017/http:/cfcul.fc.ul.pt/publicacoes/CFCUL/#thesis):
   
 > 1. (2007) *A Teoria de Oparin sobre a Origem da Vida. Uma abordagem no Quadro da História e Filosofia das Ciências* by Helena Abreu;
 > 2. (2009) *A imagem-sensação: Deleuze e a pintura* by Nuno Carvalho;
@@ -364,7 +364,7 @@ Pombo, Olga (2004) **Utopia at XX century. From Black Utopia to the Disappearanc
 > 4. (2016) *Cultural Phylogenetics. Concepts and Applications in Archaeology*, edited by Larissa Mendoza Straffon;
 > 5. (2018)	*Evolution of Primate Social Cognition*, edited by Laura Desirèe Di Paolo, Fabio Di Vincenzo, Francesca De Petrillo.
 
-* Director of the book series [**Cadernos de História e Filosofia da Educação** (Notebooks of History and Philosophy of Education)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), series published by DEFCUL, Lisbon: 7 volumes edited
+* Director of the book series [**Cadernos de História e Filosofia da Educação** (Notebooks of History and Philosophy of Education)](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm), series published by DEFCUL, Lisbon: [7 volumes published](https://webpages.ciencias.ulisboa.pt/~ommartins/images/hfe/cadernos/index.htm#caderno3)
 > 1.	McLuhan. A Escola e os Media (McLuhan. School and Media, 1994
 > 2.	Dois Textos sobre Educação. Hannah Arendt e Eric Weil (Two Texts on Education. Hannah Arendt and Eric Weil, 1995.
 > 3.	A Invenção da Escola na Grécia. Materiais de Estudo (The Invention of School in Greece. Study Materials ,1996
