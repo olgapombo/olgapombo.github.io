@@ -98,7 +98,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 2017 - Lisboa, Artistas Unidos, Teatro Politécnica.
 * 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk). ([slide show](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)), [**Catálogo**]
 * 2018 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sergio Pombo Agora**](https://artistasunidos.pt/sergio-pombo-agora-2)
-* 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, comissariada por João Pinharanda. ([slide show 1](https://www.facebook.com/photo?fbid=2524951094240529&set=pcb.2524954544240184), [slide show 2](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)
+* 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, exposição realizada entre 23 de novembro de 2019 e 11 de janeiro de 2020, comissariada por João Pinharanda. ([slide show 1](https://www.facebook.com/photo?fbid=2524951094240529&set=pcb.2524954544240184), [slide show 2](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)
 
 
 ## Exposições Internacionais (selecção)
@@ -204,10 +204,10 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 ## Bibliografia - Livros
 
 
-**Sérgio Pombo**. Fotografias de [Maria José Palla](https://mariajosepalla.com/), volume fotocopiado com arranjo gráfico de Ana Horta e Maria José Palla e apoio técnico de Maria José Palma, Lisboa: 2002 
+Palla, Maria José,  **Sérgio Pombo**. Fotografias de [Maria José Palla](https://mariajosepalla.com/), arranjo gráfico de Ana Horta e Maria José Palla, apoio técnico de Maria José Palma, Lisboa: 2002 
 
 
-**Sergio Pombo. Pintura 1980-2007**. Texto de [Jorge Silva Melo](https://artistasunidos.pt/jorge-silva-melo/), Lisboa: Grifos, 2007, ISBN: 978-989-95400-0-2.
+Silva Melo, Jorge [**Sergio Pombo: Pintura 1980-2007**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/sregisto?mfn=45922&cl=en). Textos de [Jorge Silva Melo](https://artistasunidos.pt/jorge-silva-melo/), Lisboa: Grifos, 2007, ISBN: 978-989-95400-0-2.
 
 
 
@@ -215,7 +215,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
   <img src="../../static/images/sergio_pombo_livro.webp" height="400">
 </p>
 
-**[*Sérgio Pombo - Obras 1973-2017*](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), Lisboa: Documenta, 2018**, livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, realizada na Fundação Carmona e Costa, com curadoria de João Pinharanda, entre 23 de Novembro de 2019 e 11 de Janeiro de 2020.
+**[*Sérgio Pombo - Obras 1973-2017*](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), Lisboa: Documenta, Fundação Carmona e Costa, 2019**, Ed. bilingue em português e inglês, textos João Pinharanda, Jorge Silva Melo, José Alexandre de São Marcos; fot. Jorge Gonçalves... [et al.]; trad. José Gabriel Flores, ISBN 978-989-9006-08-9 (livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, realizada na Fundação Carmona e Costa, com curadoria de João Pinharanda, entre 23 de novembro de 2019 e 11 de janeiro de 2020).
 
 >> ##### «Sérgio Pombo exprime a sua subjectividade dominante e o seu «sentimento trágico da vida» através de uma figuração exacerbada; cria o seu próprio tempo e universo mas insere-os num tempo cronológico que os ultrapassa e num campo longo, expressionista (ainda não inteiramente revelado e estudado), da criação artística portuguesa. A sua obra está presa à angústia que os românticos e os modernos deixaram como herança à contemporaneidade: a vã procura do fio de Ariadne deitado ao chão por Teseu", **João Pinharanda** 
 
@@ -225,7 +225,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
   <img src="../../static/images/sergio_pombo_livro_catarina_reduzido.webp" height="200">
 </p>
  
-**[*Para Chegar ao Branco da Última Palavra*](https://officiumlectionis.pt/produto/catarina-pombo-nabais-para-chegar-ao-branco-da-ultima-palavra/), Porto: Officium Lectionis, 2025**,
+Pombo Nabais, Catarina, **[*Para Chegar ao Branco da Última Palavra*](https://officiumlectionis.pt/produto/catarina-pombo-nabais-para-chegar-ao-branco-da-ultima-palavra/), Porto: Officium Lectionis, 2025**,
 
 O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
 
