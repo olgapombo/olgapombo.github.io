@@ -215,11 +215,13 @@ Silva Melo, Jorge [**Sergio Pombo: Pintura 1980-2007**](https://bibliografia.bnp
   <img src="../../static/images/sergio_pombo_livro.webp" height="400">
 </p>
 
-**[*Sérgio Pombo - Obras 1973-2017*](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417), Lisboa: Documenta, Fundação Carmona e Costa, 2019**, Ed. bilingue em português e inglês, textos João Pinharanda, Jorge Silva Melo, José Alexandre de São Marcos; fot. Jorge Gonçalves... [et al.]; trad. José Gabriel Flores, ISBN 978-989-9006-08-9 (livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, realizada na Fundação Carmona e Costa, com curadoria de João Pinharanda, entre 23 de novembro de 2019 e 11 de janeiro de 2020).
+**[*Sérgio Pombo - Obras 1973-2017*](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417)** / textos João Pinharanda, Jorge Silva Melo, José Alexandre de São Marcos; fot. Jorge Gonçalves... [et al.]; trad. José Gabriel Flores, Lisboa: Documenta, Fundação Carmona e Costa, 2019, Ed. bilingue em português e inglês, ISBN 978-989-9006-08-9 (livro publicado por ocasião da exposição *Sérgio Pombo: Obras 1973-2017*, realizada na Fundação Carmona e Costa, com curadoria de João Pinharanda, entre 23 de novembro de 2019 e 11 de janeiro de 2020).
 
 >> ##### «Sérgio Pombo exprime a sua subjectividade dominante e o seu «sentimento trágico da vida» através de uma figuração exacerbada; cria o seu próprio tempo e universo mas insere-os num tempo cronológico que os ultrapassa e num campo longo, expressionista (ainda não inteiramente revelado e estudado), da criação artística portuguesa. A sua obra está presa à angústia que os românticos e os modernos deixaram como herança à contemporaneidade: a vã procura do fio de Ariadne deitado ao chão por Teseu", **João Pinharanda** 
 
 >> ##### «Sérgio Pombo está para lá da contemplação, da interrogação, coloca-se sempre no lugar da acção. Não há comodismo, há uma intransigência quase autofágica que vive a inadaptação como elemento para evoluir. A sua pintura é ele, o seu corpo e os corpos que encontra, e pedaços de todos os lugares que se atravessam na vida humana, sempre à escala do ser humano vezes o infinito», *José Alexandre de São Marco*
+
+
 
 <p align="center">
   <img src="../../static/images/sergio_pombo_livro_catarina_reduzido.webp" height="200">
@@ -233,6 +235,11 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
 
 [Lançamento do livro "Para Chegar ao Branco da Última Palavra"](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), conversa com Rui Nunes, Catarina Pombo Nabais e Joâo Pinharanda, Maat, Lisboa, 21 de maio 2026.
 >> #### "Este lançamento foi também uma homenagem póstuma ao artista, celebrando a vitalidade da sua obra e a sua presença contínua na arte portuguesa".
+
+
+
+**Sofia Areal em diálogo com Sérgio Pombo** / textos Carlos Alberto Chaves Monteiro, Thierry Santos, Emília Ferreira ; fot. José Manuel Vanconcellos... [et al.]. - Guarda : Museu Municipal da Guarda, ISBN 978-989-53049-4-3
+
 
 
 ## Catálogos e outros textos
