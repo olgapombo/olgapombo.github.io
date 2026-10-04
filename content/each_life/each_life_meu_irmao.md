@@ -226,11 +226,12 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 </p>
  
 **[*Para Chegar ao Branco da Última Palavra*](https://officiumlectionis.pt/produto/catarina-pombo-nabais-para-chegar-ao-branco-da-ultima-palavra/), Porto: Officium Lectionis, 2025**,
+
 O livro nasce do encontro raro entre dois universos artísticos intensos e aparentemente opostos: a escrita de Rui Nunes e a pintura de Sérgio Pombo. A partir de uma conversa entre ambos, conduzida por Catarina Pombo Nabais, o livro explora as tensões e afinidades entre literatura e pintura, numa vontade de compreender os processos de experimentação artística destes dois monumentos da arte portuguesa.
 
->> #### "Muitíssimo para lá da representação, a obra de Sérgio Pombo coloca-nos perante linhas e formas que se misturam à velocidade do desejo criando um novo corpo, exuberante, total, sublime, que é a obra em si. E, aí, apercebemo-nos que já estamos para lá da pintura" *Catarina Pombo Nabais*
+>> #### "Muitíssimo para lá da representação, a obra de Sérgio Pombo coloca-nos perante linhas e formas que se misturam à velocidade do desejo criando um novo corpo, exuberante, total, sublime, que é a obra em si. E, aí, apercebemo-nos que já estamos para lá da pintura", *Catarina Pombo Nabais*
 
-Sessão de [lançamento do livro "Para Chegar ao Branco da Última Palavra"](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), conversa com Rui Nunes, Catarina Pombo Nabais e Joâo Pinharanda, Maat, Lisboa, 21 de maio 2026.
+[Lançamento do livro "Para Chegar ao Branco da Última Palavra"](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), conversa com Rui Nunes, Catarina Pombo Nabais e Joâo Pinharanda, Maat, Lisboa, 21 de maio 2026.
 >> #### "Este lançamento foi também uma homenagem póstuma ao artista, celebrando a vitalidade da sua obra e a sua presença contínua na arte portuguesa".
 
 
