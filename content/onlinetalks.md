@@ -111,7 +111,7 @@ description: "Conferences, public lectures, debates, book presentations, and onl
 * **A major contribution from Hobbes’ philosophy of language**, plenary lecture to the “IV Iberic Journeys of Philosophy of Science, Logics and Language”, Faculty of Philosophy, Sevilla University, 26/27 February 2008.  
 * **Operativity and representativity of the sign in Leibniz**, plenary lecture to the Internacional Workshop on Diagramatic Thought, promoted by the FCT Project “Image in Science and Art”, FCUL, Lisboa, 24 March 2009.
 * **Ciência e crença. Uma relação delicada**, invited talk at the “Conference Cycle - Darwin e a Revolução Darwiniana,“  New University of Lisbon,  Lisboa, 1st April 2009 ([here](http://elearning.fct.unl.pt/darwin04-video03.html)).
-* **Darwin e a Ilustração Científica**, invited talk in the context of the project “A Imagem na Ciência e na Arte”, in collaboration with Ciência Viva, Knowledge Pavilion, Lisboa 21 -22 April 2009. (**[here](http://www.cvtv.pt/imagens/index.asp?id_video=293)**)
+* **Darwin e a Ilustração Científica**, invited talk in the context of the project “A Imagem na Ciência e na Arte”, in collaboration with Ciência Viva, Knowledge Pavilion, Lisboa 21 -22 April 2009. 
 * **Interdisciplinaridade em arte**, invited speaker at the “I Congresso Internacional Investigação em Arte”, Calouste Gulbenkian Foundation, 18 May 2009. 
 * **Interdisciplinary changes for the study of emergent phenomena**, invited speaker to the “Arrábida Meetings”, promoted by the Complexity Sciences Institute (ICC), Mosteiro da Arrábida, Portugal, 7-9 July 2009. ([video](https://vimeo.com/5788444)) 
 * **Image in science and art**, invited speaker at the Workshop "Imag(in)ing the Nanoscale", Maison des Sciences de l' Homme, Paris, France, 5-6 October 2009.
@@ -222,8 +222,8 @@ description: "Conferences, public lectures, debates, book presentations, and onl
 
 * **Deriva a partir de Rousseau**, Portuguese Philosophy Society,  Lisboa, 24 May 1979. 
 * **Do texto no ensino da Filosofia**,"Segundo Encontro Nacional de Professores de Filosofia", Fundação Calouste Gulbenkian,  Lisboa, 15 February 1980.  
-* **Análise crítica da pedagogia por objectivos**, Congresso de "Pedagogia por Objectivos" promoted by Piaget Institute, Rectory of the  University of Lisbon, 7 February 1983.  
-* **Rousseau no feminino**, invited speaker at the Azores University, Ponta Delgada, 16 May 1983.  
+* **Análise crítica da pedagogia por objectivos**, Congresso de "Pedagogia por Objectivos" promoted by Piaget Institute, Rectory of the  University of Lisbon, 7 February 1983.
+* **Rousseau no feminino**, invited speaker at the Azores University, Ponta Delgada, 16 May 1983. 
 * **Explicação e objectividade em contexto escolar**, invited speaker at the colloquium "Objectividade em ciências", Auditório da Casa da Cultura das Caldas da Rainha, 27 May 1986. 
 * **Para uma fenomenologia do acto educativo**, invited speaker at colloquium "Institution and Philosophy", Eng. António de Almeida Foundation, Oporto, 8 November 1986. 
 * **Investigação e ensino: articulações**, invited speaker at the conference “A Problemática das Licenciaturas em Ensino”, Rectorship of the University of Lisbon, 19-20 February, 1987
