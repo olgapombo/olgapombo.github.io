@@ -33,12 +33,12 @@ Depois, não sei bem como, o leque das minhas amizades alargou-se. De repente, e
 
 A minha casa, na rua Marquês de Fronteira, chegou a ser um ponto central das nossas amizades politicas: o Quim Zé Letria, o Chico Chaves, os irmãos Rosas, a Lea e o Alfredo Nascimento, o Joel.  A [Ana Rita](https://www.facebook.com/FascismoNuncaMais/posts/rita-gandra-n-1945militante-da-extrema-esquerda-cidad%C3%A3-antifascista-de-grande-di/3061207500655275/) só tinha licença dos pais para, à tarde, ir a minha casa. Foi lá que conheceu o Rui d'Épiney, seu companheiro na vida e na luta antifascista que ambos desenvolveram mais tarde com enorme coragem. 
 
-A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos, os ajudava, os alimentava e escondia por vezes. Lembro-me de ela ter cozido o casaco de um amigo que se veio despedir porque, no dia seguinte, ia para a clandestinidade.  
+A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos, os ajudava, os alimentava e escondia por vezes. Lembro-me de ela ter cozido o casaco de um amigo que se veio despedir porque, no dia seguinte, ia para a clandestinidade. Ela assumia ainda um outro importante papel, o de receber e cruzar recados (a companhia de telefones de Lisboa e Porto (TLP) é criada em 1968).
 
 
 **Éramos todos da CPA** (Comissão Pró-Associação dos estudantes do ensino secundário) e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. Na chamada crise de 61, não éramos ainda universitários, mas acompanhámos todas as lutas, fazíamos pequenas tarefas (impressão (a stencil) de comunicados, distribuição nocturna de verbetes nas caixas de correio, pintura de paredes), assistimos aos plenários, às RIAS (Reuniões Inter Associações), participámos nas manifestações e greves de fome. 
 
-                                 (image/<https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/crise_estudantes_lisboa.jpg>)
+[Imagem de um plenario em 1968](image/<https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/crise_estudantes_lisboa.jpg)
 
 
 **Não vou continuar esta narrativa**  
