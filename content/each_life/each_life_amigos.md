@@ -42,7 +42,11 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
 
 [Imagem de um plenario em 1968](content/each_life/static/images/crise_estudantes_lisboa.jpg)
 
-(content/each_life/static/images/crise_estudantes_lisboa.jpg).
+  <p align="center">
+  <content/each_life/static/images/crise_estudantes_lisboa.jpg>
+</p>
+
+
 **Não vou continuar esta narrativa**  
 Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinhar, já cá não estão (o Buda, o João Carvalho, o Rui Abreu, o Zeca Afonso). E, num momento que não sei antecipar, nem já eu cá estarei para os recordar. 
 
