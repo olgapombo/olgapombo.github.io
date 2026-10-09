@@ -43,7 +43,7 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
 [Imagem de um plenario em 1968](image/<content/each_life/static/images/crise_estudantes_lisboa.jpg>)
 
   <p align="center">
-  <content/each_life/static/images/crise_estudantes_lisboa.jpg>
+  <image/content/each_life/static/images/crise_estudantes_lisboa.jpg>
 </p>
 
 
