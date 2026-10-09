@@ -38,7 +38,9 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
 
 **Éramos todos da CPA** (Comissão Pró-Associação dos estudantes do ensino secundário) e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. Na chamada crise de 61, não éramos ainda universitários, mas acompanhámos todas as lutas, fazíamos pequenas tarefas (impressão (a stencil) de comunicados, distribuição nocturna de verbetes nas caixas de correio, pintura de paredes), assistimos aos plenários, às RIAS (Reuniões Inter Associações), participámos nas manifestações e greves de fome. 
 
-[Imagem de um plenario em 1968](image/<https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/crise_estudantes_lisboa.jpg)
+[Imagem de um plenario em 1968](image/https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/crise_estudantes_lisboa.jpg)
+
+[Imagem de um plenario em 1968](static/images/crise_estudantes_lisboa.jpg)
 
 
 **Não vou continuar esta narrativa**  
