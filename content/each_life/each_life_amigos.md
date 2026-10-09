@@ -38,11 +38,8 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
 
 **Éramos todos da CPA** (Comissão Pró-Associação dos estudantes do ensino secundário) e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. Na chamada crise de 61, não éramos ainda universitários, mas acompanhámos todas as lutas, fazíamos pequenas tarefas (impressão (a stencil) de comunicados, distribuição nocturna de verbetes nas caixas de correio, pintura de paredes), assistimos aos plenários, às RIAS, participámos nas manifestações e greves de fome. 
 
-  <p align="center">
-  <https://www.buala.org/sites/default/files/imagecache/full/2020/11/ensinos.jpg>
+  <p align="center">                                    <https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/crise_estudantes_lisboa.jpg>
 </p>
-
-
 
 
 **Não vou continuar esta narrativa**  
