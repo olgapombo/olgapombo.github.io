@@ -24,7 +24,7 @@ description: "Interviews with Olga Pombo — online video interviews, television
 
 ### <a name="televison-and-radio-interviews"></a> Televison and radio interviews
 
-*  **Sobre a Curiosidade (On Curiosity)**, television interview by the journalist Luis Castro, at the RTP2 program “Sociedade civil” (gravado a 9 de setembro 2025), 9 and 10 October 2025.
+*  [**Sobre a Curiosidade (On Curiosity)**](https://www.rtp.pt/play/p14282/e880728/sociedade-civil), television program (RTP2) “Sociedade civil”, by the journalist Luis Castro, 9 and 10 October 2025.
 *  [**À Conversa com Olga Pombo (A conversation with Olga Pombo)**](https://www.youtube.com/watch?v=EA0UJBqb4RE), interview conducted by Rui Remígio, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 16 October 2025. 
 *  [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 program "Vamos beber um café e falar sobre isso", television interview by the journalist José Navarro de Andrade, 24 January 2022.  
 * **O Bosão de Higgs**, television program "Prós e Contras" RTP1, moderated by the journalist Fatima Campos Ferreira, 9 July 2012. [notice](https://www.astropt.org/2012/10/10/pros-e-contras-sobre-o-bosao-de-higgs/) 
