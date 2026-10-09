@@ -43,10 +43,10 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
 </p>
 
 
-**Não vou continuar esta narrativa**  
-Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinhar, já cá não estão (o Buda, o João Carvalho, o Rui Abreu, o Zeca Afonso). E, num momento que não sei antecipar, nem já eu cá estarei para os recordar.
 
-Ao pensar retrospectivamente na minha vida, sei que, cada etapa, ficou marcada por novos encontros, pessoas que me foram umas mais, outras menos próximas, amizades fortuitas e algumas profundas. 
+
+**Não vou continuar esta narrativa**  
+Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinhar, já cá não estão (o Buda, o João Carvalho, o Rui Abreu, o Zeca Afonso). E, num momento que não sei antecipar, nem já eu cá estarei para os recordar. 
 
 
 
