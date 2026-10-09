@@ -41,26 +41,22 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
   <p align="center">
   <https://www.buala.org/sites/default/files/imagecache/full/2020/11/ensinos.jpg>
 </p>
->
->    
+ 
 ........................................
 ........................................
 ........................................
 ........................................
->
->
+
 **Não vou continuar esta narrativa**  
 Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinhar, já cá não estão (o Buda, o João Carvalho, o Rui Abreu, o Zeca Afonso). E, num momento que não sei antecipar, nem já eu cá estarei para os recordar.
 
 Ao pensar retrospectivamente na minha vida, sei que, cada etapa, ficou marcada por novos encontros, pessoas que me foram umas mais, outras menos próximas, amizades fortuitas e algumas profundas. 
->
->
+
 ........................................
 ........................................
 ........................................
 ........................................
->
->
+
 Actualmente, **[a minha página de face book](https://www.facebook.com/olga.pombo.96)**, onde rarissimamente vou, assinala 742 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que não percebo nada do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), estão contabilizados 574 amigos. Ou seja, de acordo com o facebook, tenho 1316 amigos. 
 
 Não me atrevo, de forma alguma, a acreditar estes números. Mas - confesso - sinto-me feliz por ter tido alguns grandes e bons amigos na minha vida. 
