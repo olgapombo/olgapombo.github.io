@@ -53,6 +53,7 @@ Ao pensar retrospectivamente na minha vida, sei que, cada etapa, ficou marcada p
 ........................................
 ........................................
 
+
 Actualmente, **[a minha página de face book](https://www.facebook.com/olga.pombo.96)**, onde rarissimamente vou, assinala 742 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que não percebo nada do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), estão contabilizados 574 amigos. Ou seja, de acordo com o facebook, tenho 1316 amigos. 
 
 Não me atrevo, de forma alguma, a acreditar estes números. Mas - confesso - sinto-me feliz por ter tido alguns grandes e bons amigos na minha vida. 
