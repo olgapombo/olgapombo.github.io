@@ -24,18 +24,18 @@ description: "Interviews with Olga Pombo — online video interviews, television
 
 ### <a name="televison-and-radio-interviews"></a> Televison and radio interviews
 
-*  [**Sobre a Curiosidade (On Curiosity)**](https://www.rtp.pt/play/p14282/e880728/sociedade-civil), television program (RTP2) “Sociedade civil”, by the journalist Luis Castro, 9 October 2025.
+*  [**Sobre a Curiosidade (On Curiosity)**](https://www.rtp.pt/play/p14282/e880728/sociedade-civil), television program (RTP2) “Sociedade civil”, moderated by the journalist Luis Castro, 9 October 2025.
 *  [**À Conversa com Olga Pombo (A conversation with Olga Pombo)**](https://www.youtube.com/watch?v=EA0UJBqb4RE), interview conducted by Rui Remígio, Biblioteca Espaço Cultural Cinema Europa, Lisbon, 16 October 2025. 
 *  [**Interdisciplinaridade e Filosofia da Ciência (Interdisciplinarity and Philosophy of Science)**](https://youtu.be/JThAgUMkH0Y), RTP2 program "Vamos beber um café e falar sobre isso", television interview by the journalist José Navarro de Andrade, 24 January 2022.  
 * **O Bosão de Higgs**, television program "Prós e Contras" RTP1, moderated by the journalist Fatima Campos Ferreira, 9 July 2012. [notice](https://www.astropt.org/2012/10/10/pros-e-contras-sobre-o-bosao-de-higgs/) 
 * **Imagem na Ciência e na Arte' Desvenda Corpo Humano (Image in Science and Art Unveils the Human Body)**, televison interview  by the journalist Lucia Alves, at the RTP1 program “TV Ciência”, 14 February 2011 [(notice)](https://cfcul.mcmlxxvi.net/divulgacao/entrevistas/docs/op18022011.pdf)
 * [**Ciência e Imagem (Science and Image)**](https://arquivos.rtp.pt/conteudos/com-ciencia-episodio-17/), television interview by the journalist Vasco Trigo, at the RTP1 program “Com Ciência”,  23 February 2011 (minutes 12.30 - 19.50).  
 *  **Sobre a Ideia de Enciclopédia (On the Idea of Encyclopaedia)**, television interview by the journalist Paula Moura Pinheiro, at the RTP2 program "Câmara Clara",  19 January 2010.
-*   [**Língua é Poder (Language is Power)**](https://arquivos.rtp.pt/conteudos/olga-pombo-e-guilherme-doliveira-martins/),  televison program  "Câmara Clara", with the journalist Paula Moura Pinheiro (other participant: Guilherme d'Oliveira Martins), RTP2, 15 July 2007. 
+*   [**Língua é Poder (Language is Power)**](https://arquivos.rtp.pt/conteudos/olga-pombo-e-guilherme-doliveira-martins/),  televison program  "Câmara Clara", moderated by the journalist Paula Moura Pinheiro (other participant: Guilherme d'Oliveira Martins), RTP2, 15 July 2007. 
 * **Sobre Agostinho da Silva**, Radio interview, TSF, 13 February 2006
 * **A Politica da Educação (Politics of Education)**, radio interview, Rádio Paris-Lisboa, 25 October 2005.
 * **A Escola, A Recta e o Circulo (The School, the Straigt Line and the Circle)** radio interview  by the journalist Paula Moura Pinheiro about the publication of my book, Rádio Paris-Lisboa (directly taken from FNAC bookshop, Chiado, Lisboa), 1 October 2002.
-* **Livres e Iguais (Free and Equal)**, television program moderated by the journalist Paula Moura Pinheiro (other participants: Augusto Santos Silva, Roberto Carneiro, José Pacheco and João Soeiro), RTP 2, 20 and 22 June 2001.
+* **Livres e Iguais (Free and Equal)**, television program (RTP2), moderated by the journalist Paula Moura Pinheiro (other participants: Augusto Santos Silva, Roberto Carneiro, José Pacheco and João Soeiro), 22 June 2001.
 * **A Situação da Educação em Portugal (The situation of Portuguese Education)**, radio interview by the journalist Paula Moura Pinheiro, Rádio Paris-Lisboa, 20 June 2001.
 * **O Projecto Leibniziano de uma Mathesis Universalis (The Leibnizian Project of a Mathesis Universalis)**, radio interview by Luísa Costa Gomes, at the cycle “Leibniz, Filósofo, Matemático e Historiador. Leibniz nasceu há 350 anos”, Rádio Difusão Portuguesa, Lisboa, 6th July 1996.  
 * **Jean-Jacques Rousseau**, radio interview by Luísa Costa Gomes, Rádio Comercial, Lisboa, 6th May 1985.
