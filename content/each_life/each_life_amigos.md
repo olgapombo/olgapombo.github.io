@@ -31,19 +31,17 @@ A consciência politica era elevada entre algumas colegas da minha turma. Eu e a
 
 Depois, não sei bem como, o leque das minhas amizades alargou-se. De repente, eu e o meu irmão, éramos parte de uma **geração de jovens de esquerda em Lisboa**. Frequentávamos os mesmos sítios, encontrávamo-nos nos cafés, nos jardins, nas cantinas universitárias, na "Casa dos Estudantes do Império", em reuniões de estudantes mais ou menos clandestinas. Também em festas particulares, como as em casa do Lucas, na Avenida da Republica, ou na magnifica esplanada sobre o Tejo da casa dos irmãos Marcelo e Marcela, no Alto de St. Amaro. Cantávamos juntos canções de protesto: a Internacional, *Le chant des partisans*. 
 
-**Éramos todos da CPA** (Comissão Pró-Associação dos estudantes do ensino secundário) e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. Na chamada crise de 61, não éramos ainda universitários, mas acompanhámos todas as lutas, fazíamos pequenas tarefas (impressão (a stencil) de comunicados, distribuição nocturna de verbetes nas caixas de correio, pintura de paredes), assistimos aos plenários, às RIAS (reuniões inter-associações), participámos nas manifestações e greves de fome. 
+A minha casa, na rua Marquês de Fronteira, chegou a ser um ponto central das amizades politicas minhas e do meu irmão: o Quim Zé Letria, o Chico Chaves, os irmãos Rosas, o Joel, a Lea e o Alfredo Nascimento.  A [Ana Rita](https://www.facebook.com/FascismoNuncaMais/posts/rita-gandra-n-1945militante-da-extrema-esquerda-cidad%C3%A3-antifascista-de-grande-di/3061207500655275/) só tinha licença dos pais para, à tarde, ir a minha casa. Foi lá que conheceu o Rui d'Épiney, seu companheiro na vida e na luta antifascista que ambos desenvolveram mais tarde com enorme coragem. 
+
+A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos, os ajudava, os alimentava e escondia por vezes. Lembro-me de ela ter cozido o casaco de um amigo que se veio despedir porque, no dia seguinte, ia para a clandestinidade.  
+
+
+**Éramos todos da CPA** (Comissão Pró-Associação dos estudantes do ensino secundário) e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. Na chamada crise de 61, não éramos ainda universitários, mas acompanhámos todas as lutas, fazíamos pequenas tarefas (impressão (a stencil) de comunicados, distribuição nocturna de verbetes nas caixas de correio, pintura de paredes), assistimos aos plenários, às RIAS, participámos nas manifestações e greves de fome. 
 
   <p align="center">
   <https://www.buala.org/sites/default/files/imagecache/full/2020/11/ensinos.jpg>
 </p>
 
-A minha casa, na rua Marquês de Fronteira, chegou a ser um ponto central das amizades politicas minhas e do meu irmão: o Quim Zé Letria, o Chico Chaves, os irmãos Rosas, o Joel, a Lea e o Alfredo Nascimento.  A [Ana Rita](https://www.facebook.com/FascismoNuncaMais/posts/rita-gandra-n-1945militante-da-extrema-esquerda-cidad%C3%A3-antifascista-de-grande-di/3061207500655275/) só tinha licença dos pais para, à tarde, ir a minha casa. Foi lá que conheceu o Rui d'Épiney, seu companheiro na vida e na luta antifascista que ambos desenvolveram mais tarde com enorme coragem. 
-
-A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos, os ajudava, os alimentava e escondia por vezes. Lembro-me de ela ter cozido o casaco de um amigo que se veio despedir porque, no dia seguinte, ia para a clandestinidade.  
-
-  <p align="center">
-  <img width="590" height="437" alt="image" src="https://github.com/user-attachments/assets/69c340e0-5bbc-4488-a429-3d0f4555362a" />
-</p>
 ........................................
 ........................................
 ........................................
@@ -51,12 +49,10 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
 
 **Não vou continuar esta narrativa**. 
 Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinhar, já cá não estão (o Buda, o João Carvalho, o Rui Abreu, o Zeca Afonso). E, num momento que não sei antecipar, nem já eu cá estarei para os recordar.
-
 .................................
 .................................
 .................................
 .................................
-
 Ao pensar retrospectivamente na minha vida, sei que, cada etapa, ficou marcada por novos encontros, pessoas que me foram umas mais, outras menos próximas, amizades fortuitas e algumas profundas. 
 
 ........................................
