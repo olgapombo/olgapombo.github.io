@@ -17,9 +17,6 @@ draft: false
 
 ##### Se quiser, se lhe apetecer, se tiver interesse, paciência e tempo para isso, pode ler o texto inteiro de onde retirei estas passagens e a que dei justamente o título: [O livro como estravagância](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_livro_estravagancia.pdf). Texto que teve na sua base uma conferencia que apresentei a convite do António Silveira Gomes, nas não menos estravagantes “Jornadas Kantianas”, ciclo de conferencias e mostra de livros, carinhosamente organizadas a partir da obra de Paulo de Cantos (definido pelos organizadores como "auto-editor de invulgares, ideossincráticas, inclassificáveis e imprudentes livros que povoam - cada vez menos - as prateleiras de varias lojas de alfarrabistas"). Os textos apresentados nas *Jornadas*, que tiveram lugar em Lisboa, numa sala para onde se entrava pelo café Noobai (Miradouro de Sta Catarina), em 16-17 março de 2012, foram posteriormente publicados num volume desenhado com extremo cuidado, design invulgar e comovente dedicação, intitulado *O Livr-o-men*, editado por C. Castelo e A. Silveiro Gomes, Lisboa: Barbara says... 
 
-**Os livros que nao escrevi** 
-
-
 
 **Quero agora falar dos livros que escrevi**, ou melhor, de algumas circunstancias que ficaram fora da sua escrita mas que, de algum modo, continuam a habita-la.
 
@@ -96,9 +93,9 @@ Tal é o "Protágoras", de Platão
 
 ## **Os livros que não escrevi**
 
-São de dois tipos: O primeiro, inclui livros pensados, adiados, abandonados, ou simplesmente imaginados: um livro sobre a universidade e outro que reunisse textos soltos, livres, completamente distantes do universo da universidade.
+São de dois tipos. Primeiro, livros pensados, adiados, abandonados, ou simplesmente imaginados: um livro sobre a universidade e outro que reunisse textos soltos, livres, completamente distantes do universo da universidade.
 
-Depois,  os livros que anunciei  como *forthcoming* na lista das minhas publicações. Livros que, pelo menos por enquanto, habitam uma zona de penumbra ondem respiram, dormem o seu sono de justos, murmuram ao meu ouvido, agitam-se por vezes, inquietos, falam em voz alta, mas não existem plenamente.
+Depois,  os livros que anunciei  como *forthcoming* na lista das minhas publicações. Livros que, pelo menos por enquanto, habitam uma zona de penumbra ondem dormem o seu sono de justos, murmuram ao meu ouvido, agitam-se por vezes, inquietos, falam em voz alta, mas não existem plenamente.
 
 Dois estão escritos, mas não acabados. Não fechados. Não publicados. São livros que acompanhei durante anos, que cresceram comigo, que aguardam acertos finais,  sempre adiados. 
 
