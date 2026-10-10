@@ -17,6 +17,9 @@ draft: false
 
 ##### Se quiser, se lhe apetecer, se tiver interesse, paciência e tempo para isso, pode ler o texto inteiro de onde retirei estas passagens e a que dei justamente o título: [O livro como estravagância](https://github.com/olgapombo/olgapombo.github.io/blob/main/static/pdf-text/OP_livro_estravagancia.pdf). Texto que teve na sua base uma conferencia que apresentei a convite do António Silveira Gomes, nas não menos estravagantes “Jornadas Kantianas”, ciclo de conferencias e mostra de livros, carinhosamente organizadas a partir da obra de Paulo de Cantos (definido pelos organizadores como "auto-editor de invulgares, ideossincráticas, inclassificáveis e imprudentes livros que povoam - cada vez menos - as prateleiras de varias lojas de alfarrabistas"). Os textos apresentados nas *Jornadas*, que tiveram lugar em Lisboa, numa sala para onde se entrava pelo café Noobai (Miradouro de Sta Catarina), em 16-17 março de 2012, foram posteriormente publicados num volume desenhado com extremo cuidado, design invulgar e comovente dedicação, intitulado *O Livr-o-men*, editado por C. Castelo e A. Silveiro Gomes, Lisboa: Barbara says... 
 
+**Os livros que nao escrevi** 
+
+
 
 **Quero agora falar dos livros que escrevi**, ou melhor, de algumas circunstancias que ficaram fora da sua escrita mas que, de algum modo, continuam a habita-la.
 
@@ -88,24 +91,28 @@ Pode-se amar profundamente um livro
 Amá-lo porque nos honra
 Amá-lo porque nos exalta
 Amá-lo porque com ele nos sentimos em casa
-Tal é o Protágoras de Platão
+Tal é o "Protágoras", de Platão
 
 
-**Os livros que não escrevi**
+## **Os livros que não escrevi**
 
-São três os livros que anunciei  como *forthcoming* na lista das minhas publicações. Livros que, pelo menos por enquanto, habitam uma zona de penumbra onde respiram, murmuram ao meu ouvido, falam por vezes em voz alta, mas não existem plenamente.
+São de dois tipos: O primeiro, inclui livros pensados, adiados, abandonados, ou simplesmente imaginados: um livro sobre a universidade e outro que reunisse textos soltos, livres, completamente distantes do universo da universidade.
 
-Dois estão escritos, mas não acabados. Não fechados. Não publicados. São livros que acompanhei durante anos, que cresceram comigo, que aguardam  alguns acertos finais. 
+Depois,  os livros que anunciei  como *forthcoming* na lista das minhas publicações. Livros que, pelo menos por enquanto, habitam uma zona de penumbra ondem respiram, dormem o seu sono de justos, murmuram ao meu ouvido, agitam-se por vezes, inquietos, falam em voz alta, mas não existem plenamente.
 
->> O primeiro, **Estudos de Ciência e Arte / Studies on Science and Art** reúne um conjunto de textos que fui escrevendo ao longo dos anos em que propus e coordenei o projecto FCT "A Imagem na Ciencia e na Arte", e ao longo dos quais inventei e leccionei, na FCUL, a cadeira "Ciência e Arte". Na sua maior parte, são textos escritos durante a preparação de aulas, mas também resultantes de conferencias, debates, mesas redondas, intervenções  apresentadas em diversos contextos, umas vezes em português, outras em inglês. Juntos, aspiram a identificar as [afinidades admiráveis e as diferenças sublimes](https://www.youtube.com/watch?v=Bq12-IleNRM) entre a ciência e as artes. 
+Dois estão escritos, mas não acabados. Não fechados. Não publicados. São livros que acompanhei durante anos, que cresceram comigo, que aguardam acertos finais,  sempre adiados. 
 
->> O segundo, **Cartographies of Knowledge** foi-se construindo sem ter por base um ensino especifico ou um projecto de investigação financiado.  É também um conjunto de textos - conferencias, ensaios, anotações de diversos tipos - que respondem a um interesse antigo e persistente que só tardiamente reconheci como forma autónoma de investigação e soube nomear: cartografias do conhecimento.  O mapeamento das disciplinas, a ordem dos saberes, a arquitetura das instituições cognitivas universais com que a ciência sempre se fez, a irresistível construção de configurações espaciais de inteligibilidade  — é isso que constitui o território deste livro.  
+>> O primeiro, **Estudos de Ciência e Arte / Studies on Science and Art** reúne um conjunto de textos que fui escrevendo ao longo dos anos em que coordenei o projecto FCT "A Imagem na Ciencia e na Arte", e ao longo dos quais inventei e leccionei, na FCUL, a cadeira "Ciência e Arte". Na sua maior parte, são textos escritos durante a preparação de aulas, por vezes, depois das aulas, sempre que, nesse espaço luminoso, me era dado compreender melhor o que afinal queria dizer, sempre que era bafejada pela alegria de compreender depois de dizer. Mas também resultantes de conferencias, debates, mesas redondas, intervenções  apresentadas em diversos contextos, umas vezes em português, outras em inglês. Juntos, os textos que compoem esse volume que não escrevi aspiram a identificar as [afinidades admiráveis e as diferenças sublimes](https://www.youtube.com/watch?v=Bq12-IleNRM) entre a ciência e as artes. 
+
+>> O segundo, **Cartographies of Knowledge** foi-se construindo sem ter por base um ensino especifico ou um projecto de investigação financiado.  É também um conjunto de textos - conferencias, ensaios, anotações de diversos tipos - que respondem a um interesse persistente que só tardiamente reconheci como forma autónoma de investigação e soube nomear: cartografias do conhecimento.  O mapeamento das disciplinas, a ordem dos saberes, a arquitetura das instituições cognitivas universais com que a ciência sempre se fez, a irresistível construção de configurações espaciais de inteligibilidade  — é isso que constitui o território desse livro que ficou por escrever.  
 
 
-O terceiro livro -  **Deriva a partir de Rousseau / Derives from Rousseau** - é diferente. Transporta consigo um mistério que não consigo deslindar. O livro está integralmente escrito desde 1995. Trinta anos! Parece mentira. Tem capa, está organizado em capítulos, tem índice e bibliografia, tem mesmo algumas fotografias que a minha amiga Maria José Palla me deu para uma publicação que esteve várias vezes eminente. E, no entanto, à ultima hora, recuei sempre. Faltava-me a coragem ou o atrevimento, a confiança ou a ousadia. Ainda era cedo para fazer entrar na esfera publica a minha leitura apaixonada de Rousseau. Ainda era cedo para interroper a misteriosa presença que Rousseau sempre teve na minha alma. 
+O terceiro livro -  **Deriva a partir de Rousseau / Derives from Rousseau** - é diferente. Transporta consigo um mistério que não consigo deslindar. O livro está integralmente escrito desde 1995. Concluído há trinta anos! Parece mentira. Tem capa, está organizado em capítulos, tem índice e bibliografia. Tem mesmo algumas fotografias que a minha querida amiga [Maria José Palla](https://mariajosepalla.com/) me deu para uma publicação que esteve várias vezes eminente. E, no entanto, à ultima hora, recuei sempre. Faltava-me a coragem ou o atrevimento, a confiança ou a ousadia. Ainda era cedo para fazer entrar na esfera pública a minha leitura apaixonada de Rousseau. Ainda era cedo para interroper a misteriosa presença que Rousseau sempre teve na minha alma, esse "infinito do corpo", como lhe chamava Artaud. 
 
-Varias vezes peguei nele. Procurei revê-lo, reescreve-lo, actualizá-lo. Nunca fui capaz de alterar nada de substancial. Se ele fosse um livro académico, poderia beneficiar de novas referencias bibliográficas, deveria ser enriquecido com novas leituras. Mas ele não é propriamente um livro académico. Mas também não é um texto literário, um monumento intocável. E também não é - nunca teria essa pretensão - um daqueles livros cuja matéria é demasiado íntima para se deixar publicar. È outra coisa, ou melhor, uma mistura de varias coisas: teses heterodoxas, memória, evocação, deriva.
+Varias vezes peguei no livro. Procurei revê-lo, reescreve-lo, actualizá-lo. 
+Nunca fui capaz de alterar nada de substancial. Se fosse um livro académico, poderia beneficiar de novas referencias bibliográficas, deveria ser enriquecido com novas leituras. Mas ele não é propriamente um livro académico. Mas também não é um texto literário, um monumento intocável. E também não é - nunca teria essa pretensão - um daqueles livros cuja matéria é demasiado íntima para se deixar publicar. È outra coisa, ou melhor, uma mistura de varias coisas, um conjunto de teses heterodoxas, de leituras esdrúxulas, eco de muito antiga memória, evocação, deriva.
 
-Lentamente, começou a constituir-se em mim a convicção de que este seria o ultimo livro que eu publicaria. Como então decidir publicá-lo? Como resistir ao adiamento máximo desse momento?
+Lentamente, começou a constituir-se em mim a convicção de que este seria o último livro que eu publicaria. Como então decidir publicá-lo? Como resistir ao adiamento máximo desse momento?
 
-**Entre livros pensados, adiados, abandonados, ou simplesmente imaginados, conto dois**: um livro sobre a universidade e outro que reunisse textos soltos, livres, completamente distantes do universo da universidade.
+
+
