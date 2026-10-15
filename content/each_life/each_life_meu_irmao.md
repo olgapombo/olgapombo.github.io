@@ -325,8 +325,6 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
       style="height: 500px; object-fit: cover;">
   <img src="../../static/images/sergio_pombo_construcao_7.jpg"
       style="height: 500px; object-fit: cover;">
-   <img src="../../static/images/escultura_sergio-pombo_cam.webp"
-       style="height: 500px; object-fit: cover;">
   <img src="../../static/images/sergio_pombo_exposicao2.webp"
       style="height: 500px; object-fit: cover;">
   <img src="../../static/images/sergio_pombo_exposicao3.jpeg"
