@@ -40,15 +40,13 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
 
 [Imagem de um plenario em 1968](image/https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/crise_estudantes_lisboa.jpg)
 
-[Imagem de um plenario em 1968](image/content/each_life/static/images/crise_estudantes_lisboa.jpg)
+Imagem de um plenario em 1968
 
-  <p align="center">
-  <image/content/each_life/static/images/crise_estudantes_lisboa.jpg>
-</p>
+<div style="display: flex; justify-content: center; gap: 80px;">
+  <img src="../../static/images/crise_estudantes_lisboa.jpg"
+       style="height: 500px; object-fit: cover;">
+</div>
 
-
-olgapombo.github.io/static/images
-/crise_estudantes_lisboa.jpg
 
 **Não vou continuar esta narrativa**  
 Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinhar, já cá não estão (o Buda, o João Carvalho, o Rui Abreu, o Zeca Afonso). E, num momento que não sei antecipar, nem já eu cá estarei para os recordar. 
