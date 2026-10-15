@@ -111,6 +111,10 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
        style="height: 400px; object-fit: cover;">
 </div>
 
+<p align="center">
+  <img src="../../static/sergio_pombo_exposiçao_artistas_unidos5.jpg" height="300">
+</p>
+
 ## Exposições Internacionais (selecção)
 * 1976 – Caracas, **Pintura Portuguesa**.
 * 1977 – Viena, Áustria, **Exposição 5+1**.
