@@ -308,7 +308,7 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
        style="height: 500px; object-fit: cover;">
 </div>
 
-**Série de fotos gentilmente cedidas pela Ângela Freitas**
+**Série de fotos de atelier e de exposição gentilmente cedidas por Ângela Freitas**
 
 <div style="display: flex; justify-content: center; gap: 80px;">
   <img src="../../static/images/sergio_pombo_construcao_1.jpg"
