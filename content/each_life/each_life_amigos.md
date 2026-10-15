@@ -47,6 +47,9 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
 </p>
 
 
+olgapombo.github.io/static/images
+/crise_estudantes_lisboa.jpg
+
 **Não vou continuar esta narrativa**  
 Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinhar, já cá não estão (o Buda, o João Carvalho, o Rui Abreu, o Zeca Afonso). E, num momento que não sei antecipar, nem já eu cá estarei para os recordar. 
 
