@@ -307,3 +307,20 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
   <img src="../../static/images/sergio-no_carmo.webp"
        style="height: 500px; object-fit: cover;">
 </div>
+
+**Série de fotos gentilmente cedidas pela Ângela Freitas**
+
+<div style="display: flex; justify-content: center; gap: 80px;">
+  <img src="../../static/images/sergio_pombo_construcao_1.jpg"
+       style="height: 500px; object-fit: cover;">
+  <img src="../../static/images/sergio_pombo_construcao_2.jpg"
+       style="height: 500px; object-fit: cover;">
+  <img src="../../static/images/sergio_pombo_construcao_3.jpg"
+       style="height: 500px; object-fit: cover;">
+  <img src="../../static/images/sergio_pombo_construcao_4.jpg"
+       style="height: 500px; object-fit: cover;">
+  <img src="../../static/images/sergio_pombo_construcao_5.jpg"
+      style="height: 500px; object-fit: cover;">
+  <img src="../../static/images/sergio_pombo_construcao_6.jpg"
+      style="height: 500px; object-fit: cover;">
+</div>   
