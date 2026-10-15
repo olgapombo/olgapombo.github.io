@@ -315,7 +315,7 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
        style="height: 500px; object-fit: cover;">
   <img src="../../static/images/sergio_pombo_construcao_2.jpg"
        style="height: 500px; object-fit: cover;">
-  <img src="../../static/images/sergio_pombo_construcao_3.jpg"
+  <img src="../../static/images/sergio_pombo_construcao_3.jpeg"
        style="height: 500px; object-fit: cover;">
   <img src="../../static/images/sergio_pombo_construcao_4.jpg"
        style="height: 500px; object-fit: cover;">
