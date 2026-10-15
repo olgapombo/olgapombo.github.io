@@ -308,7 +308,7 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
        style="height: 500px; object-fit: cover;">
 </div>
 
-**Série de fotos de atelier e de exposição gentilmente cedidas por Ângela Freitas**
+**Série de fotos de atelier e de exposição (Cam, Artistas Unidos, Convento do Carmo) gentilmente cedidas por Ângela Freitas**
 
 <div style="display: flex; justify-content: center; gap: 80px;">
   <img src="../../static/images/sergio_pombo_construcao_1.jpg"
@@ -325,6 +325,8 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
       style="height: 500px; object-fit: cover;">
   <img src="../../static/images/sergio_pombo_construcao_7.jpg"
       style="height: 500px; object-fit: cover;">
+   <img src="../../static/images/escultura_sergio-pombo_cam.webp"
+       style="height: 500px; object-fit: cover;">
   <img src="../../static/images/sergio_pombo_exposicao2.webp"
       style="height: 500px; object-fit: cover;">
   <img src="../../static/images/sergio_pombo_exposicao3.jpeg"
