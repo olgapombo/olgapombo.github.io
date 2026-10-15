@@ -94,7 +94,6 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * –––––– Lisboa, Galeria Giefarte, **Sério Pombo. Pintura e Desenho**.
 * –––––– Lisboa, Galeria CiDiarte, **Sério Pombo. Pintura**, [**Catálogo**].
 * 2013 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sérgio Pombo. O Corpo e a Linha**](https://artistasunidos.pt/sergio-pombo-o-corpo-e-a-linha)
-* 
 * 2013 - Lisboa, Museu Arqueológico do Carmo, [**Sérgio Pombo. O Corpo e a Memória. Escultura**](../../static/images/sergio-pombo_museu_carmo.webp "sergio-pombo_museu_carmo.webp")
 * 2017 - Lisboa, Artistas Unidos, Teatro Politécnica.
 * 2018 - Cascais, Centro Cultural de Cascais, [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk). ([slide show](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)), [**Catálogo**]
@@ -102,8 +101,13 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, exposição realizada entre 23 de novembro de 2019 e 11 de janeiro de 2020, comissariada por João Pinharanda. ([slide show 1](https://www.facebook.com/photo?fbid=2524951094240529&set=pcb.2524954544240184), [slide show 2](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)
 
 <div style="display: flex; justify-content: center; gap: 90px;">
-  <img src="../../static/sergio/pombo_exposiçao_artistas_unidos2.webp"
+  <img src="../../static/sergio_pombo_exposiçao_artistas_unidos2.jpg"
+       style="height: 300px; object-fit: cover;">
+  <img src="../../static/sergio_pombo_exposiçao_artistas_unidos3.jpg"
+       style="height: 300px; object-fit: cover;">
+  <img src="../../static/sergio_pombo_exposiçao_artistas_unidos4.jpg"
        style="height: 400px; object-fit: cover;">
+  <img src="../../static/sergio_pombo_exposiçao_artistas_unidos5.jpg"
        style="height: 400px; object-fit: cover;">
 </div>
 
