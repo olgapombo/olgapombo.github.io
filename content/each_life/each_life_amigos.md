@@ -36,16 +36,13 @@ A minha casa, na rua Marquês de Fronteira, chegou a ser um ponto central das no
 A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos, os ajudava, os alimentava e escondia por vezes. Lembro-me de ela ter cozido o casaco de um amigo que se veio despedir porque, no dia seguinte, ia para a clandestinidade. Ela assumia ainda um outro importante papel, o de receber e cruzar recados (a companhia de telefones de Lisboa e Porto (TLP) é criada em 1968).
 
 
-**Éramos todos da CPA** (Comissão Pró-Associação dos estudantes do ensino secundário) e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. Na chamada crise de 61, não éramos ainda universitários, mas acompanhámos todas as lutas, fazíamos pequenas tarefas (impressão (a stencil) de comunicados, distribuição nocturna de verbetes nas caixas de correio, pintura de paredes), assistimos aos plenários, às RIAS (Reuniões Inter Associações), participámos nas manifestações e greves de fome. 
-
-[Imagem de um plenario em 1968](image/https://github.com/olgapombo/olgapombo.github.io/blob/main/static/images/crise_estudantes_lisboa.jpg)
-
-Imagem de um plenario em 1968
+**Éramos todos da CPA** (Comissão Pró-Associação dos estudantes do ensino secundário) e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. Na chamada crise de 61, não éramos ainda universitários, mas acompanhámos todas as lutas, fazíamos pequenas tarefas (de impressão (a stencil) de comunicados, de distribuição nocturna de verbetes nas caixas de correio, de pintura de paredes),  participámos nas manifestações e greves de fome, assistimos às RIAS (Reuniões Inter Associações) e aos plenários.
 
 <div style="display: flex; justify-content: center; gap: 80px;">
   <img src="../../static/images/crise_estudantes_lisboa.jpg"
        style="height: 500px; object-fit: cover;">
 </div>
+
 
 
 **Não vou continuar esta narrativa**  
