@@ -100,20 +100,20 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 * 2018 - Lisboa, Artistas Unidos, Teatro Politécnica, [**Sergio Pombo Agora**](https://artistasunidos.pt/sergio-pombo-agora-2)
 * 2020 - Lisboa, Fundação Carmona e Costa, **Sérgio Pombo: Obras 1973-2017**, exposição realizada entre 23 de novembro de 2019 e 11 de janeiro de 2020, comissariada por João Pinharanda. ([slide show 1](https://www.facebook.com/photo?fbid=2524951094240529&set=pcb.2524954544240184), [slide show 2](https://www.facebook.com/photo/?fbid=10209290810337854&set=a.10209290802857667)
 
-<div style="display: flex; justify-content: center; gap: 90px;">
+<div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 25px;">
   <img src="../../static/sergio_pombo_exposiçao_artistas_unidos2.jpg"
-       style="height: 300px; object-fit: cover;">
+       style="width: 45%; height: 300px; object-fit: contain;">
   <img src="../../static/sergio_pombo_exposiçao_artistas_unidos3.jpg"
-       style="height: 300px; object-fit: cover;">
-  <img src="../../static/sergio_pombo_exposiçao_artistas_unidos4.jpg"
-       style="height: 400px; object-fit: cover;">
-  <img src="../../static/sergio_pombo_exposiçao_artistas_unidos5.jpg"
-       style="height: 400px; object-fit: cover;">
+       style="width: 45%; height: 300px; object-fit: contain;">
 </div>
 
-<p align="center">
-  <img src="../../static/sergio_pombo_exposiçao_artistas_unidos5.jpg">
-</p>
+<div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 25px;">
+  <img src="../../static/sergio_pombo_exposiçao_artistas_unidos4.jpg"
+       style="width: 45%; height: 300px; object-fit: contain;">
+  <img src="../../static/sergio_pombo_exposiçao_artistas_unidos5.jpg"
+       style="width: 45%; height: 300px; object-fit: contain;">
+</div>
+
 
 ## Exposições Internacionais (selecção)
 * 1976 – Caracas, **Pintura Portuguesa**.
