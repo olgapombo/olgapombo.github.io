@@ -250,7 +250,9 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
 [Lançamento do livro "Para Chegar ao Branco da Última Palavra"](https://www.maat.pt/pt/event/conversa-com-rui-nunes-catarina-pombo-nabais-e-joao-pinharanda), conversa com Rui Nunes, Catarina Pombo Nabais e Joâo Pinharanda, Maat, Lisboa, 21 de maio 2026.
 >> #### "Este lançamento foi também uma homenagem póstuma ao artista, celebrando a vitalidade da sua obra e a sua presença contínua na arte portuguesa".
 
-
+<p align="center">
+  <img src="../../static/images/capa_livro_sofia_areal.jpg" height="200">
+</p>
 
 [**Sofia Areal em diálogo com Sérgio Pombo**](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?2097399) / textos Carlos Alberto Chaves Monteiro, Thierry Santos, Emília Ferreira ; fot. José Manuel Vanconcellos... [et al.]. - Guarda : Museu Municipal da Guarda, ISBN 978-989-53049-4-3
 
