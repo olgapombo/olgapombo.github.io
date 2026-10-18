@@ -49,7 +49,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 
 * Sérgio Pombo - Fundação D. Luis I [**Estatuas de Pintura**](https://www.youtube.com/watch?v=lnOg5u98dCk), 2018.
 * Sérgio Pombo - Fundação Carmona e Costa [**Conversa com Sergio Pombo e convidados** (João Pinharanda, Jorge Silva e Melo, José Alexandre de S. Marcos](https://www.youtube.com/watch?v=lAZKjriBqZM), 2017.
-* Sérgio Pombo - RTP1 - *Programa Moldura* [**Entrevista a Sergio Pombo com joaquim Letria**](https://arquivos.rtp.pt/conteudos/ja-esta-parte-ii-33) (from 33 on), 1988.
+* Sérgio Pombo - RTP1 - *Programa Moldura* [**Entrevista a Sergio Pombo com Joaquim Letria**](https://arquivos.rtp.pt/conteudos/ja-esta-parte-ii-33) (from 33 on), 1988.
 * Sérgio Pombo - RTP 1 [**Entrevista a Sergio Pombo**](https://arquivos.rtp.pt/conteudos/entrevista-a-sergio-pombo), 1979.
 * Sérgio Pombo - Radio Observador - *O Elogio Público* [**Sergio Pombo sobre Guilherme Parente**](https://observador.pt/programas/cultura-do-elogio/o-elogio-publico-de-sergio-pombo)
 
@@ -226,7 +226,7 @@ Silva Melo, Jorge [**Sergio Pombo: Pintura 1980-2007**](https://bibliografia.bnp
 
 
 <p align="center">
-  <img src="../../static/images/sergio_pombo_livro.webp" height="400">
+  <img src="../../static/images/sergio_pombo_livro.webp" height="200">
 </p>
 
 **[*Sérgio Pombo - Obras 1973-2017*](https://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?2047767)** / textos João Pinharanda, Jorge Silva Melo, José Alexandre de São Marcos; fot. Jorge Gonçalves; trad. José Gabriel Flores, Lisboa: Documenta, Fundação Carmona e Costa, 2019, Ed. bilingue em português e inglês, ISBN 978-989-9006-08-9 ([pode encontrar o livro aqui](https://www.bertrand.pt/livro/sergio-pombo-obras-1973-2017-sergio-pombo/23679417)
