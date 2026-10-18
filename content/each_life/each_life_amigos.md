@@ -44,15 +44,14 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
        style="height: 500px; object-fit: cover;">
 </div>
 
-
+..................................
+..................................
 
 **Não vou continuar esta narrativa**  
-Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinhar, já cá não estão (o Buda, o João Carvalho, o Rui Abreu, o Zeca Afonso). E, num momento que não sei antecipar, nem já eu cá estarei para os recordar. 
-
+Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinhar, já cá não estão (o Buda, o João Carvalho, o Rui Abreu, o Zeca Afonso). E, num momento que não sei antecipar, nem já eu estarei para os recordar. 
 
 ..................................
 ..................................
-
 
 Actualmente, **[a minha página de face book](https://www.facebook.com/olga.pombo.96)**, onde rarissimamente vou, assinala 748 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que não percebo nada do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), estão contabilizados 574 amigos. Ou seja, de acordo com o facebook, tenho 1322 amigos. 
 
