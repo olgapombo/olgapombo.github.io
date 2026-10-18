@@ -37,7 +37,7 @@ A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos
 
 
 **Éramos todos da CPA** (Comissão Pró-Associação dos estudantes do ensino secundário) e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. Na chamada crise de 61, não éramos ainda universitários, mas acompanávamos todas as lutas, fazíamos pequenas tarefas (de impressão (a stencil) de comunicados, de distribuição nocturna de verbetes nas caixas de correio, de pintura de paredes),  participávamos nas manifestações e greves de fome, assistiamos às RIAS (Reuniões Inter Associações) e aos plenários.
-##### Na seguinte foto de um plenário em 1968, eu estou algures, no canto direito, em cima: 
+##### Na seguinte foto de um plenário em 1968, na cantina universitária, eu estou algures, no canto direito, em cima: 
 
 <div style="display: flex; justify-content: center; gap: 80px;">
   <img src="../../static/images/crise_estudantes_lisboa.jpg"
