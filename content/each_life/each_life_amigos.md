@@ -36,7 +36,8 @@ A minha casa, na rua Marquês de Fronteira, chegou a ser um ponto central das no
 A minha mãe desempenhava um papel central. Era ela que recebia os nossos amigos, os ajudava, os alimentava e escondia por vezes. Lembro-me de ela ter cozido o casaco de um amigo que se veio despedir porque, no dia seguinte, ia para a clandestinidade. Ela assumia ainda um outro importante papel, o de receber e cruzar recados (a companhia de telefones de Lisboa e Porto (TLP) é criada em 1968).
 
 
-**Éramos todos da CPA** (Comissão Pró-Associação dos estudantes do ensino secundário) e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. Na chamada crise de 61, não éramos ainda universitários, mas acompanhámos todas as lutas, fazíamos pequenas tarefas (de impressão (a stencil) de comunicados, de distribuição nocturna de verbetes nas caixas de correio, de pintura de paredes),  participámos nas manifestações e greves de fome, assistimos às RIAS (Reuniões Inter Associações) e aos plenários.
+**Éramos todos da CPA** (Comissão Pró-Associação dos estudantes do ensino secundário) e, alguns de nós, simpatizantes, ou mesmo membros, da juventude comunista. Na chamada crise de 61, não éramos ainda universitários, mas acompanávamos todas as lutas, fazíamos pequenas tarefas (de impressão (a stencil) de comunicados, de distribuição nocturna de verbetes nas caixas de correio, de pintura de paredes),  participávamos nas manifestações e greves de fome, assistiamos às RIAS (Reuniões Inter Associações) e aos plenários.
+##### Na seguinte foto de um plenário em 1968, eu estou algures, no canto direito, em cima: 
 
 <div style="display: flex; justify-content: center; gap: 80px;">
   <img src="../../static/images/crise_estudantes_lisboa.jpg"
@@ -53,7 +54,7 @@ Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinha
 ..................................
 
 
-Actualmente, **[a minha página de face book](https://www.facebook.com/olga.pombo.96)**, onde rarissimamente vou, assinala 742 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que não percebo nada do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), estão contabilizados 574 amigos. Ou seja, de acordo com o facebook, tenho 1316 amigos. 
+Actualmente, **[a minha página de face book](https://www.facebook.com/olga.pombo.96)**, onde rarissimamente vou, assinala 748 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que não percebo nada do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), estão contabilizados 574 amigos. Ou seja, de acordo com o facebook, tenho 1322 amigos. 
 
 Não me atrevo, de forma alguma, a acreditar estes números. 
 Mas - confesso - sinto-me feliz por ter tido alguns grandes amigos na minha vida. 
