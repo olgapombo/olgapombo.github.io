@@ -55,7 +55,7 @@ Não interessa a ninguém senão a mim. Muitos dos nomes que aqui poderia alinha
 
 Actualmente, **[a minha página de face book](https://www.facebook.com/olga.pombo.96)**, onde rarissimamente vou, assinala 748 amigos. Entretanto, não sei porquê (ou melhor, sei, uma vez que não percebo nada do facebook), tenho duas paginas de facebook e, na [segunda](https://www.facebook.com/olga.pombo.5), estão contabilizados 574 amigos. Ou seja, de acordo com o facebook, tenho 1322 amigos. 
 
-Não me atrevo, de forma alguma, a acreditar estes números. 
+Não me atrevo, de forma alguma, a acreditar nestes números.
 Mas - confesso - sinto-me feliz por ter tido alguns grandes amigos na minha vida. 
 
 
