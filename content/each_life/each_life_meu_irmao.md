@@ -111,8 +111,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
   <img src="../../static/images/sergio_pombo_exposicao_artistas_unidos4.jpg"
        style="height: 500px; object-fit: cover;">
   <img src="../../static/images/sergio_pombo_exposicao_artistas_unidos5.jpg"
-       style="height: 500px; object-fit: cover;">
-  
+       style="height: 500px; object-fit: cover;"> 
 </div>
 
 
