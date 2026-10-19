@@ -143,19 +143,19 @@ She was  awarded  the Honorary membersip of the “International Association for
 * 2022 - *CNRS Besançon Observatory* (invited by Sarah Carvallo), France (October)
 
 
-### Consultancy
+### Consultancy (Scientific Evaluation and Advisory Committees)
 
-**International selection panels and committees**
+**International selection panels and scientific committees**
 * *Institut Universitaire de France* (selection panel for Professor promotion), Paris, 2009 and 2010.
-* *University Paris-Sorbonne* (selection panel for the Chair of Philosophy of Science), Paris, 2015.
+* *Université Paris-Sorbonne* (selection panel for the Chair of Philosophy of Science), Paris, 2015.
 * *Réseau National des Maisons des Sciences de l'Homme* (scientific council), Paris, 2015-2022
 * *Maisons des Sciences de l'Homme* (scientific council), Bordeaux (2016-2022).
-* *Agence National de Recherche (ANR)* (selection panel), Paris, 2016; 2017; 2019.
-* *University Paris-Sorbonne* (selection panel for the Chair of Philosophy of Science), Paris, 2017.
+* *Agence Nationale de Recherche (ANR)* (selection panel), Paris, 2016; 2017; 2019.
+* *Université Paris-Sorbonne* (selection panel for the Chair of Philosophy of Science), Paris, 2017.
 * Centro Studi sulla Natura, L’Umano e l’Unità del Pensiero* (Scientific Committee), Accademia Vivarium Novum, Roma (2018-2019).
 * *Center for Interdisciplinary Studies* (Advisory Committee), University of Coimbra (2023-2024) and (2025-2028).
 
-**European commission FP6, FP7 and horizon 2020 Expert**
+**European Commission Expert Evaluations (FP6, FP7 and horizon 2020)**
 * Raising Public Awareness of Science and Technology, 2001.
 * Improving the Human Research Potential and the Socio-Economic Knowledge, 2001-2002.
 * Marie Curie Intra-European Fellowships, 2002, 2004.
@@ -172,7 +172,7 @@ She was  awarded  the Honorary membersip of the “International Association for
 * H2020 - FET-OPEN - Novel Ideas for radically new technologies research projects, 2014; 2016; 2017.
 * Horizon - EIC-2021-PATHFINDEROPEN-01, 2021.
 
-**National selection panels** (selection)
+**National selection panels and evaluation committees** (selection)
 * *Premio de Tradução Científica e Técnica em Língua Portuguesa* (2003, 2004-2005)
 * *Olimpíadas Nacionais de Filosofia*, organized by the Portuguese Society of Philosophy (2012-2013)
 * *Olimpíadas Nacionais de Filosofia*, organized by Associação para a Promoção da Filosofia (2014). 
