@@ -6,7 +6,7 @@ draft: false
 
 ## Yes, each life is an encyclopedia 
 
-This page is a kind of small encyclopedia of life bringing together philosophical work, family, friends, garden, books written, books unwritten, some memories and things that have resisted being written. It will never be complete. In the meantime, it is still being done, being done, being done, being done, being done...
+This page is a kind of small encyclopedia of life bringing together philosophical work, family, friends, garden, books written, books unwritten, some memories and things that have resisted being written. It will never be complete. In the meantime, it is still being done, being done, being done...
 
 
 * [o meu pai](each_life_meu_pai.md),  [a minha mãe](each_life_minha_mae.md), [o meu irmao](each_life_meu_irmao.md)
