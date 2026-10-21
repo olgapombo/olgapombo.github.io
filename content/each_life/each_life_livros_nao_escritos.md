@@ -98,6 +98,10 @@ Tal é o "Protágoras", de Platão
 
 ## **Os livros que não escrevi**
 
+*Os livros que não escrevi**
+                
+Tem razão Georges Steiner: "Um livro não escrito é mais do que um vazio". No meu caso, são de dois tipos os livros que não escrevi. Idico-os aqui, não para lamentar o que ficou por fazer, mas para dar lugar àquilo que, não tendo chegado a ser livro, também faz parte da minha vida.
+
 São de dois tipos. Primeiro, livros pensados, adiados, abandonados, ou simplesmente imaginados: um livro sobre a universidade e outro que reunisse textos soltos, livres, completamente distantes do universo da universidade.
 
 Depois,  os livros que anunciei  como *forthcoming* na lista das minhas publicações. Livros que, pelo menos por enquanto, habitam uma zona de penumbra ondem dormem o seu sono de justos, murmuram ao meu ouvido, agitam-se por vezes, inquietos, falam em voz alta, mas não existem plenamente.
@@ -111,8 +115,7 @@ Dois estão escritos, mas não acabados. Não fechados. Não publicados. São li
 
 O terceiro livro -  **Deriva a partir de Rousseau / Derives from Rousseau** - é diferente. Transporta consigo um mistério que não consigo deslindar. O livro está integralmente escrito desde 1995. Concluído há trinta anos! Parece mentira. Tem capa, está organizado em capítulos, tem índice e bibliografia. Tem mesmo algumas fotografias que a minha querida amiga [Maria José Palla](https://mariajosepalla.com/) me deu para uma publicação que esteve várias vezes eminente. E, no entanto, à ultima hora, recuei sempre. Faltava-me a coragem ou o atrevimento, a confiança ou a ousadia. Ainda era cedo para fazer entrar na esfera pública a minha leitura apaixonada de Rousseau. Ainda era cedo para interroper a misteriosa presença que Rousseau sempre teve na minha alma, esse "infinito do corpo", como lhe chamava Artaud. 
 
-Varias vezes peguei no livro. Procurei revê-lo, reescreve-lo, actualizá-lo. 
-Nunca fui capaz de alterar nada de substancial. Se fosse um livro académico, poderia beneficiar de novas referencias bibliográficas, deveria ser enriquecido com novas leituras. Mas ele não é propriamente um livro académico. Mas também não é um texto literário, um monumento intocável. E também não é - nunca teria essa pretensão - um daqueles livros cuja matéria é demasiado íntima para se deixar publicar. È outra coisa, ou melhor, uma mistura de varias coisas, um conjunto de teses heterodoxas, de leituras esdrúxulas, eco de muito antiga memória, evocação, deriva.
+Varias vezes peguei no livro. Procurei revê-lo, reescreve-lo. Nunca fui capaz de alterar nada de substancial. Nunca consegui sequer actualiza-lo. Se fosse um livro académico, poderia beneficiar de novas referencias bibliográficas, deveria ser enriquecido com novas leituras. Mas ele não é propriamente um livro académico. Mas também não é um texto literário, um monumento intocável. E também não é - nunca teria essa pretensão - um daqueles livros cuja matéria é demasiado íntima para se deixar publicar. È outra coisa, ou melhor, uma mistura de varias coisas, um conjunto de teses heterodoxas, de leituras esdrúxulas, eco de muito antiga memória, evocação, deriva.
 
 Lentamente, começou a constituir-se em mim a convicção de que este seria o último livro que eu publicaria. Como então decidir publicá-lo? Como resistir ao adiamento máximo desse momento?
 
