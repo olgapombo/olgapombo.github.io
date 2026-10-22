@@ -290,7 +290,13 @@ description: "Conferences, public lectures, debates, book presentations, and onl
 * **Instituições da escrita 2. Livro e biblioteca. A digitalização e o futuro do livro**, talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisboa, 5 fevereiro 2026
 * **Instituições da escrita 3. Enciclopédia. De Plinio á Internet**, talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisboa, 3 março 2026
 * **Da civilização da palavra a civilização da imagem**, talk presented at the "Biblioteca Espaço Cultural Cinema Europa", Lisboa, 5 maio 2026
-* **A última verdade: a morte e o significado da vida**, invited talk at the "Abrantes Philosophy Festival. World Philosophy Day", António Botto Municipal Library, Abrantes, 21 November 2026.
+* **Utopia: os difíceis contornos de uma definição. Da cidade ideal de Platão à ilha da Utopia de Thomas More**, talk presented at the “Biblioteca Espaço Cultural Cinema Europa”, Lisboa, 13 outubro, 2026.
+* **Viagens e mundos possíveis.  A viagem como dispositivo utópico. Campanella e a construção de mundos possíveis. Bacon e a ciência como promessa de emancipação**, talk foreseen for the “Biblioteca Espaço Cultural Cinema Europa”, Lisboa, 10 novembro, 2026. 
+* **A última verdade: a morte e o significado da vida**, invited talk at the "Abrantes Philosophy Festival. World Philosophy Day", António Botto Municipal Library, Abrantes, 21 November 2026 (foreseen).
+* **Utopia e alteridade. Ver o mundo através do olhar do outro. Jonathan Swift, Montesquieu, Rousseau**, talk foreseen for the “Biblioteca Espaço Cultural Cinema Europa”, Lisboa, 8 dezembro 2026
+* **Heterotopia e utopias concretas. Formas de realização da utopia: experiências sociais, educativas e urbanísticas: modos de vida, ecologia e tecnologia**, talk foreseen for the “Biblioteca Espaço Cultural Cinema Europa”, Lisboa, 13 april 2027
+* **11 maio – Utopia e futuro. Esperança, ideologia, distopia. A questão do fim do futuro**, talk foreseen for the “Biblioteca Espaço Cultural Cinema Europa”, Lisboa, 11 maio, 2027.  
+
 
 
 ### <a name="debates-and-round-tables"></a> Debates and round tables
