@@ -22,7 +22,7 @@ description: "Research activities of Olga Pombo: research centres, funded projec
 
 #### Coordination (PI) of research projects and groups (RG)
 
-* 1999-2002 - **[From Encyclopedia to Hypertext](https://arquivo.pt/wayback/20140930091757/http://www.educ.fc.ul.pt/hyper/)**, FCT Research Project, POCTI/FIL/36357/2000. (more info [**here**](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia) and [**here**](https://arquivo.pt/wayback/20140930094306/http://www.educ.fc.ul.pt/hyper/ency.htm#hip%C3%B3tese)). ([**starting point**](https://arquivo.pt/wayback/20140930094306/http:/www.educ.fc.ul.pt/hyper/ency.htm#hip%C3%B3tese))
+* 1999-2002 - **[From Encyclopedia to Hypertext](https://arquivo.pt/wayback/20140930091757/http://www.educ.fc.ul.pt/hyper/)**, FCT Research Project, POCTI/FIL/36357/2000. (more info [**here**](https://cful.letras.ulisboa.pt/cfulprojects/hypertext-and-encyclopedia), ([**starting point**](https://arquivo.pt/wayback/20140930094306/http:/www.educ.fc.ul.pt/hyper/ency.htm#hip%C3%B3tese))
   
 * 2003-2006 - **[Scientific Culture. Conceptual Migrations and Social Contaminations](https://arquivo.pt/wayback/20060219165027/http://cfcul.fc.ul.pt/migracoes/actividades.htm)**  FCT Research Project, POCTI/FIL/48133/2002. (more info [**here**](https://cfcul.ciencias.ulisboa.pt/projectos/cultura-cientifica-migracoes-conceptuais-e-contaminacoes-sociais/)) and [relatorio 2004-2005](../static/pdf-text/relatorio_migracoes.pdf)
   
