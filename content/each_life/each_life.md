@@ -6,7 +6,7 @@ draft: false
 
 ## Yes, each life is an encyclopedia 
 
-Here, I am trying to bring together episodes from my philosophical work, memories of family and friends, the houses I have lived in, a garden, books written and books unwritten, things that have never quite found their way into words. 
+Here, I am trying to bring together episodes from my philosophical work, memories of family and friends, the houses I have lived in, a garden, books written and books unwritten, short stories, things that have never quite found their way into words. 
 
 It will never be complete. It is still being done, being done, being done...
 
