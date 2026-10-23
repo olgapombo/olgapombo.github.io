@@ -109,26 +109,8 @@ description: "Research activities of Olga Pombo: research centres, funded projec
 * Member of the **[POND Network - Philosophy of Science Around the Mediterranean](https://pondposmed.wordpress.com/)** (since 2017)
 
 
-### <a name="journal-boards"></a> Journal boards
 
-
-* Member of the advisory board of the journal [Logos and Episteme. An International Journal of Epistemology](https://www.pdcnet.org/logos-episteme/Editorial-Team) (ISSN 2069-0533), Romania Academy (since 2010)
-* Member of the scientific board of the journal [RHV. An International Journal of Philosophy](https://revistas.uv.cl/index.php/RHV/about/editorialTeam), Instituto de Filosofia, Faculdade de Humanidades, Valparaiso, Chile
-* Member of the scientific board of the journal [Cuadernos de Lógica, Epistemologia y Lenguaje](https://www.collegepublications.co.uk/cuadernos/), College Publication, UK (since 2007)
-*  Member of the editorial board of the journal [Contexto e Educação](https://www.revistas.unijui.edu.br/index.php/contextoeducacao/about/editorialTeam), UNIJUI, Brazil (since 2006).
-* Member of the consulting board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (since 2000-2002).
-* Member of the editorial board of the journal **Argumento. Revista Quadrimestral de Filosofia**, edited by Editora Cosmos, Lisboa (1990-1993).
-* Member of the editorial board of the journal **Revista de Educação**, edited by Departmento de Educação, FCUL, Lisboa (1986-1999).
-* Member of the editorial board of the journal **Filosofia**, edited by the Sociedade Portuguesa de Filosofia, Lisboa (1985-1990).
-
-##### Book series editorial boards
-
-* Processos Formativos, Editora FI, Porto Alegre, Brazil (editorial board since 2017)
-* Interdisciplinarité, Sciences et Humanités, ISTE Science Publishing, UK (editorial board 2017-2022)
-* Applied Ethics and Philosophical Anthropologies, Milella Publishing House, Lecce, Italy (scientific committee since 2024).
-
-
-[Organization of Scientific meetings](organization_scientific_meetings.md)
+### [Organization of Scientific meetings](organization_scientific_meetings.md)
 
 
 
