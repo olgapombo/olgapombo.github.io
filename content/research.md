@@ -84,7 +84,7 @@ description: "Research activities of Olga Pombo: research centres, funded projec
 * President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (2022-2025)
 * Founding member of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (created January 2022)
 * Founding member of the **Société de Philosophie des Sciences**, France (2002). 
-* Advisory Board of the **[International Association for the Study of Controversies (IASC)](https://iasc.me/)** (2016-on going).
+* Advisory Board of the **[International Association for the Study of Controversies (IASC)](https://uia.org/s/or/en/1100057696)** (2016-on going).
 * Administrative Board of the **Société de Philosophie des Sciences** (2012-2015).
 * **Association for Interdisciplinary Studies (AIS)**, USA (since 2019).
 * **[Amonet. Associação Portuguesa de Mulheres Cientistas](https://amonetpt.wixsite.com/amonet)**, Lisboa, Portugal (2019).
