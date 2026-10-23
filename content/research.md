@@ -42,7 +42,7 @@ description: "Research activities of Olga Pombo: research centres, funded projec
   
 * 2012-2016 - [**Lisbon Applied Evolutionary Epistemology Lab**](https://ciencias.ulisboa.pt/pt/noticia/07-02-2013/appeel-applied-evolutionary-epistemology-lab), CFCUL internal research project (coordination of Nathalie Gontier and Olga Pombo).
   
-* 2013-2014 -  [**Afinal o que é a Ciência? / After all, what is Science?**](https://arquivo.pt/wayback/20240112200715/https:/ciencia13-14.fc.ul.pt/?), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project. (**more info [here](https://arquivo.pt/wayback/20240112200715/https://ciencia13-14.fc.ul.pt/?)**)
+* 2013-2014 -  [**Afinal o que é a Ciência? / After all, what is Science?**](https://cfcul.ciencias.ulisboa.pt/projectos/afinal-o-que-e-a-ciencia/), National Agency for the Defense of Scientific and Technological Culture - Ciência Viva research project. (**more info [here](https://arquivo.pt/wayback/20240112200715/https://ciencia13-14.fc.ul.pt/?)**)
   
 * 2013-2015 - **Unity of Science**,  head of the CFCUL Research Group.
 * 2015-3/2016 - **Epistemology and Methodology**, head of the CFCUL Research Group 
