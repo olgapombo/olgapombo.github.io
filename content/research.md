@@ -61,12 +61,12 @@ description: "Research activities of Olga Pombo: research centres, funded projec
 
 * Member of the international research project **Leibniz the Polemicist**, Institute for Advanced Studies, Hebrew University of Jerusalem, Israel (head by Marcelo Dascal) (1994-1998).
 * Member of the research project **O Ensino na Faculdade de Ciencias / Teaching at the Faculty of Sciences)**, CIE-FCUL(head by Maria Odete Valente),(1995-1998). 
-* Member of the research project, **A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais / The University of Lisbon. From the Idea of University to the Institutional Practices**, Rectory of the University of Lisbon (head by Maria Odete Valente) (1997-1999).
+* Member of the integrated research project, **A Universidade de Lisboa. Da Ideia de Universidade às Práticas Institucionais / The University of Lisbon. From the Idea of University to the Institutional Practices**, Rectory of the University of Lisbon (head by Maria Odete Valente) (1997-1999).
 * Associated Researcher of the international project **La Science dans ses Contextes**, Maison de Sciences Humaines du Nord-Pas de Calais, Université de Lille III, France (head by Shahid Rahman) (2004-2006).
 * Associated Researcher of the international project **Le Rôle de la Micro-Histoire**, Université de Lille III, France (head by Shahid Rahman) (2006-2008). 
 * Associated Researcher of the international project **La Contextualization des Catégories de la Pensée Scientifique**, Université de Lille III, France (head by Shahid Rahman), (2006-2008). 
 * Associated Researcher of the international project **Logiques de la Ficcion**, Université de Lille III, France (head by Shahid Rahman) (2006-2008).
-* Member of the CFCUL Internal Research Project **[Bachelard. Science and Poetics](https://arquivo.pt/wayback/20140925075736/http://cfcul.fc.ul.pt/projectos/bachelard/)** (head Zbigniew Kotowicz) (2006-2009). 
+* Member of the CFCUL internal research project **[Bachelard. Science and Poetics](https://arquivo.pt/wayback/20140925075736/http://cfcul.fc.ul.pt/projectos/bachelard/)** (head Zbigniew Kotowicz) (2006-2009). 
 * Member of the FCT research project [**Poincaré Filósofo da Ciência / Poincaré Philosopher of Science**](https://cfcul.ciencias.ulisboa.pt/projectos/poincare-filosofo-da-ciencia/) (head by António Franco Oliveira) (2007-2010). 
 * Member of the FCT research project **Problemas Filosóficos da Física Quântica / Philosophical Problems of Quantum Mechanics** (head by José Croca) (2007-2010). 
 * Associated Researcher of the international project **Imag(in)ing the Nano-scale: Interactions between Science and Art**, University of Bergen, Centre for the Studies of the Sciences and Humanities (head by Rasmus Tore Slaattelid), (2009-2011).  
@@ -74,14 +74,14 @@ description: "Research activities of Olga Pombo: research centres, funded projec
 * Member of the  [**The Vienna Papers of Delfim Santos and the Philosophy of Science in Portugal**](https://www.delfimsantos.net/2013/04/23/lancamento-da-delfim-santos-studies/), CFCUL research project (head by Filipe D. Santos), (2011-2012).
 * Member of the **Lisbon Applied Evolutionary Epistemology Lab**, CFCUL (head by Nathalie Gontier)(2012-2016).
 * Member of the  [**Science, Art, Philosophy Lab (Sap-Lab)**](https://www.researchgate.net/lab/Catarina-Pombo-Nabais-Lab), CFCUL research project (head by Catarina Nabais) (2014 – 2022). (See also [**here**](https://www.facebook.com/SciArtPhiloLAB/) and [here](https://inarts.eu/en/lab/collaborations/rd/1/)).
-* Member of the management council of the Cost Action **INTREPID - Interdisciplinarity in research programming and funding cycles**,  EU Framework Program Horizon 2020 (2015-2017).
-* Member of the international project **Complejidad y filosofía natural en el cruce de arte y Ciência / Complexity and Natural Philosophy in the crossing of art and science**, funded by PAPIIT, Mexico (head by María Antonia González Valerio) (2015-2017).
+* Member of the Management Council of the Cost Action **INTREPID - Interdisciplinarity in research programming and funding cycles**,  EU Framework Program Horizon 2020 (2015-2017).
+* Member of the international research project **Complejidad y Filosofía Natural en el cruce de Arte y Ciência / Complexity and Natural Philosophy in the crossing of Art and Science**, funded by PAPIIT, Mexico (head by María Antonia González Valerio) (2015-2017).
 
 
 ### <a name="scientific-societies"></a> Scientific societies
 
 * Directory Board of the **[Associação Bento Jesus Caraça](https://www.associacaobentodejesuscaraca.pt/)**, Lisboa (2025-2026)
-* President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (since 2022)
+* President of the General Assembly Board of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (2022-2025)
 * Founding member of the **[Sociedade Portuguesa de Lógica](https://groups.tecnico.ulisboa.pt/~spl.daemon/)** (created January 2022)
 * Founding member of the **Société de Philosophie des Sciences**, France (2002). 
 * Advisory Board of the **[International Association for the Study of Controversies (IASC)](https://iasc.me/)** (2016-on going).
@@ -91,7 +91,7 @@ description: "Research activities of Olga Pombo: research centres, funded projec
 * **[Associação Bento Jesus Caraça](https://www.associacaobentodejesuscaraca.pt/)**, Lisboa (since 2018).
 * **Scientific Society for Woman in Philosophy**, Switzerland, SWIP CH (since 2017).
 * **[Association Computability in Europe (CIE)](https://www.acie.eu/)**, Leeds, UK (since 2016).  
-* **[International Association for the Study of Controversies (IASC)](https://iasc.me/)** (since 2014).
+* **[International Association for the Study of Controversies (IASC)](https://uia.org/s/or/en/1100057696)** (since 2014).
 * **European Philosophy of Science Association (EPSA)**, Austria (2000).
 * **Associação Agostinho da Silva**, Lisboa, Portugal (since 1996). 
 * **Sociéte d'Histoire et d'Épistémologie des Sciences du Langage (S.H.E.S.L.)**, Paris, France (since 1990).
