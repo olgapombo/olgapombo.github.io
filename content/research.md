@@ -34,7 +34,7 @@ description: "Research activities of Olga Pombo: research centres, funded projec
   
 * 2012 - **[Rousseau and the Sciences](https://arquivo.pt/wayback/20140925074630/http://cfcul.fc.ul.pt/projectos/rosseau/)**, CFCUL internal research project.
   
-*	2012 - [**Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain**](https://www.templeton.org/grant/implementing-the-extended-synthesis-in-evolutionary-biology-into-the-sociocultural-domain(APPEEL)), John Templeton Foundation International Research Project (coordination of Nathalie Gontier and Olga Pombo).
+*	2012 - [**Implementing the Extended Synthesis in Evolutionary Biology into the Socio-cultural Domain**](https://cfcul.ciencias.ulisboa.pt/projectos/appeel/), John Templeton Foundation International Research Project (coordination of Nathalie Gontier and Olga Pombo).
   
 * 2012-2013 - **[Knowledge Dynamics in the Field of Social Sciences: Abduction, Intuition and Invention](https://cfcul.ciencias.ulisboa.pt/projectos/dinamicas-do-conhecimento/)**, International Research Project (CFCUL /University of Sevilla), CRUP-Acções integradas.
   
