@@ -9,9 +9,11 @@ toc: false
 ![foto_sergio_60](../../static/images/foto_sergio_60.webp "foto_sergio_60.webp")
 
 O meu irmão era um Homem com letra grande: bom, forte, magnânimo e generoso. Havia nele uma grandeza sobre humana e uma humanidade calorosa. Para mim, ele era o meu irmão. [Companheiro absoluto, terno, incondicional](../../static/images/foto_eu_e-sergio_espelhos.webp). Deixou uma obra artística singularmente poderosa, vigorosa, livre e independente, em [pintura](../../static/images/pintura_sergio-pombo_aa9.webp), [escultura](../../static/images/esc_sergio_pombo_2.webp), [desenho](../../static/images/desenho_sergio_pombo_3.webp), [serigrafia](../../static/images/ser_sergio_pombo_5.webp), [gravura](../../static/images/gravura_sergio_pombo_espera.webp). 
-(Ver também [***Sérgio Pombo. Obras/Works 1973-2017***](../../static/sergio_pombo_livro_catalogo.pdf), livro-catálogo da exposição retrospectiva realizada na Fundação Carmona e Costa, em 2019-2020. 
 
-###### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother. The absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in painting, sculpture, drawing, screen printing, engraving. (See also [***Sérgio Pombo. Obras/Works 1973-2017***](../../static/sergio_pombo_livro_catalogo.pdf))
+###### (Ver também [***Sérgio Pombo. Obras/Works 1973-2017***](../../static/sergio_pombo_livro_catalogo.pdf), livro-catálogo da exposição retrospectiva realizada na Fundação Carmona e Costa, em 2019-2020. 
+
+##### My brother was a Man with capital letters: good, strong, magnanimous and generous.  For me,  he was my brother. The absolute companion, tender, unconditional. He left a singularly powerful, vigorous, free, independent artistic work in painting, sculpture, drawing, screen printing, engraving. 
+###### (See also [***Sérgio Pombo. Obras/Works 1973-2017***](../../static/sergio_pombo_livro_catalogo.pdf)) book-catalogue of a retrospective exhibition at Fundação Carmona e Costa, 2019-2020.
 
 <p align="center">
   <img src="../../static/images/pintura_sergio_pombo_4.webp" alt="pintura_sergio_pombo" width="450">
@@ -110,7 +112,7 @@ Foi casado com a pintora [Teresa Magalhães](https://teresamagalhaes.com/), mãe
 </div>
 
 
-**2018 - exposição, Sergio Pombo Agora, Lisboa, Artistas Unidos, Lisboa**  
+**2018 - exposição, *Sergio Pombo Agora*, Lisboa, Artistas Unidos, Lisboa**  
 <div style="display: flex; justify-content: center; gap: 80px;">
   <img src="../../static/images/sergio_pombo_artistas_unidos1.jpg"
        style="height: 500px; object-fit: cover;">
