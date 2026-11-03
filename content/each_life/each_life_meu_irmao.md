@@ -365,3 +365,5 @@ O livro nasce do encontro raro entre dois universos artísticos intensos e apare
    <img src="../../static/images/sergio_pombo_exposicao6.jpg"
       style="height: 500px; object-fit: cover;">
 </div>   
+
+Fotografias de pinturas e desenhos antigos de Sergio Pombo. As fotografias foram realizadas José Sâo Marcos que gentilmente as cedeu para publicação nesta webpage.
