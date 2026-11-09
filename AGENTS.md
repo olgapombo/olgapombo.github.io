@@ -6,7 +6,7 @@
 - Edit page content in `content/`; the home page is `content/_index.md`. Pages may contain inline HTML as well as Markdown.
 - Edit page structure in `layouts/`, site assets and legacy documents in `static/`, and book data in `data/books.json`.
 - The Python image optimizer lives in `src/site_image_optimizer/`; its tests are in `tests/`. Project dependencies and the command entry point are defined in `pyproject.toml`.
-- GitHub Pages builds and deploys the site through `.github/workflows/hugo.yml`. The separate `.github/workflows/optimize-images.yml` workflow opens a pull request for image conversions.
+- `.github/workflows/hugo.yml` builds the site and deploys `public/` to Cloudflare Workers with `wrangler deploy` (Worker name and asset settings live in `wrangler.jsonc`). Files that must not be uploaded as Worker assets are listed in `static/.assetsignore`, which Hugo copies into `public/`. The separate `.github/workflows/optimize-images.yml` workflow opens a pull request for image conversions.
 
 ## Working conventions
 

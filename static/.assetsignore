@@ -1,0 +1,4 @@
+# Kept in `static/` so Hugo copies it into `public/` on every build.
+# It documents the file to exclude from the set Wrangler uploads as Worker assets.
+# (Workers assets cap each individual file at 25 MiB.)
+pdf-text/kairos/vol-14-2015/Kairos-14.pdf
