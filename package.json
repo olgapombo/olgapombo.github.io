@@ -1,0 +1,14 @@
+{
+  "name": "olgapombo-site",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "start": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.158.0"
+  }
+}
